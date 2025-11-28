@@ -1011,7 +1011,7 @@
     "release_year": 2021
   },
 
-
+  /* MEDIUM QUESTIONS */
   
   {
     "id": 101,
@@ -2014,389 +2014,1007 @@
     "release_year": 2017
   },
 
+  /* HARD QUESTIONS */
 
-
-  {
-    "id": 61,
+    {
+    "id": 201,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which country produced the 2019 Academy Award–winning film 'Parasite'?",
-    "correct_answer": "South Korea",
-    "incorrect_answers": ["Japan", "China", "France"],
+    "question": "In 'The Office', what is the name of the CPR training dummy used during the infamous CPR scene?",
+    "correct_answer": "Resusci Anne",
+    "incorrect_answers": ["CPR Kelly", "Flat Stanley", "Training Terry"],
+    "release_year": 2009
+  },
+  {
+    "id": 202,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the street name given to Walter White's signature blue meth?",
+    "correct_answer": "Blue Sky",
+    "incorrect_answers": ["Crystal Blue", "Blue Ice", "Sky High"],
+    "release_year": 2008
+  },
+  {
+    "id": 203,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the 'Dinner Party' episode of 'The Office', what is the brand name of Michael's tiny plasma TV?",
+    "correct_answer": "Sylvania",
+    "incorrect_answers": ["Sony", "Panasonic", "Toshiba"],
+    "release_year": 2008
+  },
+  {
+    "id": 204,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what song saves Max from Vecna’s curse?",
+    "correct_answer": "Running Up That Hill",
+    "incorrect_answers": ["Africa", "Every Breath You Take", "Material Girl"],
+    "release_year": 2022
+  },
+  {
+    "id": 205,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Parks and Recreation', what food does Leslie Knope famously love?",
+    "correct_answer": "Waffles",
+    "incorrect_answers": ["Pancakes", "Bagels", "Muffins"],
+    "release_year": 2009
+  },
+  {
+    "id": 206,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Dark Knight', what object does the Joker burn in a massive pile?",
+    "correct_answer": "Money",
+    "incorrect_answers": ["Weapons", "Evidence", "GothCorp files"],
+    "release_year": 2008
+  },
+  {
+    "id": 207,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what material is Din Djarin’s armor primarily made of?",
+    "correct_answer": "Beskar",
+    "incorrect_answers": ["Durasteel", "Titanite", "Quadanium"],
     "release_year": 2019
   },
   {
-    "id": 62,
+    "id": 208,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In 'Mad Max: Fury Road', what is the name of the tyrannical warlord who controls the Citadel?",
-    "correct_answer": "Immortan Joe",
-    "incorrect_answers": ["Bane", "General Hux", "Lord Humungus"],
-    "release_year": 2015
+    "question": "In 'Avatar: The Last Airbender', what is the name of Aang’s flying bison?",
+    "correct_answer": "Appa",
+    "incorrect_answers": ["Momo", "Pabu", "Oogi"],
+    "release_year": 2005
   },
   {
-    "id": 63,
+    "id": 209,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In 'Whiplash', which instrument does the main character Andrew Neiman play?",
-    "correct_answer": "Drums",
-    "incorrect_answers": ["Piano", "Trumpet", "Saxophone"],
-    "release_year": 2014
+    "question": "In 'The Matrix', which character says the line 'There is no spoon'?",
+    "correct_answer": "The Spoon Boy",
+    "incorrect_answers": ["Neo", "The Oracle", "Mouse"],
+    "release_year": 1999
   },
   {
-    "id": 64,
+    "id": 210,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "The animated film 'Spirited Away' was produced by which Japanese studio?",
-    "correct_answer": "Studio Ghibli",
-    "incorrect_answers": ["Toei Animation", "Bones", "Madhouse"],
-    "release_year": 2001
+    "question": "In 'The Office', what does Jim wrap Dwight’s desk in as a prank?",
+    "correct_answer": "Wrapping paper",
+    "incorrect_answers": ["Tin foil", "Bubble wrap", "Newspaper"],
+    "release_year": 2005
   },
   {
-    "id": 65,
+    "id": 211,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "The dark fantasy film 'Pan's Labyrinth' is primarily in which language?",
-    "correct_answer": "Spanish",
-    "incorrect_answers": ["English", "French", "Italian"],
-    "release_year": 2006
-  },
-  {
-    "id": 66,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'No Country for Old Men', what is the name of the relentless hitman played by Javier Bardem?",
-    "correct_answer": "Anton Chigurh",
-    "incorrect_answers": ["Llewelyn Moss", "Ed Tom Bell", "Carson Wells"],
-    "release_year": 2007
-  },
-  {
-    "id": 67,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "The 2010 film 'The Social Network' primarily tells the origin story of which company?",
-    "correct_answer": "Facebook",
-    "incorrect_answers": ["Google", "Twitter", "Amazon"],
-    "release_year": 2010
-  },
-  {
-    "id": 68,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who wrote and directed the 2017 horror film 'Get Out'?",
-    "correct_answer": "Jordan Peele",
-    "incorrect_answers": ["James Wan", "Ari Aster", "Mike Flanagan"],
-    "release_year": 2017
-  },
-  {
-    "id": 69,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "The musical film 'La La Land' is primarily set in which city?",
-    "correct_answer": "Los Angeles",
-    "incorrect_answers": ["New York City", "Chicago", "San Francisco"],
-    "release_year": 2016
-  },
-
-  
-  {
-    "id": 70,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Silence of the Lambs', what is the last name of the imprisoned cannibalistic psychiatrist?",
-    "correct_answer": "Lecter",
-    "incorrect_answers": ["Crawford", "Starling", "Gumb"],
-    "release_year": 1991
-  },
-  {
-    "id": 71,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which director is known for the \"Cornetto Trilogy,\" including 'Shaun of the Dead' and 'Hot Fuzz'?",
-    "correct_answer": "Edgar Wright",
-    "incorrect_answers": [
-      "Guy Ritchie",
-      "Danny Boyle",
-      "Matthew Vaughn"
-    ],
-    "release_year": 2004
-  },
-  {
-    "id": 72,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which 2014 film stars Keanu Reeves as a retired hitman seeking revenge for his dog's death?",
-    "correct_answer": "John Wick",
-    "incorrect_answers": [
-      "Taken 3",
-      "The Equalizer",
-      "Man on Fire"
-    ],
-    "release_year": 2014
-  },
-  {
-    "id": 73,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Inception', what object does Cobb use as his personal totem?",
-    "correct_answer": "A spinning top",
-    "incorrect_answers": [
-      "A loaded die",
-      "A chess piece",
-      "A coin"
-    ],
-    "release_year": 2010
-  },
-  {
-    "id": 74,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which filmmaker directed 'Scott Pilgrim vs. the World'?",
-    "correct_answer": "Edgar Wright",
-    "incorrect_answers": [
-      "Wes Anderson",
-      "Joss Whedon",
-      "Zack Snyder"
-    ],
-    "release_year": 2010
-  },
-  {
-    "id": 75,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which 2016 film follows a linguist attempting to communicate with heptapod aliens?",
-    "correct_answer": "Arrival",
-    "incorrect_answers": [
-      "Interstellar",
-      "Contact",
-      "Annihilation"
-    ],
-    "release_year": 2016
-  },
-  {
-    "id": 76,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Mad Max: Fury Road', what is the name of the war rig driver played by Charlize Theron?",
-    "correct_answer": "Imperator Furiosa",
-    "incorrect_answers": [
-      "Toast the Knowing",
-      "The Splendid Angharad",
-      "Capable"
-    ],
-    "release_year": 2015
-  },
-  {
-    "id": 77,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which 2014 animated film from Studio Ghibli was directed by Hiromasa Yonebayashi and based on a British children's novel?",
-    "correct_answer": "When Marnie Was There",
-    "incorrect_answers": [
-      "The Secret World of Arrietty",
-      "Ponyo",
-      "From Up on Poppy Hill"
-    ],
-    "release_year": 2014
-  },
-  {
-    "id": 78,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which South Korean director also made the films 'Snowpiercer' and 'Okja' before 'Parasite'?",
-    "correct_answer": "Bong Joon-ho",
-    "incorrect_answers": [
-      "Park Chan-wook",
-      "Kim Jee-woon",
-      "Lee Chang-dong"
-    ],
-    "release_year": 2013
-  },
-  {
-    "id": 79,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Blade Runner 2049', which actor plays the replicant K?",
-    "correct_answer": "Ryan Gosling",
-    "incorrect_answers": [
-      "Harrison Ford",
-      "Jared Leto",
-      "Oscar Isaac"
-    ],
-    "release_year": 2017
-  },
-  {
-    "id": 80,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which 2006 film by Guillermo del Toro blends fantasy elements with the grim reality of post–Civil War Spain?",
-    "correct_answer": "Pan's Labyrinth",
-    "incorrect_answers": [
-      "The Devil's Backbone",
-      "Crimson Peak",
-      "The Orphanage"
-    ],
-    "release_year": 2006
-  },
-  {
-    "id": 81,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Social Network', which character sues Mark Zuckerberg over Facebook's creation?",
-    "correct_answer": "Eduardo Saverin",
-    "incorrect_answers": [
-      "Sean Parker",
-      "Dustin Moskovitz",
-      "Cameron Winklevoss"
-    ],
-    "release_year": 2010
-  },
-  {
-    "id": 82,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which film features a jazz drummer pushed to his limits by an abusive instructor at a music conservatory?",
-    "correct_answer": "Whiplash",
-    "incorrect_answers": [
-      "La La Land",
-      "Birdman",
-      "Black Swan"
-    ],
-    "release_year": 2014
-  },
-  {
-    "id": 83,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Get Out', what is the name of Chris's girlfriend whose family he visits?",
-    "correct_answer": "Rose Armitage",
-    "incorrect_answers": [
-      "Missy Armitage",
-      "Georgina Wilson",
-      "Andrea Jackson"
-    ],
-    "release_year": 2017
-  },
-  {
-    "id": 84,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which film by Christopher Nolan tells the story of two rival magicians in the late 19th century?",
-    "correct_answer": "The Prestige",
-    "incorrect_answers": [
-      "Insomnia",
-      "Memento",
-      "The Illusionist"
-    ],
-    "release_year": 2006
-  },
-  {
-    "id": 85,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which director is known for films like 'The Grand Budapest Hotel' and 'Moonrise Kingdom'?",
-    "correct_answer": "Wes Anderson",
-    "incorrect_answers": [
-      "Noah Baumbach",
-      "Spike Jonze",
-      "Sofia Coppola"
-    ],
-    "release_year": 2014
-  },
-  {
-    "id": 86,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'No Country for Old Men', what kind of weapon does Anton Chigurh frequently use?",
-    "correct_answer": "Captive bolt pistol",
-    "incorrect_answers": [
-      "Silenced pistol",
-      "Hunting rifle",
-      "Shotgun with suppressor"
-    ],
-    "release_year": 2007
-  },
-  {
-    "id": 87,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which 2010 sci-fi film directed by Duncan Jones follows a soldier reliving the same eight minutes on a train?",
-    "correct_answer": "Source Code",
-    "incorrect_answers": [
-      "Looper",
-      "Edge of Tomorrow",
-      "Predestination"
-    ],
+    "question": "In 'Game of Thrones', who kills the Night King?",
+    "correct_answer": "Arya Stark",
+    "incorrect_answers": ["Jon Snow", "Bran Stark", "Daenerys Targaryen"],
     "release_year": 2011
   },
   {
-    "id": 88,
+    "id": 212,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "In 'Spirited Away', what is the name of the bathhouse owner who employs Chihiro?",
-    "correct_answer": "Yubaba",
-    "incorrect_answers": [
-      "Zeniba",
-      "Kaonashi",
-      "Haku"
-    ],
+    "question": "In 'The Boys', what is the name of the corporation behind The Seven?",
+    "correct_answer": "Vought International",
+    "incorrect_answers": ["Starlight Media", "Homelander Corp", "SevenCo"],
+    "release_year": 2019
+  },
+  {
+    "id": 213,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Marvel's 'Loki', what is the name of the organization that controls the timeline?",
+    "correct_answer": "The TVA",
+    "incorrect_answers": ["The TBA", "The Council of Time", "Time Nexus"],
+    "release_year": 2021
+  },
+  {
+    "id": 214,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what phrase does Walt say to Skyler to assert dominance?",
+    "correct_answer": "I am the one who knocks.",
+    "incorrect_answers": ["I am the danger.", "Say my name.", "I built this empire."],
+    "release_year": 2011
+  },
+  {
+    "id": 215,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Harry Potter', what position does Harry play on the Quidditch team?",
+    "correct_answer": "Seeker",
+    "incorrect_answers": ["Chaser", "Keeper", "Beater"],
     "release_year": 2001
   },
   {
-    "id": 89,
+    "id": 216,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which film features a time loop experienced by a weatherman covering Groundhog Day?",
-    "correct_answer": "Groundhog Day",
-    "incorrect_answers": [
-      "Edge of Tomorrow",
-      "About Time",
-      "The Butterfly Effect"
-    ],
-    "release_year": 1993
+    "question": "In 'The Office', who created the 'Threat Level Midnight' screenplay?",
+    "correct_answer": "Michael Scott",
+    "incorrect_answers": ["Dwight Schrute", "Ryan Howard", "Jim Halpert"],
+    "release_year": 2011
   },
   {
-    "id": 90,
+    "id": 217,
     "category": "Movies",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Which 2014 film directed by Alejandro G. Iñárritu is shot to appear as if it is one continuous take?",
-    "correct_answer": "Birdman or (The Unexpected Virtue of Ignorance)",
-    "incorrect_answers": [
-      "The Revenant",
-      "1917",
-      "Children of Men"
-    ],
+    "question": "In 'Star Wars: Rogue One', what is the name of the blind warrior monk?",
+    "correct_answer": "Chirrut Îmwe",
+    "incorrect_answers": ["Baze Malbus", "Saw Gerrera", "Cassian Andor"],
+    "release_year": 2016
+  },
+  {
+    "id": 218,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Parks and Recreation', what alter ego does Ben Wyatt adopt when stressed?",
+    "correct_answer": "The Batman-like 'FBI Agent'",
+    "incorrect_answers": ["Reggie the Accountant", "Ice Town Clown", "Game Boy Ben"],
+    "release_year": 2010
+  },
+  {
+    "id": 219,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what creature does Grogu eat several eggs from, causing controversy?",
+    "correct_answer": "Frog Lady’s eggs",
+    "incorrect_answers": ["Mudhorn eggs", "Kowakian eggs", "Womp rat eggs"],
+    "release_year": 2020
+  },
+  {
+    "id": 220,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Up', what is the name of the bird that Kevin protects?",
+    "correct_answer": "Kevin",
+    "incorrect_answers": ["Charlie", "Frankie", "Pepper"],
+    "release_year": 2009
+  },
+  {
+    "id": 221,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what is the name of Dwight's beet farm inn?",
+    "correct_answer": "Schrute Farms",
+    "incorrect_answers": ["Pennsylvania Acres", "Beet Haven", "Dwight’s Bed & Breakfast"],
+    "release_year": 2007
+  },
+  {
+    "id": 222,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who is known as 'The Onion Knight'?",
+    "correct_answer": "Ser Davos Seaworth",
+    "incorrect_answers": ["Bronn", "The Hound", "Gendry"],
+    "release_year": 2011
+  },
+  {
+    "id": 223,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the arcade game Litwak’s Arcade installs in 'Wreck-It Ralph' that threatens Ralph’s home?",
+    "correct_answer": "Sugar Rush",
+    "incorrect_answers": ["Turbo Time", "Hero’s Duty", "Kart Kingdom"],
+    "release_year": 2012
+  },
+  {
+    "id": 224,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the name of the fast-food chain used as a meth distribution front?",
+    "correct_answer": "Los Pollos Hermanos",
+    "incorrect_answers": ["Chicken Brothers", "El Pollo Loco", "Los Pollo Rancheros"],
+    "release_year": 2009
+  },
+  {
+    "id": 225,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Boys', what substance gives people temporary superpowers?",
+    "correct_answer": "Temp V",
+    "incorrect_answers": ["Super Serum", "Blue Flash", "Compound Z"],
+    "release_year": 2022
+  },
+  {
+    "id": 226,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the alternate universe Peter Parker mentors Miles in 'Spider-Verse'?",
+    "correct_answer": "Peter B. Parker",
+    "incorrect_answers": ["Peter Prime", "Ultimate Peter", "Spider-Man Noir"],
+    "release_year": 2018
+  },
+  {
+    "id": 227,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who kills Tywin Lannister?",
+    "correct_answer": "Tyrion Lannister",
+    "incorrect_answers": ["Jaime Lannister", "Arya Stark", "Bronn"],
     "release_year": 2014
+  },
+  {
+    "id": 228,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what song does Andy sing when he returns from anger management?",
+    "correct_answer": "Zombie by The Cranberries",
+    "incorrect_answers": ["Drift Away", "Faithfully", "Take On Me"],
+    "release_year": 2007
+  },
+  {
+    "id": 229,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what is the name of the black-bladed lightsaber?",
+    "correct_answer": "The Darksaber",
+    "incorrect_answers": ["Nightblade", "Shadow Saber", "Obsidian Edge"],
+    "release_year": 2019
+  },
+  {
+    "id": 230,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Coco', who is revealed to be Miguel’s true great-great-grandfather?",
+    "correct_answer": "Héctor",
+    "incorrect_answers": ["Ernesto de la Cruz", "Pablo Rivera", "Ricardo Ortega"],
+    "release_year": 2017
+  },
+  {
+    "id": 231,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What government lab is responsible for opening the gate to the Upside Down in 'Stranger Things'?",
+    "correct_answer": "Hawkins National Laboratory",
+    "incorrect_answers": ["Nevada Research Center", "Starcourt Facility", "The Mind Lab"],
+    "release_year": 2016
+  },
+  {
+    "id": 232,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what does Jim’s teapot gift to Pam originally contain?",
+    "correct_answer": "A card, hot sauce packet, and personal notes",
+    "incorrect_answers": ["Candy", "A photo", "A poem"],
+    "release_year": 2005
+  },
+  {
+    "id": 233,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of Aang’s earthbending teacher in 'Avatar: The Last Airbender'?",
+    "correct_answer": "Toph Beifong",
+    "incorrect_answers": ["Bumi", "Kyoshi", "Suki"],
+    "release_year": 2006
+  },
+  {
+    "id": 234,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Star Wars character says, 'I don’t like sand'?",
+    "correct_answer": "Anakin Skywalker",
+    "incorrect_answers": ["Luke Skywalker", "Kylo Ren", "Han Solo"],
+    "release_year": 2002
+  },
+  {
+    "id": 235,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of Walter White’s alter ego in 'Breaking Bad'?",
+    "correct_answer": "Heisenberg",
+    "incorrect_answers": ["Eisenberg", "Mr. Blue", "The Kingpin"],
+    "release_year": 2008
+  },
+  {
+    "id": 236,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', which employee does Michael hit with a watermelon during a safety demonstration?",
+    "correct_answer": "Stanley",
+    "incorrect_answers": ["Kevin", "Dwight", "Phyllis"],
+    "release_year": 2007
+  },
+  {
+    "id": 237,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Inside Out', what emotion replaces Joy at the console near the end?",
+    "correct_answer": "Sadness",
+    "incorrect_answers": ["Anger", "Fear", "Disgust"],
+    "release_year": 2015
+  },
+  {
+    "id": 238,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who trains Arya at the House of Black and White?",
+    "correct_answer": "Jaqen H’ghar",
+    "incorrect_answers": ["The Waif", "Syrio Forel", "Beric Dondarrion"],
+    "release_year": 2015
+  },
+  {
+    "id": 239,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What song does Dustin sing with Suzie to get Planck’s Constant in 'Stranger Things'?",
+    "correct_answer": "The NeverEnding Story",
+    "incorrect_answers": ["Take On Me", "Africa", "Don’t Stop Believin’"],
+    "release_year": 2019
+  },
+  {
+    "id": 240,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'The Office' holds the Dundee Award record?",
+    "correct_answer": "Pam Beesly",
+    "incorrect_answers": ["Jim Halpert", "Ryan Howard", "Dwight Schrute"],
+    "release_year": 2005
+  },
+  {
+    "id": 241,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient Fire Nation Avatar who learned firebending from dragons?",
+    "correct_answer": "Avatar Wan",
+    "incorrect_answers": ["Avatar Roku", "Avatar Kuruk", "Avatar Kyoshi"],
+    "release_year": 2013
+  },
+  {
+    "id": 242,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Star Wars', who is the leader of the Knights of Ren?",
+    "correct_answer": "Kylo Ren",
+    "incorrect_answers": ["Snoke", "General Hux", "The Inquisitor"],
+    "release_year": 2015
+  },
+  {
+    "id": 243,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the true villain behind the plot in 'Incredibles 2'?",
+    "correct_answer": "Evelyn Deavor",
+    "incorrect_answers": ["Winston Deavor", "Syndrome’s Brother", "Jack-Jack"],
+    "release_year": 2018
+  },
+  {
+    "id": 244,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What model of Terminator is Arnold Schwarzenegger in 'Terminator 2'?",
+    "correct_answer": "T-800",
+    "incorrect_answers": ["T-1000", "T-900", "TX"],
+    "release_year": 1991
+  },
+  {
+    "id": 245,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', which pet dies after Dwight freezes it?",
+    "correct_answer": "Angela’s cat Sprinkles",
+    "incorrect_answers": ["Oscar the dog", "Moze's goat", "Kevin’s turtle"],
+    "release_year": 2007
+  },
+  {
+    "id": 246,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What gift does Joyce receive that helps communicate with Will in 'Stranger Things'?",
+    "correct_answer": "Christmas lights",
+    "incorrect_answers": ["A ham radio", "A Ouija board", "A walkie-talkie"],
+    "release_year": 2016
+  },
+  {
+    "id": 247,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who kills the Engineer in Pixar's 'Wall-E' short 'Burn-E'?",
+    "correct_answer": "Nobody — he is accidentally locked out",
+    "incorrect_answers": ["Wall-E", "M-O", "The Captain"],
+    "release_year": 2008
+  },
+  {
+    "id": 248,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Marvel hero cuts off Thanos’s head in 'Avengers: Endgame'?",
+    "correct_answer": "Thor",
+    "incorrect_answers": ["Iron Man", "Captain Marvel", "Nebula"],
+    "release_year": 2019
+  },
+  {
+    "id": 249,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the real identity of the Demogorgon-like creature 'Vecna'?",
+    "correct_answer": "Henry Creel / One",
+    "incorrect_answers": ["Billy Hargrove", "Bob Newby", "Kali Prasad"],
+    "release_year": 2022
+  },
+  {
+    "id": 250,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Avatar mentor teaches Aang the ancient firebending form known as the Dancing Dragon?",
+    "correct_answer": "The dragons Ran and Shao",
+    "incorrect_answers": ["Zuko alone", "Iroh", "Master Jeong Jeong"],
+    "release_year": 2007
+  },
+    {
+    "id": 251,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'The Office' owns a beet farm with a bed-and-breakfast?",
+    "correct_answer": "Dwight Schrute",
+    "incorrect_answers": ["Jim Halpert", "Andy Bernard", "Michael Scott"],
+    "release_year": 2005
+  },
+  {
+    "id": 252,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what creature attacks Din Djarin and Grogu on the ice planet Maldo Kreis?",
+    "correct_answer": "Ice spiders",
+    "incorrect_answers": ["Wampas", "Krayt dragons", "Snow wargs"],
+    "release_year": 2019
+  },
+  {
+    "id": 253,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the name of the chemical Walt insists on using for cooking meth?",
+    "correct_answer": "Methylamine",
+    "incorrect_answers": ["Phenacetyl chloride", "Ether", "Lithium hydride"],
+    "release_year": 2008
+  },
+  {
+    "id": 254,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character ultimately defeats Pennywise in 'IT: Chapter Two'?",
+    "correct_answer": "The Losers’ Club (collectively)",
+    "incorrect_answers": ["Bill Denbrough", "Richie Tozier", "Mike Hanlon"],
+    "release_year": 2019
+  },
+  {
+    "id": 255,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional metal found in Wakanda in 'Black Panther'?",
+    "correct_answer": "Vibranium",
+    "incorrect_answers": ["Adamantium", "Nth metal", "Durasteel"],
+    "release_year": 2018
+  },
+  {
+    "id": 256,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Ratatouille', who is the head chef that Linguini works under at the start?",
+    "correct_answer": "Chef Skinner",
+    "incorrect_answers": ["Chef Gusteau", "Colette", "Larousse"],
+    "release_year": 2007
+  },
+  {
+    "id": 257,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what secret does Oscar reveal during the 'Beach Games' episode?",
+    "correct_answer": "He is secretly vacationing",
+    "incorrect_answers": ["He’s quitting Dunder Mifflin", "He’s afraid of sand", "He hates competition"],
+    "release_year": 2007
+  },
+  {
+    "id": 258,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Avatar: The Last Airbender', what was Zuko’s ship assigned to capture at the start of the series?",
+    "correct_answer": "The Avatar",
+    "incorrect_answers": ["Earth Kingdom forces", "Commander Zhao", "Rogue Firebenders"],
+    "release_year": 2005
+  },
+  {
+    "id": 259,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character delivers the line 'Wubba Lubba Dub-Dub!'?",
+    "correct_answer": "Rick Sanchez",
+    "incorrect_answers": ["Morty Smith", "Jerry Smith", "Birdperson"],
+    "release_year": 2013
+  },
+  {
+    "id": 260,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Spider-Man: Into the Spider-Verse', what triggers Miles’ powers?",
+    "correct_answer": "A radioactive spider bite",
+    "incorrect_answers": ["A chemical accident", "Touching the collider", "Genetic mutation"],
+    "release_year": 2018
+  },
+  {
+    "id": 261,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the 'Stress Relief' episode of 'The Office', which character performs CPR to the tune of 'Stayin’ Alive'?",
+    "correct_answer": "Michael Scott",
+    "incorrect_answers": ["Stanley Hudson", "Dwight Schrute", "Oscar Martinez"],
+    "release_year": 2009
+  },
+  {
+    "id": 262,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Eleven’s number tattooed on her arm in 'Stranger Things'?",
+    "correct_answer": "011",
+    "incorrect_answers": ["010", "012", "021"],
+    "release_year": 2016
+  },
+  {
+    "id": 263,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who becomes the new Black Panther in 'Black Panther: Wakanda Forever'?",
+    "correct_answer": "Shuri",
+    "incorrect_answers": ["Okoye", "Namor", "Nakia"],
+    "release_year": 2022
+  },
+  {
+    "id": 264,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who poisoned King Joffrey?",
+    "correct_answer": "Olenna Tyrell",
+    "incorrect_answers": ["Tyrion Lannister", "Varys", "Littlefinger"],
+    "release_year": 2014
+  },
+  {
+    "id": 265,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the MCU, what is the name of Doctor Strange’s cape?",
+    "correct_answer": "Cloak of Levitation",
+    "incorrect_answers": ["Cloak of Eternity", "Shroud of Agamotto", "Cape of Winds"],
+    "release_year": 2016
+  },
+  {
+    "id": 266,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Avatar: The Last Airbender', what title does Aang earn after mastering all four elements?",
+    "correct_answer": "Avatar",
+    "incorrect_answers": ["Grand Master", "Spirit Walker", "Elemental Master"],
+    "release_year": 2008
+  },
+  {
+    "id": 267,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character says 'This is the Way'?",
+    "correct_answer": "Din Djarin",
+    "incorrect_answers": ["Bo-Katan", "Ahsoka Tano", "The Armorer"],
+    "release_year": 2019
+  },
+  {
+    "id": 268,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Up', what does Carl give Ellie as a child that becomes a major symbol in the film?",
+    "correct_answer": "An adventure book",
+    "incorrect_answers": ["A balloon", "A postcard", "A drawing"],
+    "release_year": 2009
+  },
+  {
+    "id": 269,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'The Office' claims to have been part of the CIA?",
+    "correct_answer": "Dwight Schrute",
+    "incorrect_answers": ["Creed Bratton", "Michael Scott", "Andy Bernard"],
+    "release_year": 2005
+  },
+  {
+    "id": 270,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of Riley’s imaginary friend in 'Inside Out'?",
+    "correct_answer": "Bing Bong",
+    "incorrect_answers": ["Fluffy", "Button", "Rainbow Joe"],
+    "release_year": 2015
+  },
+  {
+    "id": 271,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which villain in 'The Boys' can only be killed using a specific frequency?",
+    "correct_answer": "The Deep (controlled creatures) — trick question: it’s actually Translucent",
+    "incorrect_answers": ["Black Noir", "A-Train", "Homelander"],
+    "release_year": 2019
+  },
+  {
+    "id": 272,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what is the real name of the arcade where the kids play?",
+    "correct_answer": "The Palace Arcade",
+    "incorrect_answers": ["Funland", "Pixel Planet", "Hawkins Arcade"],
+    "release_year": 2017
+  },
+  {
+    "id": 273,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Star Wars character has the highest recorded midi-chlorian count?",
+    "correct_answer": "Anakin Skywalker",
+    "incorrect_answers": ["Yoda", "Luke Skywalker", "Palpatine"],
+    "release_year": 1999
+  },
+  {
+    "id": 274,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', which character wins the 'Hottest in the Office' Dundie?",
+    "correct_answer": "Ryan Howard",
+    "incorrect_answers": ["Jim Halpert", "Pam Beesly", "Kelly Kapoor"],
+    "release_year": 2006
+  },
+  {
+    "id": 275,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the name of the chemical supply company linked to Gus Fring?",
+    "correct_answer": "Madrigal Electromotive",
+    "incorrect_answers": ["GaleCorp", "Los Pollos Logistics", "Blue Star"],
+    "release_year": 2012
+  },
+  {
+    "id": 276,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Mandalorian weapon can pierce Beskar armor?",
+    "correct_answer": "The Darksaber",
+    "incorrect_answers": ["Vibroblade", "Plasma spear", "Disruptor rifle"],
+    "release_year": 2020
+  },
+  {
+    "id": 277,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who voices Syndrome in Pixar’s 'The Incredibles'?",
+    "correct_answer": "Jason Lee",
+    "incorrect_answers": ["Patrick Warburton", "Craig T. Nelson", "Brad Bird"],
+    "release_year": 2004
+  },
+  {
+    "id": 278,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', what is the ancestral sword of House Stark?",
+    "correct_answer": "Ice",
+    "incorrect_answers": ["Longclaw", "Oathkeeper", "Needle"],
+    "release_year": 2011
+  },
+  {
+    "id": 279,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what does Pam steal from the hotel during Jim’s brothers' prank?",
+    "correct_answer": "A lamp",
+    "incorrect_answers": ["Towels", "A robe", "A mug"],
+    "release_year": 2008
+  },
+  {
+    "id": 280,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Star Wars character is known as 'The Chosen One'?",
+    "correct_answer": "Anakin Skywalker",
+    "incorrect_answers": ["Luke Skywalker", "Rey", "Obi-Wan Kenobi"],
+    "release_year": 2002
+  },
+  {
+    "id": 281,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Pixar’s 'Coco', what object must Miguel return to the living world with to reconnect with his family?",
+    "correct_answer": "Héctor’s photo",
+    "incorrect_answers": ["His guitar", "A family letter", "The marigold petal"],
+    "release_year": 2017
+  },
+  {
+    "id": 282,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the daycare where Lotso runs things in 'Toy Story 3'?",
+    "correct_answer": "Sunnyside",
+    "incorrect_answers": ["BrightDays", "Funshine", "SunnyWorld"],
+    "release_year": 2010
+  },
+  {
+    "id": 283,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what is Grogu’s favorite snack?",
+    "correct_answer": "Blue macarons",
+    "incorrect_answers": ["Frog eggs", "Jawa fruit", "Spice cookies"],
+    "release_year": 2020
+  },
+  {
+    "id": 284,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who voices Bo Peep in the 'Toy Story' franchise?",
+    "correct_answer": "Annie Potts",
+    "incorrect_answers": ["Joan Cusack", "Mindy Kaling", "Maggie Smith"],
+    "release_year": 1995
+  },
+  {
+    "id": 285,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'Game of Thrones' is known as the 'Breaker of Chains'?",
+    "correct_answer": "Daenerys Targaryen",
+    "incorrect_answers": ["Jon Snow", "Tyrion Lannister", "Missandei"],
+    "release_year": 2013
+  },
+  {
+    "id": 286,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who plays Gus Fring in 'Breaking Bad'?",
+    "correct_answer": "Giancarlo Esposito",
+    "incorrect_answers": ["Bryan Cranston", "Jonathan Banks", "Bob Odenkirk"],
+    "release_year": 2009
+  },
+  {
+    "id": 287,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which MCU movie reveals the Quantum Realm as a major world?",
+    "correct_answer": "Ant-Man and the Wasp",
+    "incorrect_answers": ["Ant-Man", "Guardians of the Galaxy Vol. 2", "Doctor Strange"],
+    "release_year": 2018
+  },
+  {
+    "id": 288,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what does Dwight claim is the scariest animal?",
+    "correct_answer": "The black bear",
+    "incorrect_answers": ["Beets", "Cougars", "Moose"],
+    "release_year": 2007
+  },
+  {
+    "id": 289,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Star Wars film introduces the planet Mustafar?",
+    "correct_answer": "Revenge of the Sith",
+    "incorrect_answers": ["Attack of the Clones", "The Phantom Menace", "A New Hope"],
+    "release_year": 2005
+  },
+  {
+    "id": 290,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', who first discovers the Mind Flayer’s particles in the Hawkins lab?",
+    "correct_answer": "Will Byers",
+    "incorrect_answers": ["Nancy Wheeler", "Jonathan Byers", "Dustin Henderson"],
+    "release_year": 2017
+  },
+  {
+    "id": 291,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who voices Sadness in 'Inside Out'?",
+    "correct_answer": "Phyllis Smith",
+    "incorrect_answers": ["Amy Poehler", "Mindy Kaling", "Kristen Wiig"],
+    "release_year": 2015
+  },
+  {
+    "id": 292,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', what does Valyrian steel have the unique ability to kill?",
+    "correct_answer": "White Walkers",
+    "incorrect_answers": ["Dragons", "Giants", "Wargs"],
+    "release_year": 2011
+  },
+  {
+    "id": 293,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what object does Walt throw across the street in frustration?",
+    "correct_answer": "A pizza",
+    "incorrect_answers": ["A beer bottle", "His phone", "A toolbox"],
+    "release_year": 2010
+  },
+  {
+    "id": 294,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who voices Chief Bogo in Disney's 'Zootopia'?",
+    "correct_answer": "Idris Elba",
+    "incorrect_answers": ["Keith David", "Samuel L. Jackson", "Chiwetel Ejiofor"],
+    "release_year": 2016
+  },
+  {
+    "id": 295,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Marvel hero becomes worthy of Mjolnir during 'Avengers: Endgame'?",
+    "correct_answer": "Captain America",
+    "incorrect_answers": ["Hulk", "Spider-Man", "Black Panther"],
+    "release_year": 2019
+  },
+  {
+    "id": 296,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'The Office' uses a fake wheelchair to get attention?",
+    "correct_answer": "Michael Scott",
+    "incorrect_answers": ["Creed Bratton", "Kevin Malone", "Andy Bernard"],
+    "release_year": 2005
+  },
+  {
+    "id": 297,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', who is revealed to be the rightful owner of the Darksaber?",
+    "correct_answer": "Bo-Katan Kryze",
+    "incorrect_answers": ["Din Djarin", "Moff Gideon", "Sabine Wren"],
+    "release_year": 2023
+  },
+  {
+    "id": 298,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the arcade cabinet character for Wreck-It Ralph’s game?",
+    "correct_answer": "Fix-It Felix Jr.",
+    "incorrect_answers": ["Turbo Time", "Hero’s Duty", "Sugar Rush"],
+    "release_year": 2012
+  },
+  {
+    "id": 299,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Pixar villain says the line 'You sly dog! You got me monologuing!'?",
+    "correct_answer": "Syndrome",
+    "incorrect_answers": ["Lotso", "Hopper", "Ernesto de la Cruz"],
+    "release_year": 2004
+  },
+  {
+    "id": 300,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Avatar: The Last Airbender', what technique allows Aang to enter a powerful spiritual state with glowing eyes and tattoos?",
+    "correct_answer": "The Avatar State",
+    "incorrect_answers": ["Chi Extension", "Spirit Form", "Elemental Convergence"],
+    "release_year": 2005
   }
 ]
 
