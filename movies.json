@@ -1010,8 +1010,6 @@
     "incorrect_answers": ["Moana", "Coco", "Finding Dory"],
     "release_year": 2021
   },
-
-  /* MEDIUM QUESTIONS */
   
   {
     "id": 101,
@@ -2014,9 +2012,7 @@
     "release_year": 2017
   },
 
-  /* HARD QUESTIONS */
-
-    {
+  {
     "id": 201,
     "category": "Movies",
     "type": "multiple",
@@ -2516,7 +2512,7 @@
     "incorrect_answers": ["Zuko alone", "Iroh", "Master Jeong Jeong"],
     "release_year": 2007
   },
-    {
+  {
     "id": 251,
     "category": "Movies",
     "type": "multiple",
