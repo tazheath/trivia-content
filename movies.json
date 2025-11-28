@@ -307,9 +307,6 @@
     "incorrect_answers": ["Inside Out", "Coco", "The Good Dinosaur"],
     "release_year": 2009
   },
-
-  /* NEW QUESTIONS BELOW BEGIN EXPANDING THE LIST TO 100 */
-
   {
     "id": 31,
     "category": "Movies",
