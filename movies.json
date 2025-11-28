@@ -1,1 +1,1147 @@
+[
+  {
+    "id": 1,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 1997 film features a romance aboard a doomed ocean liner and stars Leonardo DiCaprio and Kate Winslet?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": ["The Notebook", "Romeo + Juliet", "Pearl Harbor"],
+    "release_year": 1997
+  },
+  {
+    "id": 2,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated film features the song 'Let It Go' and the sisters Elsa and Anna?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Moana", "Tangled", "Brave"],
+    "release_year": 2013
+  },
+  {
+    "id": 3,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 1993 film is about dinosaurs brought back to life in a theme park?",
+    "correct_answer": "Jurassic Park",
+    "incorrect_answers": ["The Lost World", "King Kong", "The Land Before Time"],
+    "release_year": 1993
+  },
+  {
+    "id": 4,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was Pixar's first feature-length film?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": ["Monsters, Inc.", "A Bug's Life", "Finding Nemo"],
+    "release_year": 1995
+  },
+  {
+    "id": 5,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which Disney animated film does the lion cub Simba appear?",
+    "correct_answer": "The Lion King",
+    "incorrect_answers": ["Tarzan", "Hercules", "Aladdin"],
+    "release_year": 1994
+  },
+  {
+    "id": 6,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Matrix', what color pill does Neo take to learn the truth?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Blue", "Green", "White"],
+    "release_year": 1999
+  },
+  {
+    "id": 7,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 2009 film is set on the alien moon Pandora and features the Na'vi people?",
+    "correct_answer": "Avatar",
+    "incorrect_answers": ["Guardians of the Galaxy", "Star Trek", "Edge of Tomorrow"],
+    "release_year": 2009
+  },
+  {
+    "id": 8,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Finding Nemo', what kind of fish is Nemo?",
+    "correct_answer": "Clownfish",
+    "incorrect_answers": ["Goldfish", "Angelfish", "Betta"],
+    "release_year": 2003
+  },
+  {
+    "id": 9,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Harry Potter and the Sorcerer's Stone', which Hogwarts house does Harry join?",
+    "correct_answer": "Gryffindor",
+    "incorrect_answers": ["Slytherin", "Hufflepuff", "Ravenclaw"],
+    "release_year": 2001
+  },
+  {
+    "id": 10,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which superhero film features Heath Ledger as the Joker?",
+    "correct_answer": "The Dark Knight",
+    "incorrect_answers": ["Batman Begins", "Joker", "The Dark Knight Rises"],
+    "release_year": 2008
+  },
+  {
+    "id": 11,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a young wizard who attends Hogwarts School of Witchcraft and Wizardry?",
+    "correct_answer": "Harry Potter and the Sorcerer's Stone",
+    "incorrect_answers": [
+      "The Chronicles of Narnia",
+      "Fantastic Beasts and Where to Find Them",
+      "Percy Jackson & the Olympians: The Lightning Thief"
+    ],
+    "release_year": 2001
+  },
+  {
+    "id": 12,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a fish named Dory keep forgetting things?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": [
+      "Shark Tale",
+      "The Little Mermaid",
+      "Luca"
+    ],
+    "release_year": 2003
+  },
+  {
+    "id": 13,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which superhero is also known as \"The Caped Crusader\"?",
+    "correct_answer": "Batman",
+    "incorrect_answers": [
+      "Superman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "release_year": 1989
+  },
+  {
+    "id": 14,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 2013 animated film features the characters Olaf the snowman and Kristoff?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": [
+      "Brave",
+      "Coco",
+      "Raya and the Last Dragon"
+    ],
+    "release_year": 2013
+  },
+  {
+    "id": 15,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a young clownfish get taken to a dentist's office aquarium in Sydney?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": [
+      "Shark Tale",
+      "Finding Dory",
+      "Atlantis: The Lost Empire"
+    ],
+    "release_year": 2003
+  },
+  {
+    "id": 16,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie follows a group of toys that come to life when humans are not around?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": [
+      "Cars",
+      "Inside Out",
+      "The Incredibles"
+    ],
+    "release_year": 1995
+  },
+  {
+    "id": 17,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Will Smith as a New York City cop who monitors extraterrestrial activity?",
+    "correct_answer": "Men in Black",
+    "incorrect_answers": [
+      "Independence Day",
+      "I, Robot",
+      "Hancock"
+    ],
+    "release_year": 1997
+  },
+  {
+    "id": 18,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a rat who dreams of becoming a chef in Paris?",
+    "correct_answer": "Ratatouille",
+    "incorrect_answers": [
+      "The Princess and the Frog",
+      "Cloudy with a Chance of Meatballs",
+      "Over the Hedge"
+    ],
+    "release_year": 2007
+  },
+  {
+    "id": 19,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a young boy befriend an alien and help him \"phone home\"?",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "incorrect_answers": [
+      "Close Encounters of the Third Kind",
+      "The Iron Giant",
+      "Lilo & Stitch"
+    ],
+    "release_year": 1982
+  },
+  {
+    "id": 20,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which superhero team includes Iron Man, Captain America, Thor, and Hulk?",
+    "correct_answer": "The Avengers",
+    "incorrect_answers": [
+      "Justice League",
+      "X-Men",
+      "Fantastic Four"
+    ],
+    "release_year": 2012
+  },
+  {
+    "id": 21,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a family of superheroes forced to live a normal suburban life?",
+    "correct_answer": "The Incredibles",
+    "incorrect_answers": [
+      "Big Hero 6",
+      "Megamind",
+      "Fantastic Four"
+    ],
+    "release_year": 2004
+  },
+  {
+    "id": 22,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a princess with long magical hair who has been locked in a tower?",
+    "correct_answer": "Tangled",
+    "incorrect_answers": [
+      "Frozen",
+      "Sleeping Beauty",
+      "Brave"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 23,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features talking cars and a race car named Lightning McQueen?",
+    "correct_answer": "Cars",
+    "incorrect_answers": [
+      "Up",
+      "Turbo",
+      "Planes"
+    ],
+    "release_year": 2006
+  },
+  {
+    "id": 24,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a panda named Po train to become a kung fu master?",
+    "correct_answer": "Kung Fu Panda",
+    "incorrect_answers": [
+      "Mulan",
+      "How to Train Your Dragon",
+      "Big Hero 6"
+    ],
+    "release_year": 2008
+  },
+  {
+    "id": 25,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features four animal friends who escape from the Central Park Zoo?",
+    "correct_answer": "Madagascar",
+    "incorrect_answers": [
+      "The Wild",
+      "Zootopia",
+      "Rio"
+    ],
+    "release_year": 2005
+  },
+  {
+    "id": 26,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a young boy discover that his neighbor's house is a living, breathing monster?",
+    "correct_answer": "Monster House",
+    "incorrect_answers": [
+      "Coraline",
+      "Paranorman",
+      "Frankenweenie"
+    ],
+    "release_year": 2006
+  },
+  {
+    "id": 27,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 2016 animated film features a bunny cop named Judy Hopps?",
+    "correct_answer": "Zootopia",
+    "incorrect_answers": [
+      "Sing",
+      "The Secret Life of Pets",
+      "Bolt"
+    ],
+    "release_year": 2016
+  },
+  {
+    "id": 28,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film series features a boy named Kevin who is accidentally left home alone?",
+    "correct_answer": "Home Alone",
+    "incorrect_answers": [
+      "Dennis the Menace",
+      "Diary of a Wimpy Kid",
+      "The Sandlot"
+    ],
+    "release_year": 1990
+  },
+  {
+    "id": 29,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features a young girl who falls down a rabbit hole into a strange world?",
+    "correct_answer": "Alice in Wonderland",
+    "incorrect_answers": [
+      "Coraline",
+      "Spirited Away",
+      "Pan's Labyrinth"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 30,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a house lifted into the sky by thousands of balloons?",
+    "correct_answer": "Up",
+    "incorrect_answers": [
+      "Inside Out",
+      "Coco",
+      "The Good Dinosaur"
+    ],
+    "release_year": 2009
+  },
+  
+  {
+    "id": 31,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the 2010 science fiction film 'Inception'?",
+    "correct_answer": "Christopher Nolan",
+    "incorrect_answers": ["Steven Spielberg", "James Cameron", "Ridley Scott"],
+    "release_year": 2010
+  },
+  {
+    "id": 32,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Back to the Future', what make of car is used as the time machine?",
+    "correct_answer": "DeLorean",
+    "incorrect_answers": ["Ferrari", "Porsche", "Chevrolet Camaro"],
+    "release_year": 1985
+  },
+  {
+    "id": 33,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Forrest Gump', which activity makes Forrest famous on television and in the news?",
+    "correct_answer": "Running across the country",
+    "incorrect_answers": ["Becoming a rock star", "Winning the lottery", "Becoming a famous chef"],
+    "release_year": 1994
+  },
+  {
+    "id": 34,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Pirates of the Caribbean: The Curse of the Black Pearl', what is the name of the eccentric pirate captain played by Johnny Depp?",
+    "correct_answer": "Jack Sparrow",
+    "incorrect_answers": ["Will Turner", "Barbossa", "Davy Jones"],
+    "release_year": 2003
+  },
+  {
+    "id": 35,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Lord of the Rings: The Fellowship of the Ring', what kind of creature is Legolas?",
+    "correct_answer": "Elf",
+    "incorrect_answers": ["Dwarf", "Hobbit", "Man"],
+    "release_year": 2001
+  },
+  {
+    "id": 36,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animated superhero film features Miles Morales as the main Spider-Man?",
+    "correct_answer": "Spider-Man: Into the Spider-Verse",
+    "incorrect_answers": ["Spider-Man: Homecoming", "The Amazing Spider-Man", "Spider-Man 2"],
+    "release_year": 2018
+  },
+  {
+    "id": 37,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Black Panther', what is the name of the fictional African nation ruled by T'Challa?",
+    "correct_answer": "Wakanda",
+    "incorrect_answers": ["Genosha", "Latveria", "Zamunda"],
+    "release_year": 2018
+  },
+  {
+    "id": 38,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Guardians of the Galaxy', what is the name of the wisecracking raccoon-like character?",
+    "correct_answer": "Rocket",
+    "incorrect_answers": ["Groot", "Drax", "Star-Lord"],
+    "release_year": 2014
+  },
+  {
+    "id": 39,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Incredibles', what is the Parr family's superhero last name before going into hiding?",
+    "correct_answer": "Parr",
+    "incorrect_answers": ["Parker", "Prince", "Powers"],
+    "release_year": 2004
+  },
+  {
+    "id": 40,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the animated film 'Shrek', what type of creature is Shrek?",
+    "correct_answer": "Ogre",
+    "incorrect_answers": ["Troll", "Giant", "Goblin"],
+    "release_year": 2001
+  },
+  {
+    "id": 41,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Dark Knight', what is the name of the district attorney who becomes Two-Face?",
+    "correct_answer": "Harvey Dent",
+    "incorrect_answers": [
+      "Jim Gordon",
+      "Lucius Fox",
+      "Jonathan Crane"
+    ],
+    "release_year": 2008
+  },
+  {
+    "id": 42,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Lion King', what is the name of Simba's evil uncle?",
+    "correct_answer": "Scar",
+    "incorrect_answers": [
+      "Mufasa",
+      "Zazu",
+      "Rafiki"
+    ],
+    "release_year": 1994
+  },
+  {
+    "id": 43,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features Tom Hanks as a man stranded on a deserted island with a volleyball named Wilson?",
+    "correct_answer": "Cast Away",
+    "incorrect_answers": [
+      "The Terminal",
+      "Saving Private Ryan",
+      "Captain Phillips"
+    ],
+    "release_year": 2000
+  },
+  {
+    "id": 44,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Matrix', what is the name of the computer-generated reality in which humans are trapped?",
+    "correct_answer": "The Matrix",
+    "incorrect_answers": [
+      "The Grid",
+      "The System",
+      "The Network"
+    ],
+    "release_year": 1999
+  },
+  {
+    "id": 45,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film sees Tom Cruise reliving the same day over and over during an alien invasion?",
+    "correct_answer": "Edge of Tomorrow",
+    "incorrect_answers": [
+      "Oblivion",
+      "Minority Report",
+      "War of the Worlds"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 46,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Jurassic Park', what is the name of the billionaire who creates the dinosaur theme park?",
+    "correct_answer": "John Hammond",
+    "incorrect_answers": [
+      "Alan Grant",
+      "Ian Malcolm",
+      "Dennis Nedry"
+    ],
+    "release_year": 1993
+  },
+  {
+    "id": 47,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Spider-Man: Homecoming', which villain does Peter Parker face, played by Michael Keaton?",
+    "correct_answer": "Vulture",
+    "incorrect_answers": [
+      "Green Goblin",
+      "Doctor Octopus",
+      "Mysterio"
+    ],
+    "release_year": 2017
+  },
+  {
+    "id": 48,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film follows a team of oil drillers sent to space to stop an asteroid from hitting Earth?",
+    "correct_answer": "Armageddon",
+    "incorrect_answers": [
+      "Deep Impact",
+      "Apollo 13",
+      "Gravity"
+    ],
+    "release_year": 1998
+  },
+  {
+    "id": 49,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Shrek', what is the name of the kingdom ruled by Lord Farquaad?",
+    "correct_answer": "Duloc",
+    "incorrect_answers": [
+      "Far Far Away",
+      "Agrabah",
+      "Arendelle"
+    ],
+    "release_year": 2001
+  },
+  {
+    "id": 50,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Guardians of the Galaxy', what object does Peter Quill steal at the beginning of the film?",
+    "correct_answer": "The Orb (Power Stone)",
+    "incorrect_answers": [
+      "The Tesseract",
+      "The Aether",
+      "The Eye of Agamotto"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 51,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features a robot named WALL-E who cleans up an abandoned Earth?",
+    "correct_answer": "WALL-E",
+    "incorrect_answers": [
+      "Robots",
+      "Big Hero 6",
+      "The Iron Giant"
+    ],
+    "release_year": 2008
+  },
+  {
+    "id": 52,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Incredibles', what is the superhero name of the mother, Helen?",
+    "correct_answer": "Elastigirl",
+    "incorrect_answers": [
+      "Violet",
+      "Mirage",
+      "Voyd"
+    ],
+    "release_year": 2004
+  },
+  {
+    "id": 53,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film sees a young boy accidentally flying to space in a spaceship called Max?",
+    "correct_answer": "Flight of the Navigator",
+    "incorrect_answers": [
+      "Explorers",
+      "SpaceCamp",
+      "The Last Starfighter"
+    ],
+    "release_year": 1986
+  },
+  {
+    "id": 54,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Captain America: The First Avenger', what is the name of the villainous organization led by Red Skull?",
+    "correct_answer": "HYDRA",
+    "incorrect_answers": [
+      "S.H.I.E.L.D.",
+      "A.I.M.",
+      "Ten Rings"
+    ],
+    "release_year": 2011
+  },
+  {
+    "id": 55,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film tells the story of a boy who discovers he is the son of Poseidon?",
+    "correct_answer": "Percy Jackson & the Olympians: The Lightning Thief",
+    "incorrect_answers": [
+      "Clash of the Titans",
+      "Hercules",
+      "Wrath of the Titans"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 56,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Rogue One: A Star Wars Story', what plans are the rebels trying to steal?",
+    "correct_answer": "Death Star plans",
+    "incorrect_answers": [
+      "Starkiller Base plans",
+      "Millennium Falcon plans",
+      "Star Destroyer plans"
+    ],
+    "release_year": 2016
+  },
+  {
+    "id": 57,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film centers on a board game that brings jungle hazards into the real world?",
+    "correct_answer": "Jumanji",
+    "incorrect_answers": [
+      "Zathura",
+      "The Jungle Book",
+      "Journey 2: The Mysterious Island"
+    ],
+    "release_year": 1995
+  },
+  {
+    "id": 58,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Monsters, Inc.', what is the name of the one-eyed green monster?",
+    "correct_answer": "Mike Wazowski",
+    "incorrect_answers": [
+      "Sulley",
+      "Randall",
+      "George"
+    ],
+    "release_year": 2001
+  },
+  {
+    "id": 59,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film follows a superhero family living undercover in a suburban neighborhood?",
+    "correct_answer": "The Incredibles",
+    "incorrect_answers": [
+      "Big Hero 6",
+      "Fantastic Four",
+      "Megamind"
+    ],
+    "release_year": 2004
+  },
+  {
+    "id": 60,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Doctor Strange', what is the name of the powerful eye-shaped relic worn by Stephen Strange?",
+    "correct_answer": "The Eye of Agamotto",
+    "incorrect_answers": [
+      "The Tesseract",
+      "The Orb",
+      "The Aether"
+    ],
+    "release_year": 2016
+  },
+
+  {
+    "id": 61,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country produced the 2019 Academy Award–winning film 'Parasite'?",
+    "correct_answer": "South Korea",
+    "incorrect_answers": ["Japan", "China", "France"],
+    "release_year": 2019
+  },
+  {
+    "id": 62,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Mad Max: Fury Road', what is the name of the tyrannical warlord who controls the Citadel?",
+    "correct_answer": "Immortan Joe",
+    "incorrect_answers": ["Bane", "General Hux", "Lord Humungus"],
+    "release_year": 2015
+  },
+  {
+    "id": 63,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Whiplash', which instrument does the main character Andrew Neiman play?",
+    "correct_answer": "Drums",
+    "incorrect_answers": ["Piano", "Trumpet", "Saxophone"],
+    "release_year": 2014
+  },
+  {
+    "id": 64,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The animated film 'Spirited Away' was produced by which Japanese studio?",
+    "correct_answer": "Studio Ghibli",
+    "incorrect_answers": ["Toei Animation", "Bones", "Madhouse"],
+    "release_year": 2001
+  },
+  {
+    "id": 65,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The dark fantasy film 'Pan's Labyrinth' is primarily in which language?",
+    "correct_answer": "Spanish",
+    "incorrect_answers": ["English", "French", "Italian"],
+    "release_year": 2006
+  },
+  {
+    "id": 66,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'No Country for Old Men', what is the name of the relentless hitman played by Javier Bardem?",
+    "correct_answer": "Anton Chigurh",
+    "incorrect_answers": ["Llewelyn Moss", "Ed Tom Bell", "Carson Wells"],
+    "release_year": 2007
+  },
+  {
+    "id": 67,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 2010 film 'The Social Network' primarily tells the origin story of which company?",
+    "correct_answer": "Facebook",
+    "incorrect_answers": ["Google", "Twitter", "Amazon"],
+    "release_year": 2010
+  },
+  {
+    "id": 68,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who wrote and directed the 2017 horror film 'Get Out'?",
+    "correct_answer": "Jordan Peele",
+    "incorrect_answers": ["James Wan", "Ari Aster", "Mike Flanagan"],
+    "release_year": 2017
+  },
+  {
+    "id": 69,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The musical film 'La La Land' is primarily set in which city?",
+    "correct_answer": "Los Angeles",
+    "incorrect_answers": ["New York City", "Chicago", "San Francisco"],
+    "release_year": 2016
+  },
+
+  
+  {
+    "id": 70,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Silence of the Lambs', what is the last name of the imprisoned cannibalistic psychiatrist?",
+    "correct_answer": "Lecter",
+    "incorrect_answers": ["Crawford", "Starling", "Gumb"],
+    "release_year": 1991
+  },
+  {
+    "id": 71,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director is known for the \"Cornetto Trilogy,\" including 'Shaun of the Dead' and 'Hot Fuzz'?",
+    "correct_answer": "Edgar Wright",
+    "incorrect_answers": [
+      "Guy Ritchie",
+      "Danny Boyle",
+      "Matthew Vaughn"
+    ],
+    "release_year": 2004
+  },
+  {
+    "id": 72,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2014 film stars Keanu Reeves as a retired hitman seeking revenge for his dog's death?",
+    "correct_answer": "John Wick",
+    "incorrect_answers": [
+      "Taken 3",
+      "The Equalizer",
+      "Man on Fire"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 73,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Inception', what object does Cobb use as his personal totem?",
+    "correct_answer": "A spinning top",
+    "incorrect_answers": [
+      "A loaded die",
+      "A chess piece",
+      "A coin"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 74,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which filmmaker directed 'Scott Pilgrim vs. the World'?",
+    "correct_answer": "Edgar Wright",
+    "incorrect_answers": [
+      "Wes Anderson",
+      "Joss Whedon",
+      "Zack Snyder"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 75,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2016 film follows a linguist attempting to communicate with heptapod aliens?",
+    "correct_answer": "Arrival",
+    "incorrect_answers": [
+      "Interstellar",
+      "Contact",
+      "Annihilation"
+    ],
+    "release_year": 2016
+  },
+  {
+    "id": 76,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Mad Max: Fury Road', what is the name of the war rig driver played by Charlize Theron?",
+    "correct_answer": "Imperator Furiosa",
+    "incorrect_answers": [
+      "Toast the Knowing",
+      "The Splendid Angharad",
+      "Capable"
+    ],
+    "release_year": 2015
+  },
+  {
+    "id": 77,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2014 animated film from Studio Ghibli was directed by Hiromasa Yonebayashi and based on a British children's novel?",
+    "correct_answer": "When Marnie Was There",
+    "incorrect_answers": [
+      "The Secret World of Arrietty",
+      "Ponyo",
+      "From Up on Poppy Hill"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 78,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which South Korean director also made the films 'Snowpiercer' and 'Okja' before 'Parasite'?",
+    "correct_answer": "Bong Joon-ho",
+    "incorrect_answers": [
+      "Park Chan-wook",
+      "Kim Jee-woon",
+      "Lee Chang-dong"
+    ],
+    "release_year": 2013
+  },
+  {
+    "id": 79,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Blade Runner 2049', which actor plays the replicant K?",
+    "correct_answer": "Ryan Gosling",
+    "incorrect_answers": [
+      "Harrison Ford",
+      "Jared Leto",
+      "Oscar Isaac"
+    ],
+    "release_year": 2017
+  },
+  {
+    "id": 80,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2006 film by Guillermo del Toro blends fantasy elements with the grim reality of post–Civil War Spain?",
+    "correct_answer": "Pan's Labyrinth",
+    "incorrect_answers": [
+      "The Devil's Backbone",
+      "Crimson Peak",
+      "The Orphanage"
+    ],
+    "release_year": 2006
+  },
+  {
+    "id": 81,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Social Network', which character sues Mark Zuckerberg over Facebook's creation?",
+    "correct_answer": "Eduardo Saverin",
+    "incorrect_answers": [
+      "Sean Parker",
+      "Dustin Moskovitz",
+      "Cameron Winklevoss"
+    ],
+    "release_year": 2010
+  },
+  {
+    "id": 82,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a jazz drummer pushed to his limits by an abusive instructor at a music conservatory?",
+    "correct_answer": "Whiplash",
+    "incorrect_answers": [
+      "La La Land",
+      "Birdman",
+      "Black Swan"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 83,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Get Out', what is the name of Chris's girlfriend whose family he visits?",
+    "correct_answer": "Rose Armitage",
+    "incorrect_answers": [
+      "Missy Armitage",
+      "Georgina Wilson",
+      "Andrea Jackson"
+    ],
+    "release_year": 2017
+  },
+  {
+    "id": 84,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film by Christopher Nolan tells the story of two rival magicians in the late 19th century?",
+    "correct_answer": "The Prestige",
+    "incorrect_answers": [
+      "Insomnia",
+      "Memento",
+      "The Illusionist"
+    ],
+    "release_year": 2006
+  },
+  {
+    "id": 85,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director is known for films like 'The Grand Budapest Hotel' and 'Moonrise Kingdom'?",
+    "correct_answer": "Wes Anderson",
+    "incorrect_answers": [
+      "Noah Baumbach",
+      "Spike Jonze",
+      "Sofia Coppola"
+    ],
+    "release_year": 2014
+  },
+  {
+    "id": 86,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'No Country for Old Men', what kind of weapon does Anton Chigurh frequently use?",
+    "correct_answer": "Captive bolt pistol",
+    "incorrect_answers": [
+      "Silenced pistol",
+      "Hunting rifle",
+      "Shotgun with suppressor"
+    ],
+    "release_year": 2007
+  },
+  {
+    "id": 87,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2010 sci-fi film directed by Duncan Jones follows a soldier reliving the same eight minutes on a train?",
+    "correct_answer": "Source Code",
+    "incorrect_answers": [
+      "Looper",
+      "Edge of Tomorrow",
+      "Predestination"
+    ],
+    "release_year": 2011
+  },
+  {
+    "id": 88,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Spirited Away', what is the name of the bathhouse owner who employs Chihiro?",
+    "correct_answer": "Yubaba",
+    "incorrect_answers": [
+      "Zeniba",
+      "Kaonashi",
+      "Haku"
+    ],
+    "release_year": 2001
+  },
+  {
+    "id": 89,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a time loop experienced by a weatherman covering Groundhog Day?",
+    "correct_answer": "Groundhog Day",
+    "incorrect_answers": [
+      "Edge of Tomorrow",
+      "About Time",
+      "The Butterfly Effect"
+    ],
+    "release_year": 1993
+  },
+  {
+    "id": 90,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 2014 film directed by Alejandro G. Iñárritu is shot to appear as if it is one continuous take?",
+    "correct_answer": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "incorrect_answers": [
+      "The Revenant",
+      "1917",
+      "Children of Men"
+    ],
+    "release_year": 2014
+  }
+]
 
