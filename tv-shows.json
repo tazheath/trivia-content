@@ -422,5 +422,187 @@
     "incorrect_answers": ["Doofus Rick", "Simple Rick", "Rick Prime"],
     "release_year": 2017
   },
+    {
+    "id": 43,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', what is the name of Zuko’s younger sister?",
+    "correct_answer": "Azula",
+    "incorrect_answers": ["Mai", "Ty Lee", "Ursa"],
+    "release_year": 2005
+  },
 
+  /* ---- HARD DIFFICULTY STARTS HERE ---- */
 
+  {
+    "id": 44,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the chemical purity percentage Walter consistently hits with his blue meth?",
+    "correct_answer": "99.1%",
+    "incorrect_answers": ["94%", "96.5%", "98%"],
+    "release_year": 2008
+  },
+  {
+    "id": 45,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', what is the High Valyrian word for 'fire'?",
+    "correct_answer": "Dracarys",
+    "incorrect_answers": ["Valyr", "Sythor", "Drodar"],
+    "release_year": 2013
+  },
+  {
+    "id": 46,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', which character accidentally burns down part of the warehouse?",
+    "correct_answer": "Roy Anderson",
+    "incorrect_answers": ["Michael Scott", "Darrell Philbin", "Meredith Palmer"],
+    "release_year": 2006
+  },
+  {
+    "id": 47,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Office', what is Creed Bratton’s actual job title at Dunder Mifflin?",
+    "correct_answer": "Quality Assurance Director",
+    "incorrect_answers": ["Sales Representative", "Customer Service Manager", "Accountant"],
+    "release_year": 2005
+  },
+  {
+    "id": 48,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what is the codename of the secret government project behind Eleven's powers?",
+    "correct_answer": "Project MKUltra",
+    "incorrect_answers": ["Project Oracle", "Project Mindstorm", "Project Starcourt"],
+    "release_year": 2016
+  },
+  {
+    "id": 49,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what song does Jonathan and Will bond over in Season 1?",
+    "correct_answer": "Should I Stay or Should I Go",
+    "incorrect_answers": ["Heroes", "Every Breath You Take", "Time After Time"],
+    "release_year": 2016
+  },
+  {
+    "id": 50,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Rick and Morty', what is the numerical designation for the dimension where the main Rick and Morty originate?",
+    "correct_answer": "C-137",
+    "incorrect_answers": ["A-113", "B-627", "D-230"],
+    "release_year": 2013
+  },
+  {
+    "id": 51,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Rick and Morty', what is the name of the interdimensional cable TV channel?",
+    "correct_answer": "Interdimensional Cable",
+    "incorrect_answers": ["MultiVerse Media", "Infinite TV", "Cosmic Channels"],
+    "release_year": 2014
+  },
+  {
+    "id": 52,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what is the ancient Mandalorian weapon that can only be won in combat?",
+    "correct_answer": "The Darksaber",
+    "incorrect_answers": ["Sun Blade", "Mandalore Pike", "Night Saber"],
+    "release_year": 2020
+  },
+  {
+    "id": 53,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', which character forges armor in the covert?",
+    "correct_answer": "The Armorer",
+    "incorrect_answers": ["Bo-Katan", "Sabine Wren", "Rook Kast"],
+    "release_year": 2019
+  },
+  {
+    "id": 54,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Marvel's 'Loki', what is the name of the creature guarding the Citadel at the End of Time?",
+    "correct_answer": "Alioth",
+    "incorrect_answers": ["Chronos", "Null Time Beast", "The Temporal Serpent"],
+    "release_year": 2021
+  },
+  {
+    "id": 55,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the name of the industrial laundromat where Walter and Jesse cook?",
+    "correct_answer": "Lavandería Brillante",
+    "incorrect_answers": ["Fiesta Laundry", "Clean & Bright Co.", "Pollos Wash"],
+    "release_year": 2010
+  },
+  {
+    "id": 56,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who creates the first White Walker?",
+    "correct_answer": "The Children of the Forest",
+    "incorrect_answers": ["The Night King", "The First Men", "The Maesters"],
+    "release_year": 2016
+  },
+  {
+    "id": 57,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the deadly poison used to kill Joffrey Baratheon in 'Game of Thrones'?",
+    "correct_answer": "The Strangler",
+    "incorrect_answers": ["Widow's Blood", "Manticore Venom", "Shade of the Evening"],
+    "release_year": 2014
+  },
+  {
+    "id": 58,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Avatar: The Last Airbender', who was the first known Avatar?",
+    "correct_answer": "Avatar Wan",
+    "incorrect_answers": ["Avatar Kyoshi", "Avatar Roku", "Avatar Yangchen"],
+    "release_year": 2013
+  },
+  {
+    "id": 59,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the monster-hunting organization in 'The Witcher'?",
+    "correct_answer": "The Witchers of Kaer Morhen",
+    "incorrect_answers": ["The Oxenfurt Guardians", "The Silver Blades", "The Order of Medallion"],
+    "release_year": 2019
+  },
+  {
+    "id": 60,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Boys', what substance gives normal humans temporary superpowers?",
+    "correct_answer": "Temp V",
+    "incorrect_answers": ["Power Serum X", "V-Naught", "Compound Zero"],
+    "release_year": 2022
+  }
+]
