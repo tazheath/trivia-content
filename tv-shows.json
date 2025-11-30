@@ -199,4 +199,228 @@
     "incorrect_answers": ["The TBA", "The Nexus Agency", "Time Masters"],
     "release_year": 2021
   },
+    {
+    "id": 21,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which character in 'The Mandalorian' is known for never removing his helmet?",
+    "correct_answer": "Din Djarin",
+    "incorrect_answers": ["Bo-Katan", "Grogu", "Cara Dune"],
+    "release_year": 2019
+  },
+  {
+    "id": 22,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Parks and Recreation', what is the name of the city where the show takes place?",
+    "correct_answer": "Pawnee",
+    "incorrect_answers": ["Scranton", "Hawkins", "Sunnydale"],
+    "release_year": 2009
+  },
+  {
+    "id": 23,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Breaking Bad', what subject did Walter White teach?",
+    "correct_answer": "Chemistry",
+    "incorrect_answers": ["Biology", "Physics", "Math"],
+    "release_year": 2008
+  },
+  {
+    "id": 24,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the bar in 'How I Met Your Mother'?",
+    "correct_answer": "MacLaren's",
+    "incorrect_answers": ["Paddy's Pub", "The Bronze", "The Snakehole Lounge"],
+    "release_year": 2005
+  },
+  {
+    "id": 25,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Boys', who leads The Seven?",
+    "correct_answer": "Homelander",
+    "incorrect_answers": ["A-Train", "Black Noir", "Butcher"],
+    "release_year": 2019
+  },
+
+  /* ---- MEDIUM DIFFICULTY STARTS HERE ---- */
+
+  {
+    "id": 26,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what song helps Max escape Vecna's curse?",
+    "correct_answer": "Running Up That Hill",
+    "incorrect_answers": ["Take On Me", "Africa", "Sweet Dreams"],
+    "release_year": 2022
+  },
+  {
+    "id": 27,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Office', what does Michael burn his foot on?",
+    "correct_answer": "A George Foreman grill",
+    "incorrect_answers": ["A toaster oven", "A candle warmer", "A space heater"],
+    "release_year": 2006
+  },
+  {
+    "id": 28,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad', who is the owner of Los Pollos Hermanos?",
+    "correct_answer": "Gus Fring",
+    "incorrect_answers": ["Saul Goodman", "Mike Ehrmantraut", "Todd Alquist"],
+    "release_year": 2009
+  },
+  {
+    "id": 29,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Mandalorian', what material is used to forge Mandalorian armor?",
+    "correct_answer": "Beskar",
+    "incorrect_answers": ["Durasteel", "Plasteel", "Titanium"],
+    "release_year": 2019
+  },
+  {
+    "id": 30,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which house does Jon Snow belong to in 'Game of Thrones' (at the beginning)?",
+    "correct_answer": "House Stark",
+    "incorrect_answers": ["House Targaryen", "House Baratheon", "Night's Watch"],
+    "release_year": 2011
+  },
+  {
+    "id": 31,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', what is Arya Stark’s sword called?",
+    "correct_answer": "Needle",
+    "incorrect_answers": ["Oathkeeper", "Longclaw", "Ice"],
+    "release_year": 2011
+  },
+  {
+    "id": 32,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', who teaches Aang firebending?",
+    "correct_answer": "Zuko",
+    "incorrect_answers": ["Iroh", "Jeong Jeong", "Ozai"],
+    "release_year": 2007
+  },
+  {
+    "id": 33,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', which nation attacks the Southern Water Tribe at the start of the series?",
+    "correct_answer": "The Fire Nation",
+    "incorrect_answers": ["The Earth Kingdom", "The Water Tribe", "The Air Nomads"],
+    "release_year": 2005
+  },
+  {
+    "id": 34,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Marvel's 'Loki', who is revealed to be controlling the Time-Keepers?",
+    "correct_answer": "He Who Remains",
+    "incorrect_answers": ["Mobius", "Ravonna", "Classic Loki"],
+    "release_year": 2021
+  },
+  {
+    "id": 35,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Boys', what is the name of the corporation behind the superheroes?",
+    "correct_answer": "Vought International",
+    "incorrect_answers": ["SevenCorp", "Global Justice", "HeroWorks"],
+    "release_year": 2019
+  },
+  {
+    "id": 36,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Parks and Recreation', what food does Ron Swanson famously love?",
+    "correct_answer": "Breakfast foods",
+    "incorrect_answers": ["Salads", "Pasta", "Desserts"],
+    "release_year": 2009
+  },
+  {
+    "id": 37,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'How I Met Your Mother', what is Barney Stinson’s most used catchphrase?",
+    "correct_answer": "Legendary!",
+    "incorrect_answers": ["Suit up!", "Challenge accepted!", "Wait for it..."],
+    "release_year": 2005
+  },
+  {
+    "id": 38,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what is the name of Dustin’s pet creature in Season 2?",
+    "correct_answer": "Dart",
+    "incorrect_answers": ["Demmy", "Sluggo", "Shadow"],
+    "release_year": 2017
+  },
+  {
+    "id": 39,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who becomes the new Mand'alor in 'The Mandalorian'?",
+    "correct_answer": "Bo-Katan",
+    "incorrect_answers": ["Din Djarin", "The Armorer", "Sabine Wren"],
+    "release_year": 2023
+  },
+  {
+    "id": 40,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', who is known as the 'Kingslayer'?",
+    "correct_answer": "Jaime Lannister",
+    "incorrect_answers": ["Jon Snow", "The Hound", "Ned Stark"],
+    "release_year": 2011
+  },
+  {
+    "id": 41,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Rick and Morty', what does Rick use to travel between universes?",
+    "correct_answer": "A portal gun",
+    "incorrect_answers": ["A wormhole key", "A space tunnel", "A reality anchor"],
+    "release_year": 2013
+  },
+  {
+    "id": 42,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Rick and Morty', who is the President of the Citadel of Ricks?",
+    "correct_answer": "Evil Morty",
+    "incorrect_answers": ["Doofus Rick", "Simple Rick", "Rick Prime"],
+    "release_year": 2017
+  },
+
 
