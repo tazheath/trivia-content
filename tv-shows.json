@@ -1,1 +1,202 @@
+[
+  {
+    "id": 1,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what is Michael Scott’s job title?",
+    "correct_answer": "Regional Manager",
+    "incorrect_answers": ["Salesman", "Accountant", "Branch Owner"],
+    "release_year": 2005
+  },
+  {
+    "id": 2,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what is Jim Halpert’s wife's name?",
+    "correct_answer": "Pam",
+    "incorrect_answers": ["Angela", "Erin", "Kelly"],
+    "release_year": 2005
+  },
+  {
+    "id": 3,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what is the name of the company the employees work for?",
+    "correct_answer": "Dunder Mifflin",
+    "incorrect_answers": ["Staples", "Sabre", "Vance Refrigeration"],
+    "release_year": 2005
+  },
+  {
+    "id": 4,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what item does Kevin famously spill all over the floor?",
+    "correct_answer": "Chili",
+    "incorrect_answers": ["Coffee", "Soup", "Pasta"],
+    "release_year": 2005
+  },
+  {
+    "id": 5,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', who is known for the line 'Bears. Beets. Battlestar Galactica'?",
+    "correct_answer": "Jim (imitating Dwight)",
+    "incorrect_answers": ["Dwight", "Michael", "Andy"],
+    "release_year": 2006
+  },
+  {
+    "id": 6,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which show features a boss named Michael Scott?",
+    "correct_answer": "The Office",
+    "incorrect_answers": ["Friends", "Parks and Recreation", "Brooklyn Nine-Nine"],
+    "release_year": 2005
+  },
+  {
+    "id": 7,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what did Jim put Dwight’s stapler in?",
+    "correct_answer": "Jell-O",
+    "incorrect_answers": ["Water", "Cake", "Putty"],
+    "release_year": 2005
+  },
+  {
+    "id": 8,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', what is the name of Dwight’s cousin who lives on the beet farm?",
+    "correct_answer": "Mose",
+    "incorrect_answers": ["Nate", "Zeke", "Clark"],
+    "release_year": 2005
+  },
+  {
+    "id": 9,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', who starts the band 'Here Comes Treble'?",
+    "correct_answer": "Andy Bernard",
+    "incorrect_answers": ["Darryl Philbin", "Kevin Malone", "Ryan Howard"],
+    "release_year": 2012
+  },
+  {
+    "id": 10,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Office', which character loves beets and bears?",
+    "correct_answer": "Dwight Schrute",
+    "incorrect_answers": ["Jim Halpert", "Andy Bernard", "Michael Scott"],
+    "release_year": 2005
+  },
+  {
+    "id": 11,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who plays Eleven in 'Stranger Things'?",
+    "correct_answer": "Millie Bobby Brown",
+    "incorrect_answers": ["Sadie Sink", "Natalia Dyer", "Winona Ryder"],
+    "release_year": 2016
+  },
+  {
+    "id": 12,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which character leads the group of kids in 'Stranger Things'?",
+    "correct_answer": "Mike Wheeler",
+    "incorrect_answers": ["Lucas Sinclair", "Dustin Henderson", "Will Byers"],
+    "release_year": 2016
+  },
+  {
+    "id": 13,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the dark parallel dimension in 'Stranger Things'?",
+    "correct_answer": "The Upside Down",
+    "incorrect_answers": ["Shadow Realm", "Dark Zone", "Mind World"],
+    "release_year": 2016
+  },
+  {
+    "id": 14,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What fictional town is 'Stranger Things' set in?",
+    "correct_answer": "Hawkins",
+    "incorrect_answers": ["Derry", "Sunnydale", "Hill Valley"],
+    "release_year": 2016
+  },
+  {
+    "id": 15,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which character says the catchphrase 'Wubba Lubba Dub-Dub!'?",
+    "correct_answer": "Rick Sanchez",
+    "incorrect_answers": ["Morty Smith", "Jerry Smith", "Birdperson"],
+    "release_year": 2013
+  },
+  {
+    "id": 16,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian', what is Baby Yoda's real name?",
+    "correct_answer": "Grogu",
+    "incorrect_answers": ["Yaddle", "Din", "Goru"],
+    "release_year": 2019
+  },
+  {
+    "id": 17,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Avatar: The Last Airbender', what is the name of Aang’s flying bison?",
+    "correct_answer": "Appa",
+    "incorrect_answers": ["Momo", "Pabu", "Oogi"],
+    "release_year": 2005
+  },
+  {
+    "id": 18,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Avatar: The Last Airbender', who is Aang’s earthbending teacher?",
+    "correct_answer": "Toph Beifong",
+    "incorrect_answers": ["Bumi", "Kyoshi", "Suki"],
+    "release_year": 2006
+  },
+  {
+    "id": 19,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who kills the Night King in 'Game of Thrones'?",
+    "correct_answer": "Arya Stark",
+    "incorrect_answers": ["Jon Snow", "Bran Stark", "Daenerys Targaryen"],
+    "release_year": 2019
+  },
+  {
+    "id": 20,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who controls the timeline in Marvel's 'Loki'?",
+    "correct_answer": "The TVA",
+    "incorrect_answers": ["The TBA", "The Nexus Agency", "Time Masters"],
+    "release_year": 2021
+  },
 
