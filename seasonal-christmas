@@ -1835,13 +1835,925 @@
     "correct_answer": "Santa Claus",
     "incorrect_answers": ["Father Time", "Jack Frost", "Saint Nicholas"]
   },
+  {
+    "id": 201,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Roman festival, held in late December, is often considered a precursor to some Christmas traditions?",
+    "correct_answer": "Saturnalia",
+    "incorrect_answers": ["Lupercalia", "Bacchanalia", "Floralia"]
+  },
+  {
+    "id": 202,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which century did the Christian church officially adopt December 25th as the date to celebrate Christmas?",
+    "correct_answer": "4th century",
+    "incorrect_answers": ["2nd century", "6th century", "1st century"]
+  },
+  {
+    "id": 203,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country celebrates 'Little Christmas' or 'Women's Christmas' on January 6th?",
+    "correct_answer": "Ireland",
+    "incorrect_answers": ["Scotland", "Wales", "Iceland"]
+  },
+  {
+    "id": 204,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The lyrics to 'O Come, O Come, Emmanuel' are based on what set of ancient Christian prayers?",
+    "correct_answer": "The O Antiphons",
+    "incorrect_answers": ["The Rosary Canticles", "The Advent Verses", "The Magnificat Refrains"]
+  },
+  {
+    "id": 205,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the original 1823 publication of 'A Visit from St. Nicholas', which reindeer name is spelled differently than in modern versions?",
+    "correct_answer": "Donder",
+    "incorrect_answers": ["Blitzen", "Prancer", "Cupid"]
+  },
+
+  {
+    "id": 206,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which historic figure is often attributed with introducing Christmas trees to England through Queen Victoria’s influence?",
+    "correct_answer": "Prince Albert",
+    "incorrect_answers": ["King George IV", "Sir Walter Raleigh", "William of Orange"]
+  },
+  {
+    "id": 207,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which English satirist wrote the essay 'The Vindication of Christmas' in 1652, defending Christmas traditions?",
+    "correct_answer": "John Taylor",
+    "incorrect_answers": ["Ben Jonson", "John Dryden", "Samuel Pepys"]
+  },
+  {
+    "id": 208,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The oldest known printed Advent calendar dates back to which year?",
+    "correct_answer": "1908",
+    "incorrect_answers": ["1875", "1919", "1892"]
+  },
+  {
+    "id": 209,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Scandinavian folklore, what is the name of the goat figure associated with Christmas traditions?",
+    "correct_answer": "Yule Goat",
+    "incorrect_answers": ["Snow Goat", "Frost Horn", "Nordic Ram"]
+  },
+  {
+    "id": 210,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Queen Elizabeth II began her annual televised Christmas message in which year?",
+    "correct_answer": "1957",
+    "incorrect_answers": ["1948", "1961", "1952"]
+  },
+
+  {
+    "id": 211,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What 19th-century American illustrator helped solidify the modern image of Santa Claus through Harper’s Weekly publications?",
+    "correct_answer": "Thomas Nast",
+    "incorrect_answers": ["Winslow Homer", "Norman Rockwell", "George Inness"]
+  },
+  {
+    "id": 212,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Icelandic Christmas folklore includes 13 mischievous figures known as what?",
+    "correct_answer": "Yule Lads",
+    "incorrect_answers": ["Snow Sprites", "North Trolls", "Frost Goblins"]
+  },
+  {
+    "id": 213,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which medieval Christmas carol is written in Middle English and begins with the line 'I syng of a mayden'?",
+    "correct_answer": "I Sing of a Maiden",
+    "incorrect_answers": ["The Gloucestershire Wassail", "Coventry Carol", "Gaudete"]
+  },
+  {
+    "id": 214,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In France, the traditional Christmas Eve meal is known as what?",
+    "correct_answer": "Le Réveillon",
+    "incorrect_answers": ["La Fête de Noël", "Le Souper Lumière", "La Veille Sacrée"]
+  },
+  {
+    "id": 215,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. state claims to have held the first Christmas celebration in what became the United States in 1565?",
+    "correct_answer": "Florida",
+    "incorrect_answers": ["Virginia", "New Mexico", "Massachusetts"]
+  },
+
+  {
+    "id": 216,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Renaissance composer wrote the motet 'Hodie Christus Natus Est'?",
+    "correct_answer": "Giovanni Gabrieli",
+    "incorrect_answers": ["Josquin des Prez", "Orlando di Lasso", "Palestrina"]
+  },
+  {
+    "id": 217,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Mexico’s Christmas tradition of 'Las Posadas' reenacts what event?",
+    "correct_answer": "Mary and Joseph’s search for lodging",
+    "incorrect_answers": ["The journey of the Magi", "The Angels’ proclamation", "The shepherds' pilgrimage"]
+  },
+  {
+    "id": 218,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The German term 'Weihnachten' literally translates to what?",
+    "correct_answer": "Holy Nights",
+    "incorrect_answers": ["Winter Feast", "Blessed Night", "Night of Joy"]
+  },
+  {
+    "id": 219,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Eastern Orthodox tradition, Christmas is celebrated using which calendar?",
+    "correct_answer": "Julian calendar",
+    "incorrect_answers": ["Gregorian calendar", "Lunar calendar", "Alexandrian calendar"]
+  },
+  {
+    "id": 220,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the Christmas cantata 'Oratorio de Noël'?",
+    "correct_answer": "Camille Saint-Saëns",
+    "incorrect_answers": ["Claude Debussy", "Gabriel Fauré", "Maurice Ravel"]
+  },
+
+  {
+    "id": 221,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The tradition of a Christmas witch named La Befana delivering gifts is primarily found in which country?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["Hungary", "Greece", "Austria"]
+  },
+  {
+    "id": 222,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who wrote the 1906 book 'The Life and Adventures of Santa Claus'?",
+    "correct_answer": "L. Frank Baum",
+    "incorrect_answers": ["C.S. Lewis", "Nathaniel Hawthorne", "Hans Christian Andersen"]
+  },
+  {
+    "id": 223,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Christmas truce of 1914 occurred during which major conflict?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "Boer War", "Crimean War"]
+  },
+  {
+    "id": 224,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which famous cathedral hosts the traditional 'Festival of Nine Lessons and Carols' on Christmas Eve?",
+    "correct_answer": "King’s College Chapel, Cambridge",
+    "incorrect_answers": ["Westminster Abbey", "St. Paul’s Cathedral", "York Minster"]
+  },
+  {
+    "id": 225,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country celebrates 'Julbok', a straw Christmas goat often displayed as a large figure in town squares?",
+    "correct_answer": "Sweden",
+    "incorrect_answers": ["Norway", "Denmark", "Finland"]
+  },
+
+  {
+    "id": 226,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who painted the famous Christmas-themed artwork 'The Adoration of the Shepherds'?",
+    "correct_answer": "El Greco",
+    "incorrect_answers": ["Titian", "Rembrandt", "Caravaggio"]
+  },
+  {
+    "id": 227,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Filipino tradition of 'Simbang Gabi' consists of how many dawn masses leading up to Christmas?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Twelve", "Seven", "Five"]
+  },
+  {
+    "id": 228,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which country is 'Jólabókaflóð', the Christmas Book Flood, a celebrated tradition?",
+    "correct_answer": "Iceland",
+    "incorrect_answers": ["Sweden", "Germany", "Estonia"]
+  },
+  {
+    "id": 229,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The custom of the Christmas pickled cucumber ornament became popular in the United States during which century?",
+    "correct_answer": "19th century",
+    "incorrect_answers": ["18th century", "17th century", "20th century"]
+  },
+  {
+    "id": 230,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which medieval English carol includes the refrain 'Lully, lullay'?",
+    "correct_answer": "Coventry Carol",
+    "incorrect_answers": ["Gaudete", "Good King Wenceslas", "The Holly and the Ivy"]
+  },
+
+  {
+    "id": 231,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Catalonia, the Christmas tradition 'Tió de Nadal' involves a log that does what?",
+    "correct_answer": "‘Poops’ presents when beaten",
+    "incorrect_answers": ["Sings carols when lit", "Rolls gifts to children", "Breaks open to release candy"]
+  },
+  {
+    "id": 232,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 17th-century group in England banned the celebration of Christmas?",
+    "correct_answer": "The Puritans",
+    "incorrect_answers": ["The Cavaliers", "The Parliamentarians", "The Lollards"]
+  },
+  {
+    "id": 233,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word 'mistletoe' comes from Anglo-Saxon words meaning what?",
+    "correct_answer": "Dung on a twig",
+    "incorrect_answers": ["Holy branch", "Winter berry", "Kissing plant"]
+  },
+  {
+    "id": 234,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which astronomer proposed that the Star of Bethlehem may have been a conjunction of Jupiter and Saturn?",
+    "correct_answer": "Johannes Kepler",
+    "incorrect_answers": ["Galileo Galilei", "Tycho Brahe", "Nicolaus Copernicus"]
+  },
+  {
+    "id": 235,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country is credited with originating the tradition of the Christmas market?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "France", "Switzerland"]
+  },
+
+  {
+    "id": 236,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which classic Russian composer created the ballet score for 'The Nutcracker'?",
+    "correct_answer": "Tchaikovsky",
+    "incorrect_answers": ["Prokofiev", "Stravinsky", "Rimsky-Korsakov"]
+  },
+  {
+    "id": 237,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What legendary Christmas figure in Alpine folklore accompanies Saint Nicholas and punishes misbehaving children?",
+    "correct_answer": "Krampus",
+    "incorrect_answers": ["Perchta", "Knecht Ruprecht", "Belsnickel"]
+  },
+  {
+    "id": 238,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The traditional Christmas hymn 'In Dulci Jubilo' was written in which language?",
+    "correct_answer": "A mixture of Latin and German",
+    "incorrect_answers": ["Only Latin", "Only Old English", "Only French"]
+  },
+  {
+    "id": 239,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which country is the figure 'Ded Moroz' a traditional winter gift-giver?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Finland", "Georgia", "Poland"]
+  },
+  {
+    "id": 240,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the English translation of the French Christmas song 'Il est né le divin enfant'?",
+    "correct_answer": "He Is Born, the Divine Child",
+    "incorrect_answers": ["Night of Holy Birth", "The Child in the Manger", "Sing, O Shepherds"]
+  },
+
+  {
+    "id": 241,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Nutcracker', which kingdom does Clara travel to after the battle with the Mouse King?",
+    "correct_answer": "The Land of Sweets",
+    "incorrect_answers": ["Winter Forest", "Crystal Palace", "Candy Plains"]
+  },
+  {
+    "id": 242,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Spain’s Christmas lottery 'El Gordo' began in which century?",
+    "correct_answer": "19th century",
+    "incorrect_answers": ["17th century", "18th century", "20th century"]
+  },
+  {
+    "id": 243,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Ancient Romans celebrated Saturnalia by giving what type of symbolic gift?",
+    "correct_answer": "Wax candles",
+    "incorrect_answers": ["Bread loaves", "Olive branches", "Clay figurines"]
+  },
+  {
+    "id": 244,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who wrote the Christmas hymn 'Once in Royal David’s City'?",
+    "correct_answer": "Cecil Frances Alexander",
+    "incorrect_answers": ["Isaac Watts", "John Mason Neale", "Charles Wesley"]
+  },
+  {
+    "id": 245,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Japan’s tradition of eating KFC on Christmas began due to a 1970s campaign named what?",
+    "correct_answer": "Kentucky for Christmas",
+    "incorrect_answers": ["Christmas Party Box", "Santa’s Feast", "Holiday Chicken Time"]
+  },
+
+  {
+    "id": 246,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country celebrates Christmas with a witch figure named 'Frau Perchta'?",
+    "correct_answer": "Austria",
+    "incorrect_answers": ["Switzerland", "Germany", "Czech Republic"]
+  },
+  {
+    "id": 247,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient astronomical event is often cited as a possible explanation for the Star of Bethlehem?",
+    "correct_answer": "Planetary conjunction",
+    "incorrect_answers": ["Solar eclipse", "Comet collision", "Meteor shower"]
+  },
+  {
+    "id": 248,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Martin Luther is said to have added what decoration to early Christmas trees?",
+    "correct_answer": "Lit candles",
+    "incorrect_answers": ["Silver tinsel", "Glass ornaments", "Paper stars"]
+  },
+  {
+    "id": 249,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Eastern Orthodox celebration of Christmas on January 7th corresponds to what date on the Gregorian calendar?",
+    "correct_answer": "December 25th",
+    "incorrect_answers": ["January 6th", "January 8th", "December 24th"]
+  },
+  {
+    "id": 250,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What early Christian feast originally coincided with the winter solstice and influenced Christmas placement?",
+    "correct_answer": "The Feast of the Nativity",
+    "incorrect_answers": ["Feast of St. Lucy", "Feast of Epiphany", "Feast of the Annunciation"]
+  },
+
+  {
+    "id": 251,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the Christmas opera 'Amahl and the Night Visitors'?",
+    "correct_answer": "Gian Carlo Menotti",
+    "incorrect_answers": ["Aaron Copland", "Benjamin Britten", "Leonard Bernstein"]
+  },
+  {
+    "id": 252,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Welsh tradition of 'Mari Lwyd' features a decorated figure resembling what?",
+    "correct_answer": "A horse skull",
+    "incorrect_answers": ["A goat", "A reindeer", "A polar bear"]
+  },
+  {
+    "id": 253,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient Roman deity was honored during Saturnalia?",
+    "correct_answer": "Saturn",
+    "incorrect_answers": ["Jupiter", "Mars", "Apollo"]
+  },
+  {
+    "id": 254,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Finland, Santa is believed to live in which region?",
+    "correct_answer": "Lapland",
+    "incorrect_answers": ["Helsinki", "Åland", "Ostrobothnia"]
+  },
+  {
+    "id": 255,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What Christian feast marks the end of the 12 days of Christmas?",
+    "correct_answer": "Epiphany",
+    "incorrect_answers": ["Candlemas", "Pentecost", "All Saints’ Day"]
+  },
+
+  {
+    "id": 256,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "France’s Yule log cake, the Bûche de Noël, is traditionally made from what type of cake?",
+    "correct_answer": "Genoise sponge",
+    "incorrect_answers": ["Pound cake", "Butter cake", "Angel food cake"]
+  },
+  {
+    "id": 257,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The custom of 'wassailing' originally involved what?",
+    "correct_answer": "Visiting homes singing for food or drink",
+    "incorrect_answers": ["Lighting candles at midnight", "Exchanging handmade gifts", "Dancing around a Yule tree"]
+  },
+  {
+    "id": 258,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Orthodox Christian tradition, the Nativity Fast lasts how many days?",
+    "correct_answer": "40 days",
+    "incorrect_answers": ["25 days", "50 days", "12 days"]
+  },
+  {
+    "id": 259,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who created the stop-motion film 'Rudolph the Red-Nosed Reindeer' in 1964?",
+    "correct_answer": "Rankin/Bass Productions",
+    "incorrect_answers": ["Hanna-Barbera", "Disney", "Universal Animation"]
+  },
+  {
+    "id": 260,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Feast of the Immaculate Conception, an important date leading up to Christmas, is celebrated on what day?",
+    "correct_answer": "December 8",
+    "incorrect_answers": ["December 6", "December 12", "December 15"]
+  },
+
+  {
+    "id": 261,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Germany, what figure accompanies St. Nicholas and carries a sack of ashes?",
+    "correct_answer": "Knecht Ruprecht",
+    "incorrect_answers": ["Krampus", "Belsnickel", "Frau Perchta"]
+  },
+  {
+    "id": 262,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which King of Bohemia is referenced in the carol 'Good King Wenceslas'?",
+    "correct_answer": "Saint Wenceslaus I",
+    "incorrect_answers": ["Boleslav II", "Charles IV", "Vladislaus II"]
+  },
+  {
+    "id": 263,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Christmas custom of lighting a candle in the window began as a signal of what?",
+    "correct_answer": "Hospitality to travelers",
+    "incorrect_answers": ["Spiritual blessing", "Signaling midnight mass", "Honoring the Magi"]
+  },
+  {
+    "id": 264,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What early 20th-century figure is credited with popularizing electric Christmas lights?",
+    "correct_answer": "Edward H. Johnson",
+    "incorrect_answers": ["Henry Ford", "Thomas Edison", "Nikola Tesla"]
+  },
+  {
+    "id": 265,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The oldest known Christmas hymn, 'Jesus refulsit omnium', was written by which early Christian poet?",
+    "correct_answer": "St. Hilary of Poitiers",
+    "incorrect_answers": ["Ambrose of Milan", "John Chrysostom", "Gregory the Great"]
+  },
+
+  {
+    "id": 266,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Finland’s Christmas Eve tradition of visiting what location is unique among Nordic countries?",
+    "correct_answer": "Family gravesites",
+    "incorrect_answers": ["Public saunas", "Town squares", "Mountain shrines"]
+  },
+  {
+    "id": 267,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In what century was Christmas first banned in Scotland?",
+    "correct_answer": "17th century",
+    "incorrect_answers": ["16th century", "18th century", "15th century"]
+  },
+  {
+    "id": 268,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Christmas figure in Slavic folklore is known as the Snow Maiden?",
+    "correct_answer": "Snegurochka",
+    "incorrect_answers": ["Morozko", "Vesna", "Zorya"]
+  },
+  {
+    "id": 269,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The tradition of Christmas crackers originated in which country?",
+    "correct_answer": "England",
+    "incorrect_answers": ["Germany", "France", "Scotland"]
+  },
+  {
+    "id": 270,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Fruitcake became widely popular in Britain during which historical era?",
+    "correct_answer": "Victorian era",
+    "incorrect_answers": ["Stuart era", "Georgian era", "Elizabethan era"]
+  },
+
+  {
+    "id": 271,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rare weather phenomenon occurred during the Christmas Truce of 1914?",
+    "correct_answer": "A sudden frost allowing movement on trenches",
+    "incorrect_answers": ["A blizzard", "A warm windstorm", "An eclipse"]
+  },
+  {
+    "id": 272,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which British monarch hosted elaborate Christmas festivities at Hampton Court Palace?",
+    "correct_answer": "Henry VIII",
+    "incorrect_answers": ["Elizabeth I", "James I", "Victoria"]
+  },
+  {
+    "id": 273,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The early Christian proclamation 'Christ is born!' is traditionally answered with what phrase?",
+    "correct_answer": "Glorify Him!",
+    "incorrect_answers": ["Rejoice in Him!", "Praise His birth!", "Peace be to you!"]
+  },
+  {
+    "id": 274,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "St. Nicholas was historically a bishop of which ancient city?",
+    "correct_answer": "Myra",
+    "incorrect_answers": ["Ephesus", "Corinth", "Antioch"]
+  },
+  {
+    "id": 275,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Roman Christians once celebrated Christmas alongside which pagan festival of the sun?",
+    "correct_answer": "Dies Natalis Solis Invicti",
+    "incorrect_answers": ["Ludi Apollinares", "Ludi Romani", "Vinalia Rustica"]
+  },
+
+  {
+    "id": 276,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What 18th-century Christmas carol was banned by the French Catholic Church for several decades?",
+    "correct_answer": "O Holy Night",
+    "incorrect_answers": ["Angels We Have Heard on High", "O Come All Ye Faithful", "It Came Upon the Midnight Clear"]
+  },
+  {
+    "id": 277,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Spain, children traditionally receive most of their Christmas gifts on which date?",
+    "correct_answer": "January 6",
+    "incorrect_answers": ["December 25", "January 1", "December 26"]
+  },
+  {
+    "id": 278,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Whose 1843 pamphlet 'The Book of Christmas' helped revive Christmas customs in Victorian England?",
+    "correct_answer": "Thomas K. Hervey",
+    "incorrect_answers": ["Washington Irving", "Clement Moore", "Charles Dickens"]
+  },
+  {
+    "id": 279,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What figure in German folklore leaves treats in children’s shoes on December 6th?",
+    "correct_answer": "St. Nicholas",
+    "incorrect_answers": ["Knecht Ruprecht", "The Christkind", "Belsnickel"]
+  },
+  {
+    "id": 280,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Italian Nativity scene called a 'presepe' became widely popular in which century?",
+    "correct_answer": "13th century",
+    "incorrect_answers": ["10th century", "15th century", "17th century"]
+  },
+
+  {
+    "id": 281,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which book did Charles Dickens first reference 'Christmas trees'?",
+    "correct_answer": "Household Words",
+    "incorrect_answers": ["A Christmas Carol", "Pickwick Papers", "The Chimes"]
+  },
+  {
+    "id": 282,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Ukraine’s Christmas Eve dinner traditionally contains how many dishes?",
+    "correct_answer": "Twelve",
+    "incorrect_answers": ["Seven", "Nine", "Fourteen"]
+  },
+  {
+    "id": 283,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first British monarch to broadcast a Christmas speech?",
+    "correct_answer": "King George V",
+    "incorrect_answers": ["Queen Victoria", "Edward VII", "George VI"]
+  },
+  {
+    "id": 284,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The tradition of cutting down a Christmas tree likely stems from what medieval custom?",
+    "correct_answer": "The paradise tree in mystery plays",
+    "incorrect_answers": ["Winter solstice fir burning", "Decorated village maypoles", "Candlelit orchard walks"]
+  },
+  {
+    "id": 285,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Greek tradition, the 'Kalikantzaroi' are believed to appear during the twelve days of Christmas as what?",
+    "correct_answer": "Mischievous goblins",
+    "incorrect_answers": ["Storm spirits", "Forest ghosts", "Frost giants"]
+  },
+
+  {
+    "id": 286,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Bohemian Christmas mass 'Ryba’s Mass' was composed by whom?",
+    "correct_answer": "Jakub Jan Ryba",
+    "incorrect_answers": ["Antonín Dvořák", "Bedřich Smetana", "Leoš Janáček"]
+  },
+  {
+    "id": 287,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Switzerland’s traditional Christmas bread 'Grittibänz' is shaped like what?",
+    "correct_answer": "A human figure",
+    "incorrect_answers": ["A star", "A goat", "A boot"]
+  },
+  {
+    "id": 288,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was the first commercial Christmas card printed?",
+    "correct_answer": "1843",
+    "incorrect_answers": ["1812", "1859", "1881"]
+  },
+  {
+    "id": 289,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which figure from Russian folklore is the granddaughter and helper of Ded Moroz?",
+    "correct_answer": "Snegurochka",
+    "incorrect_answers": ["Morena", "Kupala", "Zorya"]
+  },
+  {
+    "id": 290,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian sweet bread eaten at Christmas, filled with candied fruit and raisins?",
+    "correct_answer": "Panettone",
+    "incorrect_answers": ["Pandoro", "Colomba", "Torrone"]
+  },
+
+  {
+    "id": 291,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Before red became the standard, St. Nicholas was often depicted wearing what color?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Blue", "Gold", "White"]
+  },
+  {
+    "id": 292,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Bavarian Christmas figure 'Krampus' is traditionally associated with which saint’s feast?",
+    "correct_answer": "St. Nicholas",
+    "incorrect_answers": ["St. Lucia", "St. Stephen", "St. Anthony"]
+  },
+  {
+    "id": 293,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Norway’s tradition of hiding what household item on Christmas Eve relates to fears of witches?",
+    "correct_answer": "Brooms",
+    "incorrect_answers": ["Shoes", "Mirrors", "Keys"]
+  },
+  {
+    "id": 294,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "A Christmas 'Tree of Light' tradition in Mexico involves what kind of decoration?",
+    "correct_answer": "Paper lanterns",
+    "incorrect_answers": ["Fireworks", "Glass globes", "Metal ornaments"]
+  },
+  {
+    "id": 295,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which poet wrote 'Ring Out, Wild Bells', a poem frequently read during the Christmas season?",
+    "correct_answer": "Alfred, Lord Tennyson",
+    "incorrect_answers": ["Robert Browning", "Walt Whitman", "Christina Rossetti"]
+  },
+
+  {
+    "id": 296,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Japan’s 'Hoteiosho', sometimes associated with Christmas, is a deity of what?",
+    "correct_answer": "Good fortune",
+    "incorrect_answers": ["Harvest", "Snow", "Music"]
+  },
+  {
+    "id": 297,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Lithuania’s Christmas Eve meal, Kūčios, traditionally includes dishes made without what ingredient?",
+    "correct_answer": "Meat",
+    "incorrect_answers": ["Sugar", "Salt", "Dairy"]
+  },
+  {
+    "id": 298,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 'Giant Lantern Festival' in the Philippines is primarily celebrated in which city?",
+    "correct_answer": "San Fernando",
+    "incorrect_answers": ["Cebu", "Manila", "Davao"]
+  },
+  {
+    "id": 299,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Shakespeare’s play 'Twelfth Night' is named after which part of the Christmas season?",
+    "correct_answer": "The end of the twelve days of Christmas",
+    "incorrect_answers": ["The start of Advent", "Christmas Eve", "The winter solstice"]
+  },
+  {
+    "id": 300,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which country is the Christmas witch 'Gryla' said to live in a volcanic mountain range?",
+    "correct_answer": "Iceland",
+    "incorrect_answers": ["Norway", "Latvia", "Russia"]
+  }
+]
+
   
-
-
-
-
-
-
-
-
-
