@@ -1607,14 +1607,915 @@
     "correct_answer": "Luka Dončić",
     "incorrect_answers": ["Trae Young", "Deandre Ayton", "Jaren Jackson Jr."]
   },
+  {
+    "id": 201,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer club became the first to win the treble twice in the UEFA Champions League era?",
+    "correct_answer": "Barcelona",
+    "incorrect_answers": ["Bayern Munich", "Real Madrid", "Manchester United"]
+  },
+  {
+    "id": 202,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first NBA player to record a quadruple-double?",
+    "correct_answer": "Nate Thurmond",
+    "incorrect_answers": ["Hakeem Olajuwon", "David Robinson", "Oscar Robertson"]
+  },
+  {
+    "id": 203,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In cricket, how many legal deliveries are bowled in a standard over?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Eight", "Seven", "Five"]
+  },
+  {
+    "id": 204,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which golfer was the first to win the modern Career Grand Slam twice?",
+    "correct_answer": "Jack Nicklaus",
+    "incorrect_answers": ["Tiger Woods", "Gary Player", "Ben Hogan"]
+  },
+  {
+    "id": 205,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which club won the inaugural UEFA Champions League in 1993?",
+    "correct_answer": "Marseille",
+    "incorrect_answers": ["AC Milan", "Barcelona", "Ajax"]
+  },
+  {
+    "id": 206,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first NHL player to score 50 goals in 50 games?",
+    "correct_answer": "Maurice Richard",
+    "incorrect_answers": ["Wayne Gretzky", "Gordie Howe", "Phil Esposito"]
+  },
+  {
+    "id": 207,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In tennis, who holds the record for the longest match in Grand Slam history?",
+    "correct_answer": "John Isner and Nicolas Mahut",
+    "incorrect_answers": ["Rafael Nadal and Novak Djokovic", "Roger Federer and Andy Roddick", "Andy Murray and Stan Wawrinka"]
+  },
+  {
+    "id": 208,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NFL team has the most Hall of Fame inductees?",
+    "correct_answer": "Chicago Bears",
+    "incorrect_answers": ["Pittsburgh Steelers", "Dallas Cowboys", "Green Bay Packers"]
+  },
+  {
+    "id": 209,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Formula 1 driver holds the record for most pole positions in a single season?",
+    "correct_answer": "Sebastian Vettel",
+    "incorrect_answers": ["Lewis Hamilton", "Ayrton Senna", "Michael Schumacher"]
+  },
+  {
+    "id": 210,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first player to reach 30,000 career points in the NBA?",
+    "correct_answer": "Wilt Chamberlain",
+    "incorrect_answers": ["Kareem Abdul-Jabbar", "Michael Jordan", "Karl Malone"]
+  },
+
+  {
+    "id": 211,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer manager won the UEFA Champions League with two different clubs before 2010?",
+    "correct_answer": "José Mourinho",
+    "incorrect_answers": ["Carlo Ancelotti", "Pep Guardiola", "Alex Ferguson"]
+  },
+  {
+    "id": 212,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In baseball, who was the first player to achieve 3,000 career hits?",
+    "correct_answer": "Cap Anson",
+    "incorrect_answers": ["Ty Cobb", "Honus Wagner", "Babe Ruth"]
+  },
+  {
+    "id": 213,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which nation has won the most medals in Winter Olympics history?",
+    "correct_answer": "Norway",
+    "incorrect_answers": ["United States", "Germany", "Russia"]
+  },
+  {
+    "id": 214,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player completed the Calendar Golden Slam in 1988?",
+    "correct_answer": "Steffi Graf",
+    "incorrect_answers": ["Martina Navratilova", "Serena Williams", "Monica Seles"]
+  },
+  {
+    "id": 215,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which boxer retired undefeated with a record of 50–0?",
+    "correct_answer": "Floyd Mayweather Jr.",
+    "incorrect_answers": ["Rocky Marciano", "Joe Calzaghe", "Andre Ward"]
+  },
+  {
+    "id": 216,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the only goalkeeper to win the Ballon d'Or?",
+    "correct_answer": "Lev Yashin",
+    "incorrect_answers": ["Manuel Neuer", "Gianluigi Buffon", "Iker Casillas"]
+  },
+  {
+    "id": 217,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What year was the first modern Olympic Games held?",
+    "correct_answer": "1896",
+    "incorrect_answers": ["1888", "1900", "1912"]
+  },
+  {
+    "id": 218,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which basketball coach has the most NCAA Division I men's championships?",
+    "correct_answer": "John Wooden",
+    "incorrect_answers": ["Mike Krzyzewski", "Roy Williams", "Dean Smith"]
+  },
+  {
+    "id": 219,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which MLB pitcher threw seven career no-hitters?",
+    "correct_answer": "Nolan Ryan",
+    "incorrect_answers": ["Sandy Koufax", "Randy Johnson", "Cy Young"]
+  },
+  {
+    "id": 220,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which club has appeared in the most UEFA Champions League finals?",
+    "correct_answer": "Real Madrid",
+    "incorrect_answers": ["AC Milan", "Barcelona", "Bayern Munich"]
+  },
+
+  {
+    "id": 221,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NHL team was originally known as the Quebec Nordiques?",
+    "correct_answer": "Colorado Avalanche",
+    "incorrect_answers": ["Dallas Stars", "Minnesota Wild", "Arizona Coyotes"]
+  },
+  {
+    "id": 222,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who holds the record for the fastest 100m freestyle swim in history?",
+    "correct_answer": "César Cielo",
+    "incorrect_answers": ["Michael Phelps", "Caeleb Dressel", "Alain Bernard"]
+  },
+  {
+    "id": 223,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer player scored the fastest Premier League hat-trick in just 2 minutes 56 seconds?",
+    "correct_answer": "Sadio Mané",
+    "incorrect_answers": ["Mohamed Salah", "Alan Shearer", "Sergio Agüero"]
+  },
+  {
+    "id": 224,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In golf, which tournament is known as 'The Open Championship'?",
+    "correct_answer": "The British Open",
+    "incorrect_answers": ["The U.S. Open", "The Masters", "PGA Championship"]
+  },
+  {
+    "id": 225,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What city hosted the 1994 Winter Olympics?",
+    "correct_answer": "Lillehammer",
+    "incorrect_answers": ["Nagano", "Albertville", "Salt Lake City"]
+  },
+  {
+    "id": 226,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NFL running back holds the record for most career rushing yards?",
+    "correct_answer": "Emmitt Smith",
+    "incorrect_answers": ["Walter Payton", "Barry Sanders", "LaDainian Tomlinson"]
+  },
+  {
+    "id": 227,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which club famously won the 1995 UEFA Champions League with a squad largely composed of academy graduates?",
+    "correct_answer": "Ajax",
+    "incorrect_answers": ["Barcelona", "Manchester United", "Porto"]
+  },
+  {
+    "id": 228,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which male tennis player holds the record for most ATP Masters 1000 titles?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": ["Rafael Nadal", "Roger Federer", "Andy Murray"]
+  },
+  {
+    "id": 229,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 'Miracle on Ice' occurred during which year's Winter Olympics?",
+    "correct_answer": "1980",
+    "incorrect_answers": ["1976", "1984", "1992"]
+  },
+  {
+    "id": 230,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which baseball team was the first to win four consecutive World Series titles?",
+    "correct_answer": "New York Yankees",
+    "incorrect_answers": ["Boston Red Sox", "Oakland Athletics", "Cincinnati Reds"]
+  },
+
+  {
+    "id": 231,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer nation won the first-ever FIFA World Cup in 1930?",
+    "correct_answer": "Uruguay",
+    "incorrect_answers": ["Brazil", "Argentina", "Italy"]
+  },
+  {
+    "id": 232,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In boxing, what weight class comes directly below lightweight?",
+    "correct_answer": "Super Featherweight",
+    "incorrect_answers": ["Featherweight", "Super Lightweight", "Bantamweight"]
+  },
+  {
+    "id": 233,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which F1 team won the first-ever Constructors' Championship in 1958?",
+    "correct_answer": "Vanwall",
+    "incorrect_answers": ["Ferrari", "Mercedes", "Cooper"]
+  },
+  {
+    "id": 234,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first pitcher to record 400 career strikeouts in a single MLB season?",
+    "correct_answer": "Nolan Ryan",
+    "incorrect_answers": ["Sandy Koufax", "Bob Gibson", "Randy Johnson"]
+  },
+  {
+    "id": 235,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer club is known as 'The Old Lady'?",
+    "correct_answer": "Juventus",
+    "incorrect_answers": ["AC Milan", "Bayern Munich", "Benfica"]
+  },
+  {
+    "id": 236,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which athlete won the men’s 400m Olympic gold medal in a world record time of 43.03 seconds?",
+    "correct_answer": "Wayde van Niekerk",
+    "incorrect_answers": ["Usain Bolt", "Michael Johnson", "Jeremy Wariner"]
+  },
+  {
+    "id": 237,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player was the youngest ever to be ranked world No. 1 at age 16?",
+    "correct_answer": "Martina Hingis",
+    "incorrect_answers": ["Steffi Graf", "Monica Seles", "Chris Evert"]
+  },
+  {
+    "id": 238,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NHL team drafted Wayne Gretzky?",
+    "correct_answer": "None",
+    "incorrect_answers": ["Edmonton Oilers", "Montreal Canadiens", "Los Angeles Kings"]
+  },
+  {
+    "id": 239,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In soccer, which team did Leicester City overtake to win the Premier League in 2016 with 81 points?",
+    "correct_answer": "Tottenham Hotspur",
+    "incorrect_answers": ["Arsenal", "Manchester City", "Chelsea"]
+  },
+  {
+    "id": 240,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the only golfer to complete the Grand Slam on both the PGA and Senior Tours?",
+    "correct_answer": "Gary Player",
+    "incorrect_answers": ["Jack Nicklaus", "Tom Watson", "Ben Hogan"]
+  },
+
+  {
+    "id": 241,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which club won the most consecutive Serie A titles with nine straight wins?",
+    "correct_answer": "Juventus",
+    "incorrect_answers": ["Inter Milan", "AC Milan", "Roma"]
+  },
+  {
+    "id": 242,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first gymnast to score a perfect 10 in the Olympics?",
+    "correct_answer": "Nadia Comăneci",
+    "incorrect_answers": ["Simone Biles", "Larisa Latynina", "Olga Korbut"]
+  },
+  {
+    "id": 243,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In cricket, what is the term for scoring 100 runs by a single batter in one innings?",
+    "correct_answer": "Century",
+    "incorrect_answers": ["Half-century", "Ton", "Double century"]
+  },
+  {
+    "id": 244,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which boxer famously fought in the 'Rumble in the Jungle'?",
+    "correct_answer": "Muhammad Ali",
+    "incorrect_answers": ["George Foreman", "Joe Frazier", "Ken Norton"]
+  },
+  {
+    "id": 245,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NBA team was the first to win 70 or more games in a single season?",
+    "correct_answer": "Chicago Bulls",
+    "incorrect_answers": ["Golden State Warriors", "Los Angeles Lakers", "Boston Celtics"]
+  },
+  {
+    "id": 246,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the only athlete to win Olympic gold medals in both the decathlon and the heptathlon?",
+    "correct_answer": "No one",
+    "incorrect_answers": ["Jim Thorpe", "Ashton Eaton", "Jackie Joyner-Kersee"]
+  },
+  {
+    "id": 247,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which baseball stadium is the oldest ballpark in MLB?",
+    "correct_answer": "Fenway Park",
+    "incorrect_answers": ["Wrigley Field", "Dodger Stadium", "Yankee Stadium"]
+  },
+  {
+    "id": 248,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which F1 driver earned the nickname 'The Professor'?",
+    "correct_answer": "Alain Prost",
+    "incorrect_answers": ["Ayrton Senna", "Niki Lauda", "Nigel Mansell"]
+  },
+  {
+    "id": 249,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country has won the most Olympic gold medals in men's hockey?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Pakistan", "Germany", "Netherlands"]
+  },
+  {
+    "id": 250,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In soccer, which club won the 1997 UEFA Champions League?",
+    "correct_answer": "Borussia Dortmund",
+    "incorrect_answers": ["Juventus", "Real Madrid", "Bayern Munich"]
+  },
+
+  {
+    "id": 251,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 'Dream Team' competed in which year’s Olympic Games?",
+    "correct_answer": "1992",
+    "incorrect_answers": ["1996", "1988", "2000"]
+  },
+  {
+    "id": 252,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player holds the record for most consecutive weeks ranked No. 1 in men's tennis?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Novak Djokovic", "Pete Sampras", "Rafael Nadal"]
+  },
+  {
+    "id": 253,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which MLB player was the first to have his jersey retired by every team in the league?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": ["Babe Ruth", "Lou Gehrig", "Willie Mays"]
+  },
+  {
+    "id": 254,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who won the FIFA World Player of the Year award in 2006?",
+    "correct_answer": "Ronaldinho",
+    "incorrect_answers": ["Zinedine Zidane", "Kaká", "Thierry Henry"]
+  },
+  {
+    "id": 255,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which NFL quarterback holds the record for most career passing touchdowns?",
+    "correct_answer": "Tom Brady",
+    "incorrect_answers": ["Peyton Manning", "Drew Brees", "Brett Favre"]
+  },
+  {
+    "id": 256,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the first tennis Grand Slam tournament Novak Djokovic won?",
+    "correct_answer": "Australian Open",
+    "incorrect_answers": ["Wimbledon", "US Open", "French Open"]
+  },
+  {
+    "id": 257,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which cyclist won seven consecutive Tour de France titles before they were stripped?",
+    "correct_answer": "Lance Armstrong",
+    "incorrect_answers": ["Miguel Induráin", "Chris Froome", "Greg LeMond"]
+  },
+  {
+    "id": 258,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Argentinian club did Diego Maradona first play for professionally?",
+    "correct_answer": "Argentinos Juniors",
+    "incorrect_answers": ["Boca Juniors", "Newell's Old Boys", "River Plate"]
+  },
+  {
+    "id": 259,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many horses compete in the Kentucky Derby?",
+    "correct_answer": "20",
+    "incorrect_answers": ["16", "18", "22"]
+  },
+  {
+    "id": 260,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer club won the first-ever Premier League title in 1993?",
+    "correct_answer": "Manchester United",
+    "incorrect_answers": ["Liverpool", "Arsenal", "Blackburn Rovers"]
+  },
+
+  {
+    "id": 261,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which golfer earned the nickname 'The Big Easy'?",
+    "correct_answer": "Ernie Els",
+    "incorrect_answers": ["Vijay Singh", "Retief Goosen", "Nick Faldo"]
+  },
+  {
+    "id": 262,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country won the most medals at the 1984 Summer Olympics, largely due to the Soviet-led boycott?",
+    "correct_answer": "United States",
+    "incorrect_answers": ["China", "West Germany", "South Korea"]
+  },
+  {
+    "id": 263,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first WNBA player to dunk in a game?",
+    "correct_answer": "Lisa Leslie",
+    "incorrect_answers": ["Brittney Griner", "Candace Parker", "Cheryl Miller"]
+  },
+  {
+    "id": 264,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which F1 driver won the 1992 World Championship with a record nine wins in a season?",
+    "correct_answer": "Nigel Mansell",
+    "incorrect_answers": ["Ayrton Senna", "Michael Schumacher", "Alain Prost"]
+  },
+  {
+    "id": 265,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which pitcher has the most career strikeouts in MLB history?",
+    "correct_answer": "Nolan Ryan",
+    "incorrect_answers": ["Randy Johnson", "Roger Clemens", "Tom Seaver"]
+  },
+  {
+    "id": 266,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who won the Ballon d'Or in 1991?",
+    "correct_answer": "Jean-Pierre Papin",
+    "incorrect_answers": ["Marco van Basten", "Lothar Matthäus", "Hristo Stoichkov"]
+  },
+  {
+    "id": 267,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Olympic swimmer was known as 'The Albatross' for his long wingspan?",
+    "correct_answer": "Michael Gross",
+    "incorrect_answers": ["Ian Thorpe", "Matt Biondi", "Mark Spitz"]
+  },
+  {
+    "id": 268,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer club won the Intercontinental Cup in 2004?",
+    "correct_answer": "Porto",
+    "incorrect_answers": ["Boca Juniors", "AC Milan", "São Paulo"]
+  },
+  {
+    "id": 269,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which race is traditionally the final event of the Triple Crown in horse racing?",
+    "correct_answer": "Belmont Stakes",
+    "incorrect_answers": ["Kentucky Derby", "Preakness Stakes", "Breeders' Cup Classic"]
+  },
+  {
+    "id": 270,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Greek runner famously won the first modern Olympic marathon?",
+    "correct_answer": "Spyridon Louis",
+    "incorrect_answers": ["Hacine Hariri", "Panagiotis Velkou", "Ioannis Kouros"]
+  },
+
+  {
+    "id": 271,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What NBA team drafted Dirk Nowitzki before trading him on draft night?",
+    "correct_answer": "Milwaukee Bucks",
+    "incorrect_answers": ["Dallas Mavericks", "Phoenix Suns", "Sacramento Kings"]
+  },
+  {
+    "id": 272,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer player scored the most goals in a single European Championship tournament?",
+    "correct_answer": "Michel Platini",
+    "incorrect_answers": ["Cristiano Ronaldo", "Marco van Basten", "Antoine Griezmann"]
+  },
+  {
+    "id": 273,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which F1 driver competed in five different decades?",
+    "correct_answer": "Mario Andretti",
+    "incorrect_answers": ["Jack Brabham", "Jim Clark", "Graham Hill"]
+  },
+  {
+    "id": 274,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 'Hand of God' goal was scored against which country?",
+    "correct_answer": "England",
+    "incorrect_answers": ["Italy", "Germany", "Spain"]
+  },
+  {
+    "id": 275,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which female gymnast has won the most Olympic gold medals?",
+    "correct_answer": "Larisa Latynina",
+    "incorrect_answers": ["Simone Biles", "Nadia Comăneci", "Svetlana Khorkina"]
+  },
+  {
+    "id": 276,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which team won the first Rugby World Cup in 1987?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["South Africa", "Australia", "France"]
+  },
+  {
+    "id": 277,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which basketball team won the ABA’s final championship before merging with the NBA?",
+    "correct_answer": "New York Nets",
+    "incorrect_answers": ["Denver Nuggets", "Indiana Pacers", "San Antonio Spurs"]
+  },
+  {
+    "id": 278,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which MLB player set the rookie record for home runs in 2017?",
+    "correct_answer": "Aaron Judge",
+    "incorrect_answers": ["Pete Alonso", "Cody Bellinger", "Ronald Acuña Jr."]
+  },
+  {
+    "id": 279,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player famously won the 2001 Wimbledon as a wild card?",
+    "correct_answer": "Goran Ivanišević",
+    "incorrect_answers": ["Tim Henman", "Pat Rafter", "Andre Agassi"]
+  },
+  {
+    "id": 280,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer manager led Greece to a shocking Euro 2004 triumph?",
+    "correct_answer": "Otto Rehhagel",
+    "incorrect_answers": ["Luis Aragonés", "Felipão", "Marcello Lippi"]
+  },
+
+  {
+    "id": 281,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which golfer won the 2003 Masters after a miraculous chip-in on the 16th hole?",
+    "correct_answer": "Tiger Woods",
+    "incorrect_answers": ["Phil Mickelson", "Mike Weir", "Vijay Singh"]
+  },
+  {
+    "id": 282,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many wins did the Chicago Bulls achieve in their record-setting 1995–96 season?",
+    "correct_answer": "72",
+    "incorrect_answers": ["73", "70", "69"]
+  },
+  {
+    "id": 283,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer team has won the most Copa Libertadores titles?",
+    "correct_answer": "Independiente",
+    "incorrect_answers": ["Boca Juniors", "Peñarol", "River Plate"]
+  },
+  {
+    "id": 284,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which MLB pitcher threw the only perfect game in World Series history?",
+    "correct_answer": "Don Larsen",
+    "incorrect_answers": ["Sandy Koufax", "Roy Halladay", "Cy Young"]
+  },
+  {
+    "id": 285,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which cyclist holds the record for the most Giro d’Italia victories?",
+    "correct_answer": "Alfredo Binda",
+    "incorrect_answers": ["Eddy Merckx", "Fausto Coppi", "Gino Bartali"]
+  },
+  {
+    "id": 286,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who scored the 'Hand of God' goal in the 1986 World Cup quarterfinals?",
+    "correct_answer": "Diego Maradona",
+    "incorrect_answers": ["Jorge Valdano", "Claudio Borghi", "Mario Kempes"]
+  },
+  {
+    "id": 287,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which city was the first modern Olympic marathon finished?",
+    "correct_answer": "Athens",
+    "incorrect_answers": ["Marathon", "Sparta", "Olympia"]
+  },
+  {
+    "id": 288,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who holds the NBA record for most rebounds in a single game?",
+    "correct_answer": "Wilt Chamberlain",
+    "incorrect_answers": ["Bill Russell", "Dennis Rodman", "Moses Malone"]
+  },
+  {
+    "id": 289,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which female soccer player has the most career international goals?",
+    "correct_answer": "Christine Sinclair",
+    "incorrect_answers": ["Abby Wambach", "Marta", "Megan Rapinoe"]
+  },
+  {
+    "id": 290,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who won the first UFC Heavyweight Championship?",
+    "correct_answer": "Mark Coleman",
+    "incorrect_answers": ["Dan Severn", "Bas Rutten", "Ken Shamrock"]
+  },
+
+  {
+    "id": 291,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which club won the first-ever European Cup in 1956?",
+    "correct_answer": "Real Madrid",
+    "incorrect_answers": ["Benfica", "Milan", "Barcelona"]
+  },
+  {
+    "id": 292,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Formula 1 driver was known as 'The Flying Finn'?",
+    "correct_answer": "Mika Häkkinen",
+    "incorrect_answers": ["Kimi Räikkönen", "Valtteri Bottas", "Heikki Kovalainen"]
+  },
+  {
+    "id": 293,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which soccer player scored the most goals in a single La Liga season?",
+    "correct_answer": "Lionel Messi",
+    "incorrect_answers": ["Cristiano Ronaldo", "Telmo Zarra", "Luis Suárez"]
+  },
+  {
+    "id": 294,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the only player to win NBA MVP, Coach of the Year, and Executive of the Year?",
+    "correct_answer": "Larry Bird",
+    "incorrect_answers": ["Phil Jackson", "Pat Riley", "Michael Jordan"]
+  },
+  {
+    "id": 295,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player won the men’s singles title at the 2003 French Open?",
+    "correct_answer": "Juan Carlos Ferrero",
+    "incorrect_answers": ["Andre Agassi", "Gustavo Kuerten", "Roger Federer"]
+  },
+  {
+    "id": 296,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which boxer defeated Mike Tyson in 1990 to cause one of the greatest upsets in boxing history?",
+    "correct_answer": "Buster Douglas",
+    "incorrect_answers": ["Evander Holyfield", "Riddick Bowe", "Lennox Lewis"]
+  },
+  {
+    "id": 297,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who holds the NHL record for most career points?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": ["Jaromír Jágr", "Mark Messier", "Mario Lemieux"]
+  },
+  {
+    "id": 298,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which cyclist is known as 'The Cannibal'?",
+    "correct_answer": "Eddy Merckx",
+    "incorrect_answers": ["Fausto Coppi", "Miguel Induráin", "Bernard Hinault"]
+  },
+  {
+    "id": 299,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country hosted the first-ever FIFA Club World Cup?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Japan", "Spain", "United States"]
+  },
+  {
+    "id": 300,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tennis player ended Steffi Graf’s 186-week streak at No. 1 by taking the top spot in March 1997?",
+    "correct_answer": "Martina Hingis",
+    "incorrect_answers": ["Monica Seles", "Arantxa Sánchez Vicario", "Lindsay Davenport"]
+  }
+]
 
 
-
-
-  
-
-
-
-
-
-  
