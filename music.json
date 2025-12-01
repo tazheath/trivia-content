@@ -1817,9 +1817,914 @@
     "correct_answer": "Dua Lipa",
     "incorrect_answers": ["Rita Ora", "Ariana Grande", "Halsey"]
   },
-  
+  {
+    "id": 201,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Icelandic artist released the 1997 electronic-influenced album 'Homogenic'?",
+    "correct_answer": "Björk",
+    "incorrect_answers": ["Jónsi", "Robyn", "Tove Lo"]
+  },
+  {
+    "id": 202,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which British trip-hop group released the 1998 album 'Mezzanine'?",
+    "correct_answer": "Massive Attack",
+    "incorrect_answers": ["Portishead", "Tricky", "Morcheeba"]
+  },
+  {
+    "id": 203,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the critically acclaimed 2015 album 'To Pimp a Butterfly'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["J. Cole", "Kanye West", "Childish Gambino"]
+  },
+  {
+    "id": 204,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which French electronic duo released the 2001 album 'Discovery'?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": ["Justice", "Air", "Cassius"]
+  },
+  {
+    "id": 205,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which band released the experimental 2000 album 'Kid A'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Tool", "Muse", "Smashing Pumpkins"]
+  },
+  {
+    "id": 206,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the 1998 debut single '...Baby One More Time'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": ["Christina Aguilera", "Jessica Simpson", "Mandy Moore"]
+  },
+  {
+    "id": 207,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which punk-influenced rock band released the 2004 concept album 'American Idiot'?",
+    "correct_answer": "Green Day",
+    "incorrect_answers": ["Blink-182", "My Chemical Romance", "Sum 41"]
+  },
+  {
+    "id": 208,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which R&B singer released her debut album 'Songs in A Minor' in 2001?",
+    "correct_answer": "Alicia Keys",
+    "incorrect_answers": ["Mary J. Blige", "Erykah Badu", "Lauryn Hill"]
+  },
+  {
+    "id": 209,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the 2017 hit single 'Shape of You'?",
+    "correct_answer": "Ed Sheeran",
+    "incorrect_answers": ["Sam Smith", "George Ezra", "James Bay"]
+  },
+  {
+    "id": 210,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Canadian artist released the 1995 album 'Jagged Little Pill'?",
+    "correct_answer": "Alanis Morissette",
+    "incorrect_answers": ["Shania Twain", "Sarah McLachlan", "Celine Dion"]
+  },
 
+  {
+    "id": 211,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which German electronic band is considered a pioneer of synth-based music with albums like 'Autobahn'?",
+    "correct_answer": "Kraftwerk",
+    "incorrect_answers": ["Neu!", "Tangerine Dream", "Can"]
+  },
+  {
+    "id": 212,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which experimental duo released the album 'LP5' in 1998?",
+    "correct_answer": "Autechre",
+    "incorrect_answers": ["Boards of Canada", "Aphex Twin", "Orbital"]
+  },
+  {
+    "id": 213,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which influential rapper released the 1994 classic album 'Illmatic'?",
+    "correct_answer": "Nas",
+    "incorrect_answers": ["Jay-Z", "Rakim", "The Notorious B.I.G."]
+  },
+  {
+    "id": 214,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which British trip-hop group released the 1994 album 'Dummy'?",
+    "correct_answer": "Portishead",
+    "incorrect_answers": ["Massive Attack", "Tricky", "Morcheeba"]
+  },
+  {
+    "id": 215,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Japanese composer is known for scores to Studio Ghibli films such as 'Spirited Away'?",
+    "correct_answer": "Joe Hisaishi",
+    "incorrect_answers": ["Ryuichi Sakamoto", "Yoko Kanno", "Koji Kondo"]
+  },
+  {
+    "id": 216,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer-songwriter released the experimental R&B album 'Blonde'?",
+    "correct_answer": "Frank Ocean",
+    "incorrect_answers": ["Miguel", "The Weeknd", "Childish Gambino"]
+  },
+  {
+    "id": 217,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which British band released the post-punk album 'London Calling' in 1979?",
+    "correct_answer": "The Clash",
+    "incorrect_answers": ["The Jam", "The Sex Pistols", "Buzzcocks"]
+  },
+  {
+    "id": 218,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the 1982 minimalist album 'Glassworks'?",
+    "correct_answer": "Philip Glass",
+    "incorrect_answers": ["Steve Reich", "John Adams", "Terry Riley"]
+  },
+  {
+    "id": 219,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which metal band released the 1991 self-titled album commonly known as 'The Black Album'?",
+    "correct_answer": "Metallica",
+    "incorrect_answers": ["Megadeth", "Slayer", "Anthrax"]
+  },
+  {
+    "id": 220,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which virtual band created by Damon Albarn released their debut album in 2001?",
+    "correct_answer": "Gorillaz",
+    "incorrect_answers": ["Blur", "The Good, the Bad & the Queen", "Massive Attack"]
+  },
 
+  {
+    "id": 221,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the 2013 album 'Because the Internet'?",
+    "correct_answer": "Childish Gambino",
+    "incorrect_answers": ["Tyler, The Creator", "Kid Cudi", "Chance the Rapper"]
+  },
+  {
+    "id": 222,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which experimental rock band released the album 'In Rainbows' using a pay-what-you-want model?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Arcade Fire", "The Flaming Lips", "Wilco"]
+  },
+  {
+    "id": 223,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which hip-hop duo released the critically acclaimed album 'Madvillainy'?",
+    "correct_answer": "Madvillain",
+    "incorrect_answers": ["Black Star", "Run the Jewels", "Eric B. & Rakim"]
+  },
+  {
+    "id": 224,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the 2017 album 'MASSEDUCTION'?",
+    "correct_answer": "St. Vincent",
+    "incorrect_answers": ["Lorde", "Charli XCX", "FKA twigs"]
+  },
+  {
+    "id": 225,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What American rock band released the 2005 album 'Mezmerize'?",
+    "correct_answer": "System of a Down",
+    "incorrect_answers": ["Slipknot", "Korn", "Deftones"]
+  },
+  {
+    "id": 226,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What band released the 1997 indie classic 'Either/Or'?",
+    "correct_answer": "Elliott Smith",
+    "incorrect_answers": ["Bright Eyes", "Death Cab for Cutie", "Beck"]
+  },
+  {
+    "id": 227,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which group released the influential horrorcore album 'Enter the Twilight Zone'?",
+    "correct_answer": "Three 6 Mafia",
+    "incorrect_answers": ["Bone Thugs-N-Harmony", "Geto Boys", "Insane Clown Posse"]
+  },
+  {
+    "id": 228,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the lo-fi hip-hop classic 'Donuts'?",
+    "correct_answer": "J Dilla",
+    "incorrect_answers": ["Flying Lotus", "Nujabes", "Knxwledge"]
+  },
+  {
+    "id": 229,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which avant-pop artist released the 2012 album 'Visions'?",
+    "correct_answer": "Grimes",
+    "incorrect_answers": ["FKA twigs", "Charli XCX", "Sevdaliza"]
+  },
+  {
+    "id": 230,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What hip-hop group released the political concept album 'Fear of a Black Planet'?",
+    "correct_answer": "Public Enemy",
+    "incorrect_answers": ["N.W.A", "Run-D.M.C.", "A Tribe Called Quest"]
+  },
 
+  {
+    "id": 231,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which artist released the experimental album 'Yeezus'?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": ["Kid Cudi", "J. Cole", "Travis Scott"]
+  },
+  {
+    "id": 232,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What electronic producer released the breakout album 'Selected Ambient Works 85–92'?",
+    "correct_answer": "Aphex Twin",
+    "incorrect_answers": ["Boards of Canada", "Autechre", "Squarepusher"]
+  },
+  {
+    "id": 233,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which alternative artist released the 2006 album 'The Eraser'?",
+    "correct_answer": "Thom Yorke",
+    "incorrect_answers": ["Beck", "James Blake", "Sufjan Stevens"]
+  },
+  {
+    "id": 234,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which R&B singer released the acclaimed 2016 album 'A Seat at the Table'?",
+    "correct_answer": "Solange",
+    "incorrect_answers": ["SZA", "H.E.R.", "Janelle Monáe"]
+  },
+  {
+    "id": 235,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which indie band released the 2004 album 'Funeral'?",
+    "correct_answer": "Arcade Fire",
+    "incorrect_answers": ["The National", "Modest Mouse", "Death Cab for Cutie"]
+  },
+  {
+    "id": 236,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What artist released the 2020 experimental pop album 'Fetch the Bolt Cutters'?",
+    "correct_answer": "Fiona Apple",
+    "incorrect_answers": ["Phoebe Bridgers", "St. Vincent", "Lorde"]
+  },
+  {
+    "id": 237,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which synth-pop band released the 1985 album 'Hounds of Love' featuring 'Running Up That Hill'?",
+    "correct_answer": "Kate Bush",
+    "incorrect_answers": ["Annie Lennox", "Siouxsie Sioux", "Sinead O'Connor"]
+  },
+  {
+    "id": 238,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the folk-influenced album 'Carrie & Lowell'?",
+    "correct_answer": "Sufjan Stevens",
+    "incorrect_answers": ["Bon Iver", "Iron & Wine", "Fleet Foxes"]
+  },
+  {
+    "id": 239,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the experimental jazz album 'Blackstar'?",
+    "correct_answer": "David Bowie",
+    "incorrect_answers": ["Nick Cave", "Peter Gabriel", "Brian Eno"]
+  },
+  {
+    "id": 240,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the 2010 concept album 'My Beautiful Dark Twisted Fantasy'?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": ["Drake", "Lil Wayne", "Kid Cudi"]
+  },
 
-  
+  {
+    "id": 241,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the hip-hop album 'The Chronic 2001'?",
+    "correct_answer": "Dr. Dre",
+    "incorrect_answers": ["Snoop Dogg", "Ice Cube", "Eminem"]
+  },
+  {
+    "id": 242,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What group released the experimental electronic album 'Geogaddi'?",
+    "correct_answer": "Boards of Canada",
+    "incorrect_answers": ["Autechre", "Aphex Twin", "Squarepusher"]
+  },
+  {
+    "id": 243,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which artist released the genre-blending album 'Dirty Computer'?",
+    "correct_answer": "Janelle Monáe",
+    "incorrect_answers": ["Kelela", "FKA twigs", "Solange"]
+  },
+  {
+    "id": 244,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which band released the post-punk revival album 'Turn on the Bright Lights'?",
+    "correct_answer": "Interpol",
+    "incorrect_answers": ["The Strokes", "Franz Ferdinand", "Editors"]
+  },
+  {
+    "id": 245,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the emotional 2018 album 'Swimming'?",
+    "correct_answer": "Mac Miller",
+    "incorrect_answers": ["Logic", "Juice WRLD", "Post Malone"]
+  },
+  {
+    "id": 246,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What artist released the experimental indie album 'Bury Me at Makeout Creek'?",
+    "correct_answer": "Mitski",
+    "incorrect_answers": ["Japanese Breakfast", "Lucy Dacus", "Phoebe Bridgers"]
+  },
+  {
+    "id": 247,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who created the sprawling hip-hop album 'The Life of Pablo'?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": ["Drake", "J. Cole", "Big Sean"]
+  },
+  {
+    "id": 248,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which electronic artist released 'Cosmogramma'?",
+    "correct_answer": "Flying Lotus",
+    "incorrect_answers": ["Four Tet", "Aphex Twin", "Caribou"]
+  },
+  {
+    "id": 249,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What band released the influential emo album 'The Devil and God Are Raging Inside Me'?",
+    "correct_answer": "Brand New",
+    "incorrect_answers": ["Taking Back Sunday", "Jimmy Eat World", "Modern Baseball"]
+  },
+  {
+    "id": 250,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rapper released the 2012 album 'good kid, m.A.A.d city'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["Drake", "J. Cole", "Schoolboy Q"]
+  },
+
+  {
+    "id": 251,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which indie folk artist released the 2011 album 'Helplessness Blues'?",
+    "correct_answer": "Fleet Foxes",
+    "incorrect_answers": ["Bon Iver", "Iron & Wine", "Sufjan Stevens"]
+  },
+  {
+    "id": 252,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the alternative R&B album 'House of Balloons'?",
+    "correct_answer": "The Weeknd",
+    "incorrect_answers": ["Frank Ocean", "The Neighbourhood", "PARTYNEXTDOOR"]
+  },
+  {
+    "id": 253,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the concept album 'Born to Die' in 2012?",
+    "correct_answer": "Lana Del Rey",
+    "incorrect_answers": ["Florence Welch", "Lorde", "Halsey"]
+  },
+  {
+    "id": 254,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What experimental singer released the 2019 album 'Magdalene'?",
+    "correct_answer": "FKA twigs",
+    "incorrect_answers": ["Grimes", "Charli XCX", "Sevdaliza"]
+  },
+  {
+    "id": 255,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the soundtrack for the video game 'Death Stranding'?",
+    "correct_answer": "Ludvig Forssell",
+    "incorrect_answers": ["Hans Zimmer", "Jeremy Soule", "Gustavo Santaolalla"]
+  },
+  {
+    "id": 256,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the album 'Man on the Moon: The End of Day'?",
+    "correct_answer": "Kid Cudi",
+    "incorrect_answers": ["Kanye West", "Travis Scott", "Big Sean"]
+  },
+  {
+    "id": 257,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who produced the album 'Channel Orange'?",
+    "correct_answer": "Frank Ocean",
+    "incorrect_answers": ["The Weeknd", "Miguel", "Tyler, The Creator"]
+  },
+  {
+    "id": 258,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the indie rock album 'Strange Mercy'?",
+    "correct_answer": "St. Vincent",
+    "incorrect_answers": ["Florence Welch", "Angel Olsen", "Courtney Barnett"]
+  },
+  {
+    "id": 259,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the introspective indie album 'Punisher'?",
+    "correct_answer": "Phoebe Bridgers",
+    "incorrect_answers": ["Lucy Dacus", "Julien Baker", "Snail Mail"]
+  },
+  {
+    "id": 260,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which hip-hop duo released the album 'Run the Jewels 2'?",
+    "correct_answer": "Run the Jewels",
+    "incorrect_answers": ["OutKast", "Mobb Deep", "Black Star"]
+  },
+
+  {
+    "id": 261,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which experimental artist released the album 'Titanic Rising'?",
+    "correct_answer": "Weyes Blood",
+    "incorrect_answers": ["Angel Olsen", "Lorde", "Julia Holter"]
+  },
+  {
+    "id": 262,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What group released the influential hip-hop album 'Aquemini'?",
+    "correct_answer": "OutKast",
+    "incorrect_answers": ["UGK", "Bone Thugs-N-Harmony", "Goodie Mob"]
+  },
+  {
+    "id": 263,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which indie rock band released the 2013 album 'The Bones of What You Believe'?",
+    "correct_answer": "CHVRCHES",
+    "incorrect_answers": ["Purity Ring", "M83", "Sylvan Esso"]
+  },
+  {
+    "id": 264,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who created the 2009 electropop album 'It's Not Me, It's You'?",
+    "correct_answer": "Lily Allen",
+    "incorrect_answers": ["La Roux", "Robyn", "Little Boots"]
+  },
+  {
+    "id": 265,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the critically acclaimed album 'Daytona'?",
+    "correct_answer": "Pusha T",
+    "incorrect_answers": ["Nas", "Jay-Z", "Joey Bada$$"]
+  },
+  {
+    "id": 266,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What band released the influential album 'Turn Blue'?",
+    "correct_answer": "The Black Keys",
+    "incorrect_answers": ["Arctic Monkeys", "The White Stripes", "The Strokes"]
+  },
+  {
+    "id": 267,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the experimental R&B album 'LP1'?",
+    "correct_answer": "FKA twigs",
+    "incorrect_answers": ["Kelela", "Sevdaliza", "Solange"]
+  },
+  {
+    "id": 268,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What band released the math-rock-influenced album 'Ants from Up There'?",
+    "correct_answer": "Black Country, New Road",
+    "incorrect_answers": ["Black Midi", "Foals", "Car Seat Headrest"]
+  },
+  {
+    "id": 269,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which producer is known for the album 'Untrue'?",
+    "correct_answer": "Burial",
+    "incorrect_answers": ["Four Tet", "Jamie xx", "Caribou"]
+  },
+  {
+    "id": 270,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What group released the 2013 hip-hop album 'Old'?",
+    "correct_answer": "Danny Brown",
+    "incorrect_answers": ["A$AP Rocky", "Tyler, The Creator", "Earl Sweatshirt"]
+  },
+
+  {
+    "id": 271,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the acclaimed indie album 'Halcyon Digest'?",
+    "correct_answer": "Deerhunter",
+    "incorrect_answers": ["Grizzly Bear", "Fleet Foxes", "Beach House"]
+  },
+  {
+    "id": 272,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which pop singer released the 2007 album 'Blackout'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": ["Christina Aguilera", "Kelly Clarkson", "Jessica Simpson"]
+  },
+  {
+    "id": 273,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the 2010 indie rock album 'High Violet'?",
+    "correct_answer": "The National",
+    "incorrect_answers": ["The War on Drugs", "Arcade Fire", "Bon Iver"]
+  },
+  {
+    "id": 274,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What electronic artist released 'Immunity'?",
+    "correct_answer": "Jon Hopkins",
+    "incorrect_answers": ["Four Tet", "Caribou", "Floating Points"]
+  },
+  {
+    "id": 275,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who recorded the song 'Motion Picture Soundtrack'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Beck", "The Flaming Lips", "Snow Patrol"]
+  },
+  {
+    "id": 276,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What group released the hip-hop album 'Stankonia'?",
+    "correct_answer": "OutKast",
+    "incorrect_answers": ["UGK", "Goodie Mob", "Black Star"]
+  },
+  {
+    "id": 277,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which indie singer released the 2017 breakthrough album 'Flower Boy'?",
+    "correct_answer": "Tyler, The Creator",
+    "incorrect_answers": ["Frank Ocean", "Kevin Abstract", "Childish Gambino"]
+  },
+  {
+    "id": 278,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What artist released the 2015 experimental album 'Art Angels'?",
+    "correct_answer": "Grimes",
+    "incorrect_answers": ["Charli XCX", "FKA twigs", "Lorde"]
+  },
+  {
+    "id": 279,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the acclaimed 2020 Americana album 'Punisher'?",
+    "correct_answer": "Phoebe Bridgers",
+    "incorrect_answers": ["Brandi Carlile", "Julien Baker", "Margo Price"]
+  },
+  {
+    "id": 280,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the acclaimed debut album 'For Emma, Forever Ago'?",
+    "correct_answer": "Bon Iver",
+    "incorrect_answers": ["Iron & Wine", "The Tallest Man on Earth", "Fleet Foxes"]
+  },
+
+  {
+    "id": 281,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What electronic duo released the album 'Cross'?",
+    "correct_answer": "Justice",
+    "incorrect_answers": ["Daft Punk", "Boards of Canada", "Disclosure"]
+  },
+  {
+    "id": 282,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rapper released the 2010 mixtape 'K.I.D.S.'?",
+    "correct_answer": "Mac Miller",
+    "incorrect_answers": ["Logic", "Joey Bada$$", "Wiz Khalifa"]
+  },
+  {
+    "id": 283,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the 2014 indie pop album 'Broke with Expensive Taste'?",
+    "correct_answer": "Azealia Banks",
+    "incorrect_answers": ["Charli XCX", "Marina", "Sky Ferreira"]
+  },
+  {
+    "id": 284,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who released the concept album 'American IV: The Man Comes Around'?",
+    "correct_answer": "Johnny Cash",
+    "incorrect_answers": ["Willie Nelson", "Chris Stapleton", "Sturgill Simpson"]
+  },
+  {
+    "id": 285,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which alternative artist released the album 'Bloom' in 2012?",
+    "correct_answer": "Beach House",
+    "incorrect_answers": ["The xx", "Grizzly Bear", "Purity Ring"]
+  },
+  {
+    "id": 286,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the 2018 project 'Kids See Ghosts' with Kid Cudi?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": ["Travis Scott", "Pusha T", "Tyler, The Creator"]
+  },
+  {
+    "id": 287,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer-songwriter released the 2017 album 'A Deeper Understanding'?",
+    "correct_answer": "The War on Drugs",
+    "incorrect_answers": ["Kurt Vile", "The National", "Wilco"]
+  },
+  {
+    "id": 288,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What indie band released the 2018 album 'Tranquility Base Hotel & Casino'?",
+    "correct_answer": "Arctic Monkeys",
+    "incorrect_answers": ["The Strokes", "Franz Ferdinand", "Cage the Elephant"]
+  },
+  {
+    "id": 289,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which R&B artist released the concept album 'Heaux Tales'?",
+    "correct_answer": "Jazmine Sullivan",
+    "incorrect_answers": ["H.E.R.", "SZA", "Ari Lennox"]
+  },
+  {
+    "id": 290,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What pop group released the album 'Emotion: Side B'?",
+    "correct_answer": "Carly Rae Jepsen",
+    "incorrect_answers": ["Charli XCX", "Lorde", "HAIM"]
+  },
+
+  {
+    "id": 291,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which alternative rapper released the album 'Veteran'?",
+    "correct_answer": "JPEGMAFIA",
+    "incorrect_answers": ["Denzel Curry", "Brockhampton", "Vince Staples"]
+  },
+  {
+    "id": 292,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the soundtrack for the video game 'Halo'?",
+    "correct_answer": "Martin O'Donnell",
+    "incorrect_answers": ["Nobuo Uematsu", "Koji Kondo", "Yuzo Koshiro"]
+  },
+  {
+    "id": 293,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Swedish pop artist released the 2010 album 'Body Talk'?",
+    "correct_answer": "Robyn",
+    "incorrect_answers": ["Lykke Li", "Tove Lo", "Zara Larsson"]
+  },
+  {
+    "id": 294,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who produced the album 'In Colour'?",
+    "correct_answer": "Jamie xx",
+    "incorrect_answers": ["Four Tet", "Caribou", "Disclosure"]
+  },
+  {
+    "id": 295,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What duo released the album 'Voices' in 2014?",
+    "correct_answer": "Phantogram",
+    "incorrect_answers": ["Sylvan Esso", "Purity Ring", "CHVRCHES"]
+  },
+  {
+    "id": 296,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rapper released the 2016 album 'Atrocity Exhibition'?",
+    "correct_answer": "Danny Brown",
+    "incorrect_answers": ["Denzel Curry", "A$AP Rocky", "Flatbush Zombies"]
+  },
+  {
+    "id": 297,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which singer released the album 'Titanic Rising'?",
+    "correct_answer": "Weyes Blood",
+    "incorrect_answers": ["Angel Olsen", "Lorde", "Julia Holter"]
+  },
+  {
+    "id": 298,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which EDM group created the track 'Strobe'?",
+    "correct_answer": "Deadmau5",
+    "incorrect_answers": ["Above & Beyond", "Skrillex", "Trivecta"]
+  },
+  {
+    "id": 299,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What metal band released the album 'Leviathan'?",
+    "correct_answer": "Mastodon",
+    "incorrect_answers": ["Gojira", "Slipknot", "Lamb of God"]
+  },
+  {
+    "id": 300,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which rock band released the 1999 album 'Californication'?",
+    "correct_answer": "Red Hot Chili Peppers",
+    "incorrect_answers": ["Foo Fighters", "Green Day", "Stone Temple Pilots"]
+  }
+]
+
