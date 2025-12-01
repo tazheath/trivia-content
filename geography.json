@@ -908,6 +908,917 @@
     "correct_answer": "Germany",
     "incorrect_answers": ["Austria", "Switzerland", "Belgium"]
   },
+  {
+    "id": 101,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has the largest population in the world?",
+    "correct_answer": "China",
+    "incorrect_answers": ["India", "United States", "Indonesia"]
+  },
+  {
+    "id": 102,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African country was formerly known as Abyssinia?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["Sudan", "Somalia", "Eritrea"]
+  },
+  {
+    "id": 103,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital city of New Zealand?",
+    "correct_answer": "Wellington",
+    "incorrect_answers": ["Auckland", "Christchurch", "Hamilton"]
+  },
+  {
+    "id": 104,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which desert covers much of northern China and southern Mongolia?",
+    "correct_answer": "Gobi Desert",
+    "incorrect_answers": ["Sahara Desert", "Kalahari Desert", "Taklamakan Desert"]
+  },
+  {
+    "id": 105,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Danube River flows into which body of water?",
+    "correct_answer": "Black Sea",
+    "incorrect_answers": ["Mediterranean Sea", "Adriatic Sea", "North Sea"]
+  },
+  {
+    "id": 106,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country does NOT border the Mediterranean Sea?",
+    "correct_answer": "Austria",
+    "incorrect_answers": ["Spain", "Italy", "Greece"]
+  },
+  {
+    "id": 107,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in Africa?",
+    "correct_answer": "Mount Kilimanjaro",
+    "incorrect_answers": ["Mount Kenya", "Mount Stanley", "Ras Dashen"]
+  },
+  {
+    "id": 108,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river flows through the city of Paris?",
+    "correct_answer": "Seine River",
+    "incorrect_answers": ["Rhine River", "Thames River", "Loire River"]
+  },
+  {
+    "id": 109,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Argentina?",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": ["Córdoba", "Rosario", "Mendoza"]
+  },
+  {
+    "id": 110,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state has the most coastline?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["Florida", "California", "Hawaii"]
+  },
+
+  {
+    "id": 111,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the smallest country in the world by land area?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "id": 112,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state borders only one other state?",
+    "correct_answer": "Maine",
+    "incorrect_answers": ["Florida", "Alaska", "Washington"]
+  },
+  {
+    "id": 113,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Mount Fuji is the highest mountain in which country?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "South Korea", "Mongolia"]
+  },
+  {
+    "id": 114,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which South American country is landlocked?",
+    "correct_answer": "Bolivia",
+    "incorrect_answers": ["Peru", "Uruguay", "Ecuador"]
+  },
+  {
+    "id": 115,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European river is the longest?",
+    "correct_answer": "Volga River",
+    "incorrect_answers": ["Danube River", "Rhine River", "Dnieper River"]
+  },
+  {
+    "id": 116,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which mountain range separates Europe and Asia?",
+    "correct_answer": "Ural Mountains",
+    "incorrect_answers": ["Alps", "Carpathians", "Caucasus Mountains"]
+  },
+  {
+    "id": 117,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Turkey?",
+    "correct_answer": "Ankara",
+    "incorrect_answers": ["Istanbul", "Izmir", "Bursa"]
+  },
+  {
+    "id": 118,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which nation is an archipelago made up of over 7,000 islands?",
+    "correct_answer": "Philippines",
+    "incorrect_answers": ["Indonesia", "Japan", "Malaysia"]
+  },
+  {
+    "id": 119,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is nicknamed the 'Land of 10,000 Lakes'?",
+    "correct_answer": "Minnesota",
+    "incorrect_answers": ["Michigan", "Wisconsin", "Idaho"]
+  },
+  {
+    "id": 120,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river is the longest in Europe?",
+    "correct_answer": "Volga River",
+    "incorrect_answers": ["Danube River", "Rhine River", "Elbe River"]
+  },
+
+  {
+    "id": 121,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which desert is the largest hot desert in the world?",
+    "correct_answer": "Sahara Desert",
+    "incorrect_answers": ["Arabian Desert", "Gobi Desert", "Kalahari Desert"]
+  },
+  {
+    "id": 122,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of South Africa?",
+    "correct_answer": "Pretoria",
+    "incorrect_answers": ["Cape Town", "Johannesburg", "Durban"]
+  },
+  {
+    "id": 123,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country does NOT share a border with Germany?",
+    "correct_answer": "Netherlands",
+    "incorrect_answers": ["Poland", "Austria", "Switzerland"]
+  },
+  {
+    "id": 124,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Great Victoria Desert is located in which country?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["South Africa", "Chile", "United States"]
+  },
+  {
+    "id": 125,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Canadian province is the largest by land area?",
+    "correct_answer": "Quebec",
+    "incorrect_answers": ["Ontario", "British Columbia", "Alberta"]
+  },
+  {
+    "id": 126,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country owns Greenland?",
+    "correct_answer": "Denmark",
+    "incorrect_answers": ["Canada", "Norway", "United States"]
+  },
+  {
+    "id": 127,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Strait of Gibraltar separates Spain from which country?",
+    "correct_answer": "Morocco",
+    "incorrect_answers": ["Algeria", "Tunisia", "Egypt"]
+  },
+  {
+    "id": 128,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest lake in Africa?",
+    "correct_answer": "Lake Victoria",
+    "incorrect_answers": ["Lake Tanganyika", "Lake Malawi", "Lake Chad"]
+  },
+  {
+    "id": 129,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river separates Texas and Mexico?",
+    "correct_answer": "Rio Grande",
+    "incorrect_answers": ["Colorado River", "Mississippi River", "Arkansas River"]
+  },
+  {
+    "id": 130,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is the largest in the Middle East?",
+    "correct_answer": "Saudi Arabia",
+    "incorrect_answers": ["Iran", "Turkey", "Iraq"]
+  },
+
+  {
+    "id": 131,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian city is known as the 'Pearl of the Orient'?",
+    "correct_answer": "Manila",
+    "incorrect_answers": ["Hong Kong", "Bangkok", "Singapore"]
+  },
+  {
+    "id": 132,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Yellow River flows through which country?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Vietnam", "Mongolia", "Thailand"]
+  },
+  {
+    "id": 133,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital city of Sweden?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": ["Oslo", "Copenhagen", "Helsinki"]
+  },
+  {
+    "id": 134,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African country has the city of Timbuktu?",
+    "correct_answer": "Mali",
+    "incorrect_answers": ["Niger", "Ethiopia", "Chad"]
+  },
+  {
+    "id": 135,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Switzerland?",
+    "correct_answer": "Bern",
+    "incorrect_answers": ["Zurich", "Geneva", "Basel"]
+  },
+  {
+    "id": 136,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is the largest by land area in South America?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+  },
+  {
+    "id": 137,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. river is the longest?",
+    "correct_answer": "Missouri River",
+    "incorrect_answers": ["Mississippi River", "Colorado River", "Rio Grande"]
+  },
+  {
+    "id": 138,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has the city of Kraków?",
+    "correct_answer": "Poland",
+    "incorrect_answers": ["Austria", "Hungary", "Czech Republic"]
+  },
+  {
+    "id": 139,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Caucasus Mountains lie between Russia and which other region?",
+    "correct_answer": "Georgia",
+    "incorrect_answers": ["Turkey", "Kazakhstan", "Uzbekistan"]
+  },
+  {
+    "id": 140,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is known for the city of Marrakech?",
+    "correct_answer": "Morocco",
+    "incorrect_answers": ["Egypt", "Tunisia", "Algeria"]
+  },
+
+  {
+    "id": 141,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is known as the Volunteer State?",
+    "correct_answer": "Tennessee",
+    "incorrect_answers": ["Kentucky", "Georgia", "Alabama"]
+  },
+  {
+    "id": 142,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country does the Amazon River primarily flow through?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Peru", "Colombia", "Venezuela"]
+  },
+  {
+    "id": 143,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Bermuda is a territory belonging to which country?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": ["United States", "Canada", "Portugal"]
+  },
+  {
+    "id": 144,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European capital lies on the Tiber River?",
+    "correct_answer": "Rome",
+    "incorrect_answers": ["Paris", "Berlin", "Madrid"]
+  },
+  {
+    "id": 145,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "correct_answer": "Sicily",
+    "incorrect_answers": ["Sardinia", "Cyprus", "Crete"]
+  },
+  {
+    "id": 146,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian country is known for the city of Lahore?",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": ["India", "Afghanistan", "Bangladesh"]
+  },
+  {
+    "id": 147,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The capital city of Finland is:",
+    "correct_answer": "Helsinki",
+    "incorrect_answers": ["Oslo", "Stockholm", "Copenhagen"]
+  },
+  {
+    "id": 148,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country contains the ancient city of Petra?",
+    "correct_answer": "Jordan",
+    "incorrect_answers": ["Israel", "Turkey", "Lebanon"]
+  },
+  {
+    "id": 149,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is the island of Borneo shared by?",
+    "correct_answer": "Indonesia, Malaysia, and Brunei",
+    "incorrect_answers": ["Indonesia and Singapore", "Malaysia and Thailand", "Malaysia and Vietnam"]
+  },
+  {
+    "id": 150,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which South Asian country is known as the 'Pearl of the Indian Ocean'?",
+    "correct_answer": "Sri Lanka",
+    "incorrect_answers": ["Maldives", "Bangladesh", "Myanmar"]
+  },
+
+  {
+    "id": 151,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European country has the most volcanoes?",
+    "correct_answer": "Iceland",
+    "incorrect_answers": ["Italy", "Greece", "Norway"]
+  },
+  {
+    "id": 152,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country does the Rhine River NOT flow through?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["Germany", "Netherlands", "Switzerland"]
+  },
+  {
+    "id": 153,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country contains the city of Casablanca?",
+    "correct_answer": "Morocco",
+    "incorrect_answers": ["Tunisia", "Egypt", "Algeria"]
+  },
+  {
+    "id": 154,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the official language of Brazil?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": ["Spanish", "English", "French"]
+  },
+  {
+    "id": 155,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which North American country is the smallest by land area?",
+    "correct_answer": "Saint Kitts and Nevis",
+    "incorrect_answers": ["Barbados", "Grenada", "Jamaica"]
+  },
+  {
+    "id": 156,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Atacama Desert is located in which country?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Peru", "Bolivia", "Argentina"]
+  },
+  {
+    "id": 157,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sea lies between Europe and Africa?",
+    "correct_answer": "Mediterranean Sea",
+    "incorrect_answers": ["Black Sea", "Red Sea", "Caspian Sea"]
+  },
+  {
+    "id": 158,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital city of Hungary?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": ["Vienna", "Prague", "Warsaw"]
+  },
+  {
+    "id": 159,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country borders both France and Spain?",
+    "correct_answer": "Andorra",
+    "incorrect_answers": ["Portugal", "Italy", "Belgium"]
+  },
+  {
+    "id": 160,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Great Barrier Reef is located in which body of water?",
+    "correct_answer": "Coral Sea",
+    "incorrect_answers": ["Tasman Sea", "Indian Ocean", "Pacific Ocean"]
+  },
+
+  {
+    "id": 161,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African country is the most populous?",
+    "correct_answer": "Nigeria",
+    "incorrect_answers": ["Ethiopia", "Egypt", "South Africa"]
+  },
+  {
+    "id": 162,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Peru?",
+    "correct_answer": "Lima",
+    "incorrect_answers": ["Cusco", "Arequipa", "La Paz"]
+  },
+  {
+    "id": 163,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. city is known as the Windy City?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": ["Boston", "Cleveland", "Detroit"]
+  },
+  {
+    "id": 164,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African lake is the deepest?",
+    "correct_answer": "Lake Tanganyika",
+    "incorrect_answers": ["Lake Victoria", "Lake Malawi", "Lake Chad"]
+  },
+  {
+    "id": 165,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The island of Hispaniola is shared by Haiti and which other country?",
+    "correct_answer": "Dominican Republic",
+    "incorrect_answers": ["Cuba", "Jamaica", "Puerto Rico"]
+  },
+  {
+    "id": 166,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European country has the city of Porto?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["Spain", "France", "Italy"]
+  },
+  {
+    "id": 167,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is home to the Everglades?",
+    "correct_answer": "Florida",
+    "incorrect_answers": ["Georgia", "Louisiana", "Mississippi"]
+  },
+  {
+    "id": 168,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country contains the city of Dubrovnik?",
+    "correct_answer": "Croatia",
+    "incorrect_answers": ["Italy", "Slovenia", "Montenegro"]
+  },
+  {
+    "id": 169,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which large lake lies on the border of the United States and Canada?",
+    "correct_answer": "Lake Superior",
+    "incorrect_answers": ["Great Salt Lake", "Lake Okeechobee", "Lake Nicaragua"]
+  },
+  {
+    "id": 170,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which desert lies in southern Africa?",
+    "correct_answer": "Kalahari Desert",
+    "incorrect_answers": ["Sahara Desert", "Gobi Desert", "Patagonian Desert"]
+  },
+
+  {
+    "id": 171,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The capital of Serbia is:",
+    "correct_answer": "Belgrade",
+    "incorrect_answers": ["Zagreb", "Sarajevo", "Sofia"]
+  },
+  {
+    "id": 172,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river flows through Baghdad?",
+    "correct_answer": "Tigris River",
+    "incorrect_answers": ["Euphrates River", "Nile River", "Jordan River"]
+  },
+  {
+    "id": 173,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian country does NOT border China?",
+    "correct_answer": "Laos",
+    "incorrect_answers": ["India", "Mongolia", "Vietnam"]
+  },
+  {
+    "id": 174,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where would you find the ancient site of Machu Picchu?",
+    "correct_answer": "Peru",
+    "incorrect_answers": ["Bolivia", "Ecuador", "Brazil"]
+  },
+  {
+    "id": 175,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is home to the city of Antwerp?",
+    "correct_answer": "Belgium",
+    "incorrect_answers": ["Netherlands", "France", "Germany"]
+  },
+  {
+    "id": 176,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Sinai Peninsula connects Egypt to which region?",
+    "correct_answer": "Asia",
+    "incorrect_answers": ["Europe", "Africa", "Middle East"]
+  },
+  {
+    "id": 177,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state contains the city of Anchorage?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["Washington", "Montana", "North Dakota"]
+  },
+  {
+    "id": 178,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is home to the ancient city of Angkor Wat?",
+    "correct_answer": "Cambodia",
+    "incorrect_answers": ["Thailand", "Vietnam", "Laos"]
+  },
+  {
+    "id": 179,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which country would you find Mount Elbrus?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Georgia", "Kazakhstan", "Ukraine"]
+  },
+  {
+    "id": 180,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is known as the Empire State?",
+    "correct_answer": "New York",
+    "incorrect_answers": ["Virginia", "Maryland", "New Jersey"]
+  },
+
+  {
+    "id": 181,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European country has the city of Brno?",
+    "correct_answer": "Czech Republic",
+    "incorrect_answers": ["Slovakia", "Austria", "Hungary"]
+  },
+  {
+    "id": 182,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Caribbean country is the largest by land area?",
+    "correct_answer": "Cuba",
+    "incorrect_answers": ["Jamaica", "Haiti", "Dominican Republic"]
+  },
+  {
+    "id": 183,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Baltic Sea is bordered by which country?",
+    "correct_answer": "Sweden",
+    "incorrect_answers": ["Portugal", "Austria", "Switzerland"]
+  },
+  {
+    "id": 184,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which South American country has two capital cities?",
+    "correct_answer": "Bolivia",
+    "incorrect_answers": ["Brazil", "Chile", "Ecuador"]
+  },
+  {
+    "id": 185,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Istanbul sits on two continents. Which are they?",
+    "correct_answer": "Europe and Asia",
+    "incorrect_answers": ["Asia and Africa", "Europe and Africa", "Asia and Australia"]
+  },
+  {
+    "id": 186,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian country is the island of Hokkaido part of?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["South Korea", "China", "Taiwan"]
+  },
+  {
+    "id": 187,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state has the city of Burlington?",
+    "correct_answer": "Vermont",
+    "incorrect_answers": ["New Hampshire", "Massachusetts", "Maine"]
+  },
+  {
+    "id": 188,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where is the country of Qatar located?",
+    "correct_answer": "Middle East",
+    "incorrect_answers": ["North Africa", "South Asia", "Central Asia"]
+  },
+  {
+    "id": 189,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river runs through Egypt and Sudan?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": ["Jordan River", "Euphrates River", "Congo River"]
+  },
+  {
+    "id": 190,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Greenland lies between the Atlantic Ocean and which other ocean?",
+    "correct_answer": "Arctic Ocean",
+    "incorrect_answers": ["Indian Ocean", "Southern Ocean", "Pacific Ocean"]
+  },
+
+  {
+    "id": 191,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Tunis is the capital of which country?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["Algeria", "Morocco", "Libya"]
+  },
+  {
+    "id": 192,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is known as the 'Show-Me State'?",
+    "correct_answer": "Missouri",
+    "incorrect_answers": ["Iowa", "Nebraska", "Arkansas"]
+  },
+  {
+    "id": 193,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river forms part of the border between the U.S. and Canada?",
+    "correct_answer": "St. Lawrence River",
+    "incorrect_answers": ["Missouri River", "Hudson River", "Columbia River"]
+  },
+  {
+    "id": 194,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Slovakia?",
+    "correct_answer": "Bratislava",
+    "incorrect_answers": ["Prague", "Vienna", "Budapest"]
+  },
+  {
+    "id": 195,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian country is known for the city of Kathmandu?",
+    "correct_answer": "Nepal",
+    "incorrect_answers": ["India", "Bhutan", "Bangladesh"]
+  },
+  {
+    "id": 196,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European capital lies on the Danube River?",
+    "correct_answer": "Vienna",
+    "incorrect_answers": ["Warsaw", "Prague", "Bern"]
+  },
+  {
+    "id": 197,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is home to the Atlas Mountains?",
+    "correct_answer": "Morocco",
+    "incorrect_answers": ["Egypt", "Algeria", "Sudan"]
+  },
+  {
+    "id": 198,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Slovenia?",
+    "correct_answer": "Ljubljana",
+    "incorrect_answers": ["Zagreb", "Sarajevo", "Belgrade"]
+  },
+  {
+    "id": 199,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state is home to the Mojave Desert?",
+    "correct_answer": "California",
+    "incorrect_answers": ["Nevada", "Arizona", "Utah"]
+  },
+  {
+    "id": 200,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is the city of Odessa located in?",
+    "correct_answer": "Ukraine",
+    "incorrect_answers": ["Russia", "Belarus", "Moldova"]
+  },
+  
+
 
 
 
