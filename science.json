@@ -1816,11 +1816,914 @@
     "correct_answer": "Chemical energy to light energy",
     "incorrect_answers": ["Mechanical to electrical", "Heat to chemical", "Nuclear to light"]
   },
+  {
+    "id": 201,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organelle is responsible for modifying, sorting, and packaging proteins for secretion?",
+    "correct_answer": "Golgi apparatus",
+    "incorrect_answers": ["Endoplasmic reticulum", "Lysosome", "Ribosome"]
+  },
+  {
+    "id": 202,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What type of bond forms when electrons are transferred from one atom to another?",
+    "correct_answer": "Ionic bond",
+    "incorrect_answers": ["Covalent bond", "Hydrogen bond", "Metallic bond"]
+  },
+  {
+    "id": 203,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which law explains the relationship between pressure and volume in a gas at constant temperature?",
+    "correct_answer": "Boyle’s Law",
+    "incorrect_answers": ["Charles’s Law", "Avogadro’s Law", "Newton’s Third Law"]
+  },
+  {
+    "id": 204,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What part of the human brain is responsible for regulating homeostasis, including temperature and thirst?",
+    "correct_answer": "Hypothalamus",
+    "incorrect_answers": ["Cerebellum", "Medulla oblongata", "Thalamus"]
+  },
+  {
+    "id": 205,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which subatomic particle determines the identity of an element?",
+    "correct_answer": "Proton",
+    "incorrect_answers": ["Electron", "Neutron", "Positron"]
+  },
+  {
+    "id": 206,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What geological process occurs when tensile stress pulls the crust apart, forming a valley?",
+    "correct_answer": "Rifting",
+    "incorrect_answers": ["Subduction", "Orogeny", "Faulting"]
+  },
+  {
+    "id": 207,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which force is responsible for keeping electrons in orbit around the nucleus?",
+    "correct_answer": "Electromagnetic force",
+    "incorrect_answers": ["Weak nuclear force", "Strong nuclear force", "Gravitational force"]
+  },
+  {
+    "id": 208,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes the capacity of a substance to absorb heat without undergoing a temperature change?",
+    "correct_answer": "Specific heat",
+    "incorrect_answers": ["Thermal conductivity", "Latent heat", "Heat capacity"]
+  },
+  {
+    "id": 209,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In genetics, what is the term for a cross between individuals heterozygous for two traits?",
+    "correct_answer": "Dihybrid cross",
+    "incorrect_answers": ["Monohybrid cross", "Test cross", "Backcross"]
+  },
+  {
+    "id": 210,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which branch of physics studies the behavior of very small particles such as electrons and photons?",
+    "correct_answer": "Quantum mechanics",
+    "incorrect_answers": ["Classical mechanics", "Thermodynamics", "Relativity"]
+  },
 
+  {
+    "id": 211,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What atmospheric layer contains the ozone layer?",
+    "correct_answer": "Stratosphere",
+    "incorrect_answers": ["Troposphere", "Mesosphere", "Thermosphere"]
+  },
+  {
+    "id": 212,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which part of a neuron transmits electrical impulses away from the cell body?",
+    "correct_answer": "Axon",
+    "incorrect_answers": ["Dendrites", "Synapse", "Myelin sheath"]
+  },
+  {
+    "id": 213,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of chemical reaction involves the loss of electrons?",
+    "correct_answer": "Oxidation",
+    "incorrect_answers": ["Reduction", "Neutralization", "Hydrolysis"]
+  },
+  {
+    "id": 214,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Richter scale is used to measure the magnitude of what natural event?",
+    "correct_answer": "Earthquakes",
+    "incorrect_answers": ["Tornadoes", "Volcanic eruptions", "Tsunamis"]
+  },
+  {
+    "id": 215,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What name is given to the energy an object has due to its motion?",
+    "correct_answer": "Kinetic energy",
+    "incorrect_answers": ["Potential energy", "Thermal energy", "Chemical energy"]
+  },
+  {
+    "id": 216,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which macromolecule stores genetic information in living organisms?",
+    "correct_answer": "Nucleic acids",
+    "incorrect_answers": ["Proteins", "Carbohydrates", "Lipids"]
+  },
+  {
+    "id": 217,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the region around a planet where its magnetic field dominates?",
+    "correct_answer": "Magnetosphere",
+    "incorrect_answers": ["Exosphere", "Ionosphere", "Lithosphere"]
+  },
+  {
+    "id": 218,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What quantum property describes the intrinsic angular momentum of particles?",
+    "correct_answer": "Spin",
+    "incorrect_answers": ["Charge", "Mass", "Velocity"]
+  },
+  {
+    "id": 219,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which process in plants converts nitrogen gas into forms usable by living organisms?",
+    "correct_answer": "Nitrogen fixation",
+    "incorrect_answers": ["Photosynthesis", "Respiration", "Transpiration"]
+  },
+  {
+    "id": 220,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name for a solution that resists changes in pH?",
+    "correct_answer": "Buffer",
+    "incorrect_answers": ["Solvent", "Catalyst", "Indicator"]
+  },
 
+  {
+    "id": 221,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What branch of Earth science studies the origin and structure of rocks?",
+    "correct_answer": "Petrology",
+    "incorrect_answers": ["Mineralogy", "Geophysics", "Paleontology"]
+  },
+  {
+    "id": 222,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In chemistry, what term describes a substance that cannot be broken down into simpler substances?",
+    "correct_answer": "Element",
+    "incorrect_answers": ["Compound", "Mixture", "Solution"]
+  },
+  {
+    "id": 223,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the process that creates ATP in mitochondria using oxygen?",
+    "correct_answer": "Aerobic respiration",
+    "incorrect_answers": ["Fermentation", "Photosynthesis", "Glycolysis"]
+  },
+  {
+    "id": 224,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of electromagnetic radiation has wavelengths longer than visible light but shorter than radio waves?",
+    "correct_answer": "Infrared",
+    "incorrect_answers": ["Ultraviolet", "Gamma rays", "X-rays"]
+  },
+  {
+    "id": 225,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What type of plate boundary occurs when two plates slide past each other horizontally?",
+    "correct_answer": "Transform boundary",
+    "incorrect_answers": ["Divergent boundary", "Convergent boundary", "Subduction zone"]
+  },
+  {
+    "id": 226,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which term describes a substance that donates protons in a chemical reaction?",
+    "correct_answer": "Acid",
+    "incorrect_answers": ["Base", "Salt", "Buffer"]
+  },
+  {
+    "id": 227,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What law explains why the frequency of a wave increases as its wavelength decreases?",
+    "correct_answer": "Wave speed equation",
+    "incorrect_answers": ["Boyle’s Law", "Newton’s Second Law", "Snell’s Law"]
+  },
+  {
+    "id": 228,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which biological process describes the programmed death of cells?",
+    "correct_answer": "Apoptosis",
+    "incorrect_answers": ["Mitosis", "Meiosis", "Differentiation"]
+  },
+  {
+    "id": 229,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In astronomy, what term refers to the point in an orbit farthest from the Sun?",
+    "correct_answer": "Aphelion",
+    "incorrect_answers": ["Perihelion", "Zenith", "Nadir"]
+  },
+  {
+    "id": 230,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of reaction involves the splitting of a heavier nucleus into smaller nuclei?",
+    "correct_answer": "Nuclear fission",
+    "incorrect_answers": ["Nuclear fusion", "Radioactive decay", "Beta emission"]
+  },
 
+  {
+    "id": 231,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the theory of general relativity?",
+    "correct_answer": "Albert Einstein",
+    "incorrect_answers": ["Isaac Newton", "Niels Bohr", "Max Planck"]
+  },
+  {
+    "id": 232,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fluid-filled sac that cushions and protects joints?",
+    "correct_answer": "Bursa",
+    "incorrect_answers": ["Tendon", "Ligament", "Meniscus"]
+  },
+  {
+    "id": 233,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which geologic time unit represents the longest span of Earth's history?",
+    "correct_answer": "Eon",
+    "incorrect_answers": ["Era", "Period", "Epoch"]
+  },
+  {
+    "id": 234,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What type of chemical reaction occurs when two or more substances combine to form a more complex product?",
+    "correct_answer": "Synthesis reaction",
+    "incorrect_answers": ["Decomposition reaction", "Single replacement", "Combustion"]
+  },
+  {
+    "id": 235,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which layer of Earth generates its magnetic field?",
+    "correct_answer": "Outer core",
+    "incorrect_answers": ["Inner core", "Mantle", "Crust"]
+  },
+  {
+    "id": 236,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which symbiotic relationship benefits one organism while the other is unaffected?",
+    "correct_answer": "Commensalism",
+    "incorrect_answers": ["Mutualism", "Parasitism", "Competition"]
+  },
+  {
+    "id": 237,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which branch of chemistry studies carbon-based molecules?",
+    "correct_answer": "Organic chemistry",
+    "incorrect_answers": ["Inorganic chemistry", "Physical chemistry", "Analytical chemistry"]
+  },
+  {
+    "id": 238,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes the minimum amount of energy required for a chemical reaction to occur?",
+    "correct_answer": "Activation energy",
+    "incorrect_answers": ["Bond energy", "Ionization energy", "Catalytic threshold"]
+  },
+  {
+    "id": 239,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name for a particle that has the same mass as an electron but a positive charge?",
+    "correct_answer": "Positron",
+    "incorrect_answers": ["Proton", "Neutrino", "Anti-neutron"]
+  },
+  {
+    "id": 240,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which astronomical object is the remnant of a massive star that has collapsed under its own gravity?",
+    "correct_answer": "Black hole",
+    "incorrect_answers": ["White dwarf", "Neutron star", "Red giant"]
+  },
 
+  {
+    "id": 241,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which process describes the movement of water molecules from an area of high concentration to low concentration through a membrane?",
+    "correct_answer": "Osmosis",
+    "incorrect_answers": ["Diffusion", "Filtration", "Active transport"]
+  },
+  {
+    "id": 242,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which branch of biology focuses on the classification and naming of organisms?",
+    "correct_answer": "Taxonomy",
+    "incorrect_answers": ["Ecology", "Genetics", "Physiology"]
+  },
+  {
+    "id": 243,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which law states that energy cannot be created or destroyed, only transformed?",
+    "correct_answer": "Law of Conservation of Energy",
+    "incorrect_answers": ["Law of Entropy", "Hooke’s Law", "Ohm’s Law"]
+  },
+  {
+    "id": 244,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the human eye, which structure changes shape to focus light?",
+    "correct_answer": "Lens",
+    "incorrect_answers": ["Retina", "Cornea", "Iris"]
+  },
+  {
+    "id": 245,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes a solution that contains more solute than it can normally hold at a given temperature?",
+    "correct_answer": "Supersaturated",
+    "incorrect_answers": ["Saturated", "Unsaturated", "Dilute"]
+  },
+  {
+    "id": 246,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of stellar explosion occurs when a white dwarf accumulates too much mass from a companion star?",
+    "correct_answer": "Supernova Type Ia",
+    "incorrect_answers": ["Nova", "Gamma-ray burst", "Red giant collapse"]
+  },
+  {
+    "id": 247,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In genetics, what term refers to the physical expression of a trait?",
+    "correct_answer": "Phenotype",
+    "incorrect_answers": ["Genotype", "Allele", "Karyotype"]
+  },
+  {
+    "id": 248,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which force binds protons and neutrons together in the nucleus?",
+    "correct_answer": "Strong nuclear force",
+    "incorrect_answers": ["Weak nuclear force", "Electromagnetic force", "Gravitational force"]
+  },
+  {
+    "id": 249,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes the change of a solid directly into a gas?",
+    "correct_answer": "Sublimation",
+    "incorrect_answers": ["Evaporation", "Condensation", "Deposition"]
+  },
+  {
+    "id": 250,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which DNA is copied before cell division?",
+    "correct_answer": "DNA replication",
+    "incorrect_answers": ["Transcription", "Translation", "Meiosis"]
+  },
 
+  {
+    "id": 251,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which chemical principle states that no two electrons can occupy the same quantum state simultaneously?",
+    "correct_answer": "Pauli Exclusion Principle",
+    "incorrect_answers": ["Heisenberg Uncertainty Principle", "Aufbau Principle", "Hund’s Rule"]
+  },
+  {
+    "id": 252,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What phenomenon explains why a moving clock runs slower than a stationary one?",
+    "correct_answer": "Time dilation",
+    "incorrect_answers": ["Doppler effect", "Relativity of simultaneity", "Quantum tunneling"]
+  },
+  {
+    "id": 253,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which branch of Earth science studies earthquakes and seismic waves?",
+    "correct_answer": "Seismology",
+    "incorrect_answers": ["Volcanology", "Geodesy", "Glaciology"]
+  },
+  {
+    "id": 254,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In chemistry, what term describes a reaction where electrons are both lost and gained?",
+    "correct_answer": "Redox reaction",
+    "incorrect_answers": ["Hydrolysis", "Synthesis", "Combustion"]
+  },
+  {
+    "id": 255,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which part of the human brain regulates breathing and heart rate?",
+    "correct_answer": "Medulla oblongata",
+    "incorrect_answers": ["Cerebellum", "Hypothalamus", "Hippocampus"]
+  },
+  {
+    "id": 256,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which law relates the current flowing through a conductor to the voltage and resistance?",
+    "correct_answer": "Ohm’s Law",
+    "incorrect_answers": ["Coulomb’s Law", "Pascal’s Law", "Ampere’s Law"]
+  },
+  {
+    "id": 257,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In ecology, what term describes the maximum population size an environment can support?",
+    "correct_answer": "Carrying capacity",
+    "incorrect_answers": ["Population density", "Biotic potential", "Sustainability limit"]
+  },
+  {
+    "id": 258,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organelle in plant cells stores pigments and starches?",
+    "correct_answer": "Plastid",
+    "incorrect_answers": ["Mitochondrion", "Ribosome", "Centrosome"]
+  },
+  {
+    "id": 259,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the resistance of a fluid to flow?",
+    "correct_answer": "Viscosity",
+    "incorrect_answers": ["Elasticity", "Plasticity", "Compressibility"]
+  },
+  {
+    "id": 260,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What phenomenon causes light to bend as it travels near a massive object?",
+    "correct_answer": "Gravitational lensing",
+    "incorrect_answers": ["Refraction", "Reflection", "Diffraction"]
+  },
 
+  {
+    "id": 261,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of chemical reaction breaks down a compound into simpler substances?",
+    "correct_answer": "Decomposition reaction",
+    "incorrect_answers": ["Synthesis reaction", "Replacement reaction", "Oxidation reaction"]
+  },
+  {
+    "id": 262,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the uncertainty principle?",
+    "correct_answer": "Werner Heisenberg",
+    "incorrect_answers": ["Max Planck", "Richard Feynman", "Albert Einstein"]
+  },
+  {
+    "id": 263,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for a large region of space dominated by a massive black hole and its gravitational influence?",
+    "correct_answer": "Galactic nucleus",
+    "incorrect_answers": ["Event horizon", "Accretion disk", "Magnetosphere"]
+  },
+  {
+    "id": 264,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In physics, what term describes the tendency of an object to resist changes in motion?",
+    "correct_answer": "Inertia",
+    "incorrect_answers": ["Momentum", "Torque", "Elasticity"]
+  },
+  {
+    "id": 265,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which human organ secretes enzymes that help digest proteins, fats, and carbohydrates?",
+    "correct_answer": "Pancreas",
+    "incorrect_answers": ["Liver", "Stomach", "Gallbladder"]
+  },
+  {
+    "id": 266,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which fundamental force is responsible for radioactive decay?",
+    "correct_answer": "Weak nuclear force",
+    "incorrect_answers": ["Strong nuclear force", "Electromagnetic force", "Gravitational force"]
+  },
+  {
+    "id": 267,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which layer of a star is visible from Earth?",
+    "correct_answer": "Photosphere",
+    "incorrect_answers": ["Chromosphere", "Corona", "Core"]
+  },
+  {
+    "id": 268,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What type of symmetry is found in starfish?",
+    "correct_answer": "Radial symmetry",
+    "incorrect_answers": ["Bilateral symmetry", "Spherical symmetry", "Asymmetry"]
+  },
+  {
+    "id": 269,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organelle contains digestive enzymes used to break down waste?",
+    "correct_answer": "Lysosome",
+    "incorrect_answers": ["Mitochondrion", "Centriole", "Vacuole"]
+  },
+  {
+    "id": 270,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What principle states that pressure applied to a confined fluid is transmitted equally throughout?",
+    "correct_answer": "Pascal’s Principle",
+    "incorrect_answers": ["Archimedes’ Principle", "Bernoulli’s Principle", "Hooke’s Law"]
+  },
 
+  {
+    "id": 271,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which scientist first proposed that atoms are indivisible spheres?",
+    "correct_answer": "John Dalton",
+    "incorrect_answers": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr"]
+  },
+  {
+    "id": 272,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In evolutionary biology, what term describes a structure found in different species that evolved from a common ancestor?",
+    "correct_answer": "Homologous structure",
+    "incorrect_answers": ["Analogous structure", "Vestigial structure", "Derived trait"]
+  },
+  {
+    "id": 273,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which gas is responsible for the blue color of Earth’s sky due to scattering?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": ["Oxygen", "Carbon dioxide", "Hydrogen"]
+  },
+  {
+    "id": 274,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes the energy required to remove an electron from an atom?",
+    "correct_answer": "Ionization energy",
+    "incorrect_answers": ["Electron affinity", "Electronegativity", "Binding energy"]
+  },
+  {
+    "id": 275,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What type of spectrum is produced when a continuous spectrum passes through a cool gas?",
+    "correct_answer": "Absorption spectrum",
+    "incorrect_answers": ["Emission spectrum", "Continuous spectrum", "Radio spectrum"]
+  },
+  {
+    "id": 276,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organ in the human body produces the hormone melatonin?",
+    "correct_answer": "Pineal gland",
+    "incorrect_answers": ["Pituitary gland", "Thyroid gland", "Adrenal gland"]
+  },
+  {
+    "id": 277,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What principle states that buoyant force equals the weight of displaced fluid?",
+    "correct_answer": "Archimedes’ Principle",
+    "incorrect_answers": ["Pascal’s Principle", "Bernoulli’s Principle", "Hooke’s Law"]
+  },
+  {
+    "id": 278,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which tectonic feature forms when two continental plates collide?",
+    "correct_answer": "Mountain range",
+    "incorrect_answers": ["Mid-ocean ridge", "Subduction trench", "Rift valley"]
+  },
+  {
+    "id": 279,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes an atom with a different number of neutrons but the same number of protons?",
+    "correct_answer": "Isotope",
+    "incorrect_answers": ["Ion", "Isomer", "Allotrope"]
+  },
+  {
+    "id": 280,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which planetary phenomenon occurs when a planet rotates in the opposite direction of its orbit?",
+    "correct_answer": "Retrograde rotation",
+    "incorrect_answers": ["Retrograde orbit", "Axial tilt", "Orbital resonance"]
+  },
+
+  {
+    "id": 281,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In DNA, which nitrogenous base pairs with cytosine?",
+    "correct_answer": "Guanine",
+    "incorrect_answers": ["Adenine", "Thymine", "Uracil"]
+  },
+  {
+    "id": 282,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What mathematical relationship describes the inverse-square law of gravity?",
+    "correct_answer": "Force ∝ 1/distance²",
+    "incorrect_answers": ["Force ∝ distance", "Force ∝ mass²", "Force ∝ 1/distance"]
+  },
+  {
+    "id": 283,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What geological feature forms where oceanic crust sinks beneath continental crust?",
+    "correct_answer": "Subduction zone",
+    "incorrect_answers": ["Rift valley", "Transform boundary", "Continental shelf"]
+  },
+  {
+    "id": 284,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term refers to the tendency of water molecules to stick to each other?",
+    "correct_answer": "Cohesion",
+    "incorrect_answers": ["Adhesion", "Surface tension", "Capillarity"]
+  },
+  {
+    "id": 285,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which class of biomolecules includes steroids and phospholipids?",
+    "correct_answer": "Lipids",
+    "incorrect_answers": ["Proteins", "Carbohydrates", "Nucleic acids"]
+  },
+  {
+    "id": 286,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What natural phenomenon is caused by the interaction of charged particles with Earth’s magnetic field?",
+    "correct_answer": "Auroras",
+    "incorrect_answers": ["Solar flares", "Cosmic rays", "Gamma bursts"]
+  },
+  {
+    "id": 287,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In protein structure, what type of bond links amino acids together?",
+    "correct_answer": "Peptide bond",
+    "incorrect_answers": ["Glycosidic bond", "Hydrogen bond", "Ionic bond"]
+  },
+  {
+    "id": 288,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which scientific instrument is used to separate particles based on their mass and charge?",
+    "correct_answer": "Mass spectrometer",
+    "incorrect_answers": ["Chromatograph", "Spectrophotometer", "Electron microscope"]
+  },
+  {
+    "id": 289,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which particle is exchanged between atoms during the formation of covalent bonds?",
+    "correct_answer": "Electrons",
+    "incorrect_answers": ["Protons", "Neutrons", "Positrons"]
+  },
+  {
+    "id": 290,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the region around a black hole from which nothing can escape?",
+    "correct_answer": "Event horizon",
+    "incorrect_answers": ["Singularity", "Accretion disk", "Shadow zone"]
+  },
+
+  {
+    "id": 291,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which law describes the buoyant force exerted on an object immersed in fluid?",
+    "correct_answer": "Archimedes’ Law",
+    "incorrect_answers": ["Boyle’s Law", "Hooke’s Law", "Gauss’s Law"]
+  },
+  {
+    "id": 292,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes organisms that rely on external sources for body heat?",
+    "correct_answer": "Ectothermic",
+    "incorrect_answers": ["Endothermic", "Isothermal", "Thermophilic"]
+  },
+  {
+    "id": 293,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which phase of mitosis do chromosomes align along the cell’s equatorial plane?",
+    "correct_answer": "Metaphase",
+    "incorrect_answers": ["Prophase", "Anaphase", "Telophase"]
+  },
+  {
+    "id": 294,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which nuclear reaction powers the Sun?",
+    "correct_answer": "Nuclear fusion",
+    "incorrect_answers": ["Nuclear fission", "Radioactive decay", "Beta emission"]
+  },
+  {
+    "id": 295,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What name is given to a substance that increases the rate of a reaction by lowering activation energy?",
+    "correct_answer": "Catalyst",
+    "incorrect_answers": ["Inhibitor", "Reactant", "Solvent"]
+  },
+  {
+    "id": 296,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which orbital shape corresponds to an electron in a p-orbital?",
+    "correct_answer": "Dumbbell-shaped",
+    "incorrect_answers": ["Spherical", "Cloverleaf-shaped", "Ring-shaped"]
+  },
+  {
+    "id": 297,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What phenomenon explains why atoms emit light at specific wavelengths?",
+    "correct_answer": "Electron energy level transitions",
+    "incorrect_answers": ["Radioactive decay", "Thermal agitation", "Resonance"]
+  },
+  {
+    "id": 298,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which part of a chloroplast contains pigments that capture light energy?",
+    "correct_answer": "Thylakoid membrane",
+    "incorrect_answers": ["Stroma", "Granum", "Outer membrane"]
+  },
+  {
+    "id": 299,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific principle describes how fluid speed increases when pressure decreases?",
+    "correct_answer": "Bernoulli’s Principle",
+    "incorrect_answers": ["Pascal’s Principle", "Archimedes’ Principle", "Hooke’s Law"]
+  },
+  {
+    "id": 300,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes the phenomenon where particles move through a barrier they classically shouldn't be able to pass?",
+    "correct_answer": "Quantum tunneling",
+    "incorrect_answers": ["Diffusion", "Refraction", "Relativistic drift"]
+  }
+]
   
