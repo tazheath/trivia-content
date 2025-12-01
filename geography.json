@@ -1817,13 +1817,915 @@
     "correct_answer": "Ukraine",
     "incorrect_answers": ["Russia", "Belarus", "Moldova"]
   },
+  {
+    "id": 201,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["China", "Spain", "France"]
+  },
+  {
+    "id": 202,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the deepest point in the world's oceans?",
+    "correct_answer": "Challenger Deep",
+    "incorrect_answers": ["Mariana Trench", "Tonga Trench", "Java Trench"]
+  },
+  {
+    "id": 203,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which river forms the majority of the border between North Korea and China?",
+    "correct_answer": "Yalu River",
+    "incorrect_answers": ["Tumen River", "Amnok River", "Songhua River"]
+  },
+  {
+    "id": 204,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The ancient city of Carthage was located in which modern-day country?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["Libya", "Algeria", "Morocco"]
+  },
+  {
+    "id": 205,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which desert is the largest cold desert in the world?",
+    "correct_answer": "Antarctic Desert",
+    "incorrect_answers": ["Arctic Desert", "Gobi Desert", "Patagonian Desert"]
+  },
+  {
+    "id": 206,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the longest river in Asia?",
+    "correct_answer": "Yangtze River",
+    "incorrect_answers": ["Yellow River", "Mekong River", "Lena River"]
+  },
+  {
+    "id": 207,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African country is completely surrounded by South Africa?",
+    "correct_answer": "Lesotho",
+    "incorrect_answers": ["Eswatini", "Botswana", "Namibia"]
+  },
+  {
+    "id": 208,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which European capital is located at the confluence of the Sava and Danube rivers?",
+    "correct_answer": "Belgrade",
+    "incorrect_answers": ["Budapest", "Vienna", "Zagreb"]
+  },
+  {
+    "id": 209,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. state has the highest average elevation?",
+    "correct_answer": "Colorado",
+    "incorrect_answers": ["Wyoming", "Utah", "New Mexico"]
+  },
+  {
+    "id": 210,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which sea is the saltiest major body of water on Earth?",
+    "correct_answer": "Dead Sea",
+    "incorrect_answers": ["Red Sea", "Mediterranean Sea", "Aral Sea"]
+  },
+
+  {
+    "id": 211,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Khyber Pass connects Afghanistan with which country?",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": ["India", "Iran", "Tajikistan"]
+  },
+  {
+    "id": 212,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which is the world's largest bay by area?",
+    "correct_answer": "Bay of Bengal",
+    "incorrect_answers": ["Hudson Bay", "San Francisco Bay", "Bay of Biscay"]
+  },
+  {
+    "id": 213,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country has the longest coastline in the world?",
+    "correct_answer": "Canada",
+    "incorrect_answers": ["Indonesia", "Russia", "United States"]
+  },
+  {
+    "id": 214,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which river flows through Baghdad?",
+    "correct_answer": "Tigris River",
+    "incorrect_answers": ["Euphrates River", "Jordan River", "Orontes River"]
+  },
+  {
+    "id": 215,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which is the highest active volcano in the world?",
+    "correct_answer": "Ojos del Salado",
+    "incorrect_answers": ["Mauna Loa", "Cotopaxi", "Mount Etna"]
+  },
+  {
+    "id": 216,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the capital city of Kazakhstan?",
+    "correct_answer": "Astana",
+    "incorrect_answers": ["Almaty", "Bishkek", "Tashkent"]
+  },
+  {
+    "id": 217,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ocean current is the largest and most powerful?",
+    "correct_answer": "Antarctic Circumpolar Current",
+    "incorrect_answers": ["Gulf Stream", "Kuroshio Current", "California Current"]
+  },
+  {
+    "id": 218,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains the ancient rock-hewn churches of Lalibela?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["Egypt", "Sudan", "Eritrea"]
+  },
+  {
+    "id": 219,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. city is built on more than 100 islands?",
+    "correct_answer": "Boston",
+    "incorrect_answers": ["Seattle", "San Francisco", "Miami"]
+  },
+  {
+    "id": 220,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Tigris and Euphrates rivers meet in which modern-day country?",
+    "correct_answer": "Iraq",
+    "incorrect_answers": ["Syria", "Turkey", "Iran"]
+  },
+
+  {
+    "id": 221,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which mountain range is K2 located?",
+    "correct_answer": "Karakoram",
+    "incorrect_answers": ["Himalayas", "Hindu Kush", "Pamir Mountains"]
+  },
+  {
+    "id": 222,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which European country has the most lakes?",
+    "correct_answer": "Finland",
+    "incorrect_answers": ["Norway", "Sweden", "Iceland"]
+  },
+  {
+    "id": 223,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African lake has the highest volume?",
+    "correct_answer": "Lake Tanganyika",
+    "incorrect_answers": ["Lake Malawi", "Lake Victoria", "Lake Turkana"]
+  },
+  {
+    "id": 224,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Mount Aconcagua, the highest mountain outside Asia, is located in which country?",
+    "correct_answer": "Argentina",
+    "incorrect_answers": ["Chile", "Bolivia", "Peru"]
+  },
+  {
+    "id": 225,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which peninsula contains the countries of Spain and Portugal?",
+    "correct_answer": "Iberian Peninsula",
+    "incorrect_answers": ["Balkan Peninsula", "Scandinavian Peninsula", "Anatolian Peninsula"]
+  },
+  {
+    "id": 226,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the capital of Madagascar?",
+    "correct_answer": "Antananarivo",
+    "incorrect_answers": ["Maputo", "Moroni", "Port Louis"]
+  },
+  {
+    "id": 227,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Baku is the capital of which country?",
+    "correct_answer": "Azerbaijan",
+    "incorrect_answers": ["Georgia", "Armenia", "Turkmenistan"]
+  },
+  {
+    "id": 228,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country is home to the world’s largest waterfall system, Iguazu Falls?",
+    "correct_answer": "Argentina and Brazil",
+    "incorrect_answers": ["Brazil and Paraguay", "Argentina and Chile", "Peru and Brazil"]
+  },
+  {
+    "id": 229,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which river is known as the 'Cradle of Chinese Civilization'?",
+    "correct_answer": "Yellow River",
+    "incorrect_answers": ["Yangtze River", "Pearl River", "Mekong River"]
+  },
+  {
+    "id": 230,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island nation lies closest to the continent of Africa?",
+    "correct_answer": "Madagascar",
+    "incorrect_answers": ["Seychelles", "Comoros", "Mauritius"]
+  },
+
+  {
+    "id": 231,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country controls the Falkland Islands?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": ["Argentina", "France", "Chile"]
+  },
+  {
+    "id": 232,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Lake Baikal, the world’s deepest lake, is located in which country?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["China", "Mongolia", "Kazakhstan"]
+  },
+  {
+    "id": 233,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Strait of Malacca separates the Malay Peninsula from which island?",
+    "correct_answer": "Sumatra",
+    "incorrect_answers": ["Borneo", "Java", "Sulawesi"]
+  },
+  {
+    "id": 234,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Caucasus region lies between the Black Sea and which other sea?",
+    "correct_answer": "Caspian Sea",
+    "incorrect_answers": ["Mediterranean Sea", "Aegean Sea", "Red Sea"]
+  },
+  {
+    "id": 235,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which city serves as the capital of Myanmar?",
+    "correct_answer": "Naypyidaw",
+    "incorrect_answers": ["Yangon", "Mandalay", "Bago"]
+  },
+  {
+    "id": 236,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The island of Cyprus is politically divided between Greece and which other country?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Syria", "Lebanon", "Israel"]
+  },
+  {
+    "id": 237,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Kalahari Desert spans Botswana, Namibia, and which other country?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Zimbabwe", "Angola", "Zambia"]
+  },
+  {
+    "id": 238,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the largest city in the world by population within city limits?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": ["Delhi", "Shanghai", "São Paulo"]
+  },
+  {
+    "id": 239,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African country has its capital at Ouagadougou?",
+    "correct_answer": "Burkina Faso",
+    "incorrect_answers": ["Niger", "Mali", "Benin"]
+  },
+  {
+    "id": 240,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country has the city of Samarkand?",
+    "correct_answer": "Uzbekistan",
+    "incorrect_answers": ["Kazakhstan", "Turkmenistan", "Tajikistan"]
+  },
+
+  {
+    "id": 241,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the longest river in South America?",
+    "correct_answer": "Amazon River",
+    "incorrect_answers": ["Orinoco River", "Paraná River", "São Francisco River"]
+  },
+  {
+    "id": 242,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which European capital city is the highest in elevation?",
+    "correct_answer": "Andorra la Vella",
+    "incorrect_answers": ["Bern", "Madrid", "Vienna"]
+  },
+  {
+    "id": 243,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What country has the most time zones?",
+    "correct_answer": "France",
+    "incorrect_answers": ["United States", "Russia", "Australia"]
+  },
+  {
+    "id": 244,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains more than half of the Amazon Rainforest?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Colombia", "Peru", "Venezuela"]
+  },
+  {
+    "id": 245,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What sea borders Ukraine to the south?",
+    "correct_answer": "Black Sea",
+    "incorrect_answers": ["Caspian Sea", "Aegean Sea", "Baltic Sea"]
+  },
+  {
+    "id": 246,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which desert makes up most of Mongolia?",
+    "correct_answer": "Gobi Desert",
+    "incorrect_answers": ["Taklamakan Desert", "Karakum Desert", "Thar Desert"]
+  },
+  {
+    "id": 247,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the Suez Canal located?",
+    "correct_answer": "Egypt",
+    "incorrect_answers": ["Sudan", "Israel", "Saudi Arabia"]
+  },
+  {
+    "id": 248,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which river flows through the Grand Canyon?",
+    "correct_answer": "Colorado River",
+    "incorrect_answers": ["Mississippi River", "Rio Grande", "Snake River"]
+  },
+  {
+    "id": 249,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Indo-Pacific island nation has the city of Suva as its capital?",
+    "correct_answer": "Fiji",
+    "incorrect_answers": ["Samoa", "Tonga", "Papua New Guinea"]
+  },
+  {
+    "id": 250,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country is home to Mount Ararat?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Iran", "Armenia", "Azerbaijan"]
+  },
+
+  {
+    "id": 251,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African country is the largest by land area?",
+    "correct_answer": "Algeria",
+    "incorrect_answers": ["Sudan", "Libya", "Chad"]
+  },
+  {
+    "id": 252,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Croatian city is famous for its Roman amphitheater?",
+    "correct_answer": "Pula",
+    "incorrect_answers": ["Split", "Dubrovnik", "Zadar"]
+  },
+  {
+    "id": 253,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country controls Easter Island?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Peru", "Argentina", "Ecuador"]
+  },
+  {
+    "id": 254,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which river empties into the North Sea at Rotterdam?",
+    "correct_answer": "Rhine River",
+    "incorrect_answers": ["Danube River", "Elbe River", "Seine River"]
+  },
+  {
+    "id": 255,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island is the largest in the Mediterranean Sea?",
+    "correct_answer": "Sicily",
+    "incorrect_answers": ["Sardinia", "Cyprus", "Crete"]
+  },
+  {
+    "id": 256,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. state has the lowest point in North America?",
+    "correct_answer": "California",
+    "incorrect_answers": ["Nevada", "Arizona", "New Mexico"]
+  },
+  {
+    "id": 257,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Bosporus Strait separates Europe from which other continent?",
+    "correct_answer": "Asia",
+    "incorrect_answers": ["Africa", "Australia", "South America"]
+  },
+  {
+    "id": 258,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African river is the longest?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": ["Congo River", "Niger River", "Zambezi River"]
+  },
+  {
+    "id": 259,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the capital of Eritrea?",
+    "correct_answer": "Asmara",
+    "incorrect_answers": ["Addis Ababa", "Khartoum", "Mogadishu"]
+  },
+  {
+    "id": 260,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island nation has Valletta as its capital?",
+    "correct_answer": "Malta",
+    "incorrect_answers": ["Cyprus", "Iceland", "Faroe Islands"]
+  },
+
+  {
+    "id": 261,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Riyadh is the capital of which country?",
+    "correct_answer": "Saudi Arabia",
+    "incorrect_answers": ["Oman", "UAE", "Qatar"]
+  },
+  {
+    "id": 262,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which mountain range runs along the border between France and Spain?",
+    "correct_answer": "Pyrenees",
+    "incorrect_answers": ["Alps", "Carpathians", "Apennines"]
+  },
+  {
+    "id": 263,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Mekong River flows into which body of water?",
+    "correct_answer": "South China Sea",
+    "incorrect_answers": ["Bay of Bengal", "Indian Ocean", "Philippine Sea"]
+  },
+  {
+    "id": 264,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African country has its capital at Windhoek?",
+    "correct_answer": "Namibia",
+    "incorrect_answers": ["Botswana", "Zimbabwe", "Angola"]
+  },
+  {
+    "id": 265,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island chain includes the islands of Maui and Kauai?",
+    "correct_answer": "Hawaiian Islands",
+    "incorrect_answers": ["Galápagos Islands", "Fiji Islands", "Mariana Islands"]
+  },
+  {
+    "id": 266,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Asian river is also known as the Tsangpo in Tibet?",
+    "correct_answer": "Brahmaputra River",
+    "incorrect_answers": ["Ganges River", "Indus River", "Mekong River"]
+  },
+  {
+    "id": 267,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the largest city in the world by metropolitan area?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": ["Shanghai", "Delhi", "Mexico City"]
+  },
+  {
+    "id": 268,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which European country contains the region of Transylvania?",
+    "correct_answer": "Romania",
+    "incorrect_answers": ["Hungary", "Bulgaria", "Serbia"]
+  },
+  {
+    "id": 269,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country has its capital at Tbilisi?",
+    "correct_answer": "Georgia",
+    "incorrect_answers": ["Armenia", "Azerbaijan", "Turkey"]
+  },
+  {
+    "id": 270,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country is home to the island of Zanzibar?",
+    "correct_answer": "Tanzania",
+    "incorrect_answers": ["Kenya", "Mozambique", "Somalia"]
+  },
+
+  {
+    "id": 271,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island nation is directly south of India?",
+    "correct_answer": "Sri Lanka",
+    "incorrect_answers": ["Maldives", "Indonesia", "Thailand"]
+  },
+  {
+    "id": 272,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Bishkek is the capital of which country?",
+    "correct_answer": "Kyrgyzstan",
+    "incorrect_answers": ["Kazakhstan", "Tajikistan", "Turkmenistan"]
+  },
+  {
+    "id": 273,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the longest river in Europe?",
+    "correct_answer": "Volga River",
+    "incorrect_answers": ["Danube River", "Rhine River", "Dnieper River"]
+  },
+  {
+    "id": 274,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which sea separates the Arabian Peninsula from Africa?",
+    "correct_answer": "Red Sea",
+    "incorrect_answers": ["Mediterranean Sea", "Persian Gulf", "Arabian Sea"]
+  },
+  {
+    "id": 275,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. state contains the most active volcanoes?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["Hawaii", "California", "Washington"]
+  },
+  {
+    "id": 276,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Tallinn is the capital of which European country?",
+    "correct_answer": "Estonia",
+    "incorrect_answers": ["Latvia", "Lithuania", "Finland"]
+  },
+  {
+    "id": 277,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains Mount Kinabalu?",
+    "correct_answer": "Malaysia",
+    "incorrect_answers": ["Indonesia", "Philippines", "Thailand"]
+  },
+  {
+    "id": 278,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Lake Titicaca lies on the border between Bolivia and which other country?",
+    "correct_answer": "Peru",
+    "incorrect_answers": ["Chile", "Argentina", "Ecuador"]
+  },
+  {
+    "id": 279,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country is home to the Drakensberg Mountains?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Eswatini", "Namibia", "Zimbabwe"]
+  },
+  {
+    "id": 280,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains the city of Vladivostok?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["China", "Japan", "North Korea"]
+  },
+
+  {
+    "id": 281,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Europe’s largest glacier, Vatnajökull, is located in which country?",
+    "correct_answer": "Iceland",
+    "incorrect_answers": ["Norway", "Greenland", "Sweden"]
+  },
+  {
+    "id": 282,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Middle Eastern country borders both the Mediterranean Sea and the Red Sea?",
+    "correct_answer": "Egypt",
+    "incorrect_answers": ["Israel", "Jordan", "Saudi Arabia"]
+  },
+  {
+    "id": 283,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Kerala is a coastal state in which country?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Sri Lanka", "Bangladesh", "Nepal"]
+  },
+  {
+    "id": 284,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the Taklamakan Desert located?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Mongolia", "Iran", "Kazakhstan"]
+  },
+  {
+    "id": 285,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Caribbean island nation has its capital at Port of Spain?",
+    "correct_answer": "Trinidad and Tobago",
+    "incorrect_answers": ["Barbados", "Jamaica", "Haiti"]
+  },
+  {
+    "id": 286,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains the ruins of Persepolis?",
+    "correct_answer": "Iran",
+    "incorrect_answers": ["Turkey", "Iraq", "Greece"]
+  },
+  {
+    "id": 287,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Sapporo is located on which Japanese island?",
+    "correct_answer": "Hokkaido",
+    "incorrect_answers": ["Honshu", "Kyushu", "Shikoku"]
+  },
+  {
+    "id": 288,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African country contains the historic city of Gondar?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["Sudan", "Egypt", "Eritrea"]
+  },
+  {
+    "id": 289,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which European river flows through the most countries?",
+    "correct_answer": "Danube River",
+    "incorrect_answers": ["Rhine River", "Volga River", "Elbe River"]
+  },
+  {
+    "id": 290,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Asian capital city sits at an elevation of over 3,500 meters (11,500 feet)?",
+    "correct_answer": "Lhasa",
+    "incorrect_answers": ["Kathmandu", "Ulaanbaatar", "Thimphu"]
+  },
+
+  {
+    "id": 291,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which island country is the smallest in the Pacific Ocean by land area?",
+    "correct_answer": "Nauru",
+    "incorrect_answers": ["Tuvalu", "Palau", "Marshall Islands"]
+  },
+  {
+    "id": 292,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the Weddell Sea located?",
+    "correct_answer": "Antarctica",
+    "incorrect_answers": ["Arctic Ocean", "Pacific Ocean", "Southern Africa"]
+  },
+  {
+    "id": 293,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country contains the historic region of Bohemia?",
+    "correct_answer": "Czech Republic",
+    "incorrect_answers": ["Germany", "Austria", "Poland"]
+  },
+  {
+    "id": 294,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Mount Kosciuszko is the highest peak in which country?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["New Zealand", "Papua New Guinea", "Fiji"]
+  },
+  {
+    "id": 295,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which country would you find the city of Timbuktu?",
+    "correct_answer": "Mali",
+    "incorrect_answers": ["Niger", "Ethiopia", "Chad"]
+  },
+  {
+    "id": 296,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which South American country contains the city of Valparaíso?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Peru", "Argentina", "Bolivia"]
+  },
+  {
+    "id": 297,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Blue Nile and White Nile meet in which city?",
+    "correct_answer": "Khartoum",
+    "incorrect_answers": ["Cairo", "Addis Ababa", "Aswan"]
+  },
+  {
+    "id": 298,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Indonesian island contains the city of Yogyakarta?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Sumatra", "Bali", "Sulawesi"]
+  },
+  {
+    "id": 299,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Rub' al Khali, one of the largest sand deserts in the world, is located mainly in which country?",
+    "correct_answer": "Saudi Arabia",
+    "incorrect_answers": ["Yemen", "Oman", "United Arab Emirates"]
+  },
+  {
+    "id": 300,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which region is known as the 'Horn of Africa'?",
+    "correct_answer": "Somalia",
+    "incorrect_answers": ["Ethiopia", "Kenya", "Djibouti"]
+  }
+]
+
   
-
-
-
-
-
-
-
-  
-
