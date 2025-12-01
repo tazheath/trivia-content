@@ -907,6 +907,916 @@
     "correct_answer": "Chemical energy",
     "incorrect_answers": ["Heat energy", "Light energy", "Sound energy"]
   },
+  {
+    "id": 101,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What organelle is known as the powerhouse of the cell?",
+    "correct_answer": "Mitochondria",
+    "incorrect_answers": ["Nucleus", "Ribosome", "Chloroplast"]
+  },
+  {
+    "id": 102,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What force resists motion when two surfaces slide past each other?",
+    "correct_answer": "Friction",
+    "incorrect_answers": ["Gravity", "Magnetism", "Tension"]
+  },
+  {
+    "id": 103,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of energy is stored in an object due to its height above the ground?",
+    "correct_answer": "Gravitational potential energy",
+    "incorrect_answers": ["Kinetic energy", "Chemical energy", "Nuclear energy"]
+  },
+  {
+    "id": 104,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What process do plants use to convert sunlight into chemical energy?",
+    "correct_answer": "Photosynthesis",
+    "incorrect_answers": ["Respiration", "Fermentation", "Digestion"]
+  },
+  {
+    "id": 105,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which part of the human respiratory system is the main site of gas exchange?",
+    "correct_answer": "Alveoli",
+    "incorrect_answers": ["Bronchi", "Trachea", "Larynx"]
+  },
+  {
+    "id": 106,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "correct_answer": "Iron",
+    "incorrect_answers": ["Fluorine", "Francium", "Fermium"]
+  },
+  {
+    "id": 107,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main function of red blood cells?",
+    "correct_answer": "Transport oxygen",
+    "incorrect_answers": ["Fight infection", "Clot blood", "Digest nutrients"]
+  },
+  {
+    "id": 108,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What do we call a substance that speeds up a chemical reaction without being used up?",
+    "correct_answer": "Catalyst",
+    "incorrect_answers": ["Reactant", "Solvent", "Inhibitor"]
+  },
+  {
+    "id": 109,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which layer of the atmosphere contains most of Earth’s weather?",
+    "correct_answer": "Troposphere",
+    "incorrect_answers": ["Stratosphere", "Mesosphere", "Thermosphere"]
+  },
+  {
+    "id": 110,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main purpose of the large intestine?",
+    "correct_answer": "Absorb water",
+    "incorrect_answers": ["Digest proteins", "Break down fats", "Produce enzymes"]
+  },
+
+  {
+    "id": 111,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which simple machine consists of a bar that pivots on a fixed point?",
+    "correct_answer": "Lever",
+    "incorrect_answers": ["Pulley", "Wedge", "Screw"]
+  },
+  {
+    "id": 112,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What kind of heat transfer occurs when molecules directly touch and transfer energy?",
+    "correct_answer": "Conduction",
+    "incorrect_answers": ["Convection", "Radiation", "Fusion"]
+  },
+  {
+    "id": 113,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which planet has the strongest gravity in the solar system?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": ["Earth", "Mars", "Saturn"]
+  },
+  {
+    "id": 114,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes an organism’s ability to maintain stable internal conditions?",
+    "correct_answer": "Homeostasis",
+    "incorrect_answers": ["Metabolism", "Adaptation", "Reproduction"]
+  },
+  {
+    "id": 115,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the basic building block of proteins?",
+    "correct_answer": "Amino acids",
+    "incorrect_answers": ["Fatty acids", "Nucleotides", "Carbohydrates"]
+  },
+  {
+    "id": 116,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the process by which liquid water becomes water vapor?",
+    "correct_answer": "Evaporation",
+    "incorrect_answers": ["Condensation", "Sublimation", "Precipitation"]
+  },
+  {
+    "id": 117,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of bond involves the sharing of electrons between atoms?",
+    "correct_answer": "Covalent bond",
+    "incorrect_answers": ["Ionic bond", "Metallic bond", "Hydrogen bond"]
+  },
+  {
+    "id": 118,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ filters waste from the blood to form urine?",
+    "correct_answer": "Kidneys",
+    "incorrect_answers": ["Liver", "Lungs", "Pancreas"]
+  },
+  {
+    "id": 119,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Earth’s largest biome?",
+    "correct_answer": "Ocean",
+    "incorrect_answers": ["Desert", "Grassland", "Forest"]
+  },
+  {
+    "id": 120,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which element has the highest abundance in Earth’s crust?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Silicon", "Iron", "Calcium"]
+  },
+
+  {
+    "id": 121,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of energy is associated with moving objects?",
+    "correct_answer": "Kinetic energy",
+    "incorrect_answers": ["Potential energy", "Elastic energy", "Chemical energy"]
+  },
+  {
+    "id": 122,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which part of the cell contains genetic material?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": ["Cytoplasm", "Golgi apparatus", "Cell membrane"]
+  },
+  {
+    "id": 123,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What instrument measures atmospheric pressure?",
+    "correct_answer": "Barometer",
+    "incorrect_answers": ["Thermometer", "Anemometer", "Hygrometer"]
+  },
+  {
+    "id": 124,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of rock forms from cooled magma or lava?",
+    "correct_answer": "Igneous rock",
+    "incorrect_answers": ["Sedimentary rock", "Metamorphic rock", "Fossil rock"]
+  },
+  {
+    "id": 125,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law states that an object in motion stays in motion unless acted on by an outside force?",
+    "correct_answer": "Newton’s First Law",
+    "incorrect_answers": ["Newton’s Second Law", "Newton’s Third Law", "Law of Gravity"]
+  },
+  {
+    "id": 126,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What part of the human eye controls the amount of light entering?",
+    "correct_answer": "Pupil",
+    "incorrect_answers": ["Lens", "Cornea", "Retina"]
+  },
+  {
+    "id": 127,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term refers to an organism that breaks down dead matter?",
+    "correct_answer": "Decomposer",
+    "incorrect_answers": ["Producer", "Consumer", "Scavenger"]
+  },
+  {
+    "id": 128,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which gas is most responsible for the greenhouse effect?",
+    "correct_answer": "Carbon dioxide",
+    "incorrect_answers": ["Nitrogen", "Oxygen", "Argon"]
+  },
+  {
+    "id": 129,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What substance do enzymes act on during chemical reactions?",
+    "correct_answer": "Substrate",
+    "incorrect_answers": ["Solvent", "Catalyst", "Reactant"]
+  },
+  {
+    "id": 130,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of change results in a new substance being formed?",
+    "correct_answer": "Chemical change",
+    "incorrect_answers": ["Physical change", "Mechanical change", "Thermal change"]
+  },
+
+  {
+    "id": 131,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which wave carries sound through the air?",
+    "correct_answer": "Longitudinal wave",
+    "incorrect_answers": ["Transverse wave", "Electromagnetic wave", "Surface wave"]
+  },
+  {
+    "id": 132,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ releases insulin to regulate blood sugar?",
+    "correct_answer": "Pancreas",
+    "incorrect_answers": ["Liver", "Stomach", "Gallbladder"]
+  },
+  {
+    "id": 133,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of front forms when warm air rises over cold air?",
+    "correct_answer": "Warm front",
+    "incorrect_answers": ["Cold front", "Stationary front", "Occluded front"]
+  },
+  {
+    "id": 134,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which molecule carries genetic information?",
+    "correct_answer": "DNA",
+    "incorrect_answers": ["RNA", "ATP", "Glucose"]
+  },
+  {
+    "id": 135,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ system includes the heart and blood vessels?",
+    "correct_answer": "Circulatory system",
+    "incorrect_answers": ["Respiratory system", "Digestive system", "Endocrine system"]
+  },
+  {
+    "id": 136,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is formed when two or more elements chemically combine?",
+    "correct_answer": "Compound",
+    "incorrect_answers": ["Mixture", "Solution", "Element"]
+  },
+  {
+    "id": 137,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many chromosomes do humans have in each body cell?",
+    "correct_answer": "46",
+    "incorrect_answers": ["23", "44", "48"]
+  },
+  {
+    "id": 138,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What name is given to animals that regulate their own body temperature?",
+    "correct_answer": "Warm-blooded",
+    "incorrect_answers": ["Cold-blooded", "Exothermic", "Dormant"]
+  },
+  {
+    "id": 139,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which organelle does photosynthesis occur?",
+    "correct_answer": "Chloroplast",
+    "incorrect_answers": ["Mitochondria", "Ribosome", "Nucleus"]
+  },
+  {
+    "id": 140,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of ecosystems with similar climates and organisms called?",
+    "correct_answer": "Biome",
+    "incorrect_answers": ["Community", "Habitat", "Food chain"]
+  },
+
+  {
+    "id": 141,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which scientist proposed the three laws of motion?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Niels Bohr"]
+  },
+  {
+    "id": 142,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the bending of light as it passes from one medium to another?",
+    "correct_answer": "Refraction",
+    "incorrect_answers": ["Reflection", "Diffraction", "Scattering"]
+  },
+  {
+    "id": 143,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+    "correct_answer": "Left ventricle",
+    "incorrect_answers": ["Right ventricle", "Left atrium", "Right atrium"]
+  },
+  {
+    "id": 144,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of organism makes its own food through photosynthesis?",
+    "correct_answer": "Producer",
+    "incorrect_answers": ["Consumer", "Decomposer", "Parasite"]
+  },
+  {
+    "id": 145,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which planet has the fastest rotation in the solar system?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": ["Earth", "Mars", "Neptune"]
+  },
+  {
+    "id": 146,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which part of the human brain controls balance and coordination?",
+    "correct_answer": "Cerebellum",
+    "incorrect_answers": ["Cerebrum", "Brainstem", "Hypothalamus"]
+  },
+  {
+    "id": 147,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What do we call the remains or traces of ancient organisms preserved in rock?",
+    "correct_answer": "Fossils",
+    "incorrect_answers": ["Minerals", "Sediments", "Crystals"]
+  },
+  {
+    "id": 148,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes a trait that helps an organism survive in its environment?",
+    "correct_answer": "Adaptation",
+    "incorrect_answers": ["Mutation", "Variation", "Attraction"]
+  },
+  {
+    "id": 149,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What instrument measures wind speed?",
+    "correct_answer": "Anemometer",
+    "incorrect_answers": ["Hygrometer", "Barometer", "Altimeter"]
+  },
+  {
+    "id": 150,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of rock is formed by heat and pressure?",
+    "correct_answer": "Metamorphic rock",
+    "incorrect_answers": ["Igneous rock", "Sedimentary rock", "Basalt rock"]
+  },
+
+  {
+    "id": 151,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ produces bile to help break down fats?",
+    "correct_answer": "Liver",
+    "incorrect_answers": ["Stomach", "Pancreas", "Gallbladder"]
+  },
+  {
+    "id": 152,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is transferred from one object to another during heat conduction?",
+    "correct_answer": "Thermal energy",
+    "incorrect_answers": ["Light energy", "Chemical energy", "Nuclear energy"]
+  },
+  {
+    "id": 153,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which cell structure packages and distributes proteins?",
+    "correct_answer": "Golgi apparatus",
+    "incorrect_answers": ["Ribosome", "Cell membrane", "Vacuole"]
+  },
+  {
+    "id": 154,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a reaction that absorbs heat?",
+    "correct_answer": "Endothermic",
+    "incorrect_answers": ["Exothermic", "Combustion", "Neutralization"]
+  },
+  {
+    "id": 155,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which part of a flower produces pollen?",
+    "correct_answer": "Stamen",
+    "incorrect_answers": ["Pistil", "Petal", "Sepal"]
+  },
+  {
+    "id": 156,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of symmetry do humans have?",
+    "correct_answer": "Bilateral symmetry",
+    "incorrect_answers": ["Radial symmetry", "Asymmetry", "Rotational symmetry"]
+  },
+  {
+    "id": 157,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which natural cycle describes the movement of water between Earth’s surface and the atmosphere?",
+    "correct_answer": "Water cycle",
+    "incorrect_answers": ["Nitrogen cycle", "Carbon cycle", "Rock cycle"]
+  },
+  {
+    "id": 158,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of fault occurs when rocks are pulled apart by tension?",
+    "correct_answer": "Normal fault",
+    "incorrect_answers": ["Reverse fault", "Strike-slip fault", "Subduction fault"]
+  },
+  {
+    "id": 159,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "During which phase of matter are particles closest together?",
+    "correct_answer": "Solid",
+    "incorrect_answers": ["Liquid", "Gas", "Plasma"]
+  },
+  {
+    "id": 160,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does mechanical digestion begin?",
+    "correct_answer": "Mouth",
+    "incorrect_answers": ["Stomach", "Small intestine", "Esophagus"]
+  },
+
+  {
+    "id": 161,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What do we call a change in DNA?",
+    "correct_answer": "Mutation",
+    "incorrect_answers": ["Adaptation", "Replication", "Transcription"]
+  },
+  {
+    "id": 162,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which planet has a tilted axis that causes extreme seasons?",
+    "correct_answer": "Uranus",
+    "incorrect_answers": ["Venus", "Mars", "Neptune"]
+  },
+  {
+    "id": 163,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organelles are the site of protein synthesis?",
+    "correct_answer": "Ribosomes",
+    "incorrect_answers": ["Nucleus", "Vacuoles", "Chloroplasts"]
+  },
+  {
+    "id": 164,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What form of energy is released during nuclear fission?",
+    "correct_answer": "Nuclear energy",
+    "incorrect_answers": ["Chemical energy", "Thermal energy", "Elastic energy"]
+  },
+  {
+    "id": 165,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which type of reproduction involves only one parent?",
+    "correct_answer": "Asexual reproduction",
+    "incorrect_answers": ["Sexual reproduction", "Fertilization", "Hybridization"]
+  },
+  {
+    "id": 166,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ absorbs most nutrients from digested food?",
+    "correct_answer": "Small intestine",
+    "incorrect_answers": ["Large intestine", "Stomach", "Esophagus"]
+  },
+  {
+    "id": 167,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes the high-density center of an atom?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": ["Electron cloud", "Proton shell", "Ion core"]
+  },
+  {
+    "id": 168,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of energy transfer occurs through fluids due to density differences?",
+    "correct_answer": "Convection",
+    "incorrect_answers": ["Conduction", "Radiation", "Compression"]
+  },
+  {
+    "id": 169,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which planets are known as gas giants?",
+    "correct_answer": "Jupiter and Saturn",
+    "incorrect_answers": ["Mercury and Venus", "Mars and Earth", "Uranus and Neptune"]
+  },
+  {
+    "id": 170,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a community of organisms and their physical environment?",
+    "correct_answer": "Ecosystem",
+    "incorrect_answers": ["Biome", "Habitat", "Population"]
+  },
+
+  {
+    "id": 171,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which process in plants moves water upward through the xylem?",
+    "correct_answer": "Transpiration",
+    "incorrect_answers": ["Respiration", "Germination", "Pollination"]
+  },
+  {
+    "id": 172,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What part of the human ear helps maintain balance?",
+    "correct_answer": "Semicircular canals",
+    "incorrect_answers": ["Eardrum", "Cochlea", "Auditory nerve"]
+  },
+  {
+    "id": 173,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which gas is essential for combustion?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Nitrogen", "Carbon dioxide", "Helium"]
+  },
+  {
+    "id": 174,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Earth's outermost layer?",
+    "correct_answer": "Crust",
+    "incorrect_answers": ["Mantle", "Inner core", "Outer core"]
+  },
+  {
+    "id": 175,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ system removes waste products from the body?",
+    "correct_answer": "Excretory system",
+    "incorrect_answers": ["Digestive system", "Circulatory system", "Respiratory system"]
+  },
+  {
+    "id": 176,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What property of sound determines how loud it is?",
+    "correct_answer": "Amplitude",
+    "incorrect_answers": ["Frequency", "Wavelength", "Velocity"]
+  },
+  {
+    "id": 177,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ stores bile produced by the liver?",
+    "correct_answer": "Gallbladder",
+    "incorrect_answers": ["Stomach", "Pancreas", "Spleen"]
+  },
+  {
+    "id": 178,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of energy is stored in the bonds of atoms and molecules?",
+    "correct_answer": "Chemical energy",
+    "incorrect_answers": ["Solar energy", "Mechanical energy", "Kinetic energy"]
+  },
+  {
+    "id": 179,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What determines the pitch of a sound?",
+    "correct_answer": "Frequency",
+    "incorrect_answers": ["Amplitude", "Speed", "Wavelength"]
+  },
+  {
+    "id": 180,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which planet has the longest day due to its slow rotation?",
+    "correct_answer": "Venus",
+    "incorrect_answers": ["Earth", "Mercury", "Mars"]
+  },
+
+  {
+    "id": 181,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which process releases energy from glucose in the presence of oxygen?",
+    "correct_answer": "Cellular respiration",
+    "incorrect_answers": ["Photosynthesis", "Fermentation", "Osmosis"]
+  },
+  {
+    "id": 182,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which layer of Earth is made of partially melted rock?",
+    "correct_answer": "Mantle",
+    "incorrect_answers": ["Crust", "Outer core", "Inner core"]
+  },
+  {
+    "id": 183,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What force causes objects to float in water?",
+    "correct_answer": "Buoyant force",
+    "incorrect_answers": ["Frictional force", "Magnetic force", "Tension force"]
+  },
+  {
+    "id": 184,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In genetics, what term describes different forms of the same gene?",
+    "correct_answer": "Alleles",
+    "incorrect_answers": ["Traits", "Chromosomes", "Genotypes"]
+  },
+  {
+    "id": 185,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At what temperature does water freeze in Celsius?",
+    "correct_answer": "0°C",
+    "incorrect_answers": ["10°C", "25°C", "–10°C"]
+  },
+  {
+    "id": 186,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for a large region on Earth with its own climate and organisms?",
+    "correct_answer": "Biome",
+    "incorrect_answers": ["Habitat", "Community", "Ecosystem"]
+  },
+  {
+    "id": 187,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which part of a plant transports food from the leaves to the rest of the plant?",
+    "correct_answer": "Phloem",
+    "incorrect_answers": ["Xylem", "Root hair", "Chlorophyll"]
+  },
+  {
+    "id": 188,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ system controls voluntary and involuntary responses?",
+    "correct_answer": "Nervous system",
+    "incorrect_answers": ["Respiratory system", "Digestive system", "Circulatory system"]
+  },
+  {
+    "id": 189,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes water moving through a semipermeable membrane?",
+    "correct_answer": "Osmosis",
+    "incorrect_answers": ["Diffusion", "Filtration", "Evaporation"]
+  },
+  {
+    "id": 190,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of electromagnetic wave has the shortest wavelength?",
+    "correct_answer": "Gamma rays",
+    "incorrect_answers": ["X-rays", "Ultraviolet", "Infrared"]
+  },
+
+  {
+    "id": 191,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": ["Oxygen", "Carbon dioxide", "Argon"]
+  },
+  {
+    "id": 192,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which scientist developed the theory of natural selection?",
+    "correct_answer": "Charles Darwin",
+    "incorrect_answers": ["Gregor Mendel", "Louis Pasteur", "Albert Einstein"]
+  },
+  {
+    "id": 193,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ absorbs nutrients from digested food?",
+    "correct_answer": "Small intestine",
+    "incorrect_answers": ["Large intestine", "Stomach", "Pancreas"]
+  },
+  {
+    "id": 194,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes the amount of matter in an object?",
+    "correct_answer": "Mass",
+    "incorrect_answers": ["Volume", "Density", "Weight"]
+  },
+  {
+    "id": 195,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which process in plants occurs when pollen moves from the anther to the stigma?",
+    "correct_answer": "Pollination",
+    "incorrect_answers": ["Germination", "Fertilization", "Propagation"]
+  },
+  {
+    "id": 196,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many bones are in the adult human body?",
+    "correct_answer": "206",
+    "incorrect_answers": ["201", "250", "189"]
+  },
+  {
+    "id": 197,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which organ in plants is responsible for photosynthesis?",
+    "correct_answer": "Leaves",
+    "incorrect_answers": ["Roots", "Stems", "Flowers"]
+  },
+  {
+    "id": 198,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes an organism that hunts and eats other organisms?",
+    "correct_answer": "Predator",
+    "incorrect_answers": ["Prey", "Producer", "Herbivore"]
+  },
+  {
+    "id": 199,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which scientist discovered the basic principles of heredity by studying pea plants?",
+    "correct_answer": "Gregor Mendel",
+    "incorrect_answers": ["Charles Darwin", "James Watson", "Francis Crick"]
+  },
+  {
+    "id": 200,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of energy transformation occurs in a flashlight?",
+    "correct_answer": "Chemical energy to light energy",
+    "incorrect_answers": ["Mechanical to electrical", "Heat to chemical", "Nuclear to light"]
+  },
+
 
 
 
