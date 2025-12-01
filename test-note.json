@@ -199,7 +199,7 @@
     "incorrect_answers": ["Nanny McPhee", "Matilda", "Bedknobs and Broomsticks"],
     "release_year": 1964
   },
-    {
+  {
     "id": 21,
     "category": "Movies",
     "type": "multiple",
@@ -498,8 +498,8 @@
     "correct_answer": "Finding Nemo",
     "incorrect_answers": ["Luca", "Shark Tale", "Up"],
     "release_year": 2003
-  }
-    {
+  },
+  {
     "id": 51,
     "category": "Movies",
     "type": "multiple",
@@ -999,6 +999,1007 @@
     "incorrect_answers": ["Moana", "The Little Mermaid", "Cinderella"],
     "release_year": 2009
   },
+  {
+    "id": 101,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Matrix', what color pill does Neo take?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Blue", "Green", "Yellow"],
+    "release_year": 1999
+  },
+  {
+    "id": 102,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the 1993 film 'Jurassic Park'?",
+    "correct_answer": "Steven Spielberg",
+    "incorrect_answers": ["James Cameron", "Ridley Scott", "Tim Burton"],
+    "release_year": 1993
+  },
+  {
+    "id": 103,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom in 'Frozen'?",
+    "correct_answer": "Arendelle",
+    "incorrect_answers": ["Corona", "DunBroch", "Westerly"],
+    "release_year": 2013
+  },
+  {
+    "id": 104,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor voices Woody in 'Toy Story'?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": ["Tim Allen", "Billy Crystal", "Robin Williams"],
+    "release_year": 1995
+  },
+  {
+    "id": 105,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Dark Knight', who plays the Joker?",
+    "correct_answer": "Heath Ledger",
+    "incorrect_answers": ["Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+    "release_year": 2008
+  },
+  {
+    "id": 106,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom where 'The Lion King' takes place?",
+    "correct_answer": "The Pride Lands",
+    "incorrect_answers": ["Serengeti Valley", "Savanna Ridge", "Nala Plains"],
+    "release_year": 1994
+  },
+  {
+    "id": 107,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features the artificial intelligence system HAL 9000?",
+    "correct_answer": "2001: A Space Odyssey",
+    "incorrect_answers": ["Blade Runner", "The Terminator", "Ex Machina"],
+    "release_year": 1968
+  },
+  {
+    "id": 108,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Inception', what object does Cobb use as his totem?",
+    "correct_answer": "A spinning top",
+    "incorrect_answers": ["A coin", "A die", "A chess piece"],
+    "release_year": 2010
+  },
+  {
+    "id": 109,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the 1977 film 'Star Wars'?",
+    "correct_answer": "George Lucas",
+    "incorrect_answers": ["Steven Spielberg", "James Cameron", "Peter Jackson"],
+    "release_year": 1977
+  },
+  {
+    "id": 110,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features the line, 'Life finds a way'?",
+    "correct_answer": "Jurassic Park",
+    "incorrect_answers": ["The Lost World", "Independence Day", "Avatar"],
+    "release_year": 1993
+  },
+  {
+    "id": 111,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which film does Leonardo DiCaprio play frontiersman Hugh Glass?",
+    "correct_answer": "The Revenant",
+    "incorrect_answers": ["Inception", "Shutter Island", "The Wolf of Wall Street"],
+    "release_year": 2015
+  },
+  {
+    "id": 112,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie features a character named Maximus Decimus Meridius?",
+    "correct_answer": "Gladiator",
+    "incorrect_answers": ["Troy", "300", "Braveheart"],
+    "release_year": 2000
+  },
+  {
+    "id": 113,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Lord of the Rings', who destroys the One Ring?",
+    "correct_answer": "Frodo Baggins",
+    "incorrect_answers": ["Samwise Gamgee", "Gandalf", "Aragorn"],
+    "release_year": 2003
+  },
+  {
+    "id": 114,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Russell Crowe as mathematician John Nash?",
+    "correct_answer": "A Beautiful Mind",
+    "incorrect_answers": ["The Imitation Game", "Good Will Hunting", "The Theory of Everything"],
+    "release_year": 2001
+  },
+  {
+    "id": 115,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the epic fantasy trilogy 'The Lord of the Rings'?",
+    "correct_answer": "Peter Jackson",
+    "incorrect_answers": ["George Lucas", "James Cameron", "Ridley Scott"],
+    "release_year": 2001
+  },
+  {
+    "id": 116,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Titanic', what is Jack’s occupation?",
+    "correct_answer": "Artist",
+    "incorrect_answers": ["Sailor", "Musician", "Merchant"],
+    "release_year": 1997
+  },
+  {
+    "id": 117,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Joaquin Phoenix as a troubled man who becomes the Joker?",
+    "correct_answer": "Joker",
+    "incorrect_answers": ["Her", "The Master", "You Were Never Really Here"],
+    "release_year": 2019
+  },
+  {
+    "id": 118,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays Hermione Granger in the 'Harry Potter' film series?",
+    "correct_answer": "Emma Watson",
+    "incorrect_answers": ["Emma Thompson", "Keira Knightley", "Natalie Portman"],
+    "release_year": 2001
+  },
+  {
+    "id": 119,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional African nation in 'Black Panther'?",
+    "correct_answer": "Wakanda",
+    "incorrect_answers": ["Zamunda", "Genosha", "Latveria"],
+    "release_year": 2018
+  },
+  {
+    "id": 120,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features a young girl possessed by a demon named Pazuzu?",
+    "correct_answer": "The Exorcist",
+    "incorrect_answers": ["The Conjuring", "Hereditary", "Insidious"],
+    "release_year": 1973
+  },
+  {
+    "id": 121,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor plays the character Forrest Gump?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": ["Robin Williams", "Gary Sinise", "Bill Murray"],
+    "release_year": 1994
+  },
+  {
+    "id": 122,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Marvel villain seeks the Infinity Stones?",
+    "correct_answer": "Thanos",
+    "incorrect_answers": ["Loki", "Ultron", "Red Skull"],
+    "release_year": 2018
+  },
+  {
+    "id": 123,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the psychological thriller 'Black Swan'?",
+    "correct_answer": "Darren Aronofsky",
+    "incorrect_answers": ["David Fincher", "Christopher Nolan", "Denis Villeneuve"],
+    "release_year": 2010
+  },
+  {
+    "id": 124,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the hobbit played by Elijah Wood?",
+    "correct_answer": "Frodo Baggins",
+    "incorrect_answers": ["Samwise Gamgee", "Pippin Took", "Merry Brandybuck"],
+    "release_year": 2001
+  },
+  {
+    "id": 125,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features the quote, 'Why so serious?'",
+    "correct_answer": "The Dark Knight",
+    "incorrect_answers": ["Joker", "Fight Club", "The Matrix"],
+    "release_year": 2008
+  },
+  {
+    "id": 126,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar', what is the name of the alien species?",
+    "correct_answer": "Na'vi",
+    "incorrect_answers": ["Kryptonians", "Vulcans", "Protoss"],
+    "release_year": 2009
+  },
+  {
+    "id": 127,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actress plays Black Widow in the Marvel Cinematic Universe?",
+    "correct_answer": "Scarlett Johansson",
+    "incorrect_answers": ["Jennifer Lawrence", "Charlize Theron", "Gal Gadot"],
+    "release_year": 2010
+  },
+  {
+    "id": 128,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Interstellar', what is the name of the robot companion?",
+    "correct_answer": "TARS",
+    "incorrect_answers": ["HAL", "BIT", "M5"],
+    "release_year": 2014
+  },
+  {
+    "id": 129,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Bill Murray as a weatherman stuck in a time loop?",
+    "correct_answer": "Groundhog Day",
+    "incorrect_answers": ["Click", "Edge of Tomorrow", "About Time"],
+    "release_year": 1993
+  },
+  {
+    "id": 130,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who voices Dory in 'Finding Nemo'?",
+    "correct_answer": "Ellen DeGeneres",
+    "incorrect_answers": ["Mindy Kaling", "Amy Poehler", "Kristen Bell"],
+    "release_year": 2003
+  },
+  {
+    "id": 131,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in 'The Incredibles'?",
+    "correct_answer": "Syndrome",
+    "incorrect_answers": ["Underminer", "Screenslaver", "Bomb Voyage"],
+    "release_year": 2004
+  },
+  {
+    "id": 132,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film follows a hotel concierge named Gustave H?",
+    "correct_answer": "The Grand Budapest Hotel",
+    "incorrect_answers": ["Moonrise Kingdom", "Amélie", "The Royal Tenenbaums"],
+    "release_year": 2014
+  },
+  {
+    "id": 133,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which action movie features the line, 'Yippee-ki-yay'?",
+    "correct_answer": "Die Hard",
+    "incorrect_answers": ["Lethal Weapon", "Terminator", "RoboCop"],
+    "release_year": 1988
+  },
+  {
+    "id": 134,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Social Network', who plays Mark Zuckerberg?",
+    "correct_answer": "Jesse Eisenberg",
+    "incorrect_answers": ["Andrew Garfield", "Joseph Gordon-Levitt", "Miles Teller"],
+    "release_year": 2010
+  },
+  {
+    "id": 135,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which classic film features the line, 'You talking to me?'",
+    "correct_answer": "Taxi Driver",
+    "incorrect_answers": ["Scarface", "Raging Bull", "The Godfather"],
+    "release_year": 1976
+  },
+  {
+    "id": 136,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor stars as the titular character in 'Edward Scissorhands'?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": ["Christian Bale", "Brad Pitt", "Keanu Reeves"],
+    "release_year": 1990
+  },
+  {
+    "id": 137,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city does 'La La Land' primarily take place in?",
+    "correct_answer": "Los Angeles",
+    "incorrect_answers": ["Chicago", "New York City", "San Francisco"],
+    "release_year": 2016
+  },
+  {
+    "id": 138,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which movie does a character famously say, 'I drink your milkshake!'?",
+    "correct_answer": "There Will Be Blood",
+    "incorrect_answers": ["No Country for Old Men", "Gangs of New York", "The Departed"],
+    "release_year": 2007
+  },
+  {
+    "id": 139,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Anne Hathaway as a reluctant superhero assistant?",
+    "correct_answer": "The Dark Knight Rises",
+    "incorrect_answers": ["Catwoman", "Wonder Woman", "Prince of Persia"],
+    "release_year": 2012
+  },
+  {
+    "id": 140,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the science fiction film 'Arrival'?",
+    "correct_answer": "Denis Villeneuve",
+    "incorrect_answers": ["Christopher Nolan", "Ridley Scott", "James Cameron"],
+    "release_year": 2016
+  },
+  {
+    "id": 141,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Natalie Portman as a ballerina losing her grasp on reality?",
+    "correct_answer": "Black Swan",
+    "incorrect_answers": ["The Professional", "V for Vendetta", "Closer"],
+    "release_year": 2010
+  },
+  {
+    "id": 142,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Guardians of the Galaxy', what is the name of the raccoon?",
+    "correct_answer": "Rocket",
+    "incorrect_answers": ["Sprocket", "Bolt", "Dash"],
+    "release_year": 2014
+  },
+  {
+    "id": 143,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays Max Rockatansky in 'Mad Max: Fury Road'?",
+    "correct_answer": "Tom Hardy",
+    "incorrect_answers": ["Hugh Jackman", "Chris Hemsworth", "Gerard Butler"],
+    "release_year": 2015
+  },
+  {
+    "id": 144,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features replicants hunted by Rick Deckard?",
+    "correct_answer": "Blade Runner",
+    "incorrect_answers": ["Ghost in the Shell", "Minority Report", "The Fifth Element"],
+    "release_year": 1982
+  },
+  {
+    "id": 145,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the alien in the film 'E.T.'?",
+    "correct_answer": "E.T.",
+    "incorrect_answers": ["Zog", "Nib", "Maru"],
+    "release_year": 1982
+  },
+  {
+    "id": 146,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor stars as Jack Torrance in 'The Shining'?",
+    "correct_answer": "Jack Nicholson",
+    "incorrect_answers": ["Gene Hackman", "Robert De Niro", "Al Pacino"],
+    "release_year": 1980
+  },
+  {
+    "id": 147,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Martian', how does Mark Watney grow food on Mars?",
+    "correct_answer": "Using potatoes",
+    "incorrect_answers": ["Using algae", "Using wheat", "Using synthetic nutrients"],
+    "release_year": 2015
+  },
+  {
+    "id": 148,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the horror film 'Get Out'?",
+    "correct_answer": "Jordan Peele",
+    "incorrect_answers": ["James Wan", "Ari Aster", "Mike Flanagan"],
+    "release_year": 2017
+  },
+  {
+    "id": 149,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Sigourney Weaver as Ripley battling aliens?",
+    "correct_answer": "Alien",
+    "incorrect_answers": ["Predator", "The Thing", "Event Horizon"],
+    "release_year": 1979
+  },
+  {
+    "id": 150,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays Wolverine in the X-Men film series?",
+    "correct_answer": "Hugh Jackman",
+    "incorrect_answers": ["Liam Hemsworth", "Idris Elba", "Christian Bale"],
+    "release_year": 2000
+  },
+  {
+    "id": 151,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Prestige', what is the name of the magician played by Hugh Jackman?",
+    "correct_answer": "Robert Angier",
+    "incorrect_answers": ["Alfred Borden", "Cutter", "Tesla"],
+    "release_year": 2006
+  },
+  {
+    "id": 152,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the 2014 film 'Birdman'?",
+    "correct_answer": "Alejandro G. Iñárritu",
+    "incorrect_answers": ["David O. Russell", "Wes Anderson", "Noah Baumbach"],
+    "release_year": 2014
+  },
+  {
+    "id": 153,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Leonardo DiCaprio and is set primarily on Wall Street?",
+    "correct_answer": "The Wolf of Wall Street",
+    "incorrect_answers": ["The Big Short", "American Psycho", "Margin Call"],
+    "release_year": 2013
+  },
+  {
+    "id": 154,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which film does Scarlett Johansson voice an AI named Samantha?",
+    "correct_answer": "Her",
+    "incorrect_answers": ["Lucy", "Ex Machina", "Ghost in the Shell"],
+    "release_year": 2013
+  },
+  {
+    "id": 155,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Terminator', what is the famous line Arnold Schwarzenegger delivers?",
+    "correct_answer": "I'll be back",
+    "incorrect_answers": ["Hasta la vista, baby", "Get down!", "Come with me if you want to live"],
+    "release_year": 1984
+  },
+  {
+    "id": 156,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional African kingdom in 'Coming to America'?",
+    "correct_answer": "Zamunda",
+    "incorrect_answers": ["Wakanda", "Genovia", "Agrabah"],
+    "release_year": 1988
+  },
+  {
+    "id": 157,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays the character of Gandalf in 'The Lord of the Rings'?",
+    "correct_answer": "Ian McKellen",
+    "incorrect_answers": ["Christopher Lee", "Michael Gambon", "Richard Harris"],
+    "release_year": 2001
+  },
+  {
+    "id": 158,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features the character Keyser Söze?",
+    "correct_answer": "The Usual Suspects",
+    "incorrect_answers": ["Heat", "Se7en", "Taxi Driver"],
+    "release_year": 1995
+  },
+  {
+    "id": 159,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which 2016 film features a linguist working to communicate with aliens?",
+    "correct_answer": "Arrival",
+    "incorrect_answers": ["Interstellar", "Annihilation", "The Day the Earth Stood Still"],
+    "release_year": 2016
+  },
+  {
+    "id": 160,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Russell Crowe as a mathematician troubled by schizophrenia?",
+    "correct_answer": "A Beautiful Mind",
+    "incorrect_answers": ["Good Will Hunting", "The Imitation Game", "The Theory of Everything"],
+    "release_year": 2001
+  },
+  {
+    "id": 161,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Silence of the Lambs', who plays Hannibal Lecter?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": ["Brian Cox", "Ralph Fiennes", "Gary Oldman"],
+    "release_year": 1991
+  },
+  {
+    "id": 162,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the ship in the 'Alien' film?",
+    "correct_answer": "Nostromo",
+    "incorrect_answers": ["Venture", "Icarus II", "Aurora"],
+    "release_year": 1979
+  },
+  {
+    "id": 163,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor stars in the 2012 film 'Drive'?",
+    "correct_answer": "Ryan Gosling",
+    "incorrect_answers": ["Jake Gyllenhaal", "Joseph Gordon-Levitt", "Miles Teller"],
+    "release_year": 2011
+  },
+  {
+    "id": 164,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which film does a mathematician attempt to decode stock market chaos?",
+    "correct_answer": "Pi",
+    "incorrect_answers": ["A Beautiful Mind", "The Big Short", "Moneyball"],
+    "release_year": 1998
+  },
+  {
+    "id": 165,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the real identity of the villain \"Ghostface\" in the first 'Scream' movie?",
+    "correct_answer": "Billy and Stu",
+    "incorrect_answers": ["Dewey", "Randy", "Sidney"],
+    "release_year": 1996
+  },
+  {
+    "id": 166,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which director is known for films with non-linear storytelling, such as 'Pulp Fiction'?",
+    "correct_answer": "Quentin Tarantino",
+    "incorrect_answers": ["Martin Scorsese", "David Fincher", "Stanley Kubrick"],
+    "release_year": 1994
+  },
+  {
+    "id": 167,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Green Mile', what is John Coffey's supernatural ability?",
+    "correct_answer": "Healing",
+    "incorrect_answers": ["Telepathy", "Invisibility", "Mind control"],
+    "release_year": 1999
+  },
+  {
+    "id": 168,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What object is used as the key to time travel in 'Looper'?",
+    "correct_answer": "A specialized time machine",
+    "incorrect_answers": ["A watch", "A ring", "A memory implant"],
+    "release_year": 2012
+  },
+  {
+    "id": 169,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What language is used by the aliens in 'Arrival'?",
+    "correct_answer": "Circular logograms",
+    "incorrect_answers": ["Clicks", "Harmonic pulses", "Telepathic symbols"],
+    "release_year": 2016
+  },
+  {
+    "id": 170,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays the Joker in the 2019 film 'Joker'?",
+    "correct_answer": "Joaquin Phoenix",
+    "incorrect_answers": ["Heath Ledger", "Jared Leto", "Willem Dafoe"],
+    "release_year": 2019
+  },
+  {
+    "id": 171,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the psychological thriller 'Se7en'?",
+    "correct_answer": "David Fincher",
+    "incorrect_answers": ["Martin Scorsese", "Ridley Scott", "James Wan"],
+    "release_year": 1995
+  },
+  {
+    "id": 172,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Christian Bale as Patrick Bateman?",
+    "correct_answer": "American Psycho",
+    "incorrect_answers": ["The Machinist", "Vice", "The Prestige"],
+    "release_year": 2000
+  },
+  {
+    "id": 173,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main character’s name in 'No Country for Old Men'?",
+    "correct_answer": "Llewelyn Moss",
+    "incorrect_answers": ["Anton Chigurh", "Ed Tom Bell", "Carson Wells"],
+    "release_year": 2007
+  },
+  {
+    "id": 174,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features a man communicating with his past self through a ham radio?",
+    "correct_answer": "Frequency",
+    "incorrect_answers": ["The Butterfly Effect", "Coherence", "Predestination"],
+    "release_year": 2000
+  },
+  {
+    "id": 175,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays the lead character in 'Whiplash'?",
+    "correct_answer": "Miles Teller",
+    "incorrect_answers": ["Joseph Gordon-Levitt", "Logan Lerman", "Andrew Garfield"],
+    "release_year": 2014
+  },
+  {
+    "id": 176,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film features a dream invasion team led by Cobb?",
+    "correct_answer": "Inception",
+    "incorrect_answers": ["Interstellar", "Shutter Island", "Tenet"],
+    "release_year": 2010
+  },
+  {
+    "id": 177,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the primary setting of the film 'Shutter Island'?",
+    "correct_answer": "A psychiatric institution",
+    "incorrect_answers": ["A prison", "An abandoned town", "An offshore military base"],
+    "release_year": 2010
+  },
+  {
+    "id": 178,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who plays the role of Gandalf's ally Saruman?",
+    "correct_answer": "Christopher Lee",
+    "incorrect_answers": ["Ian McKellen", "Hugo Weaving", "Richard Armitage"],
+    "release_year": 2001
+  },
+  {
+    "id": 179,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Jeff Bridges as Kevin Flynn trapped in a digital world?",
+    "correct_answer": "TRON",
+    "incorrect_answers": ["Blade Runner", "The Matrix", "Johnny Mnemonic"],
+    "release_year": 1982
+  },
+  {
+    "id": 180,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie shows two magicians locked in a dangerous rivalry?",
+    "correct_answer": "The Prestige",
+    "incorrect_answers": ["Now You See Me", "Illusionist", "The Great Houdini"],
+    "release_year": 2006
+  },
+  {
+    "id": 181,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Tenet', what is the name of the technology that reverses entropy?",
+    "correct_answer": "Inversion",
+    "incorrect_answers": ["Phase Shift", "Rewind Protocol", "Entropy Loop"],
+    "release_year": 2020
+  },
+  {
+    "id": 182,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor plays the antagonist Anton Chigurh?",
+    "correct_answer": "Javier Bardem",
+    "incorrect_answers": ["Benicio del Toro", "Gael García Bernal", "Mark Strong"],
+    "release_year": 2007
+  },
+  {
+    "id": 183,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie centers on a linguist deciphering alien language?",
+    "correct_answer": "Arrival",
+    "incorrect_answers": ["Annihilation", "Contact", "The Abyss"],
+    "release_year": 2016
+  },
+  {
+    "id": 184,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Wes Anderson film features a boy-scout troop on a remote island?",
+    "correct_answer": "Moonrise Kingdom",
+    "incorrect_answers": ["Isle of Dogs", "Fantastic Mr. Fox", "The Royal Tenenbaums"],
+    "release_year": 2012
+  },
+  {
+    "id": 185,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What unusual transportation method is featured in 'Snowpiercer'?",
+    "correct_answer": "A perpetual-motion train",
+    "incorrect_answers": ["A solar-powered plane", "An underwater city", "A desert caravan"],
+    "release_year": 2013
+  },
+  {
+    "id": 186,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed 'The Shape of Water'?",
+    "correct_answer": "Guillermo del Toro",
+    "incorrect_answers": ["Alfonso Cuarón", "Tim Burton", "Stephen King"],
+    "release_year": 2017
+  },
+  {
+    "id": 187,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main setting of 'The Grand Budapest Hotel'?",
+    "correct_answer": "A fictional European hotel",
+    "incorrect_answers": ["A train station", "A mountain lodge", "A seaside resort"],
+    "release_year": 2014
+  },
+  {
+    "id": 188,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who stars as the lead character in 'Hereditary'?",
+    "correct_answer": "Toni Collette",
+    "incorrect_answers": ["Florence Pugh", "Emily Blunt", "Vera Farmiga"],
+    "release_year": 2018
+  },
+  {
+    "id": 189,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film depicts the creation of Facebook?",
+    "correct_answer": "The Social Network",
+    "incorrect_answers": ["Jobs", "The Founder", "Moneyball"],
+    "release_year": 2010
+  },
+  {
+    "id": 190,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Quentin Tarantino film features bounty hunter Dr. King Schultz?",
+    "correct_answer": "Django Unchained",
+    "incorrect_answers": ["Inglourious Basterds", "The Hateful Eight", "Kill Bill"],
+    "release_year": 2012
+  },
+  {
+    "id": 191,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie stars Jake Gyllenhaal as a crime-scene videographer?",
+    "correct_answer": "Nightcrawler",
+    "incorrect_answers": ["Zodiac", "Prisoners", "Enemy"],
+    "release_year": 2014
+  },
+  {
+    "id": 192,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the central theme of the film 'Her'?",
+    "correct_answer": "Human-AI relationships",
+    "incorrect_answers": ["Time travel", "Virtual reality wars", "Memory loss"],
+    "release_year": 2013
+  },
+  {
+    "id": 193,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Hugh Jackman in a battle against a corrupt education system?",
+    "correct_answer": "Bad Education",
+    "incorrect_answers": ["Prisoners", "The Front Runner", "The Greatest Showman"],
+    "release_year": 2019
+  },
+  {
+    "id": 194,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the dystopian city in 'Metropolis'?",
+    "correct_answer": "Metropolis",
+    "incorrect_answers": ["Neo-Tokyo", "Zion", "Panem"],
+    "release_year": 1927
+  },
+  {
+    "id": 195,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Tom Hanks as Captain Miller?",
+    "correct_answer": "Saving Private Ryan",
+    "incorrect_answers": ["Cast Away", "Bridge of Spies", "Captain Phillips"],
+    "release_year": 1998
+  },
+  {
+    "id": 196,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who directed the movie 'The Sixth Sense'?",
+    "correct_answer": "M. Night Shyamalan",
+    "incorrect_answers": ["James Wan", "David Fincher", "Bryan Singer"],
+    "release_year": 1999
+  },
+  {
+    "id": 197,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Brad Pitt as a man who ages backwards?",
+    "correct_answer": "The Curious Case of Benjamin Button",
+    "incorrect_answers": ["Ad Astra", "Babel", "Seven"],
+    "release_year": 2008
+  },
+  {
+    "id": 198,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie features a motel manager named Norman Bates?",
+    "correct_answer": "Psycho",
+    "incorrect_answers": ["The Shining", "American Psycho", "Insomnia"],
+    "release_year": 1960
+  },
+  {
+    "id": 199,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which musical film stars Ryan Gosling and Emma Stone?",
+    "correct_answer": "La La Land",
+    "incorrect_answers": ["Chicago", "Moulin Rouge", "The Greatest Showman"],
+    "release_year": 2016
+  },
+  {
+    "id": 200,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which film stars Amy Adams as a linguist interpreting alien messages?",
+    "correct_answer": "Arrival",
+    "incorrect_answers": ["Annihilation", "Interstellar", "Gravity"],
+    "release_year": 2016
+  },
+  
 
 
 
