@@ -907,6 +907,916 @@
     "correct_answer": "The Appalachian Mountains",
     "incorrect_answers": ["The Rocky Mountains", "The Sierra Nevada", "The Cascade Range"]
   },
+  {
+    "id": 101,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European nation was the first to explore and colonize large parts of Africa and the Americas during the Age of Exploration?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["Spain", "England", "France"]
+  },
+  {
+    "id": 102,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The 'Shot Heard Round the World' refers to the start of which conflict?",
+    "correct_answer": "The American Revolutionary War",
+    "incorrect_answers": ["The Civil War", "World War I", "The War of 1812"]
+  },
+  {
+    "id": 103,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire was ruled by the czars?",
+    "correct_answer": "The Russian Empire",
+    "incorrect_answers": ["The Ottoman Empire", "The British Empire", "The Mongol Empire"]
+  },
+  {
+    "id": 104,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What major 20th-century event was sparked by the assassination of Archduke Franz Ferdinand?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Russian Revolution", "The Balkan Wars"]
+  },
+  {
+    "id": 105,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient civilization used a writing system called hieroglyphics?",
+    "correct_answer": "The Egyptians",
+    "incorrect_answers": ["The Sumerians", "The Maya", "The Phoenicians"]
+  },
+  {
+    "id": 106,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What economic system dominated Europe during the Middle Ages, based on land ownership and duties?",
+    "correct_answer": "Feudalism",
+    "incorrect_answers": ["Capitalism", "Mercantilism", "Socialism"]
+  },
+  {
+    "id": 107,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Chinese philosopher taught ideas about relationships, respect, and proper behavior?",
+    "correct_answer": "Confucius",
+    "incorrect_answers": ["Laozi", "Sun Tzu", "Mencius"]
+  },
+  {
+    "id": 108,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President led the country during the Great Depression and World War II?",
+    "correct_answer": "Franklin D. Roosevelt",
+    "incorrect_answers": ["Harry S. Truman", "Woodrow Wilson", "Herbert Hoover"]
+  },
+  {
+    "id": 109,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who united the Mongol tribes and founded the Mongol Empire?",
+    "correct_answer": "Genghis Khan",
+    "incorrect_answers": ["Kublai Khan", "Tamerlane", "Ögedei Khan"]
+  },
+  {
+    "id": 110,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which naval battle was the turning point in the Pacific during World War II?",
+    "correct_answer": "The Battle of Midway",
+    "incorrect_answers": ["Pearl Harbor", "Guadalcanal", "Iwo Jima"]
+  },
+
+  {
+    "id": 111,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What political system did the Soviet Union follow during most of the 20th century?",
+    "correct_answer": "Communism",
+    "incorrect_answers": ["Fascism", "Monarchy", "Capitalism"]
+  },
+  {
+    "id": 112,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who led the Haitian Revolution, the only successful slave revolt in history?",
+    "correct_answer": "Toussaint Louverture",
+    "incorrect_answers": ["Jean-Jacques Dessalines", "Henri Christophe", "Dutty Boukman"]
+  },
+  {
+    "id": 113,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient civilization built the city of Teotihuacan?",
+    "correct_answer": "The Aztecs",
+    "incorrect_answers": ["The Maya", "The Olmecs", "The Inca"]
+  },
+  {
+    "id": 114,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which agreement ended World War I and imposed harsh reparations on Germany?",
+    "correct_answer": "The Treaty of Versailles",
+    "incorrect_answers": ["The Treaty of Paris", "The Treaty of Ghent", "The Potsdam Agreement"]
+  },
+  {
+    "id": 115,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first emperor of Rome?",
+    "correct_answer": "Augustus",
+    "incorrect_answers": ["Julius Caesar", "Nero", "Tiberius"]
+  },
+  {
+    "id": 116,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire constructed the road system known as the Royal Road?",
+    "correct_answer": "The Persian Empire",
+    "incorrect_answers": ["The Roman Empire", "The Ottoman Empire", "The Babylonian Empire"]
+  },
+  {
+    "id": 117,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What event is widely considered to mark the beginning of the Great Depression?",
+    "correct_answer": "The Stock Market Crash of 1929",
+    "incorrect_answers": ["The Dust Bowl", "The New Deal", "Bank failures in 1933"]
+  },
+  {
+    "id": 118,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which colony was founded as a haven for English Catholics?",
+    "correct_answer": "Maryland",
+    "incorrect_answers": ["Georgia", "Massachusetts", "Virginia"]
+  },
+  {
+    "id": 119,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Code of Hammurabi is associated with which ancient civilization?",
+    "correct_answer": "Babylon",
+    "incorrect_answers": ["Sumer", "Assyria", "Persia"]
+  },
+  {
+    "id": 120,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The term 'Cold War' describes tensions primarily between the United States and which other nation?",
+    "correct_answer": "The Soviet Union",
+    "incorrect_answers": ["China", "Germany", "Japan"]
+  },
+
+  {
+    "id": 121,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire used quipus—knotted strings—as a method of record keeping?",
+    "correct_answer": "The Inca Empire",
+    "incorrect_answers": ["The Maya Empire", "The Aztec Empire", "The Olmec Civilization"]
+  },
+  {
+    "id": 122,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. landmark was the location of George Washington’s winter encampment during the Revolutionary War?",
+    "correct_answer": "Valley Forge",
+    "incorrect_answers": ["Yorktown", "Bunker Hill", "Saratoga"]
+  },
+  {
+    "id": 123,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the Renaissance a revival of?",
+    "correct_answer": "Classical learning and arts",
+    "incorrect_answers": ["Military power", "Religious conflicts", "Agricultural methods"]
+  },
+  {
+    "id": 124,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the primary goal of the Crusades?",
+    "correct_answer": "To capture the Holy Land",
+    "incorrect_answers": ["To conquer Europe", "To spread democracy", "To end feudalism"]
+  },
+  {
+    "id": 125,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What major construction project in the 1860s connected the United States from east to west?",
+    "correct_answer": "The Transcontinental Railroad",
+    "incorrect_answers": ["The Erie Canal", "Route 66", "The Pony Express"]
+  },
+  {
+    "id": 126,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What disease caused millions of deaths in Europe during the 14th century?",
+    "correct_answer": "The Black Death",
+    "incorrect_answers": ["Smallpox", "Cholera", "Influenza"]
+  },
+  {
+    "id": 127,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire was led by Suleiman the Magnificent?",
+    "correct_answer": "The Ottoman Empire",
+    "incorrect_answers": ["The Persian Empire", "The Mughal Empire", "The Byzantine Empire"]
+  },
+  {
+    "id": 128,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the network that enslaved Africans traveled through to reach the Americas?",
+    "correct_answer": "The Middle Passage",
+    "incorrect_answers": ["The Silk Road", "The Atlantic Path", "The Southern Trade Route"]
+  },
+  {
+    "id": 129,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire built the Hagia Sophia as a cathedral before it became a mosque?",
+    "correct_answer": "The Byzantine Empire",
+    "incorrect_answers": ["The Ottoman Empire", "The Roman Empire", "The Persian Empire"]
+  },
+  {
+    "id": 130,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President purchased Louisiana from France?",
+    "correct_answer": "Thomas Jefferson",
+    "incorrect_answers": ["James Madison", "John Adams", "James Monroe"]
+  },
+
+  {
+    "id": 131,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What movement sought to end racial segregation in the United States during the 1950s and 1960s?",
+    "correct_answer": "The Civil Rights Movement",
+    "incorrect_answers": ["The Populist Movement", "The Progressive Movement", "The Temperance Movement"]
+  },
+  {
+    "id": 132,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who wrote the influential work *The Prince*, advising rulers on power and leadership?",
+    "correct_answer": "Niccolò Machiavelli",
+    "incorrect_answers": ["Thomas More", "Voltaire", "John Locke"]
+  },
+  {
+    "id": 133,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the alliance between the U.S., Canada, and Western Europe during the Cold War?",
+    "correct_answer": "NATO",
+    "incorrect_answers": ["The Warsaw Pact", "The League of Nations", "The Geneva Coalition"]
+  },
+  {
+    "id": 134,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. Supreme Court case ended legal school segregation?",
+    "correct_answer": "Brown v. Board of Education",
+    "incorrect_answers": ["Roe v. Wade", "Plessy v. Ferguson", "Marbury v. Madison"]
+  },
+  {
+    "id": 135,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire created the first known postal system?",
+    "correct_answer": "The Persian Empire",
+    "incorrect_answers": ["The Roman Empire", "The Greek Empire", "The Egyptian Empire"]
+  },
+  {
+    "id": 136,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President issued the Fourteen Points outlining peace goals after World War I?",
+    "correct_answer": "Woodrow Wilson",
+    "incorrect_answers": ["Franklin Roosevelt", "Theodore Roosevelt", "Harry Truman"]
+  },
+  {
+    "id": 137,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the main purpose of the Marshall Plan?",
+    "correct_answer": "To help rebuild Europe after World War II",
+    "incorrect_answers": ["To stop the spread of communism in Asia", "To rebuild the U.S. economy", "To expand international trade"]
+  },
+  {
+    "id": 138,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which early civilization built ziggurats as religious temples?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Egyptians", "The Greeks", "The Hebrews"]
+  },
+  {
+    "id": 139,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Viking explorer is believed to have reached North America around the year 1000?",
+    "correct_answer": "Leif Erikson",
+    "incorrect_answers": ["Eric the Red", "Ragnar Lodbrok", "Harald Hardrada"]
+  },
+  {
+    "id": 140,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Chinese dynasty was known for its Great Wall expansions and Terra Cotta Army?",
+    "correct_answer": "The Qin Dynasty",
+    "incorrect_answers": ["The Han Dynasty", "The Tang Dynasty", "The Ming Dynasty"]
+  },
+
+  {
+    "id": 141,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "During which conflict was the Battle of Gettysburg fought?",
+    "correct_answer": "The American Civil War",
+    "incorrect_answers": ["The Revolutionary War", "The War of 1812", "World War I"]
+  },
+  {
+    "id": 142,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Asian empire built the Taj Mahal?",
+    "correct_answer": "The Mughal Empire",
+    "incorrect_answers": ["The Ottoman Empire", "The Persian Empire", "The Gupta Empire"]
+  },
+  {
+    "id": 143,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the first permanent English settlement in North America?",
+    "correct_answer": "Jamestown",
+    "incorrect_answers": ["Plymouth", "Roanoke", "Charleston"]
+  },
+  {
+    "id": 144,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What civilization developed the concept of zero?",
+    "correct_answer": "The Maya",
+    "incorrect_answers": ["The Romans", "The Chinese", "The Egyptians"]
+  },
+  {
+    "id": 145,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Opium Wars were conflicts between China and which European nation?",
+    "correct_answer": "Britain",
+    "incorrect_answers": ["France", "The Netherlands", "Spain"]
+  },
+  {
+    "id": 146,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which conflict is known for the trench warfare on the Western Front?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Korean War", "The Vietnam War"]
+  },
+  {
+    "id": 147,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient culture developed the first known democracy?",
+    "correct_answer": "The Greeks",
+    "incorrect_answers": ["The Romans", "The Egyptians", "The Babylonians"]
+  },
+  {
+    "id": 148,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the U.S. policy to prevent the expansion of communism?",
+    "correct_answer": "Containment",
+    "incorrect_answers": ["Isolationism", "Imperialism", "Neutrality"]
+  },
+  {
+    "id": 149,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African empire was famous for its wealth under Mansa Musa?",
+    "correct_answer": "The Mali Empire",
+    "incorrect_answers": ["The Ghana Empire", "The Songhai Empire", "The Axumite Empire"]
+  },
+  {
+    "id": 150,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What 1773 event involved colonists dumping tea into Boston Harbor?",
+    "correct_answer": "The Boston Tea Party",
+    "incorrect_answers": ["The Boston Massacre", "The Tea Act Riot", "The Liberty Rally"]
+  },
+
+  {
+    "id": 151,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which novel by Upton Sinclair exposed poor working conditions in the meatpacking industry?",
+    "correct_answer": "The Jungle",
+    "incorrect_answers": ["The Grapes of Wrath", "Silent Spring", "The Gilded Age"]
+  },
+  {
+    "id": 152,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. event is considered the start of the Great Depression?",
+    "correct_answer": "Black Tuesday",
+    "incorrect_answers": ["Black Friday", "Black Monday", "Bank Panic of 1933"]
+  },
+  {
+    "id": 153,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Rosetta Stone was key to deciphering which ancient writing system?",
+    "correct_answer": "Egyptian hieroglyphics",
+    "incorrect_answers": ["Sumerian cuneiform", "Mayan glyphs", "Phoenician script"]
+  },
+  {
+    "id": 154,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President signed the Civil Rights Act of 1964?",
+    "correct_answer": "Lyndon B. Johnson",
+    "incorrect_answers": ["John F. Kennedy", "Richard Nixon", "Dwight Eisenhower"]
+  },
+  {
+    "id": 155,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which queen ruled England during the defeat of the Spanish Armada?",
+    "correct_answer": "Queen Elizabeth I",
+    "incorrect_answers": ["Queen Mary I", "Queen Victoria", "Queen Anne"]
+  },
+  {
+    "id": 156,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hinduism originated primarily in which modern-day country?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Nepal", "Sri Lanka", "Bangladesh"]
+  },
+  {
+    "id": 157,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient people created the world's first known alphabet?",
+    "correct_answer": "The Phoenicians",
+    "incorrect_answers": ["The Greeks", "The Egyptians", "The Hebrews"]
+  },
+  {
+    "id": 158,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What global conflict was sparked by Germany's invasion of Poland in 1939?",
+    "correct_answer": "World War II",
+    "incorrect_answers": ["World War I", "The Cold War", "The Balkan Wars"]
+  },
+  {
+    "id": 159,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient war featured the 300 Spartans at Thermopylae?",
+    "correct_answer": "The Greco-Persian Wars",
+    "incorrect_answers": ["The Trojan War", "The Peloponnesian War", "The Punic Wars"]
+  },
+  {
+    "id": 160,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the name of the U.S. foreign policy that opposed European interference in the Americas?",
+    "correct_answer": "The Monroe Doctrine",
+    "incorrect_answers": ["The Truman Doctrine", "The Marshall Plan", "The Roosevelt Corollary"]
+  },
+
+  {
+    "id": 161,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What caused the Dust Bowl in the 1930s?",
+    "correct_answer": "Drought and poor farming practices",
+    "incorrect_answers": ["Insect infestation", "Industrial pollution", "Natural flooding"]
+  },
+  {
+    "id": 162,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European explorer first reached India by sea?",
+    "correct_answer": "Vasco da Gama",
+    "incorrect_answers": ["Magellan", "Columbus", "Cortés"]
+  },
+  {
+    "id": 163,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The term 'Renaissance' means what?",
+    "correct_answer": "Rebirth",
+    "incorrect_answers": ["Revolution", "Renewal", "Reform"]
+  },
+  {
+    "id": 164,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which civilization built the Parthenon?",
+    "correct_answer": "The Greeks",
+    "incorrect_answers": ["The Romans", "The Egyptians", "The Babylonians"]
+  },
+  {
+    "id": 165,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What U.S. policy after WWII offered aid to countries resisting communism?",
+    "correct_answer": "The Truman Doctrine",
+    "incorrect_answers": ["The Monroe Doctrine", "The Marshall Agreement", "The Eisenhower Plan"]
+  },
+  {
+    "id": 166,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What ancient trade route connected China, India, and the Mediterranean?",
+    "correct_answer": "The Silk Road",
+    "incorrect_answers": ["The Amber Road", "The Spice Route", "The Caravan Trail"]
+  },
+  {
+    "id": 167,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was executed in 1431 after leading French forces during the Hundred Years' War?",
+    "correct_answer": "Joan of Arc",
+    "incorrect_answers": ["Catherine de Medici", "Marie Antoinette", "Eleanor of Aquitaine"]
+  },
+  {
+    "id": 168,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which early American colony was established by the Pilgrims?",
+    "correct_answer": "Plymouth",
+    "incorrect_answers": ["Jamestown", "Roanoke", "Charleston"]
+  },
+  {
+    "id": 169,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What major event in 1917 shifted the course of World War I?",
+    "correct_answer": "The U.S. entering the war",
+    "incorrect_answers": ["Russia leaving the war", "The sinking of the Lusitania", "The Zimmerman Telegram"]
+  },
+  {
+    "id": 170,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the main crop grown on Southern plantations during the 1800s?",
+    "correct_answer": "Cotton",
+    "incorrect_answers": ["Tobacco", "Sugarcane", "Rice"]
+  },
+
+  {
+    "id": 171,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Roman leader was assassinated on the Ides of March?",
+    "correct_answer": "Julius Caesar",
+    "incorrect_answers": ["Augustus", "Nero", "Tiberius"]
+  },
+  {
+    "id": 172,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President spearheaded the New Deal?",
+    "correct_answer": "Franklin D. Roosevelt",
+    "incorrect_answers": ["Herbert Hoover", "Harry Truman", "Calvin Coolidge"]
+  },
+  {
+    "id": 173,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for the period of cultural flourishing in ancient Greece?",
+    "correct_answer": "The Golden Age",
+    "incorrect_answers": ["The Enlightenment", "The Renaissance", "The Bronze Age"]
+  },
+  {
+    "id": 174,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who founded the Mongol Empire?",
+    "correct_answer": "Genghis Khan",
+    "incorrect_answers": ["Kublai Khan", "Tamerlane", "Batu Khan"]
+  },
+  {
+    "id": 175,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What U.S. program built national parks, roads, and public works during the Great Depression?",
+    "correct_answer": "The Civilian Conservation Corps",
+    "incorrect_answers": ["The TVA", "The WPA", "The PWA"]
+  },
+  {
+    "id": 176,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which war was the Battle of the Bulge fought?",
+    "correct_answer": "World War II",
+    "incorrect_answers": ["World War I", "The Vietnam War", "The Korean War"]
+  },
+  {
+    "id": 177,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African country was formerly known as Abyssinia?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["Sudan", "Kenya", "Somalia"]
+  },
+  {
+    "id": 178,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which civilization created the famous city of Petra?",
+    "correct_answer": "The Nabataeans",
+    "incorrect_answers": ["The Phoenicians", "The Babylonians", "The Israelites"]
+  },
+  {
+    "id": 179,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 1920, the 19th Amendment granted U.S. women the right to what?",
+    "correct_answer": "Vote",
+    "incorrect_answers": ["Own property", "Serve in the military", "Work government jobs"]
+  },
+  {
+    "id": 180,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Berlin Airlift was a response to a blockade imposed by which nation?",
+    "correct_answer": "The Soviet Union",
+    "incorrect_answers": ["East Germany", "China", "Poland"]
+  },
+
+  {
+    "id": 181,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What sparked the start of the Protestant Reformation in 1517?",
+    "correct_answer": "Martin Luther's 95 Theses",
+    "incorrect_answers": ["The printing press", "The Council of Trent", "Henry VIII’s split from the Church"]
+  },
+  {
+    "id": 182,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African empire was led by Shaka, a powerful military innovator?",
+    "correct_answer": "The Zulu Kingdom",
+    "incorrect_answers": ["The Mali Empire", "The Axum Empire", "The Ashanti Empire"]
+  },
+  {
+    "id": 183,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Alcatraz Island is located in which U.S. state?",
+    "correct_answer": "California",
+    "incorrect_answers": ["New York", "Florida", "Washington"]
+  },
+  {
+    "id": 184,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Punic Wars were fought between Rome and which other Mediterranean power?",
+    "correct_answer": "Carthage",
+    "incorrect_answers": ["Athens", "Persia", "Egypt"]
+  },
+  {
+    "id": 185,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which country did the Industrial Revolution begin?",
+    "correct_answer": "Britain",
+    "incorrect_answers": ["Germany", "United States", "France"]
+  },
+  {
+    "id": 186,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Nelson Mandela became the first Black president of which country?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Kenya", "Nigeria", "Ghana"]
+  },
+  {
+    "id": 187,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the capital of the Byzantine Empire?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": ["Athens", "Rome", "Alexandria"]
+  },
+  {
+    "id": 188,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The ancient city of Carthage was located in which modern country?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["Egypt", "Morocco", "Libya"]
+  },
+  {
+    "id": 189,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Korean War ended in 1953 with what type of agreement?",
+    "correct_answer": "An armistice",
+    "incorrect_answers": ["A peace treaty", "A surrender", "A ceasefire without negotiations"]
+  },
+  {
+    "id": 190,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which empire built the Coliseum?",
+    "correct_answer": "The Roman Empire",
+    "incorrect_answers": ["The Greek Empire", "The Persian Empire", "The Egyptian Empire"]
+  },
+
+  {
+    "id": 191,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Great Schism of 1054 divided Christianity into Roman Catholic and what other branch?",
+    "correct_answer": "Eastern Orthodox",
+    "incorrect_answers": ["Protestant", "Coptic", "Lutheran"]
+  },
+  {
+    "id": 192,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Mesoamerican civilization built the city of Chichén Itzá?",
+    "correct_answer": "The Maya",
+    "incorrect_answers": ["The Aztec", "The Inca", "The Olmec"]
+  },
+  {
+    "id": 193,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Spanish Inquisition was established under which monarchs?",
+    "correct_answer": "Ferdinand and Isabella",
+    "incorrect_answers": ["Charles V and Philip II", "Henry VIII and Mary I", "Louis XIV and Anne of Austria"]
+  },
+  {
+    "id": 194,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President approved the use of atomic bombs during World War II?",
+    "correct_answer": "Harry S. Truman",
+    "incorrect_answers": ["Franklin D. Roosevelt", "Dwight D. Eisenhower", "Theodore Roosevelt"]
+  },
+  {
+    "id": 195,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the last queen of France before the French Revolution?",
+    "correct_answer": "Marie Antoinette",
+    "incorrect_answers": ["Catherine de Medici", "Joan of Arc", "Anne of Austria"]
+  },
+  {
+    "id": 196,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What canal, completed in 1869, significantly shortened travel between Europe and Asia?",
+    "correct_answer": "The Suez Canal",
+    "incorrect_answers": ["The Panama Canal", "The Corinth Canal", "The Kiel Canal"]
+  },
+  {
+    "id": 197,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Cuneiform was developed by which early civilization?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Egyptians", "The Phoenicians", "The Greeks"]
+  },
+  {
+    "id": 198,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which war included the battles of Verdun and the Somme?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Franco-Prussian War", "The Crimean War"]
+  },
+  {
+    "id": 199,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Trail of Tears refers to the forced relocation of which Native American group?",
+    "correct_answer": "The Cherokee",
+    "incorrect_answers": ["The Navajo", "The Sioux", "The Iroquois"]
+  },
+  {
+    "id": 200,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Cold War barrier fell in 1989, symbolizing the end of Soviet influence in Eastern Europe?",
+    "correct_answer": "The Berlin Wall",
+    "incorrect_answers": ["The Iron Curtain", "Checkpoint Charlie", "The Warsaw Barrier"]
+  },
+
   
 
 
