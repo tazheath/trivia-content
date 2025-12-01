@@ -1,3014 +1,1054 @@
 [
   {
-    "id": 1,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 1997 film features a romance aboard a doomed ocean liner and stars Leonardo DiCaprio and Kate Winslet?",
-    "correct_answer": "Titanic",
-    "incorrect_answers": ["The Notebook", "Romeo + Juliet", "Pearl Harbor"],
-    "release_year": 1997
-  },
-  {
-    "id": 2,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which animated film features the song 'Let It Go' and the sisters Elsa and Anna?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Moana", "Tangled", "Brave"],
-    "release_year": 2013
-  },
-  {
-    "id": 3,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 1993 film is about dinosaurs brought back to life in a theme park?",
-    "correct_answer": "Jurassic Park",
-    "incorrect_answers": ["The Lost World", "King Kong", "The Land Before Time"],
-    "release_year": 1993
-  },
-  {
-    "id": 4,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What was Pixar's first feature-length film?",
-    "correct_answer": "Toy Story",
-    "incorrect_answers": ["Monsters, Inc.", "A Bug's Life", "Finding Nemo"],
-    "release_year": 1995
-  },
-  {
-    "id": 5,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which Disney animated film does the lion cub Simba appear?",
-    "correct_answer": "The Lion King",
-    "incorrect_answers": ["Tarzan", "Hercules", "Aladdin"],
-    "release_year": 1994
-  },
-  {
-    "id": 6,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Matrix', what color pill does Neo take to learn the truth?",
-    "correct_answer": "Red",
-    "incorrect_answers": ["Blue", "Green", "White"],
-    "release_year": 1999
-  },
-  {
-    "id": 7,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 2009 film is set on the alien moon Pandora and features the Na'vi people?",
-    "correct_answer": "Avatar",
-    "incorrect_answers": ["Guardians of the Galaxy", "Star Trek", "Edge of Tomorrow"],
-    "release_year": 2009
-  },
-  {
-    "id": 8,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Finding Nemo', what kind of fish is Nemo?",
-    "correct_answer": "Clownfish",
-    "incorrect_answers": ["Goldfish", "Angelfish", "Betta"],
-    "release_year": 2003
-  },
-  {
-    "id": 9,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Harry Potter and the Sorcerer's Stone', which Hogwarts house does Harry join?",
-    "correct_answer": "Gryffindor",
-    "incorrect_answers": ["Slytherin", "Hufflepuff", "Ravenclaw"],
-    "release_year": 2001
-  },
-  {
-    "id": 10,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which superhero film features Heath Ledger as the Joker?",
-    "correct_answer": "The Dark Knight",
-    "incorrect_answers": ["Batman Begins", "Joker", "The Dark Knight Rises"],
-    "release_year": 2008
-  },
-  {
-    "id": 11,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a young wizard who attends Hogwarts School of Witchcraft and Wizardry?",
-    "correct_answer": "Harry Potter and the Sorcerer's Stone",
-    "incorrect_answers": [
-      "The Chronicles of Narnia",
-      "Fantastic Beasts and Where to Find Them",
-      "Percy Jackson & the Olympians: The Lightning Thief"
-    ],
-    "release_year": 2001
-  },
-  {
-    "id": 12,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a fish named Dory keep forgetting things?",
-    "correct_answer": "Finding Nemo",
-    "incorrect_answers": ["Shark Tale", "The Little Mermaid", "Luca"],
-    "release_year": 2003
-  },
-  {
-    "id": 13,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which superhero is also known as 'The Caped Crusader'?",
-    "correct_answer": "Batman",
-    "incorrect_answers": ["Superman", "Spider-Man", "Iron Man"],
-    "release_year": 1989
-  },
-  {
-    "id": 14,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 2013 animated film features the characters Olaf the snowman and Kristoff?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Brave", "Coco", "Raya and the Last Dragon"],
-    "release_year": 2013
-  },
-  {
-    "id": 15,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a young clownfish get taken to a dentist's office aquarium in Sydney?",
-    "correct_answer": "Finding Nemo",
-    "incorrect_answers": ["Shark Tale", "Finding Dory", "Atlantis: The Lost Empire"],
-    "release_year": 2003
-  },
-  {
-    "id": 16,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie follows a group of toys that come to life when humans are not around?",
-    "correct_answer": "Toy Story",
-    "incorrect_answers": ["Cars", "Inside Out", "The Incredibles"],
-    "release_year": 1995
-  },
-  {
-    "id": 17,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film stars Will Smith as a New York City cop who monitors extraterrestrial activity?",
-    "correct_answer": "Men in Black",
-    "incorrect_answers": ["Independence Day", "I, Robot", "Hancock"],
-    "release_year": 1997
-  },
-  {
-    "id": 18,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which animated movie features a rat who dreams of becoming a chef in Paris?",
-    "correct_answer": "Ratatouille",
-    "incorrect_answers": [
-      "The Princess and the Frog",
-      "Cloudy with a Chance of Meatballs",
-      "Over the Hedge"
-    ],
-    "release_year": 2007
-  },
-  {
-    "id": 19,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a young boy befriend an alien and help him 'phone home'?",
-    "correct_answer": "E.T. the Extra-Terrestrial",
-    "incorrect_answers": ["Close Encounters of the Third Kind", "The Iron Giant", "Lilo & Stitch"],
-    "release_year": 1982
-  },
-  {
-    "id": 20,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which superhero team includes Iron Man, Captain America, Thor, and Hulk?",
-    "correct_answer": "The Avengers",
-    "incorrect_answers": ["Justice League", "X-Men", "Fantastic Four"],
-    "release_year": 2012
-  },
-  {
-    "id": 21,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a family of superheroes forced to live a normal suburban life?",
-    "correct_answer": "The Incredibles",
-    "incorrect_answers": ["Big Hero 6", "Megamind", "Fantastic Four"],
-    "release_year": 2004
-  },
-  {
-    "id": 22,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a princess with long magical hair who has been locked in a tower?",
-    "correct_answer": "Tangled",
-    "incorrect_answers": ["Frozen", "Sleeping Beauty", "Brave"],
-    "release_year": 2010
-  },
-  {
-    "id": 23,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film features talking cars and a race car named Lightning McQueen?",
-    "correct_answer": "Cars",
-    "incorrect_answers": ["Up", "Turbo", "Planes"],
-    "release_year": 2006
-  },
-  {
-    "id": 24,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a panda named Po train to become a kung fu master?",
-    "correct_answer": "Kung Fu Panda",
-    "incorrect_answers": ["Mulan", "How to Train Your Dragon", "Big Hero 6"],
-    "release_year": 2008
-  },
-  {
-    "id": 25,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features four animal friends who escape from the Central Park Zoo?",
-    "correct_answer": "Madagascar",
-    "incorrect_answers": ["The Wild", "Zootopia", "Rio"],
-    "release_year": 2005
-  },
-  {
-    "id": 26,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a young boy discover his neighbor’s house is a living monster?",
-    "correct_answer": "Monster House",
-    "incorrect_answers": ["Coraline", "ParaNorman", "Frankenweenie"],
-    "release_year": 2006
-  },
-  {
-    "id": 27,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 2016 animated film features a bunny cop named Judy Hopps?",
-    "correct_answer": "Zootopia",
-    "incorrect_answers": ["Sing", "The Secret Life of Pets", "Bolt"],
-    "release_year": 2016
-  },
-  {
-    "id": 28,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film series features a boy named Kevin who is accidentally left home alone?",
-    "correct_answer": "Home Alone",
-    "incorrect_answers": ["Dennis the Menace", "Diary of a Wimpy Kid", "The Sandlot"],
-    "release_year": 1990
-  },
-  {
-    "id": 29,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film features a young girl who falls down a rabbit hole into a strange world?",
-    "correct_answer": "Alice in Wonderland",
-    "incorrect_answers": ["Coraline", "Spirited Away", "Pan's Labyrinth"],
-    "release_year": 2010
-  },
-  {
-    "id": 30,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a house lifted into the sky by thousands of balloons?",
-    "correct_answer": "Up",
-    "incorrect_answers": ["Inside Out", "Coco", "The Good Dinosaur"],
-    "release_year": 2009
-  },
-  {
-    "id": 31,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Toy Story 2', what is the name of Woody's horse?",
-    "correct_answer": "Bullseye",
-    "incorrect_answers": ["Buttercup", "Maximus", "Patch"],
-    "release_year": 1999
-  },
-  {
-    "id": 32,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features Gru, the supervillain who adopts three girls?",
-    "correct_answer": "Despicable Me",
-    "incorrect_answers": ["Megamind", "Minions", "The Lorax"],
-    "release_year": 2010
-  },
-  {
-    "id": 33,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which animated film does a robot named Baymax appear?",
-    "correct_answer": "Big Hero 6",
-    "incorrect_answers": ["Wall-E", "Robots", "The Iron Giant"],
-    "release_year": 2014
-  },
-  {
-    "id": 34,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What is the name of the green ogre in the DreamWorks animated film?",
-    "correct_answer": "Shrek",
-    "incorrect_answers": ["Fiona", "Donkey", "Marty"],
-    "release_year": 2001
-  },
-  {
-    "id": 35,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which animated movie tells the story of Miguel visiting the Land of the Dead?",
-    "correct_answer": "Coco",
-    "incorrect_answers": ["The Book of Life", "Encanto", "Soul"],
-    "release_year": 2017
-  },
-  {
-    "id": 36,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Moana', what animal is Moana’s pet pig?",
-    "correct_answer": "Pua",
-    "incorrect_answers": ["Hei Hei", "Kona", "Mochi"],
-    "release_year": 2016
-  },
-  {
-    "id": 37,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What kind of creature is Sulley in 'Monsters, Inc.'?",
-    "correct_answer": "Monster",
-    "incorrect_answers": ["Yeti", "Giant", "Ogre"],
-    "release_year": 2001
-  },
-  {
-    "id": 38,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film features the song 'You've Got a Friend in Me'?",
-    "correct_answer": "Toy Story",
-    "incorrect_answers": ["Cars", "The Incredibles", "Frozen"],
-    "release_year": 1995
-  },
-  {
-    "id": 39,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', what is Michael Scott’s job title?",
-    "correct_answer": "Regional Manager",
-    "incorrect_answers": ["Salesman", "Accountant", "Branch Owner"],
-    "release_year": 2005
-  },
-  {
-    "id": 40,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Pixar film stars a robot left alone to clean up Earth?",
-    "correct_answer": "WALL-E",
-    "incorrect_answers": ["Robots", "Meet the Robinsons", "Astro Boy"],
-    "release_year": 2008
-  },
-  {
-    "id": 41,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie follows two sisters named Elsa and Anna?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Tangled", "Brave", "Moana"],
-    "release_year": 2013
-  },
-  {
-    "id": 42,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What is the name of the cowboy toy in 'Toy Story'?",
-    "correct_answer": "Woody",
-    "incorrect_answers": ["Buzz", "Jessie", "Bullseye"],
-    "release_year": 1995
-  },
-  {
-    "id": 43,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney princess pricks her finger on a spinning wheel?",
-    "correct_answer": "Sleeping Beauty",
-    "incorrect_answers": ["Cinderella", "Rapunzel", "Aurora"],
-    "release_year": 1959
-  },
-  {
-    "id": 44,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a forgetful blue fish named Dory?",
-    "correct_answer": "Finding Nemo",
-    "incorrect_answers": ["Shark Tale", "The Little Mermaid", "Rio"],
-    "release_year": 2003
-  },
-  {
-    "id": 45,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which film follows the adventures of a young clownfish named Nemo?",
-    "correct_answer": "Finding Nemo",
-    "incorrect_answers": ["Finding Dory", "Shark Tale", "Moana"],
-    "release_year": 2003
-  },
-  {
-    "id": 46,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', what is Jim Halpert’s wife's name?",
-    "correct_answer": "Pam",
-    "incorrect_answers": ["Angela", "Erin", "Kelly"],
-    "release_year": 2005
-  },
-  {
-    "id": 47,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features Buzz Lightyear?",
-    "correct_answer": "Toy Story",
-    "incorrect_answers": ["The Incredibles", "Wreck-It Ralph", "Bolt"],
-    "release_year": 1995
-  },
-  {
-    "id": 48,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a talking snowman named Olaf?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Ice Age", "Happy Feet", "Moana"],
-    "release_year": 2013
-  },
-  {
-    "id": 49,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Who is the main spaceman toy in 'Toy Story'?",
-    "correct_answer": "Buzz Lightyear",
-    "incorrect_answers": ["Woody", "Jessie", "Forky"],
-    "release_year": 1995
-  },
-  {
-    "id": 50,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 2021 Disney film stars a girl named Mirabel who lives in a magical house?",
-    "correct_answer": "Encanto",
-    "incorrect_answers": ["Coco", "Brave", "Frozen II"],
-    "release_year": 2021
-  },
-    {
-    "id": 51,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', what is the name of Dwight Schrute’s cousin who lives on the beet farm?",
-    "correct_answer": "Mose",
-    "incorrect_answers": ["Nate", "Zeke", "Clark"],
-    "release_year": 2005
-  },
-  {
-    "id": 52,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a wooden puppet who longs to be a real boy?",
-    "correct_answer": "Pinocchio",
-    "incorrect_answers": ["Bambi", "Dumbo", "Peter Pan"],
-    "release_year": 1940
-  },
-  {
-    "id": 53,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What animal is the main character in the movie 'Kung Fu Panda'?",
-    "correct_answer": "Panda",
-    "incorrect_answers": ["Tiger", "Monkey", "Bear"],
-    "release_year": 2008
-  },
-  {
-    "id": 54,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney princess has a pet tiger named Rajah?",
-    "correct_answer": "Jasmine",
-    "incorrect_answers": ["Ariel", "Belle", "Mulan"],
-    "release_year": 1992
-  },
-  {
-    "id": 55,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Frozen', what is the name of Kristoff’s reindeer?",
-    "correct_answer": "Sven",
-    "incorrect_answers": ["Olaf", "Hans", "Maximus"],
-    "release_year": 2013
-  },
-  {
-    "id": 56,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a young Brazilian Spix’s macaw named Blu?",
-    "correct_answer": "Rio",
-    "incorrect_answers": ["Up", "Sing", "Bolt"],
-    "release_year": 2011
-  },
-  {
-    "id": 57,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', what is the name of the company the employees work for?",
-    "correct_answer": "Dunder Mifflin",
-    "incorrect_answers": ["Staples", "Sabre", "Vance Refrigeration"],
-    "release_year": 2005
-  },
-  {
-    "id": 58,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which DreamWorks movie stars a zebra named Marty?",
-    "correct_answer": "Madagascar",
-    "incorrect_answers": ["The Lion King", "Zootopia", "Rio"],
-    "release_year": 2005
-  },
-  {
-    "id": 59,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Who is the main character in 'The Little Mermaid'?",
-    "correct_answer": "Ariel",
-    "incorrect_answers": ["Belle", "Jasmine", "Rapunzel"],
-    "release_year": 1989
-  },
-  {
-    "id": 60,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does a young girl named Riley have emotions that control her actions?",
-    "correct_answer": "Inside Out",
-    "incorrect_answers": ["Soul", "Up", "Brave"],
-    "release_year": 2015
-  },
-  {
-    "id": 61,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a singing snowman created by Elsa’s magic?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Frozen II", "Moana", "The Ice Age"],
-    "release_year": 2013
-  },
-  {
-    "id": 62,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What sort of creature is Donkey in 'Shrek'?",
-    "correct_answer": "Donkey",
-    "incorrect_answers": ["Cow", "Camel", "Horse"],
-    "release_year": 2001
-  },
-  {
-    "id": 63,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney movie features the villain Scar?",
-    "correct_answer": "The Lion King",
-    "incorrect_answers": ["Mulan", "Hercules", "Tarzan"],
-    "release_year": 1994
-  },
-  {
-    "id": 64,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What color is Mike Wazowski in 'Monsters, Inc.'?",
-    "correct_answer": "Green",
-    "incorrect_answers": ["Blue", "Yellow", "Orange"],
-    "release_year": 2001
-  },
-  {
-    "id": 65,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What is the name of Simba’s father in 'The Lion King'?",
-    "correct_answer": "Mufasa",
-    "incorrect_answers": ["Scar", "Zazu", "Rafiki"],
-    "release_year": 1994
-  },
-  {
-    "id": 66,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a girl with super strength named Luisa Madrigal?",
-    "correct_answer": "Encanto",
-    "incorrect_answers": ["Moana", "Frozen", "Raya and the Last Dragon"],
-    "release_year": 2021
-  },
-  {
-    "id": 67,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', what item does Kevin famously spill all over the floor?",
-    "correct_answer": "Chili",
-    "incorrect_answers": ["Coffee", "Soup", "Pasta"],
-    "release_year": 2005
-  },
-  {
-    "id": 68,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Who is the main cowboy toy in 'Toy Story'?",
-    "correct_answer": "Woody",
-    "incorrect_answers": ["Buzz", "Jessie", "Forky"],
-    "release_year": 1995
-  },
-  {
-    "id": 69,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a thief named Aladdin?",
-    "correct_answer": "Aladdin",
-    "incorrect_answers": ["Mulan", "Moana", "Pocahontas"],
-    "release_year": 1992
-  },
-  {
-    "id": 70,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Pixar movie features a guitar-playing boy named Miguel?",
-    "correct_answer": "Coco",
-    "incorrect_answers": ["Soul", "The Book of Life", "Luca"],
-    "release_year": 2017
-  },
-  {
-    "id": 71,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', who is known for constantly saying “Bears. Beets. Battlestar Galactica”?",
-    "correct_answer": "Jim (imitating Dwight)",
-    "incorrect_answers": ["Dwight", "Michael", "Andy"],
-    "release_year": 2005
-  },
-  {
-    "id": 72,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney movie features a genie who grants three wishes?",
-    "correct_answer": "Aladdin",
-    "incorrect_answers": ["Hercules", "The Little Mermaid", "Beauty and the Beast"],
-    "release_year": 1992
-  },
-  {
-    "id": 73,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney movie features a glass slipper?",
-    "correct_answer": "Cinderella",
-    "incorrect_answers": ["Sleeping Beauty", "Snow White", "Tangled"],
-    "release_year": 1950
-  },
-  {
-    "id": 74,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In which movie does the character Lightning McQueen appear?",
-    "correct_answer": "Cars",
-    "incorrect_answers": ["Turbo", "Speed Racer", "Planes"],
-    "release_year": 2006
-  },
-  {
-    "id": 75,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Finding Dory', what kind of animal is Destiny?",
-    "correct_answer": "Whale shark",
-    "incorrect_answers": ["Dolphin", "Manta ray", "Blue whale"],
-    "release_year": 2016
-  },
-  {
-    "id": 76,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which 2020 Pixar movie follows a musician whose soul becomes separated from his body?",
-    "correct_answer": "Soul",
-    "incorrect_answers": ["Coco", "Inside Out", "Luca"],
-    "release_year": 2020
-  },
-  {
-    "id": 77,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which animated film stars a Scottish princess named Merida?",
-    "correct_answer": "Brave",
-    "incorrect_answers": ["Frozen", "Mulan", "Pocahontas"],
-    "release_year": 2012
-  },
-  {
-    "id": 78,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie introduces the character Forky?",
-    "correct_answer": "Toy Story 4",
-    "incorrect_answers": ["Toy Story", "WALL-E", "Inside Out"],
-    "release_year": 2019
-  },
-  {
-    "id": 79,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which animated movie features Emmet Brickowski, an ordinary LEGO figurine?",
-    "correct_answer": "The LEGO Movie",
-    "incorrect_answers": ["The LEGO Batman Movie", "Wreck-It Ralph", "Despicable Me"],
-    "release_year": 2014
-  },
-  {
-    "id": 80,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', who starts the band 'Here Comes Treble'?",
-    "correct_answer": "Andy Bernard",
-    "incorrect_answers": ["Darryl Philbin", "Kevin Malone", "Ryan Howard"],
-    "release_year": 2005
-  },
-  {
-    "id": 81,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney film stars a girl who befriends a magical blue alien?",
-    "correct_answer": "Lilo & Stitch",
-    "incorrect_answers": ["Moana", "Frozen", "Zootopia"],
-    "release_year": 2002
-  },
-  {
-    "id": 82,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Pixar movie features a chef rat named Remy?",
-    "correct_answer": "Ratatouille",
-    "incorrect_answers": ["Bolt", "Up", "Wallace & Gromit"],
-    "release_year": 2007
-  },
-  {
-    "id": 83,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features Mike and Sulley attending Monsters University?",
-    "correct_answer": "Monsters University",
-    "incorrect_answers": ["Monsters, Inc.", "Inside Out", "Zootopia"],
-    "release_year": 2013
-  },
-  {
-    "id": 84,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Who is the princess in 'The Little Mermaid'?",
-    "correct_answer": "Ariel",
-    "incorrect_answers": ["Belle", "Snow White", "Pocahontas"],
-    "release_year": 1989
-  },
-  {
-    "id": 85,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Disney movie features a dragon named Mushu?",
-    "correct_answer": "Mulan",
-    "incorrect_answers": ["Brave", "Moana", "Hercules"],
-    "release_year": 1998
-  },
-  {
-    "id": 86,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which show features a boss named Michael Scott?",
-    "correct_answer": "The Office",
-    "incorrect_answers": ["Friends", "Parks and Recreation", "Brooklyn Nine-Nine"],
-    "release_year": 2005
-  },
-  {
-    "id": 87,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'Beauty and the Beast', what object holds the enchanted rose?",
-    "correct_answer": "Glass dome",
-    "incorrect_answers": ["Vase", "Lantern", "Box"],
-    "release_year": 1991
-  },
-  {
-    "id": 88,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which movie features a robot named Eve?",
-    "correct_answer": "WALL-E",
-    "incorrect_answers": ["Big Hero 6", "Robots", "Astro Boy"],
-    "release_year": 2008
-  },
-  {
-    "id": 89,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which Pixar film features the character Joy?",
-    "correct_answer": "Inside Out",
-    "incorrect_answers": ["Soul", "Up", "Coco"],
-    "release_year": 2015
-  },
-  {
-    "id": 90,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In 'The Office', which character loves beets and bears?",
-    "correct_answer": "Dwight Schrute",
-    "incorrect_answers": ["Jim Halpert", "Andy Bernard", "Michael Scott"],
-    "release_year": 2005
-  },
-  {
     "id": 91,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which Marvel movie introduces the character Groot?",
-    "correct_answer": "Guardians of the Galaxy",
-    "incorrect_answers": ["The Avengers", "Thor", "Doctor Strange"],
-    "release_year": 2014
+    "question": "Which pop star released the album '1989' in 2014?",
+    "correct_answer": "Taylor Swift",
+    "incorrect_answers": ["Katy Perry", "Ariana Grande", "Selena Gomez"]
   },
   {
     "id": 92,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "In 'Spider-Man: Into the Spider-Verse', who is the main Spider-Man?",
-    "correct_answer": "Miles Morales",
-    "incorrect_answers": ["Peter Parker", "Gwen Stacy", "Miguel O'Hara"],
-    "release_year": 2018
+    "question": "Which Britpop band is known for the 1995 hit song 'Wonderwall'?",
+    "correct_answer": "Oasis",
+    "incorrect_answers": ["Blur", "Pulp", "Radiohead"]
   },
   {
     "id": 93,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "What kind of fish is Dory?",
-    "correct_answer": "Blue Tang",
-    "incorrect_answers": ["Clownfish", "Goldfish", "Angelfish"],
-    "release_year": 2003
+    "question": "Who sings the hit song 'Single Ladies (Put a Ring on It)'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": ["Rihanna", "Alicia Keys", "Nicki Minaj"]
   },
   {
     "id": 94,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which Disney movie features a magical snow queen?",
-    "correct_answer": "Frozen",
-    "incorrect_answers": ["Moana", "Tangled", "Brave"],
-    "release_year": 2013
+    "question": "Which Canadian singer released the 2015 hit song 'Sorry'?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": ["Shawn Mendes", "Drake", "The Weeknd"]
   },
   {
     "id": 95,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "In 'Toy Story', what is the name of the little green aliens?",
-    "correct_answer": "Little Green Men",
-    "incorrect_answers": ["Squeakers", "Buzzlings", "Pizza Pals"],
-    "release_year": 1995
+    "question": "Who is the lead singer of the band Coldplay?",
+    "correct_answer": "Chris Martin",
+    "incorrect_answers": ["Thom Yorke", "Brandon Flowers", "Chris Cornell"]
   },
   {
     "id": 96,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "What is the name of the cowboy from 'Toy Story'?",
-    "correct_answer": "Woody",
-    "incorrect_answers": ["Buzz", "Andy", "Jessie"],
-    "release_year": 1995
+    "question": "Which girl group released the 1996 hit 'Wannabe'?",
+    "correct_answer": "Spice Girls",
+    "incorrect_answers": ["Destiny's Child", "TLC", "Little Mix"]
   },
   {
     "id": 97,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which Disney movie features the character Moana?",
-    "correct_answer": "Moana",
-    "incorrect_answers": ["Frozen", "Brave", "Encanto"],
-    "release_year": 2016
+    "question": "Which singer is featured on Mark Ronson's 2014 hit 'Uptown Funk'?",
+    "correct_answer": "Bruno Mars",
+    "incorrect_answers": ["Pharrell Williams", "Justin Timberlake", "Usher"]
   },
   {
     "id": 98,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "In 'The Office', what did Jim put Dwight’s stapler in?",
-    "correct_answer": "Jell-O",
-    "incorrect_answers": ["Water", "Cake", "Putty"],
-    "release_year": 2005
+    "question": "Which pop star released the 2020 album 'Future Nostalgia'?",
+    "correct_answer": "Dua Lipa",
+    "incorrect_answers": ["Lady Gaga", "Miley Cyrus", "Halsey"]
   },
   {
     "id": 99,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which Pixar film stars a young jazz musician named Joe?",
-    "correct_answer": "Soul",
-    "incorrect_answers": ["Coco", "Inside Out", "Luca"],
-    "release_year": 2020
+    "question": "Which singer is known for the 2015 ballad 'Hello'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": ["Sia", "Kelly Clarkson", "Celine Dion"]
   },
   {
     "id": 100,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which movie features a young sea monster boy named Luca?",
-    "correct_answer": "Luca",
-    "incorrect_answers": ["Moana", "Coco", "Finding Dory"],
-    "release_year": 2021
+    "question": "Which rapper released the album 'The Marshall Mathers LP' in 2000?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": ["Jay-Z", "Nas", "Dr. Dre"]
   },
-  
   {
     "id": 101,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who directed the 2010 science fiction film 'Inception'?",
-    "correct_answer": "Christopher Nolan",
-    "incorrect_answers": ["Steven Spielberg", "James Cameron", "Ridley Scott"],
-    "release_year": 2010
+    "difficulty": "easy",
+    "question": "Which pop star is known as the \"King of Pop\"?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Elvis Presley",
+      "Justin Timberlake"
+    ]
   },
   {
     "id": 102,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Back to the Future', what make of car is used as the time machine?",
-    "correct_answer": "DeLorean",
-    "incorrect_answers": ["Ferrari", "Porsche", "Chevrolet Camaro"],
-    "release_year": 1985
+    "difficulty": "easy",
+    "question": "Which singer released the hit song 'Rolling in the Deep'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Sia",
+      "Kelly Clarkson",
+      "P!nk"
+    ]
   },
   {
     "id": 103,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Forrest Gump', which activity makes Forrest famous on television?",
-    "correct_answer": "Running across the country",
-    "incorrect_answers": ["Becoming a rock star", "Winning the lottery", "Becoming a chef"],
-    "release_year": 1994
+    "difficulty": "easy",
+    "question": "Which band is famous for the song 'Bohemian Rhapsody'?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ]
   },
   {
     "id": 104,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which character does Johnny Depp play in 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
-    "correct_answer": "Jack Sparrow",
-    "incorrect_answers": ["Will Turner", "Davy Jones", "Barbossa"],
-    "release_year": 2003
+    "difficulty": "easy",
+    "question": "Which artist released the album 'Thriller' in 1982?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Madonna",
+      "Bruce Springsteen"
+    ]
   },
   {
     "id": 105,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Lord of the Rings', what kind of creature is Legolas?",
-    "correct_answer": "Elf",
-    "incorrect_answers": ["Hobbit", "Dwarf", "Man"],
-    "release_year": 2001
+    "difficulty": "easy",
+    "question": "Which band wrote the classic song 'Hey Jude'?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Beach Boys"
+    ]
   },
   {
     "id": 106,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which animated superhero film features Miles Morales as the main Spider-Man?",
-    "correct_answer": "Spider-Man: Into the Spider-Verse",
-    "incorrect_answers": ["Spider-Man: Homecoming", "The Amazing Spider-Man", "Spider-Man 2"],
-    "release_year": 2018
+    "difficulty": "easy",
+    "question": "Which singer is known for the 2013 hit 'Roar'?",
+    "correct_answer": "Katy Perry",
+    "incorrect_answers": [
+      "Lady Gaga",
+      "Rihanna",
+      "Demi Lovato"
+    ]
   },
   {
     "id": 107,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which fictional African nation is ruled by T'Challa in 'Black Panther'?",
-    "correct_answer": "Wakanda",
-    "incorrect_answers": ["Genosha", "Latveria", "Zamunda"],
-    "release_year": 2018
+    "difficulty": "easy",
+    "question": "Which band released the hit song 'Smells Like Teen Spirit'?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ]
   },
   {
     "id": 108,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Guardians of the Galaxy', what is the name of the talking raccoon?",
-    "correct_answer": "Rocket",
-    "incorrect_answers": ["Groot", "Drax", "Star-Lord"],
-    "release_year": 2014
+    "difficulty": "easy",
+    "question": "Which group is known for the hit 'Bye Bye Bye'?",
+    "correct_answer": "*NSYNC",
+    "incorrect_answers": [
+      "Backstreet Boys",
+      "98 Degrees",
+      "New Kids on the Block"
+    ]
   },
   {
     "id": 109,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Incredibles', what is the Parr family’s superhero last name?",
-    "correct_answer": "Parr",
-    "incorrect_answers": ["Parker", "Prince", "Powers"],
-    "release_year": 2004
+    "difficulty": "easy",
+    "question": "Which singer released the 2019 hit 'Señorita' with Camila Cabello?",
+    "correct_answer": "Shawn Mendes",
+    "incorrect_answers": [
+      "Justin Bieber",
+      "Charlie Puth",
+      "Ed Sheeran"
+    ]
   },
   {
     "id": 110,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Shrek', what kind of creature is Shrek?",
-    "correct_answer": "Ogre",
-    "incorrect_answers": ["Troll", "Goblin", "Giant"],
-    "release_year": 2001
+    "difficulty": "easy",
+    "question": "Which pop star is known for the hit song 'Poker Face'?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Kesha",
+      "Katy Perry",
+      "Ariana Grande"
+    ]
   },
   {
     "id": 111,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of the district attorney who becomes Two-Face in 'The Dark Knight'?",
-    "correct_answer": "Harvey Dent",
-    "incorrect_answers": ["Jim Gordon", "Lucius Fox", "Jonathan Crane"],
-    "release_year": 2008
+    "difficulty": "easy",
+    "question": "Which band released the song 'Hotel California'?",
+    "correct_answer": "Eagles",
+    "incorrect_answers": [
+      "Fleetwood Mac",
+      "The Doors",
+      "Lynyrd Skynyrd"
+    ]
   },
   {
     "id": 112,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Lion King', who is Simba’s evil uncle?",
-    "correct_answer": "Scar",
-    "incorrect_answers": ["Mufasa", "Zazu", "Rafiki"],
-    "release_year": 1994
+    "difficulty": "easy",
+    "question": "Which singer is known for the song 'Shake It Off'?",
+    "correct_answer": "Taylor Swift",
+    "incorrect_answers": [
+      "Selena Gomez",
+      "Miley Cyrus",
+      "Katy Perry"
+    ]
   },
   {
     "id": 113,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film features Tom Hanks stranded on an island with a volleyball named Wilson?",
-    "correct_answer": "Cast Away",
-    "incorrect_answers": ["The Terminal", "Saving Private Ryan", "Captain Phillips"],
-    "release_year": 2000
+    "difficulty": "easy",
+    "question": "Which British band released the song 'Yellow'?",
+    "correct_answer": "Coldplay",
+    "incorrect_answers": [
+      "Radiohead",
+      "Oasis",
+      "Keane"
+    ]
   },
   {
     "id": 114,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of the simulated reality humans are trapped in during 'The Matrix'?",
-    "correct_answer": "The Matrix",
-    "incorrect_answers": ["The Grid", "The System", "The Construct"],
-    "release_year": 1999
+    "difficulty": "easy",
+    "question": "Which artist is known for the song 'Uptown Girl'?",
+    "correct_answer": "Billy Joel",
+    "incorrect_answers": [
+      "Elton John",
+      "Phil Collins",
+      "George Michael"
+    ]
   },
   {
     "id": 115,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film stars Tom Cruise repeating the same day during an alien invasion?",
-    "correct_answer": "Edge of Tomorrow",
-    "incorrect_answers": ["War of the Worlds", "Oblivion", "Minority Report"],
-    "release_year": 2014
+    "difficulty": "easy",
+    "question": "Which pop group is known for the hit 'Dancing Queen'?",
+    "correct_answer": "ABBA",
+    "incorrect_answers": [
+      "Bee Gees",
+      "Boney M.",
+      "The Supremes"
+    ]
   },
   {
     "id": 116,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who is the billionaire creator of Jurassic Park?",
-    "correct_answer": "John Hammond",
-    "incorrect_answers": ["Ian Malcolm", "Alan Grant", "Dennis Nedry"],
-    "release_year": 1993
+    "difficulty": "easy",
+    "question": "Which singer released the hit 'Firework'?",
+    "correct_answer": "Katy Perry",
+    "incorrect_answers": [
+      "Rihanna",
+      "Lady Gaga",
+      "Ariana Grande"
+    ]
   },
   {
     "id": 117,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which villain does Spider-Man face in 'Spider-Man: Homecoming'?",
-    "correct_answer": "Vulture",
-    "incorrect_answers": ["Green Goblin", "Doctor Octopus", "Mysterio"],
-    "release_year": 2017
+    "difficulty": "easy",
+    "question": "Which band is known for the song 'Don't Stop Believin''?",
+    "correct_answer": "Journey",
+    "incorrect_answers": [
+      "Bon Jovi",
+      "Def Leppard",
+      "Foreigner"
+    ]
   },
   {
     "id": 118,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film features oil drillers sent to destroy an asteroid?",
-    "correct_answer": "Armageddon",
-    "incorrect_answers": ["Deep Impact", "Apollo 13", "Gravity"],
-    "release_year": 1998
+    "difficulty": "easy",
+    "question": "Which artist released the dance hit 'Can't Stop the Feeling!' in 2016?",
+    "correct_answer": "Justin Timberlake",
+    "incorrect_answers": [
+      "Bruno Mars",
+      "Pharrell Williams",
+      "Jason Derulo"
+    ]
   },
   {
     "id": 119,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Shrek', what kingdom is ruled by Lord Farquaad?",
-    "correct_answer": "Duloc",
-    "incorrect_answers": ["Far Far Away", "Agrabah", "Arendelle"],
-    "release_year": 2001
+    "difficulty": "easy",
+    "question": "Which group is known for the hit song 'Survivor'?",
+    "correct_answer": "Destiny's Child",
+    "incorrect_answers": [
+      "TLC",
+      "En Vogue",
+      "Spice Girls"
+    ]
   },
   {
     "id": 120,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What artifact does Peter Quill steal at the beginning of 'Guardians of the Galaxy'?",
-    "correct_answer": "The Orb (Power Stone)",
-    "incorrect_answers": ["The Tesseract", "The Aether", "The Eye of Agamotto"],
-    "release_year": 2014
+    "difficulty": "easy",
+    "question": "Which singer released the hit 'Hips Don't Lie' featuring Wyclef Jean?",
+    "correct_answer": "Shakira",
+    "incorrect_answers": [
+      "Jennifer Lopez",
+      "Gloria Estefan",
+      "Rihanna"
+    ]
   },
+
   {
     "id": 121,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which film features a robot who forms a bond with a young boy named Hogarth?",
-    "correct_answer": "The Iron Giant",
-    "incorrect_answers": ["Robots", "Big Hero 6", "Astro Boy"],
-    "release_year": 1999
+    "question": "Which band released the influential 1997 album 'OK Computer'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Oasis", "The Verve", "Blur"]
   },
   {
     "id": 122,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'The Hunger Games', what district is Katniss from?",
-    "correct_answer": "District 12",
-    "incorrect_answers": ["District 1", "District 7", "District 4"],
-    "release_year": 2012
+    "question": "Which hip-hop group released the 1993 album 'Enter the Wu-Tang (36 Chambers)'?",
+    "correct_answer": "Wu-Tang Clan",
+    "incorrect_answers": ["N.W.A", "A Tribe Called Quest", "Public Enemy"]
   },
   {
     "id": 123,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which character says the line 'I am your father'?",
-    "correct_answer": "Darth Vader",
-    "incorrect_answers": ["Obi-Wan Kenobi", "Luke Skywalker", "Yoda"],
-    "release_year": 1980
+    "question": "Which country singer appeared on the popular remix of Lil Nas X's 2019 hit 'Old Town Road'?",
+    "correct_answer": "Billy Ray Cyrus",
+    "incorrect_answers": ["Blake Shelton", "Keith Urban", "Luke Bryan"]
   },
   {
     "id": 124,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who plays the character Eleven in 'Stranger Things'?",
-    "correct_answer": "Millie Bobby Brown",
-    "incorrect_answers": ["Sadie Sink", "Natalia Dyer", "Winona Ryder"],
-    "release_year": 2016
+    "question": "Which artist released the visual album 'Lemonade' in 2016?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": ["Rihanna", "Solange", "Janelle Monáe"]
   },
   {
     "id": 125,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'The Office', who starts the fire that leads to the infamous 'Fire Drill' scene?",
-    "correct_answer": "Dwight",
-    "incorrect_answers": ["Michael", "Ryan", "Kevin"],
-    "release_year": 2005
+    "question": "What is the stage name of Abel Tesfaye, known for the song 'Blinding Lights'?",
+    "correct_answer": "The Weeknd",
+    "incorrect_answers": ["Drake", "Nav", "PartyNextDoor"]
   },
   {
     "id": 126,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which Marvel film introduced the character Shang-Chi?",
-    "correct_answer": "Shang-Chi and the Legend of the Ten Rings",
-    "incorrect_answers": ["Doctor Strange", "Black Panther", "Eternals"],
-    "release_year": 2021
+    "question": "Which grunge band released the 1991 album 'Nevermind'?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": ["Pearl Jam", "Soundgarden", "Alice in Chains"]
   },
   {
     "id": 127,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'Frozen II', what is the name of Elsa’s magical horse spirit?",
-    "correct_answer": "The Nokk",
-    "incorrect_answers": ["Gale", "Bruni", "Ahtohallan"],
-    "release_year": 2019
+    "question": "Which singer released the 2019 hit 'Bad Guy'?",
+    "correct_answer": "Billie Eilish",
+    "incorrect_answers": ["Lorde", "Halsey", "Camila Cabello"]
   },
   {
     "id": 128,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which character leads the group of kids in 'Stranger Things'?",
-    "correct_answer": "Mike Wheeler",
-    "incorrect_answers": ["Lucas Sinclair", "Dustin Henderson", "Will Byers"],
-    "release_year": 2016
+    "question": "Which rock band released the 1999 album 'Californication'?",
+    "correct_answer": "Red Hot Chili Peppers",
+    "incorrect_answers": ["Foo Fighters", "Green Day", "Weezer"]
   },
   {
     "id": 129,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who is the villain in 'Thor: Ragnarok'?",
-    "correct_answer": "Hela",
-    "incorrect_answers": ["Loki", "Thanos", "Ultron"],
-    "release_year": 2017
+    "question": "Which Dutch DJ and producer released the 2013 instrumental hit 'Animals'?",
+    "correct_answer": "Martin Garrix",
+    "incorrect_answers": ["Tiesto", "Armin van Buuren", "Hardwell"]
   },
   {
     "id": 130,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the name of the fictional paper company in 'The Office'?",
-    "correct_answer": "Dunder Mifflin",
-    "incorrect_answers": ["Staples", "Office Depot", "Sabre"],
-    "release_year": 2005
+    "question": "Which British singer released the 2006 album 'Back to Black'?",
+    "correct_answer": "Amy Winehouse",
+    "incorrect_answers": ["Adele", "Duffy", "Lily Allen"]
   },
   {
     "id": 131,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'Spider-Man: No Way Home', which character casts the spell that goes wrong?",
-    "correct_answer": "Doctor Strange",
-    "incorrect_answers": ["Wong", "Peter Parker", "MJ"],
-    "release_year": 2021
+    "question": "Which alternative rock band released the 1991 album 'Ten'?",
+    "correct_answer": "Pearl Jam",
+    "incorrect_answers": [
+      "Nirvana",
+      "Soundgarden",
+      "Stone Temple Pilots"
+    ]
   },
   {
     "id": 132,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'The Mandalorian', what is the real name of 'Baby Yoda'?",
-    "correct_answer": "Grogu",
-    "incorrect_answers": ["Yaddle", "Din", "Goru"],
-    "release_year": 2019
+    "question": "Which hip-hop duo released the 2003 hit 'Hey Ya!'?",
+    "correct_answer": "OutKast",
+    "incorrect_answers": [
+      "The Black Eyed Peas",
+      "UGK",
+      "Run-D.M.C."
+    ]
   },
   {
     "id": 133,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which film centers on a magical nanny played by Julie Andrews?",
-    "correct_answer": "Mary Poppins",
-    "incorrect_answers": ["The Sound of Music", "Bedknobs and Broomsticks", "Chitty Chitty Bang Bang"],
-    "release_year": 1964
+    "question": "Which British singer-songwriter released the album '+' (Plus) in 2011?",
+    "correct_answer": "Ed Sheeran",
+    "incorrect_answers": [
+      "Sam Smith",
+      "James Blunt",
+      "George Ezra"
+    ]
   },
   {
     "id": 134,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who voices Joy in 'Inside Out'?",
-    "correct_answer": "Amy Poehler",
-    "incorrect_answers": ["Kristen Bell", "Mindy Kaling", "Maya Rudolph"],
-    "release_year": 2015
+    "question": "Which band released the 1975 album 'A Night at the Opera'?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Pink Floyd",
+      "The Rolling Stones"
+    ]
   },
   {
     "id": 135,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'Avatar: The Way of Water', what is the Na’vi name for the ocean clan?",
-    "correct_answer": "Metkayina",
-    "incorrect_answers": ["Omaticaya", "Rda'Navi", "Tsyal’wa"],
-    "release_year": 2022
+    "question": "Which R&B group is known for the 1994 hit 'Waterfalls'?",
+    "correct_answer": "TLC",
+    "incorrect_answers": [
+      "En Vogue",
+      "SWV",
+      "Boyz II Men"
+    ]
   },
   {
     "id": 136,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'The Office', who becomes Regional Manager after Michael leaves?",
-    "correct_answer": "Andy Bernard",
-    "incorrect_answers": ["Dwight Schrute", "Jim Halpert", "Ryan Howard"],
-    "release_year": 2005
+    "question": "Which American singer released the album 'Born This Way' in 2011?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Pink",
+      "Christina Aguilera"
+    ]
   },
   {
     "id": 137,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which actress plays Wanda Maximoff in the Marvel Cinematic Universe?",
-    "correct_answer": "Elizabeth Olsen",
-    "incorrect_answers": ["Scarlett Johansson", "Brie Larson", "Karen Gillan"],
-    "release_year": 2015
+    "question": "Which band released the hit song 'Mr. Brightside'?",
+    "correct_answer": "The Killers",
+    "incorrect_answers": [
+      "Franz Ferdinand",
+      "Kings of Leon",
+      "Arctic Monkeys"
+    ]
   },
   {
     "id": 138,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the Upside Down in 'Stranger Things'?",
-    "correct_answer": "A dark parallel dimension",
-    "incorrect_answers": ["An abandoned mine", "A virus", "A government bunker"],
-    "release_year": 2016
+    "question": "Which singer released the album 'Good Girl Gone Bad' featuring the hit 'Umbrella'?",
+    "correct_answer": "Rihanna",
+    "incorrect_answers": [
+      "Beyoncé",
+      "Ciara",
+      "Ashanti"
+    ]
   },
   {
     "id": 139,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which Pixar film features an elderly man named Carl who ties balloons to his house?",
-    "correct_answer": "Up",
-    "incorrect_answers": ["Soul", "Inside Out", "Onward"],
-    "release_year": 2009
+    "question": "Which band released the 1994 album 'Dookie'?",
+    "correct_answer": "Green Day",
+    "incorrect_answers": [
+      "Blink-182",
+      "The Offspring",
+      "Rancid"
+    ]
   },
   {
     "id": 140,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'Star Wars: The Force Awakens', who is the scavenger from Jakku?",
-    "correct_answer": "Rey",
-    "incorrect_answers": ["Jyn Erso", "Padmé", "Ahsoka"],
-    "release_year": 2015
+    "question": "Which pop star released the 2008 album 'The Fame'?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Kesha",
+      "Britney Spears"
+    ]
   },
   {
     "id": 141,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which MCU movie features the villain Killmonger?",
-    "correct_answer": "Black Panther",
-    "incorrect_answers": ["Captain Marvel", "Iron Man 3", "Thor: Ragnarok"],
-    "release_year": 2018
+    "question": "Which rock band released the song 'Sweet Child o' Mine'?",
+    "correct_answer": "Guns N' Roses",
+    "incorrect_answers": [
+      "Bon Jovi",
+      "Motley Crue",
+      "Poison"
+    ]
   },
   {
     "id": 142,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who plays Steve Harrington in 'Stranger Things'?",
-    "correct_answer": "Joe Keery",
-    "incorrect_answers": ["Finn Wolfhard", "David Harbour", "Noah Schnapp"],
-    "release_year": 2016
+    "question": "Which British electronic music group released the 1997 album 'Fat of the Land'?",
+    "correct_answer": "The Prodigy",
+    "incorrect_answers": [
+      "The Chemical Brothers",
+      "Underworld",
+      "Massive Attack"
+    ]
   },
   {
     "id": 143,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who voices Buzz Lightyear in the original 'Toy Story' trilogy?",
-    "correct_answer": "Tim Allen",
-    "incorrect_answers": ["Tom Hanks", "Chris Evans", "John Ratzenberger"],
-    "release_year": 1995
+    "question": "Which artist released the 2015 album 'Purpose' featuring the hit 'Love Yourself'?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": [
+      "Shawn Mendes",
+      "Charlie Puth",
+      "Zayn"
+    ]
   },
   {
     "id": 144,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which movie features a dystopian Chicago with factions like Abnegation and Dauntless?",
-    "correct_answer": "Divergent",
-    "incorrect_answers": ["The Maze Runner", "The Giver", "The Fifth Wave"],
-    "release_year": 2014
+    "question": "Which rapper is known for the 2014 hit 'Anaconda'?",
+    "correct_answer": "Nicki Minaj",
+    "incorrect_answers": [
+      "Cardi B",
+      "Missy Elliott",
+      "Lil' Kim"
+    ]
   },
   {
     "id": 145,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who plays Loki in the Marvel Cinematic Universe?",
-    "correct_answer": "Tom Hiddleston",
-    "incorrect_answers": ["Chris Hemsworth", "Sebastian Stan", "Mark Ruffalo"],
-    "release_year": 2011
+    "question": "Which American rock band released the 2000 album 'Hybrid Theory'?",
+    "correct_answer": "Linkin Park",
+    "incorrect_answers": [
+      "Papa Roach",
+      "Evanescence",
+      "Breaking Benjamin"
+    ]
   },
   {
     "id": 146,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'The Office', what is Creed Bratton’s job title?",
-    "correct_answer": "Quality Assurance",
-    "incorrect_answers": ["Sales", "Accounting", "Customer Service"],
-    "release_year": 2005
+    "question": "Which singer released the 2013 hit single 'Royals'?",
+    "correct_answer": "Lorde",
+    "incorrect_answers": [
+      "Lana Del Rey",
+      "Ellie Goulding",
+      "Halsey"
+    ]
   },
   {
     "id": 147,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What type of creature is Baby Groot?",
-    "correct_answer": "Tree-like alien",
-    "incorrect_answers": ["Robot", "Elf", "Plant-human hybrid"],
-    "release_year": 2014
+    "question": "Which American rapper released the album 'The College Dropout' in 2004?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": [
+      "Jay-Z",
+      "Lupe Fiasco",
+      "Common"
+    ]
   },
   {
     "id": 148,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who plays Max Mayfield in 'Stranger Things'?",
-    "correct_answer": "Sadie Sink",
-    "incorrect_answers": ["Millie Bobby Brown", "Natalia Dyer", "Maya Hawke"],
-    "release_year": 2017
+    "question": "Which band released the hit single 'Take On Me'?",
+    "correct_answer": "a-ha",
+    "incorrect_answers": [
+      "Duran Duran",
+      "Tears for Fears",
+      "A Flock of Seagulls"
+    ]
   },
   {
     "id": 149,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which movie centers around a video-game villain named Ralph?",
-    "correct_answer": "Wreck-It Ralph",
-    "incorrect_answers": ["The LEGO Movie", "Big Hero 6", "Inside Out"],
-    "release_year": 2012
+    "question": "Which singer released the critically acclaimed album '21' in 2011?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Taylor Swift",
+      "Florence Welch",
+      "Kelly Clarkson"
+    ]
   },
   {
     "id": 150,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which Star Wars film introduces Kylo Ren?",
-    "correct_answer": "The Force Awakens",
-    "incorrect_answers": ["Rogue One", "The Last Jedi", "The Rise of Skywalker"],
-    "release_year": 2015
+    "question": "Which American rock band is known for the song 'Seven Nation Army'?",
+    "correct_answer": "The White Stripes",
+    "incorrect_answers": [
+      "The Black Keys",
+      "Queens of the Stone Age",
+      "Arctic Monkeys"
+    ]
   },
+
   {
     "id": 151,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which character leads the rebellion in 'The Hunger Games'?",
-    "correct_answer": "Katniss Everdeen",
-    "incorrect_answers": ["Primrose Everdeen", "Johanna Mason", "Effie Trinket"],
-    "release_year": 2012
+    "difficulty": "hard",
+    "question": "Which Icelandic singer released the 1997 album 'Homogenic'?",
+    "correct_answer": "Björk",
+    "incorrect_answers": ["Sigur Rós", "Robyn", "Tove Lo"]
   },
   {
     "id": 152,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays the character Hopper in 'Stranger Things'?",
-    "correct_answer": "David Harbour",
-    "incorrect_answers": ["Joe Keery", "Charlie Heaton", "Brett Gelman"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which British trip-hop group released the 1998 album 'Mezzanine'?",
+    "correct_answer": "Massive Attack",
+    "incorrect_answers": ["Portishead", "The Prodigy", "Morcheeba"]
   },
   {
     "id": 153,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Marvel hero retrieves the Soul Stone on Vormir in 'Avengers: Endgame'?",
-    "correct_answer": "Hawkeye",
-    "incorrect_answers": ["Black Widow", "Thor", "Nebula"],
-    "release_year": 2019
+    "difficulty": "hard",
+    "question": "Which rapper released the critically acclaimed 2015 album 'To Pimp a Butterfly'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["J. Cole", "Kanye West", "Childish Gambino"]
   },
   {
     "id": 154,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which animated film features a video-game racer named Vanellope?",
-    "correct_answer": "Wreck-It Ralph",
-    "incorrect_answers": ["The LEGO Movie", "Big Hero 6", "Frozen"],
-    "release_year": 2012
+    "difficulty": "hard",
+    "question": "Which French electronic duo released the 2001 album 'Discovery'?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": ["Justice", "Air", "Cassius"]
   },
   {
     "id": 155,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is Eleven’s favorite food in 'Stranger Things'?",
-    "correct_answer": "Eggo waffles",
-    "incorrect_answers": ["Pizza", "Pancakes", "Pop-Tarts"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which band released the experimental 2000 album 'Kid A'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Muse", "Smashing Pumpkins", "Tool"]
   },
   {
     "id": 156,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film stars Hugh Jackman as a magician competing against another illusionist?",
-    "correct_answer": "The Prestige",
-    "incorrect_answers": ["The Illusionist", "Now You See Me", "Insomnia"],
-    "release_year": 2006
+    "difficulty": "hard",
+    "question": "Which pop star released the 1998 debut single '...Baby One More Time'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": ["Christina Aguilera", "Jessica Simpson", "Mandy Moore"]
   },
   {
     "id": 157,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Stranger Things villain is a monstrous creature made of human parts in Season 3?",
-    "correct_answer": "The Mind Flayer",
-    "incorrect_answers": ["The Demogorgon", "Vecna", "The Shadow Monster"],
-    "release_year": 2019
+    "difficulty": "hard",
+    "question": "Which American rock band released the 2004 concept album 'American Idiot'?",
+    "correct_answer": "Green Day",
+    "incorrect_answers": ["My Chemical Romance", "Blink-182", "Sum 41"]
   },
   {
     "id": 158,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who directed 'La La Land'?",
-    "correct_answer": "Damien Chazelle",
-    "incorrect_answers": ["Wes Anderson", "James Wan", "Christopher Nolan"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which R&B artist released the 2001 debut album 'Songs in A Minor'?",
+    "correct_answer": "Alicia Keys",
+    "incorrect_answers": ["Mary J. Blige", "Erykah Badu", "Lauryn Hill"]
   },
   {
     "id": 159,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Office', who starts a fire by putting pita bread in the toaster oven?",
-    "correct_answer": "Ryan Howard",
-    "incorrect_answers": ["Michael Scott", "Toby Flenderson", "Angela Martin"],
-    "release_year": 2005
+    "difficulty": "hard",
+    "question": "Which British singer released the 2017 hit single 'Shape of You'?",
+    "correct_answer": "Ed Sheeran",
+    "incorrect_answers": ["Sam Smith", "George Ezra", "James Bay"]
   },
   {
     "id": 160,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Marvel movie features the Ancient One?",
-    "correct_answer": "Doctor Strange",
-    "incorrect_answers": ["Thor", "Shang-Chi", "Iron Man"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which Canadian singer-songwriter released the 1995 album 'Jagged Little Pill'?",
+    "correct_answer": "Alanis Morissette",
+    "incorrect_answers": ["Shania Twain", "Celine Dion", "Sarah McLachlan"]
   },
   {
     "id": 161,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of the arcade villain who wants to be a hero?",
-    "correct_answer": "Wreck-It Ralph",
-    "incorrect_answers": ["Fix-It Felix", "Turbo", "Bowser"],
-    "release_year": 2012
+    "difficulty": "hard",
+    "question": "Which jazz trumpeter is known for the 1959 album 'Kind of Blue'?",
+    "correct_answer": "Miles Davis",
+    "incorrect_answers": [
+      "John Coltrane",
+      "Dizzy Gillespie",
+      "Chet Baker"
+    ]
   },
   {
     "id": 162,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Rey in the Star Wars sequel trilogy?",
-    "correct_answer": "Daisy Ridley",
-    "incorrect_answers": ["Felicity Jones", "Kelly Marie Tran", "Emilia Clarke"],
-    "release_year": 2015
+    "difficulty": "hard",
+    "question": "Which English rock band released the experimental album 'OK Computer'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": [
+      "Blur",
+      "Pulp",
+      "Suede"
+    ]
   },
   {
     "id": 163,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What fictional town is 'Stranger Things' set in?",
-    "correct_answer": "Hawkins",
-    "incorrect_answers": ["Derry", "Sunnydale", "Hill Valley"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which influential German band is often credited as a pioneer of electronic music with albums like 'Autobahn'?",
+    "correct_answer": "Kraftwerk",
+    "incorrect_answers": [
+      "Can",
+      "Neu!",
+      "Tangerine Dream"
+    ]
   },
   {
     "id": 164,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Star Wars film features the first appearance of BB-8?",
-    "correct_answer": "The Force Awakens",
-    "incorrect_answers": ["Rogue One", "The Last Jedi", "Solo"],
-    "release_year": 2015
+    "difficulty": "hard",
+    "question": "Which American singer-songwriter released the 1971 album 'Blue'?",
+    "correct_answer": "Joni Mitchell",
+    "incorrect_answers": [
+      "Carole King",
+      "Janis Joplin",
+      "Joan Baez"
+    ]
   },
   {
     "id": 165,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Office', who accidentally wears women’s clothes after a dry-cleaner mistake?",
-    "correct_answer": "Michael Scott",
-    "incorrect_answers": ["Dwight Schrute", "Jim Halpert", "Kevin Malone"],
-    "release_year": 2005
+    "difficulty": "hard",
+    "question": "Which progressive rock band released the 1973 concept album 'The Dark Side of the Moon'?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Yes",
+      "Genesis",
+      "King Crimson"
+    ]
   },
   {
     "id": 166,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of Wanda and Vision’s sitcom world in 'WandaVision'?",
-    "correct_answer": "Westview",
-    "incorrect_answers": ["Eastview", "Brookview", "Hilldale"],
-    "release_year": 2021
+    "difficulty": "hard",
+    "question": "Which hip-hop group released the album 'The Low End Theory' in 1991?",
+    "correct_answer": "A Tribe Called Quest",
+    "incorrect_answers": [
+      "Public Enemy",
+      "De La Soul",
+      "Gang Starr"
+    ]
   },
   {
     "id": 167,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who directs 'Thor: Ragnarok'?",
-    "correct_answer": "Taika Waititi",
-    "incorrect_answers": ["James Gunn", "Jon Favreau", "Kenneth Branagh"],
-    "release_year": 2017
+    "difficulty": "hard",
+    "question": "Which American singer is known for the 1977 album 'Rumours' as part of the band Fleetwood Mac?",
+    "correct_answer": "Stevie Nicks",
+    "incorrect_answers": [
+      "Christine McVie",
+      "Ann Wilson",
+      "Debbie Harry"
+    ]
   },
   {
     "id": 168,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is Hopper's first name in 'Stranger Things'?",
-    "correct_answer": "Jim",
-    "incorrect_answers": ["David", "Sam", "John"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which avant-pop artist released the 2016 album 'Lemonade' blending R&B, rock, and visual storytelling?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": [
+      "Solange",
+      "FKA twigs",
+      "Janelle Monáe"
+    ]
   },
   {
     "id": 169,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In the MCU, who plays the role of Ant-Man?",
-    "correct_answer": "Paul Rudd",
-    "incorrect_answers": ["Chris Pratt", "Tom Holland", "Mark Ruffalo"],
-    "release_year": 2015
+    "difficulty": "hard",
+    "question": "Which American musician is known for the 1975 album 'Blood on the Tracks'?",
+    "correct_answer": "Bob Dylan",
+    "incorrect_answers": [
+      "Neil Young",
+      "Leonard Cohen",
+      "Bruce Springsteen"
+    ]
   },
   {
     "id": 170,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What species is Chewbacca?",
-    "correct_answer": "Wookiee",
-    "incorrect_answers": ["Jawa", "Ewok", "Togruta"],
-    "release_year": 1977
+    "difficulty": "hard",
+    "question": "Which British band released the 1971 album 'Led Zeppelin IV' featuring 'Stairway to Heaven'?",
+    "correct_answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Deep Purple",
+      "Black Sabbath",
+      "The Who"
+    ]
   },
   {
     "id": 171,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Mandalorian', who forges Din Djarin's armor?",
-    "correct_answer": "The Armorer",
-    "incorrect_answers": ["Bo-Katan", "Fennec Shand", "Cobb Vanth"],
-    "release_year": 2019
+    "difficulty": "hard",
+    "question": "Which composer wrote the 1913 ballet 'The Rite of Spring'?",
+    "correct_answer": "Igor Stravinsky",
+    "incorrect_answers": [
+      "Sergei Prokofiev",
+      "Maurice Ravel",
+      "Claude Debussy"
+    ]
   },
   {
     "id": 172,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Star-Lord in the MCU?",
-    "correct_answer": "Chris Pratt",
-    "incorrect_answers": ["Chris Evans", "Tom Holland", "Sebastian Stan"],
-    "release_year": 2014
+    "difficulty": "hard",
+    "question": "Which experimental rock band released the 1988 album 'Daydream Nation'?",
+    "correct_answer": "Sonic Youth",
+    "incorrect_answers": [
+      "Pixies",
+      "Hüsker Dü",
+      "R.E.M."
+    ]
   },
   {
     "id": 173,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is Eleven’s birth name?",
-    "correct_answer": "Jane",
-    "incorrect_answers": ["Kelly", "Sarah", "Amy"],
-    "release_year": 2016
+    "difficulty": "hard",
+    "question": "Which influential hip-hop artist released the 1994 album 'Illmatic'?",
+    "correct_answer": "Nas",
+    "incorrect_answers": [
+      "Jay-Z",
+      "The Notorious B.I.G.",
+      "Rakim"
+    ]
   },
   {
     "id": 174,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Pixar movie features brothers Ian and Barley Lightfoot?",
-    "correct_answer": "Onward",
-    "incorrect_answers": ["Luca", "Turning Red", "Inside Out"],
-    "release_year": 2020
+    "difficulty": "hard",
+    "question": "Which British trip-hop group released the 1994 album 'Dummy'?",
+    "correct_answer": "Portishead",
+    "incorrect_answers": [
+      "Massive Attack",
+      "Tricky",
+      "Morcheeba"
+    ]
   },
   {
     "id": 175,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of the mall in 'Stranger Things' Season 3?",
-    "correct_answer": "Starcourt Mall",
-    "incorrect_answers": ["Hawkins Mall", "Riverdale Mall", "Midtown Plaza"],
-    "release_year": 2019
+    "difficulty": "hard",
+    "question": "Which Japanese composer is known for the scores to Studio Ghibli films like 'My Neighbor Totoro'?",
+    "correct_answer": "Joe Hisaishi",
+    "incorrect_answers": [
+      "Yoko Kanno",
+      "Ryuichi Sakamoto",
+      "Koji Kondo"
+    ]
   },
   {
     "id": 176,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film features a young girl named Coraline exploring a parallel world?",
-    "correct_answer": "Coraline",
-    "incorrect_answers": ["ParaNorman", "Monster House", "The Boxtrolls"],
-    "release_year": 2009
+    "difficulty": "hard",
+    "question": "Which American singer-songwriter released the 2016 album 'Blonde'?",
+    "correct_answer": "Frank Ocean",
+    "incorrect_answers": [
+      "The Weeknd",
+      "Miguel",
+      "Childish Gambino"
+    ]
   },
   {
     "id": 177,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "In the MCU, who wields the shield after Captain America?",
-    "correct_answer": "Sam Wilson",
-    "incorrect_answers": ["Bucky Barnes", "Sharon Carter", "Rhodey"],
-    "release_year": 2021
+    "difficulty": "hard",
+    "question": "Which British band released the 1979 post-punk album 'London Calling'?",
+    "correct_answer": "The Clash",
+    "incorrect_answers": [
+      "The Jam",
+      "The Sex Pistols",
+      "Buzzcocks"
+    ]
   },
   {
     "id": 178,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "What does Dustin name his pet creature in 'Stranger Things'?",
-    "correct_answer": "D'Artagnan (Dart)",
-    "incorrect_answers": ["Flayer", "Spot", "Gizmo"],
-    "release_year": 2017
+    "difficulty": "hard",
+    "question": "Which musician is known for the 1982 minimalist composition 'Glassworks'?",
+    "correct_answer": "Philip Glass",
+    "incorrect_answers": [
+      "Steve Reich",
+      "Terry Riley",
+      "John Adams"
+    ]
   },
   {
     "id": 179,
-    "category": "Movies",
+    "category": "Music",
     "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who directs 'Guardians of the Galaxy'?",
-    "correct_answer": "James Gunn",
-    "incorrect_answers": ["Joss Whedon", "Taika Waititi", "Jon Watts"],
-    "release_year": 2014
+    "difficulty": "hard",
+    "question": "Which American rock band released the 1991 album 'Metallica', commonly known as 'The Black Album'?",
+    "correct_answer": "Metallica",
+    "incorrect_answers": [
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
+    ]
   },
   {
     "id": 180,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who is Monica Rambeau’s mother in the MCU?",
-    "correct_answer": "Maria Rambeau",
-    "incorrect_answers": ["Carol Danvers", "Wanda Maximoff", "Okoye"],
-    "release_year": 2019
-  },
-  {
-    "id": 181,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Office', what does Dwight use to test if Stanley is asleep?",
-    "correct_answer": "A sharp pencil",
-    "incorrect_answers": ["A ruler", "A stapler", "A jellybean"],
-    "release_year": 2005
-  },
-  {
-    "id": 182,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Nebula in the MCU?",
-    "correct_answer": "Karen Gillan",
-    "incorrect_answers": ["Evangeline Lilly", "Scarlett Johansson", "Maggie Gyllenhaal"],
-    "release_year": 2014
-  },
-  {
-    "id": 183,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In which movie do Joy and Sadness get lost inside a child’s mind?",
-    "correct_answer": "Inside Out",
-    "incorrect_answers": ["Up", "Soul", "Onward"],
-    "release_year": 2015
-  },
-  {
-    "id": 184,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is the name of the Demogorgon’s realm?",
-    "correct_answer": "The Upside Down",
-    "incorrect_answers": ["The Netherworld", "Shadow Realm", "Dark Forest"],
-    "release_year": 2016
-  },
-  {
-    "id": 185,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Shuri in 'Black Panther'?",
-    "correct_answer": "Letitia Wright",
-    "incorrect_answers": ["Lupita Nyong'o", "Danai Gurira", "Angela Bassett"],
-    "release_year": 2018
-  },
-  {
-    "id": 186,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is Hopper’s job title in 'Stranger Things'?",
-    "correct_answer": "Chief of Police",
-    "incorrect_answers": ["Deputy", "Detective", "Sheriff"],
-    "release_year": 2016
-  },
-  {
-    "id": 187,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Toy Story', what is the name of Andy’s dog?",
-    "correct_answer": "Slinky",
-    "incorrect_answers": ["Buster", "Rex", "Max"],
-    "release_year": 1995
-  },
-  {
-    "id": 188,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Marvel movie features the villain Ronan the Accuser?",
-    "correct_answer": "Guardians of the Galaxy",
-    "incorrect_answers": ["Captain Marvel", "Thor: The Dark World", "Eternals"],
-    "release_year": 2014
-  },
-  {
-    "id": 189,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Hopper’s adopted daughter Eleven?",
-    "correct_answer": "Millie Bobby Brown",
-    "incorrect_answers": ["Maya Hawke", "Sadie Sink", "Natalia Dyer"],
-    "release_year": 2016
-  },
-  {
-    "id": 190,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Pixar film features a land entirely populated by monsters?",
-    "correct_answer": "Monsters, Inc.",
-    "incorrect_answers": ["The Incredibles", "Inside Out", "Coco"],
-    "release_year": 2001
-  },
-  {
-    "id": 191,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who plays Mantis in the MCU?",
-    "correct_answer": "Pom Klementieff",
-    "incorrect_answers": ["Gemma Chan", "Zoe Saldana", "Tessa Thompson"],
-    "release_year": 2017
-  },
-  {
-    "id": 192,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which weapon does Thor wield before Stormbreaker?",
-    "correct_answer": "Mjolnir",
-    "incorrect_answers": ["The Aether", "The Bifrost Sword", "The Orb"],
-    "release_year": 2011
-  },
-  {
-    "id": 193,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'The Office', who does Michael accidentally hit with his car in the parking lot?",
-    "correct_answer": "Meredith",
-    "incorrect_answers": ["Kevin", "Creed", "Toby"],
-    "release_year": 2005
-  },
-  {
-    "id": 194,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who voices the character of Luca in Pixar's 'Luca'?",
-    "correct_answer": "Jacob Tremblay",
-    "incorrect_answers": ["Jack Dylan Grazer", "Finn Wolfhard", "Noah Schnapp"],
-    "release_year": 2021
-  },
-  {
-    "id": 195,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What is Vecna’s human name in 'Stranger Things'?",
-    "correct_answer": "Henry Creel",
-    "incorrect_answers": ["Billy Hargrove", "Murray Bauman", "Bob Newby"],
-    "release_year": 2022
-  },
-  {
-    "id": 196,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which Pixar movie features the character Ernesto de la Cruz?",
-    "correct_answer": "Coco",
-    "incorrect_answers": ["Soul", "Onward", "Inside Out"],
-    "release_year": 2017
-  },
-  {
-    "id": 197,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In the MCU, who becomes the Sorcerer Supreme after the Ancient One?",
-    "correct_answer": "Doctor Strange",
-    "incorrect_answers": ["Wong", "Mordo", "Agatha Harkness"],
-    "release_year": 2016
-  },
-  {
-    "id": 198,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Who voices Marlin in 'Finding Nemo'?",
-    "correct_answer": "Albert Brooks",
-    "incorrect_answers": ["Tom Hanks", "Ellen DeGeneres", "Ray Romano"],
-    "release_year": 2003
-  },
-  {
-    "id": 199,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In 'Stranger Things', which character becomes possessed by the Mind Flayer?",
-    "correct_answer": "Will Byers",
-    "incorrect_answers": ["Mike Wheeler", "Lucas Sinclair", "Steve Harrington"],
-    "release_year": 2017
-  },
-  {
-    "id": 200,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Which film introduced the character Miguel Rivera?",
-    "correct_answer": "Coco",
-    "incorrect_answers": ["Soul", "Onward", "Encanto"],
-    "release_year": 2017
-  },
-
-  {
-    "id": 201,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what is the name of the CPR training dummy used during the infamous CPR scene?",
-    "correct_answer": "Resusci Anne",
-    "incorrect_answers": ["CPR Kelly", "Flat Stanley", "Training Terry"],
-    "release_year": 2009
-  },
-  {
-    "id": 202,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what is the street name given to Walter White's signature blue meth?",
-    "correct_answer": "Blue Sky",
-    "incorrect_answers": ["Crystal Blue", "Blue Ice", "Sky High"],
-    "release_year": 2008
-  },
-  {
-    "id": 203,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "During the 'Dinner Party' episode of 'The Office', what is the brand name of Michael's tiny plasma TV?",
-    "correct_answer": "Sylvania",
-    "incorrect_answers": ["Sony", "Panasonic", "Toshiba"],
-    "release_year": 2008
-  },
-  {
-    "id": 204,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Stranger Things', what song saves Max from Vecna’s curse?",
-    "correct_answer": "Running Up That Hill",
-    "incorrect_answers": ["Africa", "Every Breath You Take", "Material Girl"],
-    "release_year": 2022
-  },
-  {
-    "id": 205,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Parks and Recreation', what food does Leslie Knope famously love?",
-    "correct_answer": "Waffles",
-    "incorrect_answers": ["Pancakes", "Bagels", "Muffins"],
-    "release_year": 2009
-  },
-  {
-    "id": 206,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Dark Knight', what object does the Joker burn in a massive pile?",
-    "correct_answer": "Money",
-    "incorrect_answers": ["Weapons", "Evidence", "GothCorp files"],
-    "release_year": 2008
-  },
-  {
-    "id": 207,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', what material is Din Djarin’s armor primarily made of?",
-    "correct_answer": "Beskar",
-    "incorrect_answers": ["Durasteel", "Titanite", "Quadanium"],
-    "release_year": 2019
-  },
-  {
-    "id": 208,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Avatar: The Last Airbender', what is the name of Aang’s flying bison?",
-    "correct_answer": "Appa",
-    "incorrect_answers": ["Momo", "Pabu", "Oogi"],
-    "release_year": 2005
-  },
-  {
-    "id": 209,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Matrix', which character says the line 'There is no spoon'?",
-    "correct_answer": "The Spoon Boy",
-    "incorrect_answers": ["Neo", "The Oracle", "Mouse"],
-    "release_year": 1999
-  },
-  {
-    "id": 210,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what does Jim wrap Dwight’s desk in as a prank?",
-    "correct_answer": "Wrapping paper",
-    "incorrect_answers": ["Tin foil", "Bubble wrap", "Newspaper"],
-    "release_year": 2005
-  },
-  {
-    "id": 211,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', who kills the Night King?",
-    "correct_answer": "Arya Stark",
-    "incorrect_answers": ["Jon Snow", "Bran Stark", "Daenerys Targaryen"],
-    "release_year": 2011
-  },
-  {
-    "id": 212,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Boys', what is the name of the corporation behind The Seven?",
-    "correct_answer": "Vought International",
-    "incorrect_answers": ["Starlight Media", "Homelander Corp", "SevenCo"],
-    "release_year": 2019
-  },
-  {
-    "id": 213,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Marvel's 'Loki', what is the name of the organization that controls the timeline?",
-    "correct_answer": "The TVA",
-    "incorrect_answers": ["The TBA", "The Council of Time", "Time Nexus"],
-    "release_year": 2021
-  },
-  {
-    "id": 214,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what phrase does Walt say to Skyler to assert dominance?",
-    "correct_answer": "I am the one who knocks.",
-    "incorrect_answers": ["I am the danger.", "Say my name.", "I built this empire."],
-    "release_year": 2011
-  },
-  {
-    "id": 215,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Harry Potter', what position does Harry play on the Quidditch team?",
-    "correct_answer": "Seeker",
-    "incorrect_answers": ["Chaser", "Keeper", "Beater"],
-    "release_year": 2001
-  },
-  {
-    "id": 216,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', who created the 'Threat Level Midnight' screenplay?",
-    "correct_answer": "Michael Scott",
-    "incorrect_answers": ["Dwight Schrute", "Ryan Howard", "Jim Halpert"],
-    "release_year": 2011
-  },
-  {
-    "id": 217,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Star Wars: Rogue One', what is the name of the blind warrior monk?",
-    "correct_answer": "Chirrut Îmwe",
-    "incorrect_answers": ["Baze Malbus", "Saw Gerrera", "Cassian Andor"],
-    "release_year": 2016
-  },
-  {
-    "id": 218,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Parks and Recreation', what alter ego does Ben Wyatt adopt when stressed?",
-    "correct_answer": "The Batman-like 'FBI Agent'",
-    "incorrect_answers": ["Reggie the Accountant", "Ice Town Clown", "Game Boy Ben"],
-    "release_year": 2010
-  },
-  {
-    "id": 219,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', what creature does Grogu eat several eggs from, causing controversy?",
-    "correct_answer": "Frog Lady’s eggs",
-    "incorrect_answers": ["Mudhorn eggs", "Kowakian eggs", "Womp rat eggs"],
-    "release_year": 2020
-  },
-  {
-    "id": 220,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Up', what is the name of the bird that Kevin protects?",
-    "correct_answer": "Kevin",
-    "incorrect_answers": ["Charlie", "Frankie", "Pepper"],
-    "release_year": 2009
-  },
-  {
-    "id": 221,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what is the name of Dwight's beet farm inn?",
-    "correct_answer": "Schrute Farms",
-    "incorrect_answers": ["Pennsylvania Acres", "Beet Haven", "Dwight’s Bed & Breakfast"],
-    "release_year": 2007
-  },
-  {
-    "id": 222,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', who is known as 'The Onion Knight'?",
-    "correct_answer": "Ser Davos Seaworth",
-    "incorrect_answers": ["Bronn", "The Hound", "Gendry"],
-    "release_year": 2011
-  },
-  {
-    "id": 223,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the arcade game Litwak’s Arcade installs in 'Wreck-It Ralph' that threatens Ralph’s home?",
-    "correct_answer": "Sugar Rush",
-    "incorrect_answers": ["Turbo Time", "Hero’s Duty", "Kart Kingdom"],
-    "release_year": 2012
-  },
-  {
-    "id": 224,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what is the name of the fast-food chain used as a meth distribution front?",
-    "correct_answer": "Los Pollos Hermanos",
-    "incorrect_answers": ["Chicken Brothers", "El Pollo Loco", "Los Pollo Rancheros"],
-    "release_year": 2009
-  },
-  {
-    "id": 225,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Boys', what substance gives people temporary superpowers?",
-    "correct_answer": "Temp V",
-    "incorrect_answers": ["Super Serum", "Blue Flash", "Compound Z"],
-    "release_year": 2022
-  },
-  {
-    "id": 226,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the alternate universe Peter Parker mentors Miles in 'Spider-Verse'?",
-    "correct_answer": "Peter B. Parker",
-    "incorrect_answers": ["Peter Prime", "Ultimate Peter", "Spider-Man Noir"],
-    "release_year": 2018
-  },
-  {
-    "id": 227,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', who kills Tywin Lannister?",
-    "correct_answer": "Tyrion Lannister",
-    "incorrect_answers": ["Jaime Lannister", "Arya Stark", "Bronn"],
-    "release_year": 2014
-  },
-  {
-    "id": 228,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what song does Andy sing when he returns from anger management?",
-    "correct_answer": "Zombie by The Cranberries",
-    "incorrect_answers": ["Drift Away", "Faithfully", "Take On Me"],
-    "release_year": 2007
-  },
-  {
-    "id": 229,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', what is the name of the black-bladed lightsaber?",
-    "correct_answer": "The Darksaber",
-    "incorrect_answers": ["Nightblade", "Shadow Saber", "Obsidian Edge"],
-    "release_year": 2019
-  },
-  {
-    "id": 230,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Coco', who is revealed to be Miguel’s true great-great-grandfather?",
-    "correct_answer": "Héctor",
-    "incorrect_answers": ["Ernesto de la Cruz", "Pablo Rivera", "Ricardo Ortega"],
-    "release_year": 2017
-  },
-  {
-    "id": 231,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What government lab is responsible for opening the gate to the Upside Down in 'Stranger Things'?",
-    "correct_answer": "Hawkins National Laboratory",
-    "incorrect_answers": ["Nevada Research Center", "Starcourt Facility", "The Mind Lab"],
-    "release_year": 2016
-  },
-  {
-    "id": 232,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what does Jim’s teapot gift to Pam originally contain?",
-    "correct_answer": "A card, hot sauce packet, and personal notes",
-    "incorrect_answers": ["Candy", "A photo", "A poem"],
-    "release_year": 2005
-  },
-  {
-    "id": 233,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of Aang’s earthbending teacher in 'Avatar: The Last Airbender'?",
-    "correct_answer": "Toph Beifong",
-    "incorrect_answers": ["Bumi", "Kyoshi", "Suki"],
-    "release_year": 2006
-  },
-  {
-    "id": 234,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Star Wars character says, 'I don’t like sand'?",
-    "correct_answer": "Anakin Skywalker",
-    "incorrect_answers": ["Luke Skywalker", "Kylo Ren", "Han Solo"],
-    "release_year": 2002
-  },
-  {
-    "id": 235,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of Walter White’s alter ego in 'Breaking Bad'?",
-    "correct_answer": "Heisenberg",
-    "incorrect_answers": ["Eisenberg", "Mr. Blue", "The Kingpin"],
-    "release_year": 2008
-  },
-  {
-    "id": 236,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', which employee does Michael hit with a watermelon during a safety demonstration?",
-    "correct_answer": "Stanley",
-    "incorrect_answers": ["Kevin", "Dwight", "Phyllis"],
-    "release_year": 2007
-  },
-  {
-    "id": 237,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Inside Out', what emotion replaces Joy at the console near the end?",
-    "correct_answer": "Sadness",
-    "incorrect_answers": ["Anger", "Fear", "Disgust"],
-    "release_year": 2015
-  },
-  {
-    "id": 238,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', who trains Arya at the House of Black and White?",
-    "correct_answer": "Jaqen H’ghar",
-    "incorrect_answers": ["The Waif", "Syrio Forel", "Beric Dondarrion"],
-    "release_year": 2015
-  },
-  {
-    "id": 239,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What song does Dustin sing with Suzie to get Planck’s Constant in 'Stranger Things'?",
-    "correct_answer": "The NeverEnding Story",
-    "incorrect_answers": ["Take On Me", "Africa", "Don’t Stop Believin’"],
-    "release_year": 2019
-  },
-  {
-    "id": 240,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character in 'The Office' holds the Dundee Award record?",
-    "correct_answer": "Pam Beesly",
-    "incorrect_answers": ["Jim Halpert", "Ryan Howard", "Dwight Schrute"],
-    "release_year": 2005
-  },
-  {
-    "id": 241,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the ancient Fire Nation Avatar who learned firebending from dragons?",
-    "correct_answer": "Avatar Wan",
-    "incorrect_answers": ["Avatar Roku", "Avatar Kuruk", "Avatar Kyoshi"],
-    "release_year": 2013
-  },
-  {
-    "id": 242,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Star Wars', who is the leader of the Knights of Ren?",
-    "correct_answer": "Kylo Ren",
-    "incorrect_answers": ["Snoke", "General Hux", "The Inquisitor"],
-    "release_year": 2015
-  },
-  {
-    "id": 243,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who is the true villain behind the plot in 'Incredibles 2'?",
-    "correct_answer": "Evelyn Deavor",
-    "incorrect_answers": ["Winston Deavor", "Syndrome’s Brother", "Jack-Jack"],
-    "release_year": 2018
-  },
-  {
-    "id": 244,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What model of Terminator is Arnold Schwarzenegger in 'Terminator 2'?",
-    "correct_answer": "T-800",
-    "incorrect_answers": ["T-1000", "T-900", "TX"],
-    "release_year": 1991
-  },
-  {
-    "id": 245,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', which pet dies after Dwight freezes it?",
-    "correct_answer": "Angela’s cat Sprinkles",
-    "incorrect_answers": ["Oscar the dog", "Moze's goat", "Kevin’s turtle"],
-    "release_year": 2007
-  },
-  {
-    "id": 246,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What gift does Joyce receive that helps communicate with Will in 'Stranger Things'?",
-    "correct_answer": "Christmas lights",
-    "incorrect_answers": ["A ham radio", "A Ouija board", "A walkie-talkie"],
-    "release_year": 2016
-  },
-  {
-    "id": 247,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who kills the Engineer in Pixar's 'Wall-E' short 'Burn-E'?",
-    "correct_answer": "Nobody — he is accidentally locked out",
-    "incorrect_answers": ["Wall-E", "M-O", "The Captain"],
-    "release_year": 2008
-  },
-  {
-    "id": 248,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Marvel hero cuts off Thanos’s head in 'Avengers: Endgame'?",
-    "correct_answer": "Thor",
-    "incorrect_answers": ["Iron Man", "Captain Marvel", "Nebula"],
-    "release_year": 2019
-  },
-  {
-    "id": 249,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the real identity of the Demogorgon-like creature 'Vecna'?",
-    "correct_answer": "Henry Creel / One",
-    "incorrect_answers": ["Billy Hargrove", "Bob Newby", "Kali Prasad"],
-    "release_year": 2022
-  },
-  {
-    "id": 250,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Avatar mentor teaches Aang the ancient firebending form known as the Dancing Dragon?",
-    "correct_answer": "The dragons Ran and Shao",
-    "incorrect_answers": ["Zuko alone", "Iroh", "Master Jeong Jeong"],
-    "release_year": 2007
-  },
-  {
-    "id": 251,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character in 'The Office' owns a beet farm with a bed-and-breakfast?",
-    "correct_answer": "Dwight Schrute",
-    "incorrect_answers": ["Jim Halpert", "Andy Bernard", "Michael Scott"],
-    "release_year": 2005
-  },
-  {
-    "id": 252,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', what creature attacks Din Djarin and Grogu on the ice planet Maldo Kreis?",
-    "correct_answer": "Ice spiders",
-    "incorrect_answers": ["Wampas", "Krayt dragons", "Snow wargs"],
-    "release_year": 2019
-  },
-  {
-    "id": 253,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what is the name of the chemical Walt insists on using for cooking meth?",
-    "correct_answer": "Methylamine",
-    "incorrect_answers": ["Phenacetyl chloride", "Ether", "Lithium hydride"],
-    "release_year": 2008
-  },
-  {
-    "id": 254,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character ultimately defeats Pennywise in 'IT: Chapter Two'?",
-    "correct_answer": "The Losers’ Club (collectively)",
-    "incorrect_answers": ["Bill Denbrough", "Richie Tozier", "Mike Hanlon"],
-    "release_year": 2019
-  },
-  {
-    "id": 255,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the fictional metal found in Wakanda in 'Black Panther'?",
-    "correct_answer": "Vibranium",
-    "incorrect_answers": ["Adamantium", "Nth metal", "Durasteel"],
-    "release_year": 2018
-  },
-  {
-    "id": 256,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Ratatouille', who is the head chef that Linguini works under at the start?",
-    "correct_answer": "Chef Skinner",
-    "incorrect_answers": ["Chef Gusteau", "Colette", "Larousse"],
-    "release_year": 2007
-  },
-  {
-    "id": 257,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what secret does Oscar reveal during the 'Beach Games' episode?",
-    "correct_answer": "He is secretly vacationing",
-    "incorrect_answers": ["He’s quitting Dunder Mifflin", "He’s afraid of sand", "He hates competition"],
-    "release_year": 2007
-  },
-  {
-    "id": 258,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Avatar: The Last Airbender', what was Zuko’s ship assigned to capture at the start of the series?",
-    "correct_answer": "The Avatar",
-    "incorrect_answers": ["Earth Kingdom forces", "Commander Zhao", "Rogue Firebenders"],
-    "release_year": 2005
-  },
-  {
-    "id": 259,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character delivers the line 'Wubba Lubba Dub-Dub!'?",
-    "correct_answer": "Rick Sanchez",
-    "incorrect_answers": ["Morty Smith", "Jerry Smith", "Birdperson"],
-    "release_year": 2013
-  },
-  {
-    "id": 260,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Spider-Man: Into the Spider-Verse', what triggers Miles’ powers?",
-    "correct_answer": "A radioactive spider bite",
-    "incorrect_answers": ["A chemical accident", "Touching the collider", "Genetic mutation"],
-    "release_year": 2018
-  },
-  {
-    "id": 261,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "During the 'Stress Relief' episode of 'The Office', which character performs CPR to the tune of 'Stayin’ Alive'?",
-    "correct_answer": "Michael Scott",
-    "incorrect_answers": ["Stanley Hudson", "Dwight Schrute", "Oscar Martinez"],
-    "release_year": 2009
-  },
-  {
-    "id": 262,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is Eleven’s number tattooed on her arm in 'Stranger Things'?",
-    "correct_answer": "011",
-    "incorrect_answers": ["010", "012", "021"],
-    "release_year": 2016
-  },
-  {
-    "id": 263,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who becomes the new Black Panther in 'Black Panther: Wakanda Forever'?",
-    "correct_answer": "Shuri",
-    "incorrect_answers": ["Okoye", "Namor", "Nakia"],
-    "release_year": 2022
-  },
-  {
-    "id": 264,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', who poisoned King Joffrey?",
-    "correct_answer": "Olenna Tyrell",
-    "incorrect_answers": ["Tyrion Lannister", "Varys", "Littlefinger"],
-    "release_year": 2014
-  },
-  {
-    "id": 265,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In the MCU, what is the name of Doctor Strange’s cape?",
-    "correct_answer": "Cloak of Levitation",
-    "incorrect_answers": ["Cloak of Eternity", "Shroud of Agamotto", "Cape of Winds"],
-    "release_year": 2016
-  },
-  {
-    "id": 266,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Avatar: The Last Airbender', what title does Aang earn after mastering all four elements?",
-    "correct_answer": "Avatar",
-    "incorrect_answers": ["Grand Master", "Spirit Walker", "Elemental Master"],
-    "release_year": 2008
-  },
-  {
-    "id": 267,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character says 'This is the Way'?",
-    "correct_answer": "Din Djarin",
-    "incorrect_answers": ["Bo-Katan", "Ahsoka Tano", "The Armorer"],
-    "release_year": 2019
-  },
-  {
-    "id": 268,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Up', what does Carl give Ellie as a child that becomes a major symbol in the film?",
-    "correct_answer": "An adventure book",
-    "incorrect_answers": ["A balloon", "A postcard", "A drawing"],
-    "release_year": 2009
-  },
-  {
-    "id": 269,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character in 'The Office' claims to have been part of the CIA?",
-    "correct_answer": "Dwight Schrute",
-    "incorrect_answers": ["Creed Bratton", "Michael Scott", "Andy Bernard"],
-    "release_year": 2005
-  },
-  {
-    "id": 270,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of Riley’s imaginary friend in 'Inside Out'?",
-    "correct_answer": "Bing Bong",
-    "incorrect_answers": ["Fluffy", "Button", "Rainbow Joe"],
-    "release_year": 2015
-  },
-  {
-    "id": 271,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which villain in 'The Boys' can only be killed using a specific frequency?",
-    "correct_answer": "The Deep (controlled creatures) — trick question: it’s actually Translucent",
-    "incorrect_answers": ["Black Noir", "A-Train", "Homelander"],
-    "release_year": 2019
-  },
-  {
-    "id": 272,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Stranger Things', what is the real name of the arcade where the kids play?",
-    "correct_answer": "The Palace Arcade",
-    "incorrect_answers": ["Funland", "Pixel Planet", "Hawkins Arcade"],
-    "release_year": 2017
-  },
-  {
-    "id": 273,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Star Wars character has the highest recorded midi-chlorian count?",
-    "correct_answer": "Anakin Skywalker",
-    "incorrect_answers": ["Yoda", "Luke Skywalker", "Palpatine"],
-    "release_year": 1999
-  },
-  {
-    "id": 274,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', which character wins the 'Hottest in the Office' Dundie?",
-    "correct_answer": "Ryan Howard",
-    "incorrect_answers": ["Jim Halpert", "Pam Beesly", "Kelly Kapoor"],
-    "release_year": 2006
-  },
-  {
-    "id": 275,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what is the name of the chemical supply company linked to Gus Fring?",
-    "correct_answer": "Madrigal Electromotive",
-    "incorrect_answers": ["GaleCorp", "Los Pollos Logistics", "Blue Star"],
-    "release_year": 2012
-  },
-  {
-    "id": 276,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Mandalorian weapon can pierce Beskar armor?",
-    "correct_answer": "The Darksaber",
-    "incorrect_answers": ["Vibroblade", "Plasma spear", "Disruptor rifle"],
-    "release_year": 2020
-  },
-  {
-    "id": 277,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who voices Syndrome in Pixar’s 'The Incredibles'?",
-    "correct_answer": "Jason Lee",
-    "incorrect_answers": ["Patrick Warburton", "Craig T. Nelson", "Brad Bird"],
-    "release_year": 2004
-  },
-  {
-    "id": 278,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', what is the ancestral sword of House Stark?",
-    "correct_answer": "Ice",
-    "incorrect_answers": ["Longclaw", "Oathkeeper", "Needle"],
-    "release_year": 2011
-  },
-  {
-    "id": 279,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what does Pam steal from the hotel during Jim’s brothers' prank?",
-    "correct_answer": "A lamp",
-    "incorrect_answers": ["Towels", "A robe", "A mug"],
-    "release_year": 2008
-  },
-  {
-    "id": 280,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Star Wars character is known as 'The Chosen One'?",
-    "correct_answer": "Anakin Skywalker",
-    "incorrect_answers": ["Luke Skywalker", "Rey", "Obi-Wan Kenobi"],
-    "release_year": 2002
-  },
-  {
-    "id": 281,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In Pixar’s 'Coco', what object must Miguel return to the living world with to reconnect with his family?",
-    "correct_answer": "Héctor’s photo",
-    "incorrect_answers": ["His guitar", "A family letter", "The marigold petal"],
-    "release_year": 2017
-  },
-  {
-    "id": 282,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the daycare where Lotso runs things in 'Toy Story 3'?",
-    "correct_answer": "Sunnyside",
-    "incorrect_answers": ["BrightDays", "Funshine", "SunnyWorld"],
-    "release_year": 2010
-  },
-  {
-    "id": 283,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', what is Grogu’s favorite snack?",
-    "correct_answer": "Blue macarons",
-    "incorrect_answers": ["Frog eggs", "Jawa fruit", "Spice cookies"],
-    "release_year": 2020
-  },
-  {
-    "id": 284,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who voices Bo Peep in the 'Toy Story' franchise?",
-    "correct_answer": "Annie Potts",
-    "incorrect_answers": ["Joan Cusack", "Mindy Kaling", "Maggie Smith"],
-    "release_year": 1995
-  },
-  {
-    "id": 285,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character in 'Game of Thrones' is known as the 'Breaker of Chains'?",
-    "correct_answer": "Daenerys Targaryen",
-    "incorrect_answers": ["Jon Snow", "Tyrion Lannister", "Missandei"],
-    "release_year": 2013
-  },
-  {
-    "id": 286,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who plays Gus Fring in 'Breaking Bad'?",
-    "correct_answer": "Giancarlo Esposito",
-    "incorrect_answers": ["Bryan Cranston", "Jonathan Banks", "Bob Odenkirk"],
-    "release_year": 2009
-  },
-  {
-    "id": 287,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which MCU movie reveals the Quantum Realm as a major world?",
-    "correct_answer": "Ant-Man and the Wasp",
-    "incorrect_answers": ["Ant-Man", "Guardians of the Galaxy Vol. 2", "Doctor Strange"],
-    "release_year": 2018
-  },
-  {
-    "id": 288,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Office', what does Dwight claim is the scariest animal?",
-    "correct_answer": "The black bear",
-    "incorrect_answers": ["Beets", "Cougars", "Moose"],
-    "release_year": 2007
-  },
-  {
-    "id": 289,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Star Wars film introduces the planet Mustafar?",
-    "correct_answer": "Revenge of the Sith",
-    "incorrect_answers": ["Attack of the Clones", "The Phantom Menace", "A New Hope"],
-    "release_year": 2005
-  },
-  {
-    "id": 290,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Stranger Things', who first discovers the Mind Flayer’s particles in the Hawkins lab?",
-    "correct_answer": "Will Byers",
-    "incorrect_answers": ["Nancy Wheeler", "Jonathan Byers", "Dustin Henderson"],
-    "release_year": 2017
-  },
-  {
-    "id": 291,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who voices Sadness in 'Inside Out'?",
-    "correct_answer": "Phyllis Smith",
-    "incorrect_answers": ["Amy Poehler", "Mindy Kaling", "Kristen Wiig"],
-    "release_year": 2015
-  },
-  {
-    "id": 292,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Game of Thrones', what does Valyrian steel have the unique ability to kill?",
-    "correct_answer": "White Walkers",
-    "incorrect_answers": ["Dragons", "Giants", "Wargs"],
-    "release_year": 2011
-  },
-  {
-    "id": 293,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what object does Walt throw across the street in frustration?",
-    "correct_answer": "A pizza",
-    "incorrect_answers": ["A beer bottle", "His phone", "A toolbox"],
-    "release_year": 2010
-  },
-  {
-    "id": 294,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who voices Chief Bogo in Disney's 'Zootopia'?",
-    "correct_answer": "Idris Elba",
-    "incorrect_answers": ["Keith David", "Samuel L. Jackson", "Chiwetel Ejiofor"],
-    "release_year": 2016
-  },
-  {
-    "id": 295,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Marvel hero becomes worthy of Mjolnir during 'Avengers: Endgame'?",
-    "correct_answer": "Captain America",
-    "incorrect_answers": ["Hulk", "Spider-Man", "Black Panther"],
-    "release_year": 2019
-  },
-  {
-    "id": 296,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which character in 'The Office' uses a fake wheelchair to get attention?",
-    "correct_answer": "Michael Scott",
-    "incorrect_answers": ["Creed Bratton", "Kevin Malone", "Andy Bernard"],
-    "release_year": 2005
-  },
-  {
-    "id": 297,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'The Mandalorian', who is revealed to be the rightful owner of the Darksaber?",
-    "correct_answer": "Bo-Katan Kryze",
-    "incorrect_answers": ["Din Djarin", "Moff Gideon", "Sabine Wren"],
-    "release_year": 2023
-  },
-  {
-    "id": 298,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the name of the arcade cabinet character for Wreck-It Ralph’s game?",
-    "correct_answer": "Fix-It Felix Jr.",
-    "incorrect_answers": ["Turbo Time", "Hero’s Duty", "Sugar Rush"],
-    "release_year": 2012
-  },
-  {
-    "id": 299,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which Pixar villain says the line 'You sly dog! You got me monologuing!'?",
-    "correct_answer": "Syndrome",
-    "incorrect_answers": ["Lotso", "Hopper", "Ernesto de la Cruz"],
-    "release_year": 2004
-  },
-  {
-    "id": 300,
-    "category": "Movies",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In 'Avatar: The Last Airbender', what technique allows Aang to enter a powerful spiritual state with glowing eyes and tattoos?",
-    "correct_answer": "The Avatar State",
-    "incorrect_answers": ["Chi Extension", "Spirit Form", "Elemental Convergence"],
-    "release_year": 2005
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which British virtual band created by Damon Albarn released the 2001 debut album 'Gorillaz'?",
+    "correct_answer": "Gorillaz",
+    "incorrect_answers": [
+      "Blur",
+      "The Good, the Bad & the Queen",
+      "Massive Attack"
+    ]
   }
 ]
-
-
