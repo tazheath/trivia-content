@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["John Adams", "Thomas Jefferson", "Benjamin Franklin"]
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ship carried the Pilgrims to North America in 1620?",
+    "correct_answer": "The Mayflower",
+    "incorrect_answers": ["The Santa Maria", "The Discovery", "The Constitution"]
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization built the pyramids?",
+    "correct_answer": "The Egyptians",
+    "incorrect_answers": ["The Romans", "The Greeks", "The Persians"]
+  },
+  {
+    "id": 4,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which war began in 1939 and involved most of the world's nations?",
+    "correct_answer": "World War II",
+    "incorrect_answers": ["World War I", "The Cold War", "The Korean War"]
+  },
+  {
+    "id": 5,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is known for his theory of gravity after observing an apple fall?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": ["Albert Einstein", "Galileo Galilei", "Nikola Tesla"]
+  },
+  {
+    "id": 6,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. holiday celebrates the signing of the Declaration of Independence?",
+    "correct_answer": "Independence Day",
+    "incorrect_answers": ["Memorial Day", "Labor Day", "Veterans Day"]
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What wall divided East and West Berlin until 1989?",
+    "correct_answer": "The Berlin Wall",
+    "incorrect_answers": ["The Great Wall", "The Iron Curtain", "The Freedom Wall"]
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the famous civil rights leader known for his 'I Have a Dream' speech?",
+    "correct_answer": "Martin Luther King Jr.",
+    "incorrect_answers": ["Malcolm X", "Rosa Parks", "Thurgood Marshall"]
+  },
+  {
+    "id": 9,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is considered the birthplace of humanity?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "Europe", "South America"]
+  },
+  {
+    "id": 10,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous structure did the ancient Romans build for gladiator battles?",
+    "correct_answer": "The Colosseum",
+    "incorrect_answers": ["The Parthenon", "The Pantheon", "The Forum"]
+  },
+  {
+    "id": 11,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. document begins with the words 'We the People'?",
+    "correct_answer": "The Constitution",
+    "incorrect_answers": ["The Bill of Rights", "The Declaration of Independence", "The Articles of Confederation"]
+  },
+  {
+    "id": 12,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "correct_answer": "Amelia Earhart",
+    "incorrect_answers": ["Sally Ride", "Harriet Quimby", "Bessie Coleman"]
+  },
+  {
+    "id": 13,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+    "correct_answer": "Pompeii",
+    "incorrect_answers": ["Athens", "Carthage", "Alexandria"]
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who wrote the Declaration of Independence?",
+    "correct_answer": "Thomas Jefferson",
+    "incorrect_answers": ["Benjamin Franklin", "James Madison", "John Hancock"]
+  },
+  {
+    "id": 15,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the 16th President of the United States?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["Andrew Jackson", "Ulysses S. Grant", "James Buchanan"]
+  },
+  {
+    "id": 16,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Statue of Liberty was a gift to the United States from which country?",
+    "correct_answer": "France",
+    "incorrect_answers": ["England", "Spain", "Germany"]
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous woman refused to give up her bus seat in 1955, becoming a civil rights icon?",
+    "correct_answer": "Rosa Parks",
+    "incorrect_answers": ["Harriet Tubman", "Sojourner Truth", "Ella Baker"]
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the ship that famously sank in 1912?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": ["Britannic", "Lusitania", "Olympic"]
+  },
+  {
+    "id": 19,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization developed the first known system of writing?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Egyptians", "The Mayans", "The Chinese"]
+  },
+  {
+    "id": 20,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is known as the 'Father of the Constitution'?",
+    "correct_answer": "James Madison",
+    "incorrect_answers": ["George Washington", "Thomas Jefferson", "Alexander Hamilton"]
+  },
+
+  {
+    "id": 21,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which empire was ruled by Genghis Khan?",
+    "correct_answer": "The Mongol Empire",
+    "incorrect_answers": ["The Ottoman Empire", "The Roman Empire", "The Persian Empire"]
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous trail did pioneers use to travel westward in the 1800s?",
+    "correct_answer": "The Oregon Trail",
+    "incorrect_answers": ["The Santa Fe Trail", "The Chisholm Trail", "The Appalachian Trail"]
+  },
+  {
+    "id": 23,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient wonder was a lighthouse in Egypt?",
+    "correct_answer": "The Lighthouse of Alexandria",
+    "incorrect_answers": ["The Colossus of Rhodes", "The Hanging Gardens", "The Great Pyramid"]
+  },
+  {
+    "id": 24,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who discovered electricity with a kite experiment?",
+    "correct_answer": "Benjamin Franklin",
+    "incorrect_answers": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell"]
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What canal connects the Atlantic Ocean to the Pacific Ocean?",
+    "correct_answer": "The Panama Canal",
+    "incorrect_answers": ["The Suez Canal", "Erie Canal", "Corinth Canal"]
+  },
+  {
+    "id": 26,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous leader freed the enslaved people of Israel in the Bible?",
+    "correct_answer": "Moses",
+    "incorrect_answers": ["David", "Solomon", "Abraham"]
+  },
+  {
+    "id": 27,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state was the first to join the Union?",
+    "correct_answer": "Delaware",
+    "incorrect_answers": ["Virginia", "Massachusetts", "New York"]
+  },
+  {
+    "id": 28,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the main language of ancient Rome?",
+    "correct_answer": "Latin",
+    "incorrect_answers": ["Greek", "Italian", "Arabic"]
+  },
+  {
+    "id": 29,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization created the Olympic Games?",
+    "correct_answer": "The Greeks",
+    "incorrect_answers": ["The Romans", "The Egyptians", "The Babylonians"]
+  },
+  {
+    "id": 30,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first man to walk on the Moon?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+  },
+
+  {
+    "id": 31,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Native American woman helped Lewis and Clark explore the West?",
+    "correct_answer": "Sacagawea",
+    "incorrect_answers": ["Pocahontas", "Nanyehi", "Lozen"]
+  },
+  {
+    "id": 32,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country built the Great Wall?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Japan", "India", "Korea"]
+  },
+  {
+    "id": 33,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. national holiday honors those who served in the military?",
+    "correct_answer": "Veterans Day",
+    "incorrect_answers": ["Independence Day", "Presidents Day", "Columbus Day"]
+  },
+  {
+    "id": 34,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which large stone structures served as tombs for Egyptian pharaohs?",
+    "correct_answer": "Pyramids",
+    "incorrect_answers": ["Ziggurats", "Obelisks", "Temples"]
+  },
+  {
+    "id": 35,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the famous nurse during the Crimean War known as 'The Lady with the Lamp'?",
+    "correct_answer": "Florence Nightingale",
+    "incorrect_answers": ["Clara Barton", "Mary Seacole", "Dorothea Dix"]
+  },
+  {
+    "id": 36,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. President is featured on the $5 bill?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["George Washington", "Thomas Jefferson", "Andrew Jackson"]
+  },
+  {
+    "id": 37,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which explorer is credited with discovering the Americas in 1492?",
+    "correct_answer": "Christopher Columbus",
+    "incorrect_answers": ["Vasco da Gama", "Ferdinand Magellan", "John Cabot"]
+  },
+  {
+    "id": 38,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state contains the historic site of Jamestown?",
+    "correct_answer": "Virginia",
+    "incorrect_answers": ["Maryland", "North Carolina", "Massachusetts"]
+  },
+  {
+    "id": 39,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest continent on Earth?",
+    "correct_answer": "Asia",
+    "incorrect_answers": ["Africa", "Europe", "North America"]
+  },
+  {
+    "id": 40,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization invented paper?",
+    "correct_answer": "The Chinese",
+    "incorrect_answers": ["The Greeks", "The Romans", "The Mayans"]
+  },
+
+  {
+    "id": 41,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the British queen with a 63-year reign that defined an era?",
+    "correct_answer": "Queen Victoria",
+    "incorrect_answers": ["Queen Elizabeth I", "Queen Elizabeth II", "Queen Mary I"]
+  },
+  {
+    "id": 42,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. President appears on the quarter?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "Franklin D. Roosevelt"]
+  },
+  {
+    "id": 43,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the first successful English colony in America?",
+    "correct_answer": "Jamestown",
+    "incorrect_answers": ["Roanoke", "Plymouth", "St. Augustine"]
+  },
+  {
+    "id": 44,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ocean lies between Africa and Australia?",
+    "correct_answer": "Indian Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 45,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Michelangelo", "Raphael", "Donatello"]
+  },
+  {
+    "id": 46,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country built Stonehenge?",
+    "correct_answer": "England",
+    "incorrect_answers": ["Ireland", "Wales", "Scotland"]
+  },
+  {
+    "id": 47,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What major event began after the stock market crash of 1929?",
+    "correct_answer": "The Great Depression",
+    "incorrect_answers": ["World War II", "The Cold War", "The Vietnam War"]
+  },
+  {
+    "id": 48,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country was home to the ancient city of Athens?",
+    "correct_answer": "Greece",
+    "incorrect_answers": ["Italy", "Egypt", "Turkey"]
+  },
+  {
+    "id": 49,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. national monument features four presidents carved into a mountain?",
+    "correct_answer": "Mount Rushmore",
+    "incorrect_answers": ["Devils Tower", "Crazy Horse Memorial", "Pikes Peak"]
+  },
+  {
+    "id": 50,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the ancient trading route connecting China and Europe?",
+    "correct_answer": "The Silk Road",
+    "incorrect_answers": ["The Spice Route", "The Amber Road", "The Incense Route"]
+  },
+
+  {
+    "id": 51,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous document declared the American colonies free from British rule?",
+    "correct_answer": "The Declaration of Independence",
+    "incorrect_answers": ["The Constitution", "The Bill of Rights", "The Federalist Papers"]
+  },
+  {
+    "id": 52,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What fort in South Carolina was fired upon in 1861, starting the Civil War?",
+    "correct_answer": "Fort Sumter",
+    "incorrect_answers": ["Fort Knox", "Fort McHenry", "Fort Ticonderoga"]
+  },
+  {
+    "id": 53,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ancient structure was used as a royal tomb in China?",
+    "correct_answer": "The Terracotta Army",
+    "incorrect_answers": ["The Forbidden City", "The Great Wall", "The Dragon Throne"]
+  },
+  {
+    "id": 54,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which American freedom fighter is known for her work with the Underground Railroad?",
+    "correct_answer": "Harriet Tubman",
+    "incorrect_answers": ["Rosa Parks", "Ida B. Wells", "Sojourner Truth"]
+  },
+  {
+    "id": 55,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which river is the longest in the world?",
+    "correct_answer": "The Nile",
+    "incorrect_answers": ["The Amazon", "The Yangtze", "The Mississippi"]
+  },
+  {
+    "id": 56,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country was led by the Pharaohs?",
+    "correct_answer": "Egypt",
+    "incorrect_answers": ["Greece", "India", "China"]
+  },
+  {
+    "id": 57,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What U.S. holiday commemorates the end of slavery?",
+    "correct_answer": "Juneteenth",
+    "incorrect_answers": ["Memorial Day", "Labor Day", "Flag Day"]
+  },
+  {
+    "id": 58,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. city did the Wright brothers make their first successful flight in?",
+    "correct_answer": "Kitty Hawk",
+    "incorrect_answers": ["Dayton", "Charleston", "Wilmington"]
+  },
+  {
+    "id": 59,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the first human civilization in Mesopotamia?",
+    "correct_answer": "Sumer",
+    "incorrect_answers": ["Babylon", "Assyria", "Akkad"]
+  },
+  {
+    "id": 60,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which U.S. state is the Grand Canyon located?",
+    "correct_answer": "Arizona",
+    "incorrect_answers": ["Nevada", "Utah", "New Mexico"]
+  },
+
+  {
+    "id": 61,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous boundary once separated free and slave states in the U.S.?",
+    "correct_answer": "The Mason-Dixon Line",
+    "incorrect_answers": ["The Red Line", "The Ohio River", "The Border States Line"]
+  },
+  {
+    "id": 62,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first U.S. President to live in the White House?",
+    "correct_answer": "John Adams",
+    "incorrect_answers": ["George Washington", "Thomas Jefferson", "James Madison"]
+  },
+  {
+    "id": 63,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What large body of water lies between Europe and Africa?",
+    "correct_answer": "The Mediterranean Sea",
+    "incorrect_answers": ["The Black Sea", "The Red Sea", "The Caspian Sea"]
+  },
+  {
+    "id": 64,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Pilgrims celebrated the first Thanksgiving with which Native American tribe?",
+    "correct_answer": "The Wampanoag",
+    "incorrect_answers": ["The Cherokee", "The Navajo", "The Sioux"]
+  },
+  {
+    "id": 65,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where did the Olympic Games originate?",
+    "correct_answer": "Greece",
+    "incorrect_answers": ["Italy", "Egypt", "Germany"]
+  },
+  {
+    "id": 66,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which river flows through Egypt?",
+    "correct_answer": "The Nile River",
+    "incorrect_answers": ["The Amazon River", "The Congo River", "The Tigris River"]
+  },
+  {
+    "id": 67,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ancient civilization built Machu Picchu?",
+    "correct_answer": "The Inca",
+    "incorrect_answers": ["The Maya", "The Aztec", "The Olmec"]
+  },
+  {
+    "id": 68,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was known as the 'Father of Modern Science'?",
+    "correct_answer": "Galileo Galilei",
+    "incorrect_answers": ["Isaac Newton", "Albert Einstein", "Nikola Tesla"]
+  },
+  {
+    "id": 69,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous American symbol was cracked shortly after it was made?",
+    "correct_answer": "The Liberty Bell",
+    "incorrect_answers": ["The Washington Monument", "The Liberty Torch", "The Capitol Dome"]
+  },
+  {
+    "id": 70,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the first African American President of the United States?",
+    "correct_answer": "Barack Obama",
+    "incorrect_answers": ["Colin Powell", "Jesse Jackson", "Martin Luther King III"]
+  },
+
+  {
+    "id": 71,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous ship was used by Charles Darwin during his research?",
+    "correct_answer": "HMS Beagle",
+    "incorrect_answers": ["HMS Victory", "HMS Endeavour", "HMS Discovery"]
+  },
+  {
+    "id": 72,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What country is known as the 'Land of the Rising Sun'?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "South Korea", "India"]
+  },
+  {
+    "id": 73,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. holiday celebrates workers and their contributions?",
+    "correct_answer": "Labor Day",
+    "incorrect_answers": ["Columbus Day", "Memorial Day", "Flag Day"]
+  },
+  {
+    "id": 74,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country was home to the Aztec civilization?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": ["Peru", "Guatemala", "Brazil"]
+  },
+  {
+    "id": 75,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous leader marched to the sea in a campaign during the Civil War?",
+    "correct_answer": "William Tecumseh Sherman",
+    "incorrect_answers": ["Ulysses S. Grant", "Robert E. Lee", "Stonewall Jackson"]
+  },
+  {
+    "id": 76,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where did the Renaissance begin?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["France", "England", "Spain"]
+  },
+  {
+    "id": 77,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which island did Napoleon Bonaparte die on?",
+    "correct_answer": "Saint Helena",
+    "incorrect_answers": ["Corsica", "Elba", "Malta"]
+  },
+  {
+    "id": 78,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What structure was used by medieval lords for protection and defense?",
+    "correct_answer": "A castle",
+    "incorrect_answers": ["A temple", "A lighthouse", "A monastery"]
+  },
+  {
+    "id": 79,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous scientist is known for the laws of motion?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": ["Albert Einstein", "Marie Curie", "Galileo Galilei"]
+  },
+  {
+    "id": 80,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state did the Gold Rush of 1849 occur in?",
+    "correct_answer": "California",
+    "incorrect_answers": ["Nevada", "Colorado", "Oregon"]
+  },
+
+  {
+    "id": 81,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. President issued the Emancipation Proclamation?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["Ulysses S. Grant", "James Monroe", "Andrew Jackson"]
+  },
+  {
+    "id": 82,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which explorer led the first expedition to circumnavigate the globe?",
+    "correct_answer": "Ferdinand Magellan",
+    "incorrect_answers": ["Christopher Columbus", "Amerigo Vespucci", "James Cook"]
+  },
+  {
+    "id": 83,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. President appears on the penny?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["George Washington", "Thomas Jefferson", "Franklin D. Roosevelt"]
+  },
+  {
+    "id": 84,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which war was fought between the North and South in the United States?",
+    "correct_answer": "The Civil War",
+    "incorrect_answers": ["World War I", "The Revolutionary War", "The War of 1812"]
+  },
+  {
+    "id": 85,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ancient civilization developed hieroglyphics?",
+    "correct_answer": "The Egyptians",
+    "incorrect_answers": ["The Chinese", "The Babylonians", "The Greeks"]
+  },
+  {
+    "id": 86,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who delivered the Gettysburg Address?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": ["George Washington", "Theodore Roosevelt", "John F. Kennedy"]
+  },
+  {
+    "id": 87,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which European city is famous for its leaning tower?",
+    "correct_answer": "Pisa",
+    "incorrect_answers": ["Florence", "Rome", "Venice"]
+  },
+  {
+    "id": 88,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ancient civilization used cuneiform writing?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Egyptians", "The Greeks", "The Romans"]
+  },
+  {
+    "id": 89,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call the period when dinosaurs lived?",
+    "correct_answer": "The Mesozoic Era",
+    "incorrect_answers": ["The Ice Age", "The Stone Age", "The Cretaceous Era"]
+  },
+  {
+    "id": 90,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what modern-day country did the Vikings originate?",
+    "correct_answer": "Norway",
+    "incorrect_answers": ["Germany", "Russia", "France"]
+  },
+
+  {
+    "id": 91,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous roadway in ancient Rome connected the empire for trade and travel?",
+    "correct_answer": "The Appian Way",
+    "incorrect_answers": ["The Silk Road", "The Royal Road", "The King's Highway"]
+  },
+  {
+    "id": 92,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where was the Declaration of Independence signed?",
+    "correct_answer": "Philadelphia",
+    "incorrect_answers": ["Boston", "New York City", "Washington, D.C."]
+  },
+  {
+    "id": 93,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is the smallest by land area?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["Europe", "South America", "Antarctica"]
+  },
+  {
+    "id": 94,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What did ancient people use to record information before paper?",
+    "correct_answer": "Clay tablets",
+    "incorrect_answers": ["Glass tablets", "Plastic sheets", "Tin plates"]
+  },
+  {
+    "id": 95,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What country gifted the United States the Statue of Liberty?",
+    "correct_answer": "France",
+    "incorrect_answers": ["England", "Spain", "Italy"]
+  },
+  {
+    "id": 96,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous city was divided by a wall from 1961 to 1989?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": ["Paris", "Warsaw", "Prague"]
+  },
+  {
+    "id": 97,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the famous teenage girl who wrote a diary during World War II?",
+    "correct_answer": "Anne Frank",
+    "incorrect_answers": ["Helen Keller", "Amelia Earhart", "Susan B. Anthony"]
+  },
+  {
+    "id": 98,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Native American tribe built cliff dwellings in the American Southwest?",
+    "correct_answer": "The Ancestral Puebloans",
+    "incorrect_answers": ["The Sioux", "The Cherokee", "The Iroquois"]
+  },
+  {
+    "id": 99,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the term for a leader of ancient Egypt?",
+    "correct_answer": "Pharaoh",
+    "incorrect_answers": ["Caesar", "Sultan", "Emperor"]
+  },
+  {
+    "id": 100,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which mountain range runs along the eastern United States?",
+    "correct_answer": "The Appalachian Mountains",
+    "incorrect_answers": ["The Rocky Mountains", "The Sierra Nevada", "The Cascade Range"]
+  },
+  
+
+
