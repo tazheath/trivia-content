@@ -1,1 +1,928 @@
+[
+  {
+    "id": 1,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What date is Christmas Day celebrated each year?",
+    "correct_answer": "December 25",
+    "incorrect_answers": ["December 24", "January 1", "November 25"]
+  },
+  {
+    "id": 2,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What traditional Christmas decoration is also a parasitic plant?",
+    "correct_answer": "Mistletoe",
+    "incorrect_answers": ["Holly", "Pinecones", "Ivy"]
+  },
+  {
+    "id": 3,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which reindeer leads Santa’s sleigh with a glowing red nose?",
+    "correct_answer": "Rudolph",
+    "incorrect_answers": ["Comet", "Blitzen", "Dasher"]
+  },
+  {
+    "id": 4,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the song 'Jingle Bells', what kind of sleigh is mentioned?",
+    "correct_answer": "One-horse open sleigh",
+    "incorrect_answers": ["Two-horse sleigh", "Golden sleigh", "Flying sleigh"]
+  },
+  {
+    "id": 5,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the famous snowman brought to life by a magical hat?",
+    "correct_answer": "Frosty the Snowman",
+    "incorrect_answers": ["Jack Frost", "Snowy the Snowman", "Chilly Charlie"]
+  },
+  {
+    "id": 6,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In ‘A Charlie Brown Christmas’, who directs the Christmas play?",
+    "correct_answer": "Charlie Brown",
+    "incorrect_answers": ["Lucy", "Linus", "Sally"]
+  },
+  {
+    "id": 7,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to the poem 'A Visit from St. Nicholas', how many reindeer pull Santa’s sleigh?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Nine", "Six", "Ten"]
+  },
+  {
+    "id": 8,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas beverage is made from milk, cream, sugar, and eggs?",
+    "correct_answer": "Eggnog",
+    "incorrect_answers": ["Hot cocoa", "Apple cider", "Peppermint tea"]
+  },
+  {
+    "id": 9,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What red-and-white striped treat is commonly hung on Christmas trees?",
+    "correct_answer": "Candy canes",
+    "incorrect_answers": ["Peppermints", "Gumdrops", "Licorice sticks"]
+  },
+  {
+    "id": 10,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which green character tries to steal Christmas in the classic Dr. Seuss story?",
+    "correct_answer": "The Grinch",
+    "incorrect_answers": ["The Goblin", "Scrooge", "The Krampus"]
+  },
+
+  {
+    "id": 11,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do children traditionally leave out for Santa Claus on Christmas Eve?",
+    "correct_answer": "Cookies and milk",
+    "incorrect_answers": ["Cake", "Hot chocolate", "Fruit and water"]
+  },
+  {
+    "id": 12,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is credited with starting the tradition of the Christmas tree?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["United States", "England", "France"]
+  },
+  {
+    "id": 13,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Home Alone', where is the McCallister family traveling for Christmas?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["London", "Rome", "New York"]
+  },
+  {
+    "id": 14,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who says 'Bah, humbug!' in the story 'A Christmas Carol'?",
+    "correct_answer": "Ebenezer Scrooge",
+    "incorrect_answers": ["Bob Cratchit", "The Ghost of Christmas Past", "Tiny Tim"]
+  },
+  {
+    "id": 15,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What color are traditional Christmas holly berries?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Green", "White", "Blue"]
+  },
+
+  {
+    "id": 16,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the song ‘Frosty the Snowman’, what brings Frosty to life?",
+    "correct_answer": "A magic hat",
+    "incorrect_answers": ["A magic scarf", "A wish", "Christmas spirit"]
+  },
+  {
+    "id": 17,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which popular Christmas plant is known for its bright red leaves?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Holly", "Mistletoe", "Red Fern"]
+  },
+  {
+    "id": 18,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is typically associated with pulling Santa’s sleigh?",
+    "correct_answer": "Reindeer",
+    "incorrect_answers": ["Horses", "Wolves", "Dogs"]
+  },
+  {
+    "id": 19,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What classic Christmas ballet features a girl named Clara?",
+    "correct_answer": "The Nutcracker",
+    "incorrect_answers": ["Swan Lake", "The Snow Queen", "Sleeping Beauty"]
+  },
+  {
+    "id": 20,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas song starts with the lyrics 'Dashing through the snow'?",
+    "correct_answer": "Jingle Bells",
+    "incorrect_answers": ["Deck the Halls", "Silent Night", "O Christmas Tree"]
+  },
+
+  {
+    "id": 21,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What decoration do people kiss under during Christmas?",
+    "correct_answer": "Mistletoe",
+    "incorrect_answers": ["Holly", "Garland", "Tinsel"]
+  },
+  {
+    "id": 22,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the boy who is left behind in 'Home Alone'?",
+    "correct_answer": "Kevin",
+    "incorrect_answers": ["Billy", "Charlie", "Max"]
+  },
+  {
+    "id": 23,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What red-nosed reindeer leads Santa’s sleigh?",
+    "correct_answer": "Rudolph",
+    "incorrect_answers": ["Vixen", "Prancer", "Dancer"]
+  },
+  {
+    "id": 24,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'The Polar Express', what is the first gift of Christmas?",
+    "correct_answer": "A silver bell",
+    "incorrect_answers": ["A wooden train", "A golden ticket", "A sleigh bell"]
+  },
+  {
+    "id": 25,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who attempts to stop Christmas by stealing gifts in a classic holiday story?",
+    "correct_answer": "The Grinch",
+    "incorrect_answers": ["Scrooge", "Winter Warlock", "Jack Frost"]
+  },
+
+  {
+    "id": 26,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of tree is most commonly used as a Christmas tree?",
+    "correct_answer": "Evergreen",
+    "incorrect_answers": ["Oak", "Maple", "Palm"]
+  },
+  {
+    "id": 27,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What holiday drink is traditionally topped with whipped cream?",
+    "correct_answer": "Hot chocolate",
+    "incorrect_answers": ["Apple cider", "Peppermint tea", "Eggnog latte"]
+  },
+  {
+    "id": 28,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Santa Claus traditionally comes from which region?",
+    "correct_answer": "The North Pole",
+    "incorrect_answers": ["The South Pole", "Lapland", "Greenland"]
+  },
+  {
+    "id": 29,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What popular Christmas song features the lyrics 'All I want for Christmas is you'?",
+    "correct_answer": "All I Want for Christmas Is You",
+    "incorrect_answers": ["Last Christmas", "Santa Baby", "Merry Christmas Darling"]
+  },
+  {
+    "id": 30,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which character shouts 'You’ll shoot your eye out!' in 'A Christmas Story'?",
+    "correct_answer": "Ralphie's mother",
+    "incorrect_answers": ["Ralphie", "His teacher", "The Santa at the mall"]
+  },
+
+  {
+    "id": 31,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What color is Santa Claus’s iconic suit?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Green", "Blue", "Black"]
+  },
+  {
+    "id": 32,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which holiday plant is known for being poisonous to pets?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Holly", "Mistletoe", "Evergreen branches"]
+  },
+  {
+    "id": 33,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Elf', what is the first rule of The Code of Elves?",
+    "correct_answer": "Treat every day like Christmas",
+    "incorrect_answers": ["Sing loud for all to hear", "Spread cheer everywhere", "Give gifts generously"]
+  },
+  {
+    "id": 34,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do people traditionally place at the top of the Christmas tree?",
+    "correct_answer": "A star or an angel",
+    "incorrect_answers": ["A ribbon", "A wreath", "A snowflake"]
+  },
+  {
+    "id": 35,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the famous Christmas ballet featuring toy soldiers?",
+    "correct_answer": "The Nutcracker",
+    "incorrect_answers": ["The Snow Queen", "The Winter Ballet", "The Christmas Carol Ballet"]
+  },
+
+  {
+    "id": 36,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of calendar counts down the days to Christmas?",
+    "correct_answer": "Advent calendar",
+    "incorrect_answers": ["Holiday tracker", "Countdown wheel", "Winter calendar"]
+  },
+  {
+    "id": 37,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas song includes the line 'Fa la la la la, la la la la'?",
+    "correct_answer": "Deck the Halls",
+    "incorrect_answers": ["Jingle Bells", "Silent Night", "We Wish You a Merry Christmas"]
+  },
+  {
+    "id": 38,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Rudolph the Red-Nosed Reindeer', what toy does Hermey want to be?",
+    "correct_answer": "A dentist",
+    "incorrect_answers": ["A firefighter", "A singer", "A toy maker"]
+  },
+  {
+    "id": 39,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas figure is also known as Saint Nick?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Jack Frost", "Father Time", "Old Man Winter"]
+  },
+  {
+    "id": 40,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do kids hang by the fireplace for Santa to fill?",
+    "correct_answer": "Stockings",
+    "incorrect_answers": ["Hats", "Scarves", "Bags"]
+  },
+
+  {
+    "id": 41,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What classic Christmas story features three ghosts visiting a man overnight?",
+    "correct_answer": "A Christmas Carol",
+    "incorrect_answers": ["The Gift of the Magi", "The Snow Queen", "The Night Before Christmas"]
+  },
+  {
+    "id": 42,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What are Santa’s helpers commonly called?",
+    "correct_answer": "Elves",
+    "incorrect_answers": ["Sprites", "Fairies", "Reindeer handlers"]
+  },
+  {
+    "id": 43,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What holiday symbol is often shaped like a boot and filled with treats?",
+    "correct_answer": "A stocking",
+    "incorrect_answers": ["A mitten", "A winter hat", "A sleigh bag"]
+  },
+  {
+    "id": 44,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the song 'Santa Claus Is Coming to Town', what is Santa making?",
+    "correct_answer": "A list",
+    "incorrect_answers": ["A sleigh", "A snowman", "A toy workshop"]
+  },
+  {
+    "id": 45,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas symbol is a pointed red-and-white flower?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Holly", "Amaryllis", "Candy cane flower"]
+  },
+
+  {
+    "id": 46,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Disney character becomes Santa’s helper in 'Mickey’s Once Upon a Christmas'?",
+    "correct_answer": "Goofy",
+    "incorrect_answers": ["Donald Duck", "Mickey Mouse", "Pluto"]
+  },
+  {
+    "id": 47,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who says 'Merry Christmas, ya filthy animal!' in a movie scene?",
+    "correct_answer": "Gangster in 'Angels With Filthy Souls'",
+    "incorrect_answers": ["Kevin McCallister", "Uncle Frank", "Buzz"]
+  },
+  {
+    "id": 48,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What gift does the True Love give on the first day of Christmas?",
+    "correct_answer": "A partridge in a pear tree",
+    "incorrect_answers": ["Turtle doves", "French hens", "A golden ring"]
+  },
+  {
+    "id": 49,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main color of Santa’s hat?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["White", "Green", "Gold"]
+  },
+  {
+    "id": 50,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Elf', what does Buddy love to put on everything?",
+    "correct_answer": "Syrup",
+    "incorrect_answers": ["Candy canes", "Ice cream", "Whipped cream"]
+  },
+
+  {
+    "id": 51,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas song encourages people to 'have a cup of cheer'?",
+    "correct_answer": "A Holly Jolly Christmas",
+    "incorrect_answers": ["Jingle Bell Rock", "Feliz Navidad", "Let It Snow"]
+  },
+  {
+    "id": 52,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which month does the Christmas season take place?",
+    "correct_answer": "December",
+    "incorrect_answers": ["November", "January", "February"]
+  },
+  {
+    "id": 53,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is Olaf in 'Frozen'?",
+    "correct_answer": "A snowman",
+    "incorrect_answers": ["A reindeer", "A polar bear", "A penguin"]
+  },
+  {
+    "id": 54,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas-themed drink is often spiced with nutmeg?",
+    "correct_answer": "Eggnog",
+    "incorrect_answers": ["Cider", "Hot chocolate", "Mulled wine"]
+  },
+  {
+    "id": 55,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the Grinch’s dog?",
+    "correct_answer": "Max",
+    "incorrect_answers": ["Buddy", "Rex", "Snowy"]
+  },
+
+  {
+    "id": 56,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What decoration is often wrapped around Christmas trees for sparkle?",
+    "correct_answer": "Tinsel",
+    "incorrect_answers": ["Streamers", "Confetti", "Lights only"]
+  },
+  {
+    "id": 57,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous Christmas story features a red-nosed reindeer?",
+    "correct_answer": "Rudolph the Red-Nosed Reindeer",
+    "incorrect_answers": ["Frosty the Snowman", "The Grinch", "A Christmas Carol"]
+  },
+  {
+    "id": 58,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas plant has sharp, pointy leaves?",
+    "correct_answer": "Holly",
+    "incorrect_answers": ["Pine", "Poinsettia", "Spruce"]
+  },
+  {
+    "id": 59,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who delivers presents to children around the world on Christmas Eve?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Jack Frost", "Father Winter", "The Snow King"]
+  },
+  {
+    "id": 60,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is traditionally placed under the Christmas tree?",
+    "correct_answer": "Presents",
+    "incorrect_answers": ["Food", "Ornaments", "Shoes"]
+  },
+
+  {
+    "id": 61,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the traditional Christmas flower?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Rose", "Lily", "Tulip"]
+  },
+  {
+    "id": 62,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What holiday song repeats the phrase 'Pa rum pum pum pum'?",
+    "correct_answer": "The Little Drummer Boy",
+    "incorrect_answers": ["O Holy Night", "Joy to the World", "Silent Night"]
+  },
+  {
+    "id": 63,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a young boy take a magical train ride to the North Pole?",
+    "correct_answer": "The Polar Express",
+    "incorrect_answers": ["Elf", "Arthur Christmas", "Home Alone"]
+  },
+  {
+    "id": 64,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which company is known for its iconic red Christmas trucks in commercials?",
+    "correct_answer": "Coca-Cola",
+    "incorrect_answers": ["Pepsi", "Walmart", "Amazon"]
+  },
+  {
+    "id": 65,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas candy is shaped like a cane?",
+    "correct_answer": "Candy cane",
+    "incorrect_answers": ["Peppermint disc", "Gumdrops", "Caramel bar"]
+  },
+
+  {
+    "id": 66,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many sides does a traditional snowflake have?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Four", "Eight", "Five"]
+  },
+  {
+    "id": 67,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'Elf', Buddy is raised by which group?",
+    "correct_answer": "Elves",
+    "incorrect_answers": ["Reindeer", "Penguins", "Snowmen"]
+  },
+  {
+    "id": 68,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which red Christmas flower is often used in holiday decorations?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Rose", "Carnation", "Hibiscus"]
+  },
+  {
+    "id": 69,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the main character in 'A Christmas Carol'?",
+    "correct_answer": "Ebenezer Scrooge",
+    "incorrect_answers": ["Jacob Marley", "Tiny Tim", "Fred"]
+  },
+  {
+    "id": 70,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What dessert is shaped like a log and traditionally served in some countries at Christmas?",
+    "correct_answer": "Yule log cake",
+    "incorrect_answers": ["Fruitcake", "Peppermint bark", "Sugar cookies"]
+  },
+
+  {
+    "id": 71,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What kind of calendar is used to count the days leading up to Christmas?",
+    "correct_answer": "Advent calendar",
+    "incorrect_answers": ["Holiday planner", "Winter countdown", "Gift tracker"]
+  },
+  {
+    "id": 72,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is Sven in the movie 'Frozen'?",
+    "correct_answer": "Reindeer",
+    "incorrect_answers": ["Moose", "Horse", "Bear"]
+  },
+  {
+    "id": 73,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What sweet treat is often decorated with icing during Christmas?",
+    "correct_answer": "Cookies",
+    "incorrect_answers": ["Brownies", "Donuts", "Tarts"]
+  },
+  {
+    "id": 74,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What popular Christmas drink sometimes contains rum?",
+    "correct_answer": "Eggnog",
+    "incorrect_answers": ["Hot chocolate", "Mint tea", "Spiced cider"]
+  },
+  {
+    "id": 75,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas figure is known for delivering coal to naughty children?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Jack Frost", "Krampus", "The Grinch"]
+  },
+
+  {
+    "id": 76,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do families often build together after a snowfall?",
+    "correct_answer": "A snowman",
+    "incorrect_answers": ["A snow fort", "A snow angel", "A snow sculpture"]
+  },
+  {
+    "id": 77,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In 'How the Grinch Stole Christmas', what is the Grinch’s skin color?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Blue", "Red", "Brown"]
+  },
+  {
+    "id": 78,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What famous Christmas ballet features the Sugar Plum Fairy?",
+    "correct_answer": "The Nutcracker",
+    "incorrect_answers": ["Swan Lake", "Sleeping Beauty", "Giselle"]
+  },
+  {
+    "id": 79,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where does Santa Claus live?",
+    "correct_answer": "The North Pole",
+    "incorrect_answers": ["Greenland", "Finland", "Iceland"]
+  },
+  {
+    "id": 80,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas accessory is hung on doors for decoration?",
+    "correct_answer": "A wreath",
+    "incorrect_answers": ["A banner", "A streamer", "A garland"]
+  },
+
+  {
+    "id": 81,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What classic Christmas song wishes for a 'white Christmas'?",
+    "correct_answer": "White Christmas",
+    "incorrect_answers": ["Let It Snow", "Winter Wonderland", "Silent Night"]
+  },
+  {
+    "id": 82,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What shape is often used to decorate the top of a Christmas tree?",
+    "correct_answer": "Star",
+    "incorrect_answers": ["Circle", "Heart", "Bell"]
+  },
+  {
+    "id": 83,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do many people build out of gingerbread during Christmas?",
+    "correct_answer": "Houses",
+    "incorrect_answers": ["Snowmen", "Reindeer", "Sleighs"]
+  },
+  {
+    "id": 84,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which red-nosed character is famous in Christmas stories?",
+    "correct_answer": "Rudolph",
+    "incorrect_answers": ["Dasher", "Vixen", "Comet"]
+  },
+  {
+    "id": 85,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas song features the line 'Rockin' around the Christmas tree'?",
+    "correct_answer": "Rockin' Around the Christmas Tree",
+    "incorrect_answers": ["Jingle Bell Rock", "Let It Snow", "Holly Jolly Christmas"]
+  },
+
+  {
+    "id": 86,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where do stockings traditionally get hung for Christmas?",
+    "correct_answer": "On the fireplace",
+    "incorrect_answers": ["On the tree", "On the window", "At the front door"]
+  },
+  {
+    "id": 87,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What sweet treat is often made in the shape of gingerbread men?",
+    "correct_answer": "Cookies",
+    "incorrect_answers": ["Brownies", "Cake pops", "Marshmallows"]
+  },
+  {
+    "id": 88,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous Christmas character says, 'Ho, ho, ho!'?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Frosty", "The Grinch", "Rudolph"]
+  },
+  {
+    "id": 89,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What holiday is celebrated on December 24th?",
+    "correct_answer": "Christmas Eve",
+    "incorrect_answers": ["Boxing Day", "New Year’s Eve", "Three Kings’ Day"]
+  },
+  {
+    "id": 90,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of tree is decorated for Christmas?",
+    "correct_answer": "Evergreen",
+    "incorrect_answers": ["Apple tree", "Willow tree", "Oak tree"]
+  },
+
+  {
+    "id": 91,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas character lives with the Whos in Whoville?",
+    "correct_answer": "The Grinch",
+    "incorrect_answers": ["Frosty", "Jack Frost", "Rudolph"]
+  },
+  {
+    "id": 92,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas drink is known for being creamy and sweet?",
+    "correct_answer": "Eggnog",
+    "incorrect_answers": ["Hot cocoa", "Peppermint mocha", "Cider"]
+  },
+  {
+    "id": 93,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous reindeer shares a name with a Valentine's Day symbol?",
+    "correct_answer": "Cupid",
+    "incorrect_answers": ["Comet", "Vixen", "Dasher"]
+  },
+  {
+    "id": 94,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of hat does Frosty the Snowman wear?",
+    "correct_answer": "A top hat",
+    "incorrect_answers": ["A beanie", "A Santa hat", "A fedora"]
+  },
+  {
+    "id": 95,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas song begins with 'You better watch out'?",
+    "correct_answer": "Santa Claus Is Coming to Town",
+    "incorrect_answers": ["Jingle Bell Rock", "Let It Snow", "Holly Jolly Christmas"]
+  },
+
+  {
+    "id": 96,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Christmas figure delivers gifts on a sleigh?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Jack Frost", "The Grinch", "Snowman"]
+  },
+  {
+    "id": 97,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "A gingerbread house is typically made from what?",
+    "correct_answer": "Gingerbread cookies",
+    "incorrect_answers": ["Cake", "Candy", "Brownies"]
+  },
+  {
+    "id": 98,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What song wishes listeners a 'Merry Christmas and a Happy New Year'?",
+    "correct_answer": "We Wish You a Merry Christmas",
+    "incorrect_answers": ["Jingle Bells", "Let It Snow", "Holly Jolly Christmas"]
+  },
+  {
+    "id": 99,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Christmas tradition, who rides in a sleigh pulled by reindeer?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Snow Queen", "Toymaker", "Frosty"]
+  },
+  {
+    "id": 100,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What flavor is commonly associated with candy canes?",
+    "correct_answer": "Peppermint",
+    "incorrect_answers": ["Cherry", "Lemon", "Cinnamon"]
+  },
+
+
+
+
+
+
+
+
 
