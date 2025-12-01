@@ -199,4 +199,305 @@
     "incorrect_answers": ["Nanny McPhee", "Matilda", "Bedknobs and Broomsticks"],
     "release_year": 1964
   },
+    {
+    "id": 21,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Robin Williams as a father who disguises himself as a nanny?",
+    "correct_answer": "Mrs. Doubtfire",
+    "incorrect_answers": ["Patch Adams", "Jumanji", "Hook"],
+    "release_year": 1993
+  },
+  {
+    "id": 22,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated film features a clown named Pennywise?",
+    "correct_answer": "It",
+    "incorrect_answers": ["Coraline", "Monster House", "ParaNorman"],
+    "release_year": 2017
+  },
+  {
+    "id": 23,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie follows a young lion who learns to be king?",
+    "correct_answer": "The Lion King",
+    "incorrect_answers": ["Madagascar", "The Jungle Book", "Rio"],
+    "release_year": 1994
+  },
+  {
+    "id": 24,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which superhero movie stars Robert Downey Jr. as Tony Stark?",
+    "correct_answer": "Iron Man",
+    "incorrect_answers": ["Captain America", "Doctor Strange", "Hulk"],
+    "release_year": 2008
+  },
+  {
+    "id": 25,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does Nemo get taken by a diver?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": ["Shark Tale", "Rio", "Happy Feet"],
+    "release_year": 2003
+  },
+  {
+    "id": 26,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a young girl who falls down a rabbit hole?",
+    "correct_answer": "Alice in Wonderland",
+    "incorrect_answers": ["Cinderella", "Sleeping Beauty", "Coraline"],
+    "release_year": 1951
+  },
+  {
+    "id": 27,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 2010 film stars Leonardo DiCaprio exploring dream worlds?",
+    "correct_answer": "Inception",
+    "incorrect_answers": ["Shutter Island", "Interstellar", "Tenet"],
+    "release_year": 2010
+  },
+  {
+    "id": 28,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features Woody and Buzz Lightyear?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": ["The Incredibles", "Monsters Inc.", "Cars"],
+    "release_year": 1995
+  },
+  {
+    "id": 29,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which 2008 film features a clown-faced villain called the Joker?",
+    "correct_answer": "The Dark Knight",
+    "incorrect_answers": ["Batman Begins", "Suicide Squad", "Joker"],
+    "release_year": 2008
+  },
+  {
+    "id": 30,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film centers around a robot who loves collecting trash?",
+    "correct_answer": "WALL-E",
+    "incorrect_answers": ["Robots", "The Iron Giant", "Big Hero 6"],
+    "release_year": 2008
+  },
+  {
+    "id": 31,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film does Dorothy travel to Oz?",
+    "correct_answer": "The Wizard of Oz",
+    "incorrect_answers": ["Alice in Wonderland", "Mary Poppins", "The Sound of Music"],
+    "release_year": 1939
+  },
+  {
+    "id": 32,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie stars Tom Hanks as a man stranded on an island?",
+    "correct_answer": "Cast Away",
+    "incorrect_answers": ["The Terminal", "Forrest Gump", "Sully"],
+    "release_year": 2000
+  },
+  {
+    "id": 33,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie features a magical chocolatier named Willy Wonka?",
+    "correct_answer": "Willy Wonka & the Chocolate Factory",
+    "incorrect_answers": ["James and the Giant Peach", "The BFG", "Matilda"],
+    "release_year": 1971
+  },
+  {
+    "id": 34,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a cowboy doll named Woody?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": ["Ratatouille", "Frozen", "Zootopia"],
+    "release_year": 1995
+  },
+  {
+    "id": 35,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Christmas movie features Kevin McCallister defending his home?",
+    "correct_answer": "Home Alone",
+    "incorrect_answers": ["Elf", "The Santa Clause", "Jingle All the Way"],
+    "release_year": 1990
+  },
+  {
+    "id": 36,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film does a rat named Remy dream of becoming a chef?",
+    "correct_answer": "Ratatouille",
+    "incorrect_answers": ["Flushed Away", "Zootopia", "Bolt"],
+    "release_year": 2007
+  },
+  {
+    "id": 37,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a superhero family with members like Violet, Dash, and Jack-Jack?",
+    "correct_answer": "The Incredibles",
+    "incorrect_answers": ["Fantastic Four", "Big Hero 6", "Sky High"],
+    "release_year": 2004
+  },
+  {
+    "id": 38,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Emma Watson, Daniel Radcliffe, and Rupert Grint?",
+    "correct_answer": "Harry Potter and the Sorcerer's Stone",
+    "incorrect_answers": ["The Chronicles of Narnia", "Percy Jackson", "Fantastic Beasts"],
+    "release_year": 2001
+  },
+  {
+    "id": 39,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a blue tang fish named Dory?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": ["Shark Tale", "Luca", "The Little Mermaid"],
+    "release_year": 2003
+  },
+  {
+    "id": 40,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie stars Macaulay Culkin and features a tarantula scene?",
+    "correct_answer": "Home Alone",
+    "incorrect_answers": ["Richie Rich", "The Sandlot", "Dennis the Menace"],
+    "release_year": 1990
+  },
+  {
+    "id": 41,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animated movie features Miguel visiting the Land of the Dead?",
+    "correct_answer": "Coco",
+    "incorrect_answers": ["Encanto", "Book of Life", "Soul"],
+    "release_year": 2017
+  },
+  {
+    "id": 42,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a robot named Baymax?",
+    "correct_answer": "Big Hero 6",
+    "incorrect_answers": ["Transformers", "Robots", "WALL-E"],
+    "release_year": 2014
+  },
+  {
+    "id": 43,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a pizza-loving rat?",
+    "correct_answer": "Ratatouille",
+    "incorrect_answers": ["The Secret Life of Pets", "Zootopia", "Flushed Away"],
+    "release_year": 2007
+  },
+  {
+    "id": 44,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie follows a video game villain named Ralph?",
+    "correct_answer": "Wreck-It Ralph",
+    "incorrect_answers": ["The Lego Movie", "Big Hero 6", "Toy Story"],
+    "release_year": 2012
+  },
+  {
+    "id": 45,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a talking donkey and an ogre?",
+    "correct_answer": "Shrek",
+    "incorrect_answers": ["Brave", "Tangled", "The Princess and the Frog"],
+    "release_year": 2001
+  },
+  {
+    "id": 46,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie stars Robin Williams as a magical genie?",
+    "correct_answer": "Aladdin",
+    "incorrect_answers": ["Hook", "Jumanji", "Peter Pan"],
+    "release_year": 1992
+  },
+  {
+    "id": 47,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features the character Jack Skellington?",
+    "correct_answer": "The Nightmare Before Christmas",
+    "incorrect_answers": ["Corpse Bride", "Frankenweenie", "Hotel Transylvania"],
+    "release_year": 1993
+  },
+  {
+    "id": 48,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie do minions take orders from Gru?",
+    "correct_answer": "Despicable Me",
+    "incorrect_answers": ["Minions", "Megamind", "The Secret Life of Pets"],
+    "release_year": 2010
+  },
+  {
+    "id": 49,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a girl with superpowered hair?",
+    "correct_answer": "Tangled",
+    "incorrect_answers": ["Brave", "Moana", "Frozen"],
+    "release_year": 2010
+  },
+  {
+    "id": 50,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie follows a clownfish father searching for his son?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": ["Luca", "Shark Tale", "Up"],
+    "release_year": 2003
+  }
+
 
