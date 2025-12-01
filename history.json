@@ -1816,6 +1816,917 @@
     "correct_answer": "The Berlin Wall",
     "incorrect_answers": ["The Iron Curtain", "Checkpoint Charlie", "The Warsaw Barrier"]
   },
+  {
+    "id": 201,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which treaty ended the Thirty Years' War in 1648?",
+    "correct_answer": "The Peace of Westphalia",
+    "incorrect_answers": ["The Treaty of Utrecht", "The Treaty of Aix-la-Chapelle", "The Treaty of Nystad"]
+  },
+  {
+    "id": 202,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ancient civilization constructed the city-state of Carthage?",
+    "correct_answer": "The Phoenicians",
+    "incorrect_answers": ["The Greeks", "The Hittites", "The Assyrians"]
+  },
+  {
+    "id": 203,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the primary written language of medieval scholars across Europe?",
+    "correct_answer": "Latin",
+    "incorrect_answers": ["Greek", "Old English", "Occitan"]
+  },
+  {
+    "id": 204,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the emperor during Rome’s transition from Republic to Empire?",
+    "correct_answer": "Augustus",
+    "incorrect_answers": ["Nero", "Caligula", "Hadrian"]
+  },
+  {
+    "id": 205,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Tang Dynasty is considered a golden age of culture and innovation in which country?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Japan", "Korea", "Vietnam"]
+  },
+  {
+    "id": 206,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which medieval conflict was fought between supporters of rival branches of the English royal family, the House of York and the House of Lancaster?",
+    "correct_answer": "The Wars of the Roses",
+    "incorrect_answers": ["The English Civil War", "The Hundred Years’ War", "The Barons’ Wars"]
+  },
+  {
+    "id": 207,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Edict of Nantes, granting religious tolerance to French Protestants, was issued by which king?",
+    "correct_answer": "Henry IV of France",
+    "incorrect_answers": ["Louis XIV", "Francis I", "Charles IX"]
+  },
+  {
+    "id": 208,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which empire was ruled by the Abbasid Caliphate?",
+    "correct_answer": "The Islamic Empire",
+    "incorrect_answers": ["The Byzantine Empire", "The Ottoman Empire", "The Sasanian Empire"]
+  },
+  {
+    "id": 209,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The policy of appeasement prior to World War II is most closely associated with which British Prime Minister?",
+    "correct_answer": "Neville Chamberlain",
+    "incorrect_answers": ["Winston Churchill", "Stanley Baldwin", "Ramsay MacDonald"]
+  },
+  {
+    "id": 210,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 1521, Hernán Cortés captured which major Mesoamerican capital city?",
+    "correct_answer": "Tenochtitlan",
+    "incorrect_answers": ["Cusco", "Tikal", "Teotihuacan"]
+  },
+
+  {
+    "id": 211,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Frankish king was crowned Emperor of the Romans in 800 AD?",
+    "correct_answer": "Charlemagne",
+    "incorrect_answers": ["Pepin the Short", "Clovis I", "Louis the Pious"]
+  },
+  {
+    "id": 212,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the primary written script used in the Persian Achaemenid Empire?",
+    "correct_answer": "Cuneiform",
+    "incorrect_answers": ["Hieroglyphics", "Aramaic alphabet", "Linear B"]
+  },
+  {
+    "id": 213,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The 1054 split between the Roman Catholic and Eastern Orthodox churches is known as what?",
+    "correct_answer": "The Great Schism",
+    "incorrect_answers": ["The Avignon Schism", "The Byzantine Rift", "The Latin Division"]
+  },
+  {
+    "id": 214,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the longest-reigning Ottoman sultan, known for cultural and architectural flourishing?",
+    "correct_answer": "Suleiman the Magnificent",
+    "incorrect_answers": ["Mehmed II", "Selim I", "Osman I"]
+  },
+  {
+    "id": 215,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the heliocentric model before Galileo, placing the Sun at the center of the universe?",
+    "correct_answer": "Nicolaus Copernicus",
+    "incorrect_answers": ["Johannes Kepler", "Tycho Brahe", "Giordano Bruno"]
+  },
+  {
+    "id": 216,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Taiping Rebellion was a massive civil war in which country?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Japan", "Vietnam", "Korea"]
+  },
+  {
+    "id": 217,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which civilization developed the mathematical concept of calculus independently alongside Newton?",
+    "correct_answer": "The Germans (Leibniz)",
+    "incorrect_answers": ["The French", "The Chinese", "The Greeks"]
+  },
+  {
+    "id": 218,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which African kingdom built the stone structures of Great Zimbabwe?",
+    "correct_answer": "The Kingdom of Zimbabwe",
+    "incorrect_answers": ["The Mali Empire", "The Yoruba Kingdom", "The Axum Empire"]
+  },
+  {
+    "id": 219,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Emperor Justinian I is credited with preserving Roman law in what famous legal collection?",
+    "correct_answer": "The Justinian Code",
+    "incorrect_answers": ["The Twelve Tables", "The Lex Romana", "The Code of Hammurabi"]
+  },
+  {
+    "id": 220,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During which war did the Battle of Agincourt occur?",
+    "correct_answer": "The Hundred Years’ War",
+    "incorrect_answers": ["The Wars of the Roses", "The English Civil War", "The Norman Conquest"]
+  },
+
+  {
+    "id": 221,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the first emperor of the Qin Dynasty, known for unifying China and building the earliest Great Wall?",
+    "correct_answer": "Qin Shi Huang",
+    "incorrect_answers": ["Han Gaozu", "Wu Zetian", "Emperor Wen"]
+  },
+  {
+    "id": 222,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which civilization created the world’s oldest known legal code before Hammurabi’s?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Babylonians", "The Hittites", "The Akkadians"]
+  },
+  {
+    "id": 223,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What 1917 event led to Russia’s exit from World War I?",
+    "correct_answer": "The Bolshevik Revolution",
+    "incorrect_answers": ["The February Revolution", "The Treaty of Brest-Litovsk", "The Kronstadt Rebellion"]
+  },
+  {
+    "id": 224,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which medieval empire was centered in modern-day Ethiopia and Eritrea?",
+    "correct_answer": "The Kingdom of Axum",
+    "incorrect_answers": ["The Mali Empire", "The Songhai Empire", "The Great Zimbabwe Kingdom"]
+  },
+  {
+    "id": 225,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "At which battle did Napoleon face his final defeat?",
+    "correct_answer": "Waterloo",
+    "incorrect_answers": ["Austerlitz", "Leipzig", "Jena"]
+  },
+  {
+    "id": 226,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who founded the religion of Zoroastrianism?",
+    "correct_answer": "Zoroaster",
+    "incorrect_answers": ["Ashoka", "Cyrus the Great", "Darius I"]
+  },
+  {
+    "id": 227,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which empire constructed the famous library and lighthouse at Alexandria?",
+    "correct_answer": "The Hellenistic Empire (Ptolemaic Egypt)",
+    "incorrect_answers": ["The Roman Empire", "The Persian Empire", "The Byzantine Empire"]
+  },
+  {
+    "id": 228,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Khmer Empire built which major temple complex?",
+    "correct_answer": "Angkor Wat",
+    "incorrect_answers": ["Borobudur", "Bagan Temples", "Wat Phra Kaew"]
+  },
+  {
+    "id": 229,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Napoleon crowned himself emperor in which European city?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Rome", "Vienna", "Madrid"]
+  },
+  {
+    "id": 230,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 20th-century event is sometimes called 'The War to End All Wars'?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Cold War", "The Korean War"]
+  },
+
+  {
+    "id": 231,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who succeeded Alexander the Great as ruler of Egypt, founding a long-lasting dynasty?",
+    "correct_answer": "Ptolemy I",
+    "incorrect_answers": ["Seleucus I", "Hephaestion", "Antigonus I"]
+  },
+  {
+    "id": 232,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Meiji Restoration in 1868 transformed which nation from feudal society to industrial power?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "Korea", "Thailand"]
+  },
+  {
+    "id": 233,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Abbasid capital city, renowned as a center of knowledge and culture, was located where?",
+    "correct_answer": "Baghdad",
+    "incorrect_answers": ["Cairo", "Damascus", "Jerusalem"]
+  },
+  {
+    "id": 234,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which treaty ended the Russo-Japanese War in 1905?",
+    "correct_answer": "Treaty of Portsmouth",
+    "incorrect_answers": ["Treaty of Kanagawa", "Treaty of Shimonoseki", "Treaty of Nanking"]
+  },
+  {
+    "id": 235,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What early document limited the power of the English monarchy in 1215?",
+    "correct_answer": "The Magna Carta",
+    "incorrect_answers": ["The English Bill of Rights", "The Petition of Right", "The Act of Supremacy"]
+  },
+  {
+    "id": 236,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ancient ruler created one of the world’s earliest and most famous law codes?",
+    "correct_answer": "Hammurabi",
+    "incorrect_answers": ["Sargon", "Nebuchadnezzar", "Gilgamesh"]
+  },
+  {
+    "id": 237,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What conflict did the Treaty of Westphalia bring to an end?",
+    "correct_answer": "The Thirty Years’ War",
+    "incorrect_answers": ["The Seven Years’ War", "The Thirty-Nine Articles War", "The Great Northern War"]
+  },
+  {
+    "id": 238,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Gupta Empire is often referred to as a golden age of which region?",
+    "correct_answer": "India",
+    "incorrect_answers": ["China", "Persia", "Southeast Asia"]
+  },
+  {
+    "id": 239,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The League of Nations was established after which conflict?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Crimean War", "The Franco-Prussian War"]
+  },
+  {
+    "id": 240,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which military leader overthrew the French Directory to establish the Consulate?",
+    "correct_answer": "Napoleon Bonaparte",
+    "incorrect_answers": ["Robespierre", "Louis XVI", "Danton"]
+  },
+
+  {
+    "id": 241,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which war ended with the Treaty of Ghent?",
+    "correct_answer": "The War of 1812",
+    "incorrect_answers": ["The Mexican-American War", "The Spanish-American War", "The French and Indian War"]
+  },
+  {
+    "id": 242,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Golden Horde was a division of which major empire?",
+    "correct_answer": "The Mongol Empire",
+    "incorrect_answers": ["The Ottoman Empire", "The Byzantine Empire", "The Persian Empire"]
+  },
+  {
+    "id": 243,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ruler oversaw the building of the Taj Mahal?",
+    "correct_answer": "Shah Jahan",
+    "incorrect_answers": ["Akbar", "Aurangzeb", "Humayun"]
+  },
+  {
+    "id": 244,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which civilization created the earliest known democracy?",
+    "correct_answer": "Ancient Athens",
+    "incorrect_answers": ["Sparta", "Babylon", "Phoenicia"]
+  },
+  {
+    "id": 245,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 20th-century leader initiated the Cultural Revolution?",
+    "correct_answer": "Mao Zedong",
+    "incorrect_answers": ["Deng Xiaoping", "Sun Yat-sen", "Chiang Kai-shek"]
+  },
+  {
+    "id": 246,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which English philosopher wrote 'Leviathan', advocating for a strong central government?",
+    "correct_answer": "Thomas Hobbes",
+    "incorrect_answers": ["John Locke", "David Hume", "Francis Bacon"]
+  },
+  {
+    "id": 247,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which revolution overthrew the Bourbon monarchy in France in 1830?",
+    "correct_answer": "The July Revolution",
+    "incorrect_answers": ["The French Revolution of 1789", "The June Rebellion", "The 1848 Revolution"]
+  },
+  {
+    "id": 248,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Constantinople fell to the Ottoman Empire in which year?",
+    "correct_answer": "1453",
+    "incorrect_answers": ["1204", "1492", "1520"]
+  },
+  {
+    "id": 249,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient conflict pitted Athens against Sparta for dominance in Greece?",
+    "correct_answer": "The Peloponnesian War",
+    "incorrect_answers": ["The Persian Wars", "The Punic Wars", "The Macedonian Wars"]
+  },
+  {
+    "id": 250,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which empire fought the Romans in the Punic Wars?",
+    "correct_answer": "Carthage",
+    "incorrect_answers": ["Greece", "Persia", "Gaul"]
+  },
+
+  {
+    "id": 251,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where did the final major battle of the American Revolution occur?",
+    "correct_answer": "Yorktown",
+    "incorrect_answers": ["Saratoga", "Trenton", "Lexington"]
+  },
+  {
+    "id": 252,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The ancient city of Timbuktu was a major center of learning in which empire?",
+    "correct_answer": "The Mali Empire",
+    "incorrect_answers": ["The Songhai Empire", "The Ghana Empire", "The Axum Empire"]
+  },
+  {
+    "id": 253,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the Civil War, which Union general led the March to the Sea?",
+    "correct_answer": "William Tecumseh Sherman",
+    "incorrect_answers": ["Ulysses S. Grant", "Philip Sheridan", "George McClellan"]
+  },
+  {
+    "id": 254,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Pax Romana refers to what period in Roman history?",
+    "correct_answer": "A long era of peace and stability",
+    "incorrect_answers": ["A time of civil war", "The collapse of the Empire", "A major religious reform"]
+  },
+  {
+    "id": 255,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which powerful West African state succeeded Mali and controlled the Niger River trade routes?",
+    "correct_answer": "The Songhai Empire",
+    "incorrect_answers": ["The Ghana Empire", "The Hausa Kingdoms", "The Kanem Empire"]
+  },
+  {
+    "id": 256,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Elizabeth I defeated the Spanish Armada in which year?",
+    "correct_answer": "1588",
+    "incorrect_answers": ["1527", "1607", "1642"]
+  },
+  {
+    "id": 257,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the capital of the Aztec Empire?",
+    "correct_answer": "Tenochtitlan",
+    "incorrect_answers": ["Chichén Itzá", "Tikal", "Cahokia"]
+  },
+  {
+    "id": 258,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Russian czar modernized his country by adopting Western European technology and culture?",
+    "correct_answer": "Peter the Great",
+    "incorrect_answers": ["Ivan the Terrible", "Nicholas II", "Alexander I"]
+  },
+  {
+    "id": 259,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the Middle Ages, what was the dominant economic system in Europe?",
+    "correct_answer": "Feudalism",
+    "incorrect_answers": ["Capitalism", "Socialism", "Mercantilism"]
+  },
+  {
+    "id": 260,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Battle of Hastings in 1066 resulted in the Norman conquest of which country?",
+    "correct_answer": "England",
+    "incorrect_answers": ["Ireland", "France", "Scotland"]
+  },
+
+  {
+    "id": 261,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Edict of Milan in 313 legalized which religion in the Roman Empire?",
+    "correct_answer": "Christianity",
+    "incorrect_answers": ["Judaism", "Zoroastrianism", "Islam"]
+  },
+  {
+    "id": 262,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Chinese dynasty is known for its naval expeditions under Zheng He?",
+    "correct_answer": "The Ming Dynasty",
+    "incorrect_answers": ["The Song Dynasty", "The Tang Dynasty", "The Han Dynasty"]
+  },
+  {
+    "id": 263,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The partition of India in 1947 resulted in the creation of which new nation?",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": ["Sri Lanka", "Bangladesh", "Nepal"]
+  },
+  {
+    "id": 264,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Under which treaty did Napoleon sell the Louisiana Territory to the United States?",
+    "correct_answer": "The Treaty of Paris (1803)",
+    "incorrect_answers": ["The Treaty of Amiens", "The Treaty of Campo Formio", "The Treaty of Lunéville"]
+  },
+  {
+    "id": 265,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Battle of Lepanto in 1571 was fought between the Ottoman Empire and which alliance?",
+    "correct_answer": "The Holy League",
+    "incorrect_answers": ["The Hanseatic League", "The Northern Alliance", "The Trident Pact"]
+  },
+  {
+    "id": 266,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The philosopher Maimonides was a significant figure in which religious tradition?",
+    "correct_answer": "Judaism",
+    "incorrect_answers": ["Islam", "Christianity", "Zoroastrianism"]
+  },
+  {
+    "id": 267,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which economic system drove European colonial expansion in the 16th to 18th centuries?",
+    "correct_answer": "Mercantilism",
+    "incorrect_answers": ["Capitalism", "Socialism", "Feudalism"]
+  },
+  {
+    "id": 268,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Weimar Republic was the government of which nation before World War II?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "Hungary", "Poland"]
+  },
+  {
+    "id": 269,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which leader spearheaded the unification of Germany in the 19th century?",
+    "correct_answer": "Otto von Bismarck",
+    "incorrect_answers": ["Wilhelm I", "Frederick the Great", "Helmut Kohl"]
+  },
+  {
+    "id": 270,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Viking settlement of Vinland is believed to have been located in which modern region?",
+    "correct_answer": "Newfoundland",
+    "incorrect_answers": ["Greenland", "Iceland", "Nova Scotia"]
+  },
+
+  {
+    "id": 271,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Mansa Musa, ruler of Mali, was famous for his pilgrimage to what city?",
+    "correct_answer": "Mecca",
+    "incorrect_answers": ["Timbuktu", "Cairo", "Baghdad"]
+  },
+  {
+    "id": 272,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which treaty ended the Mexican-American War?",
+    "correct_answer": "Treaty of Guadalupe Hidalgo",
+    "incorrect_answers": ["Treaty of Versailles", "Treaty of Tordesillas", "Treaty of Paris"]
+  },
+  {
+    "id": 273,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What civilization built the ancient city of Babylon?",
+    "correct_answer": "The Babylonians",
+    "incorrect_answers": ["The Sumerians", "The Persians", "The Hittites"]
+  },
+  {
+    "id": 274,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Operation Barbarossa was the German invasion of which country?",
+    "correct_answer": "The Soviet Union",
+    "incorrect_answers": ["Poland", "France", "Norway"]
+  },
+  {
+    "id": 275,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The philosopher Voltaire was a leading figure of which intellectual movement?",
+    "correct_answer": "The Enlightenment",
+    "incorrect_answers": ["Romanticism", "Humanism", "Realism"]
+  },
+  {
+    "id": 276,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Warsaw Pact was an alliance formed in response to which organization?",
+    "correct_answer": "NATO",
+    "incorrect_answers": ["The United Nations", "The League of Nations", "SEATO"]
+  },
+  {
+    "id": 277,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which civilization created an advanced road system stretching across the Andes Mountains?",
+    "correct_answer": "The Inca Empire",
+    "incorrect_answers": ["The Maya Empire", "The Aztec Empire", "The Olmecs"]
+  },
+  {
+    "id": 278,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Edict of Worms condemned which influential figure?",
+    "correct_answer": "Martin Luther",
+    "incorrect_answers": ["Galileo Galilei", "Thomas Aquinas", "John Calvin"]
+  },
+  {
+    "id": 279,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Homer’s epic poems are associated with which ancient civilization?",
+    "correct_answer": "Greece",
+    "incorrect_answers": ["Rome", "Egypt", "Persia"]
+  },
+  {
+    "id": 280,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which group of people developed the earliest known democracy around 500 BC?",
+    "correct_answer": "The Athenians",
+    "incorrect_answers": ["The Spartans", "The Trojans", "The Macedonians"]
+  },
+
+  {
+    "id": 281,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ancient Mesopotamian epic includes the story of a great flood similar to Noah’s Ark?",
+    "correct_answer": "The Epic of Gilgamesh",
+    "incorrect_answers": ["The Enuma Elish", "The Book of the Dead", "The Iliad"]
+  },
+  {
+    "id": 282,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Treaty of Tordesillas divided the New World between Spain and which other nation?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["England", "France", "The Netherlands"]
+  },
+  {
+    "id": 283,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Under the encomienda system, Spanish colonists were given control over what?",
+    "correct_answer": "Indigenous labor and tribute",
+    "incorrect_answers": ["Land titles", "Naval trade routes", "Mining rights only"]
+  },
+  {
+    "id": 284,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Sufi mysticism is associated with which religious tradition?",
+    "correct_answer": "Islam",
+    "incorrect_answers": ["Christianity", "Hinduism", "Judaism"]
+  },
+  {
+    "id": 285,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which empire reached its height under ruler Chandragupta Maurya?",
+    "correct_answer": "The Maurya Empire",
+    "incorrect_answers": ["The Gupta Empire", "The Mughal Empire", "The Chola Empire"]
+  },
+  {
+    "id": 286,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the Aztec feathered serpent god?",
+    "correct_answer": "Quetzalcoatl",
+    "incorrect_answers": ["Huitzilopochtli", "Tezcatlipoca", "Tlaloc"]
+  },
+  {
+    "id": 287,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Bolshevik leader Vladimir Lenin founded which political ideology?",
+    "correct_answer": "Leninism",
+    "incorrect_answers": ["Maoism", "Trotskyism", "Stalinism"]
+  },
+  {
+    "id": 288,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The term 'Hellenistic' refers to the spread of Greek culture after the conquests of whom?",
+    "correct_answer": "Alexander the Great",
+    "incorrect_answers": ["Pericles", "Leonidas", "Philip II"]
+  },
+  {
+    "id": 289,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which region was known as the 'Fertile Crescent' due to early agricultural development?",
+    "correct_answer": "Mesopotamia",
+    "incorrect_answers": ["The Indus Valley", "The Nile Delta", "The Yellow River"]
+  },
+  {
+    "id": 290,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Treaty of Paris (1763) ended which conflict?",
+    "correct_answer": "The Seven Years’ War",
+    "incorrect_answers": ["The War of 1812", "The Franco-Prussian War", "The Crimean War"]
+  },
+
+  {
+    "id": 291,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What major 20th-century event was triggered by the assassination of Franz Ferdinand?",
+    "correct_answer": "World War I",
+    "incorrect_answers": ["World War II", "The Cold War", "The Russian Revolution"]
+  },
+  {
+    "id": 292,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient civilization constructed the ziggurat of Ur?",
+    "correct_answer": "The Sumerians",
+    "incorrect_answers": ["The Akkadians", "The Babylonians", "The Hittites"]
+  },
+  {
+    "id": 293,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ancient ruler was known for conquering the Persian Empire?",
+    "correct_answer": "Alexander the Great",
+    "incorrect_answers": ["Julius Caesar", "Attila the Hun", "Charlemagne"]
+  },
+  {
+    "id": 294,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "During the French Revolution, the Reign of Terror was led by which radical leader?",
+    "correct_answer": "Maximilien Robespierre",
+    "incorrect_answers": ["Georges Danton", "Jean-Paul Marat", "Camille Desmoulins"]
+  },
+  {
+    "id": 295,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Islamic caliphate was known for translating and preserving Greek scientific texts?",
+    "correct_answer": "The Abbasid Caliphate",
+    "incorrect_answers": ["The Umayyad Caliphate", "The Fatimid Caliphate", "The Ottoman Caliphate"]
+  },
+  {
+    "id": 296,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Peace of Augsburg in 1555 allowed princes in the Holy Roman Empire to choose between which religions?",
+    "correct_answer": "Catholicism and Lutheranism",
+    "incorrect_answers": ["Calvinism and Catholicism", "Orthodoxy and Catholicism", "Lutheranism and Calvinism"]
+  },
+  {
+    "id": 297,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What empire was ruled by Cyrus the Great?",
+    "correct_answer": "The Persian Empire",
+    "incorrect_answers": ["The Byzantine Empire", "The Roman Empire", "The Ottoman Empire"]
+  },
+  {
+    "id": 298,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Delian League was an alliance formed by Greek city-states under the leadership of which city?",
+    "correct_answer": "Athens",
+    "incorrect_answers": ["Sparta", "Corinth", "Thebes"]
+  },
+  {
+    "id": 299,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Edict of Nantes was revoked in 1685 by which monarch?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": ["Charles X", "Louis XIII", "Henry IV"]
+  },
+  {
+    "id": 300,
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which historical event marked the beginning of the Byzantine Empire?",
+    "correct_answer": "The division of the Roman Empire in 395 AD",
+    "incorrect_answers": ["The fall of Rome in 476 AD", "The Council of Nicaea", "The crowning of Charlemagne"]
+  }
+]
+
 
   
 
