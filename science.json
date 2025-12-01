@@ -1,1 +1,916 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What gas do plants absorb from the air during photosynthesis?",
+    "correct_answer": "Carbon dioxide",
+    "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What force pulls objects toward the center of the Earth?",
+    "correct_answer": "Gravity",
+    "incorrect_answers": ["Electricity", "Magnetism", "Friction"]
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which organ in the human body is responsible for pumping blood?",
+    "correct_answer": "Heart",
+    "incorrect_answers": ["Liver", "Lungs", "Kidneys"]
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is H2O commonly known as?",
+    "correct_answer": "Water",
+    "incorrect_answers": ["Salt", "Oxygen", "Hydrogen"]
+  },
+  {
+    "id": 5,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call the path Earth takes as it travels around the Sun?",
+    "correct_answer": "Orbit",
+    "incorrect_answers": ["Rotation", "Cycle", "Loop"]
+  },
+  {
+    "id": 6,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of a plant absorbs water from the soil?",
+    "correct_answer": "Roots",
+    "incorrect_answers": ["Stem", "Leaves", "Flower"]
+  },
+  {
+    "id": 7,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many planets are in our solar system?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Seven", "Nine", "Ten"]
+  },
+  {
+    "id": 8,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite shape and volume?",
+    "correct_answer": "Solid",
+    "incorrect_answers": ["Liquid", "Gas", "Plasma"]
+  },
+  {
+    "id": 9,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest organ in the human body?",
+    "correct_answer": "Skin",
+    "incorrect_answers": ["Liver", "Heart", "Lungs"]
+  },
+  {
+    "id": 10,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What natural satellite orbits the Earth?",
+    "correct_answer": "The Moon",
+    "incorrect_answers": ["The Sun", "Mars", "Jupiter"]
+  },
+  {
+    "id": 11,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do bees collect from flowers to make honey?",
+    "correct_answer": "Nectar",
+    "incorrect_answers": ["Pollen", "Sap", "Water"]
+  },
+  {
+    "id": 12,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sense uses the nose?",
+    "correct_answer": "Smell",
+    "incorrect_answers": ["Sight", "Hearing", "Taste"]
+  },
+  {
+    "id": 13,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call an animal that only eats plants?",
+    "correct_answer": "Herbivore",
+    "incorrect_answers": ["Carnivore", "Omnivore", "Detritivore"]
+  },
+  {
+    "id": 14,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do humans breathe in that is necessary for survival?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Carbon dioxide", "Helium", "Nitrogen"]
+  },
+  {
+    "id": 15,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "id": 16,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call the change from liquid to gas?",
+    "correct_answer": "Evaporation",
+    "incorrect_answers": ["Condensation", "Freezing", "Melting"]
+  },
+  {
+    "id": 17,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of the plant makes food using sunlight?",
+    "correct_answer": "Leaves",
+    "incorrect_answers": ["Stem", "Roots", "Flower"]
+  },
+  {
+    "id": 18,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What tool is used to measure temperature?",
+    "correct_answer": "Thermometer",
+    "incorrect_answers": ["Barometer", "Microscope", "Ruler"]
+  },
+  {
+    "id": 19,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the center of an atom called?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": ["Proton", "Electron", "Shell"]
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do birds use to fly?",
+    "correct_answer": "Wings",
+    "incorrect_answers": ["Fins", "Paws", "Tails"]
+  },
 
+  {
+    "id": 21,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which star is closest to Earth?",
+    "correct_answer": "The Sun",
+    "incorrect_answers": ["Polaris", "Sirius", "Alpha Centauri"]
+  },
+  {
+    "id": 22,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do plants release into the air after photosynthesis?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Nitrogen", "Carbon dioxide", "Helium"]
+  },
+  {
+    "id": 23,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water at sea level?",
+    "correct_answer": "100°C",
+    "incorrect_answers": ["50°C", "150°C", "0°C"]
+  },
+  {
+    "id": 24,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which body system includes the brain and spinal cord?",
+    "correct_answer": "Nervous system",
+    "incorrect_answers": ["Digestive system", "Circulatory system", "Respiratory system"]
+  },
+  {
+    "id": 25,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal lays eggs and has feathers?",
+    "correct_answer": "Bird",
+    "incorrect_answers": ["Fish", "Mammal", "Reptile"]
+  },
+  {
+    "id": 26,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is famous for its rings?",
+    "correct_answer": "Saturn",
+    "incorrect_answers": ["Mars", "Venus", "Jupiter"]
+  },
+  {
+    "id": 27,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the hardest natural substance on Earth?",
+    "correct_answer": "Diamond",
+    "incorrect_answers": ["Gold", "Iron", "Quartz"]
+  },
+  {
+    "id": 28,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which organ helps humans breathe?",
+    "correct_answer": "Lungs",
+    "incorrect_answers": ["Stomach", "Liver", "Bladder"]
+  },
+  {
+    "id": 29,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of energy comes from the Sun?",
+    "correct_answer": "Solar energy",
+    "incorrect_answers": ["Wind energy", "Nuclear energy", "Chemical energy"]
+  },
+  {
+    "id": 30,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of the skeleton protects the brain?",
+    "correct_answer": "Skull",
+    "incorrect_answers": ["Ribs", "Spine", "Pelvis"]
+  },
+
+  {
+    "id": 31,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the process by which water changes from gas to liquid?",
+    "correct_answer": "Condensation",
+    "incorrect_answers": ["Evaporation", "Melting", "Freezing"]
+  },
+  {
+    "id": 32,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known for its Great Red Spot?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": ["Mars", "Neptune", "Mercury"]
+  },
+  {
+    "id": 33,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a scientist who studies rocks?",
+    "correct_answer": "Geologist",
+    "incorrect_answers": ["Biologist", "Chemist", "Astronomer"]
+  },
+  {
+    "id": 34,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which gas makes up most of Earth’s atmosphere?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": ["Oxygen", "Carbon dioxide", "Helium"]
+  },
+  {
+    "id": 35,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is known as the King of the Jungle?",
+    "correct_answer": "Lion",
+    "incorrect_answers": ["Tiger", "Leopard", "Cheetah"]
+  },
+  {
+    "id": 36,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What part of the plant holds it upright and transports nutrients?",
+    "correct_answer": "Stem",
+    "incorrect_answers": ["Roots", "Leaves", "Seeds"]
+  },
+  {
+    "id": 37,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ocean is the largest on Earth?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 38,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call melted rock beneath Earth’s surface?",
+    "correct_answer": "Magma",
+    "incorrect_answers": ["Lava", "Sediment", "Clay"]
+  },
+  {
+    "id": 39,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which object in our solar system gives us light and heat?",
+    "correct_answer": "The Sun",
+    "incorrect_answers": ["The Moon", "Mars", "Venus"]
+  },
+  {
+    "id": 40,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sense uses your eyes?",
+    "correct_answer": "Sight",
+    "incorrect_answers": ["Touch", "Taste", "Hearing"]
+  },
+
+  {
+    "id": 41,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": ["Earth", "Mars", "Saturn"]
+  },
+  {
+    "id": 42,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of a plant contains seeds?",
+    "correct_answer": "Fruit",
+    "incorrect_answers": ["Roots", "Leaves", "Stem"]
+  },
+  {
+    "id": 43,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What layer of Earth do we live on?",
+    "correct_answer": "Crust",
+    "incorrect_answers": ["Mantle", "Outer core", "Inner core"]
+  },
+  {
+    "id": 44,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call an animal that eats both plants and meat?",
+    "correct_answer": "Omnivore",
+    "incorrect_answers": ["Herbivore", "Carnivore", "Insectivore"]
+  },
+  {
+    "id": 45,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What can you use to look at very tiny objects?",
+    "correct_answer": "Microscope",
+    "incorrect_answers": ["Telescope", "Binoculars", "Magnifying glass"]
+  },
+  {
+    "id": 46,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How long does Earth take to complete one rotation?",
+    "correct_answer": "24 hours",
+    "incorrect_answers": ["12 hours", "7 days", "1 month"]
+  },
+  {
+    "id": 47,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which material do plants need from sunlight?",
+    "correct_answer": "Energy",
+    "incorrect_answers": ["Sugar", "Water", "Carbon"]
+  },
+  {
+    "id": 48,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What phenomenon causes day and night?",
+    "correct_answer": "Earth’s rotation",
+    "incorrect_answers": ["Earth’s orbit", "Moon phases", "Cloud cover"]
+  },
+  {
+    "id": 49,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which objects orbit planets?",
+    "correct_answer": "Moons",
+    "incorrect_answers": ["Stars", "Asteroids", "Comets"]
+  },
+  {
+    "id": 50,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call water that falls from the sky as rain, snow, or sleet?",
+    "correct_answer": "Precipitation",
+    "incorrect_answers": ["Evaporation", "Condensation", "Collection"]
+  },
+
+  {
+    "id": 51,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which gas do humans exhale?",
+    "correct_answer": "Carbon dioxide",
+    "incorrect_answers": ["Oxygen", "Helium", "Hydrogen"]
+  },
+  {
+    "id": 52,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do fish use to breathe underwater?",
+    "correct_answer": "Gills",
+    "incorrect_answers": ["Lungs", "Fins", "Scales"]
+  },
+  {
+    "id": 53,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main source of energy for Earth’s weather?",
+    "correct_answer": "The Sun",
+    "incorrect_answers": ["The Moon", "The oceans", "Wind currents"]
+  },
+  {
+    "id": 54,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What kind of animal is a frog?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": ["Mammal", "Bird", "Reptile"]
+  },
+  {
+    "id": 55,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the smallest unit of life?",
+    "correct_answer": "Cell",
+    "incorrect_answers": ["Organ", "Atom", "Nutrient"]
+  },
+  {
+    "id": 56,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of the body helps you move?",
+    "correct_answer": "Muscles",
+    "incorrect_answers": ["Lungs", "Kidneys", "Skin"]
+  },
+  {
+    "id": 57,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the liquid part of Earth called?",
+    "correct_answer": "Hydrosphere",
+    "incorrect_answers": ["Atmosphere", "Biosphere", "Lithosphere"]
+  },
+  {
+    "id": 58,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a group of stars that form a pattern?",
+    "correct_answer": "Constellation",
+    "incorrect_answers": ["Galaxy", "Cluster", "Nebula"]
+  },
+  {
+    "id": 59,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What are baby frogs called?",
+    "correct_answer": "Tadpoles",
+    "incorrect_answers": ["Cubs", "Chicks", "Larvae"]
+  },
+  {
+    "id": 60,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What causes seasons on Earth?",
+    "correct_answer": "The tilt of Earth’s axis",
+    "incorrect_answers": ["Earth’s rotation", "Moon’s gravity", "Distance from the Sun"]
+  },
+
+  {
+    "id": 61,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of energy do we get from food?",
+    "correct_answer": "Chemical energy",
+    "incorrect_answers": ["Nuclear energy", "Solar energy", "Wind energy"]
+  },
+  {
+    "id": 62,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which metal is liquid at room temperature?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": ["Iron", "Copper", "Silver"]
+  },
+  {
+    "id": 63,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many legs does an insect have?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Four", "Eight", "Ten"]
+  },
+  {
+    "id": 64,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two elements make up water?",
+    "correct_answer": "Hydrogen and oxygen",
+    "incorrect_answers": ["Carbon and oxygen", "Nitrogen and hydrogen", "Carbon and hydrogen"]
+  },
+  {
+    "id": 65,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is frozen water called?",
+    "correct_answer": "Ice",
+    "incorrect_answers": ["Vapor", "Steam", "Snowflakes"]
+  },
+  {
+    "id": 66,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which part of the plant attracts pollinators?",
+    "correct_answer": "Flower",
+    "incorrect_answers": ["Roots", "Stem", "Leaves"]
+  },
+  {
+    "id": 67,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a whale?",
+    "correct_answer": "Mammal",
+    "incorrect_answers": ["Fish", "Reptile", "Amphibian"]
+  },
+  {
+    "id": 68,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many Earths could fit inside the Sun?",
+    "correct_answer": "About one million",
+    "incorrect_answers": ["One hundred", "One thousand", "Ten million"]
+  },
+  {
+    "id": 69,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the movement of air called?",
+    "correct_answer": "Wind",
+    "incorrect_answers": ["Vapor", "Cloud", "Pressure"]
+  },
+  {
+    "id": 70,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which organ helps digest food by producing acid?",
+    "correct_answer": "Stomach",
+    "incorrect_answers": ["Liver", "Kidneys", "Pancreas"]
+  },
+
+  {
+    "id": 71,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": ["Venus", "Earth", "Mars"]
+  },
+  {
+    "id": 72,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main function of the skeleton?",
+    "correct_answer": "To support and protect the body",
+    "incorrect_answers": ["To digest food", "To circulate blood", "To produce hormones"]
+  },
+  {
+    "id": 73,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What tool do you use to see objects far away?",
+    "correct_answer": "Telescope",
+    "incorrect_answers": ["Microscope", "Ruler", "Scale"]
+  },
+  {
+    "id": 74,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the solid form of water?",
+    "correct_answer": "Ice",
+    "incorrect_answers": ["Steam", "Vapor", "Gas"]
+  },
+  {
+    "id": 75,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do butterflies start as?",
+    "correct_answer": "Caterpillars",
+    "incorrect_answers": ["Beetles", "Larvae", "Tadpoles"]
+  },
+  {
+    "id": 76,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which body part helps pump blood through the body?",
+    "correct_answer": "Heart",
+    "incorrect_answers": ["Brain", "Lungs", "Stomach"]
+  },
+  {
+    "id": 77,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known as Earth’s twin due to its similar size?",
+    "correct_answer": "Venus",
+    "incorrect_answers": ["Mars", "Mercury", "Uranus"]
+  },
+  {
+    "id": 78,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is molten rock called once it reaches Earth’s surface?",
+    "correct_answer": "Lava",
+    "incorrect_answers": ["Magma", "Sediment", "Basalt"]
+  },
+  {
+    "id": 79,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What element do humans need to breathe?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Carbon", "Hydrogen", "Nitrogen"]
+  },
+  {
+    "id": 80,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What causes rainbows?",
+    "correct_answer": "Light bending through water droplets",
+    "incorrect_answers": ["Clouds reflecting sunlight", "Moonlight", "Wind patterns"]
+  },
+
+  {
+    "id": 81,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What keeps Earth in orbit around the Sun?",
+    "correct_answer": "Gravity",
+    "incorrect_answers": ["Magnetism", "Friction", "Rotation"]
+  },
+  {
+    "id": 82,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many moons does Earth have?",
+    "correct_answer": "One",
+    "incorrect_answers": ["Two", "None", "Three"]
+  },
+  {
+    "id": 83,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which body system includes bones?",
+    "correct_answer": "Skeletal system",
+    "incorrect_answers": ["Nervous system", "Circulatory system", "Digestive system"]
+  },
+  {
+    "id": 84,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which natural resource do humans drink?",
+    "correct_answer": "Water",
+    "incorrect_answers": ["Sand", "Oil", "Copper"]
+  },
+  {
+    "id": 85,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal has a long trunk?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": ["Giraffe", "Lion", "Camel"]
+  },
+  {
+    "id": 86,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call a scientist who studies space?",
+    "correct_answer": "Astronomer",
+    "incorrect_answers": ["Biologist", "Chemist", "Physicist"]
+  },
+  {
+    "id": 87,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which state of matter can flow and take the shape of its container?",
+    "correct_answer": "Liquid",
+    "incorrect_answers": ["Solid", "Gas", "Plasma"]
+  },
+  {
+    "id": 88,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main gas plants release into the air?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": ["Nitrogen", "Carbon dioxide", "Argon"]
+  },
+  {
+    "id": 89,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What protects Earth from harmful rays from the Sun?",
+    "correct_answer": "The atmosphere",
+    "incorrect_answers": ["The oceans", "The mountains", "The Moon"]
+  },
+  {
+    "id": 90,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which phase of matter has no definite shape or volume?",
+    "correct_answer": "Gas",
+    "incorrect_answers": ["Solid", "Liquid", "Gel"]
+  },
+
+  {
+    "id": 91,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which object orbits Earth and affects ocean tides?",
+    "correct_answer": "The Moon",
+    "incorrect_answers": ["The Sun", "Mars", "Venus"]
+  },
+  {
+    "id": 92,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What part of a tree carries water up from the roots?",
+    "correct_answer": "Trunk",
+    "incorrect_answers": ["Branches", "Leaves", "Seeds"]
+  },
+  {
+    "id": 93,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal can live both on land and in water?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": ["Mammal", "Bird", "Fish"]
+  },
+  {
+    "id": 94,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main source of heat for Earth?",
+    "correct_answer": "The Sun",
+    "incorrect_answers": ["The Moon", "Earth’s core", "Volcanoes"]
+  },
+  {
+    "id": 95,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which body system moves blood around the body?",
+    "correct_answer": "Circulatory system",
+    "incorrect_answers": ["Digestive system", "Nervous system", "Respiratory system"]
+  },
+  {
+    "id": 96,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Earth’s natural satellite?",
+    "correct_answer": "The Moon",
+    "incorrect_answers": ["Europa", "Titan", "Phobos"]
+  },
+  {
+    "id": 97,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do we call a large body of saltwater?",
+    "correct_answer": "Ocean",
+    "incorrect_answers": ["Lake", "River", "Pond"]
+  },
+  {
+    "id": 98,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which direction does the Sun rise?",
+    "correct_answer": "East",
+    "incorrect_answers": ["West", "North", "South"]
+  },
+  {
+    "id": 99,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do plants need from soil to grow?",
+    "correct_answer": "Nutrients",
+    "incorrect_answers": ["Carbon dioxide", "Light", "Oxygen"]
+  },
+  {
+    "id": 100,
+    "category": "Science",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What kind of energy is stored in food and fuels?",
+    "correct_answer": "Chemical energy",
+    "incorrect_answers": ["Heat energy", "Light energy", "Sound energy"]
+  },
+
+
+
+
+
+
+  
