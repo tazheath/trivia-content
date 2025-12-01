@@ -1,0 +1,706 @@
+[
+  {
+    "id": 1,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In basketball, how many points is a free throw worth?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is Lionel Messi known for?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Basketball", "Golf"]
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the shape of a soccer ball?",
+    "correct_answer": "Spherical",
+    "incorrect_answers": ["Oval", "Cube", "Pyramid"]
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses a bat and a ball and includes home runs?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Golf", "Soccer", "Tennis"]
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many players are on the field for each soccer team during play?",
+    "correct_answer": "11",
+    "incorrect_answers": ["9", "10", "12"]
+  },
+  {
+    "id": 6,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport do players try to shoot the puck into the opponent’s goal?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Soccer", "Basketball", "Tennis"]
+  },
+  {
+    "id": 7,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main object hit in golf?",
+    "correct_answer": "Golf ball",
+    "incorrect_answers": ["Tennis ball", "Puck", "Baseball"]
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is known for winning the most FIFA World Cups?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Italy", "Germany", "France"]
+  },
+  {
+    "id": 9,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the line called where basketball players shoot free throws?",
+    "correct_answer": "Free-throw line",
+    "incorrect_answers": ["End line", "Three-point line", "Midcourt line"]
+  },
+  {
+    "id": 10,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is Serena Williams famous for?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Golf", "Basketball"]
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In American football, what is it called when a player carries the ball into the end zone?",
+    "correct_answer": "Touchdown",
+    "incorrect_answers": ["Field Goal", "Home Run", "Goal Kick"]
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is known for the Super Bowl?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Basketball", "Baseball", "Soccer"]
+  },
+  {
+    "id": 13,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What color card means a player is being ejected in soccer?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Yellow", "Green", "Blue"]
+  },
+  {
+    "id": 14,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport are slam dunks performed?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Golf", "Baseball"]
+  },
+  {
+    "id": 15,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the object that tennis players hit back and forth?",
+    "correct_answer": "Tennis ball",
+    "incorrect_answers": ["Shuttlecock", "Puck", "Baseball"]
+  },
+  {
+    "id": 16,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country hosts Wimbledon?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": ["United States", "Australia", "France"]
+  },
+  {
+    "id": 17,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In soccer, what is the term for the player who protects the goal?",
+    "correct_answer": "Goalkeeper",
+    "incorrect_answers": ["Striker", "Midfielder", "Defender"]
+  },
+  {
+    "id": 18,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport involves striking a shuttlecock?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Tennis", "Baseball", "Soccer"]
+  },
+  {
+    "id": 19,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport features the NBA Finals?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Hockey", "Baseball", "Soccer"]
+  },
+  {
+    "id": 20,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport do athletes compete in the Masters Tournament?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Tennis", "Baseball", "Soccer"]
+  },
+
+  {
+    "id": 21,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the primary surface used in ice hockey?",
+    "correct_answer": "Ice",
+    "incorrect_answers": ["Grass", "Hard court", "Field turf"]
+  },
+  {
+    "id": 22,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many points is a touchdown worth in American football?",
+    "correct_answer": "6",
+    "incorrect_answers": ["3", "7", "5"]
+  },
+  {
+    "id": 23,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main piece of equipment used in bowling?",
+    "correct_answer": "Bowling ball",
+    "incorrect_answers": ["Baseball bat", "Golf club", "Tennis racket"]
+  },
+  {
+    "id": 24,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player is famous for wearing number 23 for the Chicago Bulls?",
+    "correct_answer": "Michael Jordan",
+    "incorrect_answers": ["Kobe Bryant", "LeBron James", "Shaquille O'Neal"]
+  },
+  {
+    "id": 25,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Baseball", "Soccer", "Basketball"]
+  },
+  {
+    "id": 26,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the term for kicking the ball through the uprights in American football?",
+    "correct_answer": "Field goal",
+    "incorrect_answers": ["Touchdown", "Punt", "Kickoff"]
+  },
+  {
+    "id": 27,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses a racket and a shuttlecock?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Tennis", "Pickleball", "Squash"]
+  },
+  {
+    "id": 28,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a score of one under par in golf?",
+    "correct_answer": "Birdie",
+    "incorrect_answers": ["Bogey", "Eagle", "Par"]
+  },
+  {
+    "id": 29,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport features penalty kicks?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Hockey", "Tennis", "Golf"]
+  },
+  {
+    "id": 30,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which athlete is known as 'The King' in basketball?",
+    "correct_answer": "LeBron James",
+    "incorrect_answers": ["Kevin Durant", "Stephen Curry", "James Harden"]
+  },
+
+  {
+    "id": 31, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the term 'home run'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 32, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many quarters are in a basketball game?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "3", "5"]
+  },
+  {
+    "id": 33, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In which sport is the FIFA World Cup the top tournament?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Basketball", "Tennis", "Golf"]
+  },
+  {
+    "id": 34, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the object that hockey players hit with their sticks?",
+    "correct_answer": "Puck",
+    "incorrect_answers": ["Ball", "Shuttlecock", "Disc"]
+  },
+  {
+    "id": 35, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport is known for the World Series?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Basketball", "Hockey"]
+  },
+  {
+    "id": 36, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In tennis, what is it called when the score is 40-40?",
+    "correct_answer": "Deuce",
+    "incorrect_answers": ["Advantage", "Match point", "Tie"]
+  },
+  {
+    "id": 37, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many holes are typically played in a full round of golf?",
+    "correct_answer": "18",
+    "incorrect_answers": ["9", "12", "24"]
+  },
+  {
+    "id": 38, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the term for hitting the ball out of the park in baseball?",
+    "correct_answer": "Home run",
+    "incorrect_answers": ["Strikeout", "Double", "Foul ball"]
+  },
+  {
+    "id": 39, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves dribbling a ball and shooting into a hoop?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Tennis", "Rugby"]
+  },
+  {
+    "id": 40, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'ace' for a serve that cannot be returned?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Basketball", "Soccer", "Golf"]
+  },
+
+  {
+    "id": 41, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the Stanley Cup Finals?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Baseball", "Basketball", "Soccer"]
+  },
+  {
+    "id": 42, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses the term 'slam dunk'?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Golf", "Soccer"]
+  },
+  {
+    "id": 43, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport is Tom Brady famous for?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Baseball", "Basketball", "Soccer"]
+  },
+  {
+    "id": 44, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses tees and clubs?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Baseball", "Soccer", "Hockey"]
+  },
+  {
+    "id": 45, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which international sports event happens every four years and includes many sports?",
+    "correct_answer": "The Olympics",
+    "incorrect_answers": ["World Series", "Super Bowl", "Wimbledon"]
+  },
+  {
+    "id": 46, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses the term 'goalkeeper'?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Baseball", "Golf"]
+  },
+  {
+    "id": 47, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves hitting a small white ball into a series of holes?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Baseball", "Soccer", "Tennis"]
+  },
+  {
+    "id": 48, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call it when a soccer player scores three goals in one game?",
+    "correct_answer": "Hat trick",
+    "incorrect_answers": ["Double", "Triple", "Goal run"]
+  },
+  {
+    "id": 49, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a net, a racket, and a small yellow ball?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Baseball", "Pickleball"]
+  },
+  {
+    "id": 50, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport awards the Vince Lombardi Trophy?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Basketball", "Tennis", "Hockey"]
+  },
+
+  {
+    "id": 51, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features a three-point line?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Baseball", "Hockey"]
+  },
+  {
+    "id": 52, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the main piece of equipment used in tennis?",
+    "correct_answer": "Racket",
+    "incorrect_answers": ["Bat", "Club", "Stick"]
+  },
+  {
+    "id": 53, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is scored when a basketball goes through the hoop from behind the three-point line?",
+    "correct_answer": "Three points",
+    "incorrect_answers": ["Two points", "One point", "Four points"]
+  },
+  {
+    "id": 54, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How long is a standard soccer match?",
+    "correct_answer": "90 minutes",
+    "incorrect_answers": ["60 minutes", "45 minutes", "120 minutes"]
+  },
+  {
+    "id": 55, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a hoop attached to a backboard?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Soccer", "Hockey"]
+  },
+  {
+    "id": 56, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'strike'?",
+    "correct_answer": "Bowling",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 57, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call the area where baseball players stand to hit the ball?",
+    "correct_answer": "Batter's box",
+    "incorrect_answers": ["Goal box", "Service line", "Pitch zone"]
+  },
+  {
+    "id": 58, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Who is known as one of the greatest golfers of all time, famous for his comeback win at the 2019 Masters?",
+    "correct_answer": "Tiger Woods",
+    "incorrect_answers": ["Phil Mickelson", "Rory McIlroy", "Jordan Spieth"]
+  },
+  {
+    "id": 59, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses bases that players run to after hitting the ball?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Golf"]
+  },
+  {
+    "id": 60, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features a goalie, defenders, midfielders, and strikers?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Basketball", "Golf", "Baseball"]
+  },
+
+  {
+    "id": 61, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In American football, what is it called when the defense catches a pass intended for the offense?",
+    "correct_answer": "Interception",
+    "incorrect_answers": ["Touchdown", "Fumble", "Punt"]
+  },
+  {
+    "id": 62, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the terms 'love', 'deuce', and 'match point'?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Basketball", "Golf"]
+  },
+  {
+    "id": 63, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport’s championship event is called the World Cup?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Baseball", "Golf", "Basketball"]
+  },
+  {
+    "id": 64, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is dribbling in basketball?",
+    "correct_answer": "Bouncing the ball while moving",
+    "incorrect_answers": ["Passing the ball", "Shooting the ball", "Holding the ball"]
+  },
+  {
+    "id": 65, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the term 'grand slam' besides baseball?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Hockey", "Basketball"]
+  },
+  {
+    "id": 66, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses a hoop and a net and is played on a court?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Hockey", "Golf"]
+  },
+  {
+    "id": 67, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport is Cristiano Ronaldo famous for?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Golf", "Tennis", "Baseball"]
+  },
+  {
+    "id": 68, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves knocking down pins at the end of a lane?",
+    "correct_answer": "Bowling",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 69, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport does the NBA belong to?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 70, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In soccer, what do you call it when the ball completely crosses the goal line?",
+    "correct_answer": "A goal",
+    "incorrect_answers": ["A foul", "A save", "A corner"]
+  },
+
+  {
+    "id": 71, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Where does a baseball pitcher throw from?",
+    "correct_answer": "The pitcher's mound",
+    "incorrect_answers": ["Home plate", "The batter's box", "The dugout"]
+  },
+  {
+    "id": 72, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses a wooden or aluminum bat?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Golf"]
+  },
+  {
+    "id": 73, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes layups and three-pointers?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 74, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a goalie who wears pads and a mask?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Soccer", "Tennis", "Basketball"]
+  },
+  {
+    "id": 75, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many points is a field goal worth in American football?",
+    "correct_answer": "3",
+    "incorrect_answers": ["6", "1", "2"]
+  },
+  {
+    "id": 76, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features matches played on clay, grass, and hard courts?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Baseball", "Soccer", "Hockey"]
+  },
+  {
+    "id": 77, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the NBA Draft?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Football", "Baseball", "Hockey"]
+  },
+  {
+    "id": 78, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call it when a baseball batter swings and misses?",
+    "correct_answer": "Strike",
+    "incorrect_answers": ["Foul", "Ball", "Hit"]
+  },
+  {
+    "id": 79, "category": "Sports", "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses helmets, shoulder pads, and a pigskin ball?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Hockey", "Rugby", "Baseball"]
+  },
+  {
+    "id": 80, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'par'?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Soccer", "Tennis", "Basketball"]
+  },
+
+  {
+    "id": 81, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses catcher’s gear?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Hockey", "Basketball"]
+  },
+  {
+    "id": 82, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What does NBA stand for?",
+    "correct_answer": "National Basketball Association",
+    "incorrect_answers": ["National Baseball Alliance", "North Ball Association", "National Boxing Association"]
+  },
+  {
+    "id": 83, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is it called when a player scores in hockey?",
+    "correct_answer": "Goal",
+    "incorrect_answers": ["Touchdown", "Point", "Run"]
+  },
+  {
+    "id": 84, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport features a 'tip-off' at the start of the game?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 85, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport has positions like quarterback, wide receiver, and linebacker?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 86, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport did David Beckham play?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Golf", "Basketball"]
+  },
+  {
+    "id": 87, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a bright yellow ball and rackets?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Baseball", "Hockey", "Soccer"]
+  },
+  {
+    "id": 88, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes a penalty box?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Golf", "Tennis", "Soccer"]
+  },
+  {
+    "id": 89, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many bases are there on a baseball field?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "5", "6"]
+  },
+  {
+    "id": 90, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the quarterback throwing a pass?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Baseball", "Soccer", "Basketball"]
+  },
+
+  {
+    "id": 91, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In tennis, what do players hit the ball over?",
+    "correct_answer": "A net",
+    "incorrect_answers": ["A wall", "A bar", "A rope"]
+  },
+  {
+    "id": 92, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport has a championship known as the Super Bowl?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 93, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes a 'no-hitter'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 94, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What does NFL stand for?",
+    "correct_answer": "National Football League",
+    "incorrect_answers": ["National Frisbee League", "North Football League", "National Fighting League"]
+  },
+  {
+    "id": 95, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport is known for 'three strikes and you're out'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Hockey"]
+  },
+  {
+    "id": 96, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport features the goalkeeper wearing gloves?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Basketball", "Golf"]
+  },
+  {
+    "id": 97, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What piece of equipment do golfers use to hit long shots off the tee?",
+    "correct_answer": "Driver",
+    "incorrect_answers": ["Putter", "Wedge", "Iron"]
+  },
+  {
+    "id": 98, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'slap shot'?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Golf", "Basketball", "Tennis"]
+  },
+  {
+    "id": 99, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In baseball, what is the term for hitting the ball and reaching first base safely?",
+    "correct_answer": "Single",
+    "incorrect_answers": ["Double", "Triple", "Home run"]
+  },
+  {
+    "id": 100, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport’s major league is known by the abbreviation MLB?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Hockey", "Basketball", "Soccer"]
+  },
+
+
+
+
+
+  
