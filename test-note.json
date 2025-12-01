@@ -1999,7 +1999,1006 @@
     "incorrect_answers": ["Annihilation", "Interstellar", "Gravity"],
     "release_year": 2016
   },
+  {
+    "id": 201,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which filmmaker directed the silent film classic 'The Passion of Joan of Arc'?",
+    "correct_answer": "Carl Theodor Dreyer",
+    "incorrect_answers": ["Fritz Lang", "Sergei Eisenstein", "Robert Bresson"],
+    "release_year": 1928
+  },
+  {
+    "id": 202,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Mulholland Drive', what object serves as the key to unlocking hidden memories?",
+    "correct_answer": "A blue box",
+    "incorrect_answers": ["A red diary", "A silver key", "A black ring"],
+    "release_year": 2001
+  },
+  {
+    "id": 203,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the artificial intelligence in '2001: A Space Odyssey'?",
+    "correct_answer": "HAL 9000",
+    "incorrect_answers": ["TARS", "GERTY", "EVE"],
+    "release_year": 1968
+  },
+  {
+    "id": 204,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the surrealist film 'Eraserhead'?",
+    "correct_answer": "David Lynch",
+    "incorrect_answers": ["David Cronenberg", "Stanley Kubrick", "Alejandro Jodorowsky"],
+    "release_year": 1977
+  },
+  {
+    "id": 205,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Lighthouse', what mythological concept heavily influences Thomas Wake’s character?",
+    "correct_answer": "Proteus",
+    "incorrect_answers": ["Zeus", "Poseidon", "Prometheus"],
+    "release_year": 2019
+  },
+  {
+    "id": 206,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film famously used deep-focus cinematography to create layered imagery?",
+    "correct_answer": "Citizen Kane",
+    "incorrect_answers": ["Casablanca", "The Third Man", "Sunset Boulevard"],
+    "release_year": 1941
+  },
+  {
+    "id": 207,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Japanese director is known for the film 'Rashomon'?",
+    "correct_answer": "Akira Kurosawa",
+    "incorrect_answers": ["Hayao Miyazaki", "Yasujiro Ozu", "Kenji Mizoguchi"],
+    "release_year": 1950
+  },
+  {
+    "id": 208,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of Rick Deckard’s profession in 'Blade Runner'?",
+    "correct_answer": "Blade Runner",
+    "incorrect_answers": ["Replicant", "Hunter", "Runner"],
+    "release_year": 1982
+  },
+  {
+    "id": 209,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Donnie Darko', what is the name of the giant rabbit figure?",
+    "correct_answer": "Frank",
+    "incorrect_answers": ["Charlie", "Sam", "Eddie"],
+    "release_year": 2001
+  },
+  {
+    "id": 210,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a nonlinear storyline involving three timelines around Dunkirk?",
+    "correct_answer": "Dunkirk",
+    "incorrect_answers": ["1917", "Hacksaw Ridge", "The Thin Red Line"],
+    "release_year": 2017
+  },
+  {
+    "id": 211,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the film 'Paris, Texas'?",
+    "correct_answer": "Wim Wenders",
+    "incorrect_answers": ["Werner Herzog", "Rainer Werner Fassbinder", "Jim Jarmusch"],
+    "release_year": 1984
+  },
+  {
+    "id": 212,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which sci-fi movie features the sentient ocean planet Solaris?",
+    "correct_answer": "Solaris",
+    "incorrect_answers": ["Moon", "The Fountain", "Arrival"],
+    "release_year": 1972
+  },
+  {
+    "id": 213,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Christian Bale as an insomniac industrial worker?",
+    "correct_answer": "The Machinist",
+    "incorrect_answers": ["American Psycho", "Memento", "Insomnia"],
+    "release_year": 2004
+  },
+  {
+    "id": 214,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the hotel featured in 'The Shining'?",
+    "correct_answer": "The Overlook Hotel",
+    "incorrect_answers": ["The Stanley Hotel", "The Majestic", "The Crescent"],
+    "release_year": 1980
+  },
+  {
+    "id": 215,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Oldboy', what food does the main character repeatedly eat after being imprisoned?",
+    "correct_answer": "Dumplings",
+    "incorrect_answers": ["Rice cakes", "Ramen", "Kimchi"],
+    "release_year": 2003
+  },
+  {
+    "id": 216,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who plays Daniel Plainview in 'There Will Be Blood'?",
+    "correct_answer": "Daniel Day-Lewis",
+    "incorrect_answers": ["Joaquin Phoenix", "Philip Seymour Hoffman", "Christian Bale"],
+    "release_year": 2007
+  },
+  {
+    "id": 217,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film includes the quote, 'The horror... the horror'?",
+    "correct_answer": "Apocalypse Now",
+    "incorrect_answers": ["Full Metal Jacket", "Platoon", "The Deer Hunter"],
+    "release_year": 1979
+  },
+  {
+    "id": 218,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the central theme of the film 'Synecdoche, New York'?",
+    "correct_answer": "The blurring of life and art",
+    "incorrect_answers": ["Identity loss", "Time travel", "Political satire"],
+    "release_year": 2008
+  },
+  {
+    "id": 219,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the film 'Her', what is Theodore's job?",
+    "correct_answer": "Letter writer",
+    "incorrect_answers": ["Journalist", "Editor", "Teacher"],
+    "release_year": 2013
+  },
+  {
+    "id": 220,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which filmmaker created the Dogme 95 movement along with Lars von Trier?",
+    "correct_answer": "Thomas Vinterberg",
+    "incorrect_answers": ["Nicolas Winding Refn", "Michael Haneke", "Susanne Bier"],
+    "release_year": 1995
+  },
+  {
+    "id": 221,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which movie centers around a man who communicates with his past self via a time-travel mailbox?",
+    "correct_answer": "The Lake House",
+    "incorrect_answers": ["Frequency", "Source Code", "The Time Traveler's Wife"],
+    "release_year": 2006
+  },
+  {
+    "id": 222,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the experimental sci-fi film 'Upstream Color'?",
+    "correct_answer": "Shane Carruth",
+    "incorrect_answers": ["Duncan Jones", "Neill Blomkamp", "Charlie Kaufman"],
+    "release_year": 2013
+  },
+  {
+    "id": 223,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 1954 film is considered a cornerstone of Japanese kaiju cinema?",
+    "correct_answer": "Godzilla",
+    "incorrect_answers": ["Gamera", "Rodan", "Mothra"],
+    "release_year": 1954
+  },
+  {
+    "id": 224,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the artificial world in 'The Matrix'?",
+    "correct_answer": "The Matrix",
+    "incorrect_answers": ["Zion", "The Construct", "Source Field"],
+    "release_year": 1999
+  },
+  {
+    "id": 225,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which movie features a character who lives the same day over and over during a beach war?",
+    "correct_answer": "Edge of Tomorrow",
+    "incorrect_answers": ["Source Code", "Groundhog Day", "Looper"],
+    "release_year": 2014
+  },
+  {
+    "id": 226,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Jake Gyllenhaal as a troubled teenager receiving visions of a rabbit?",
+    "correct_answer": "Donnie Darko",
+    "incorrect_answers": ["Enemy", "Nightcrawler", "Southpaw"],
+    "release_year": 2001
+  },
+  {
+    "id": 227,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the central object of obsession in 'The Treasure of the Sierra Madre'?",
+    "correct_answer": "Gold",
+    "incorrect_answers": ["Diamonds", "Oil", "Silver"],
+    "release_year": 1948
+  },
+  {
+    "id": 228,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director created the dystopian silent film 'Metropolis'?",
+    "correct_answer": "Fritz Lang",
+    "incorrect_answers": ["F.W. Murnau", "Robert Wiene", "Sergei Eisenstein"],
+    "release_year": 1927
+  },
+  {
+    "id": 229,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who plays the lead role in the French thriller 'Blue Is the Warmest Color'?",
+    "correct_answer": "Adèle Exarchopoulos",
+    "incorrect_answers": ["Léa Seydoux", "Marion Cotillard", "Eva Green"],
+    "release_year": 2013
+  },
+  {
+    "id": 230,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film portrays a man reliving the same day while investigating his wife's murder?",
+    "correct_answer": "Memento",
+    "incorrect_answers": ["Tenet", "Shutter Island", "Insomnia"],
+    "release_year": 2000
+  },
+  {
+    "id": 231,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Seventh Seal', what game does the knight play with Death?",
+    "correct_answer": "Chess",
+    "incorrect_answers": ["Poker", "Checkers", "Go"],
+    "release_year": 1957
+  },
+  {
+    "id": 232,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a man forced to survive inside a coffin buried underground?",
+    "correct_answer": "Buried",
+    "incorrect_answers": ["127 Hours", "Alive", "The Descent"],
+    "release_year": 2010
+  },
+  {
+    "id": 233,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which French director is known for the surrealist film 'The Discreet Charm of the Bourgeoisie'?",
+    "correct_answer": "Luis Buñuel",
+    "incorrect_answers": ["Jean-Luc Godard", "François Truffaut", "Alain Resnais"],
+    "release_year": 1972
+  },
+  {
+    "id": 234,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who scored the music for 'Blade Runner'?",
+    "correct_answer": "Vangelis",
+    "incorrect_answers": ["Hans Zimmer", "John Williams", "Ennio Morricone"],
+    "release_year": 1982
+  },
+  {
+    "id": 235,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which 1958 Hitchcock film is known for its use of dolly-zoom to create a sense of vertigo?",
+    "correct_answer": "Vertigo",
+    "incorrect_answers": ["Psycho", "Rear Window", "North by Northwest"],
+    "release_year": 1958
+  },
+  {
+    "id": 236,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film centers around a writer investigating a cursed videotape?",
+    "correct_answer": "The Ring",
+    "incorrect_answers": ["The Grudge", "Sinister", "Insidious"],
+    "release_year": 2002
+  },
+  {
+    "id": 237,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the epic historical drama 'Ran'?",
+    "correct_answer": "Akira Kurosawa",
+    "incorrect_answers": ["Takeshi Kitano", "Kihachi Okamoto", "Masaki Kobayashi"],
+    "release_year": 1985
+  },
+  {
+    "id": 238,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which movie features a mathematician discovering patterns in nature that drive him mad?",
+    "correct_answer": "Pi",
+    "incorrect_answers": ["A Beautiful Mind", "The Number 23", "Donnie Darko"],
+    "release_year": 1998
+  },
+  {
+    "id": 239,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the film 'Hereditary', what symbol frequently appears as part of the cult?",
+    "correct_answer": "The sigil of Paimon",
+    "incorrect_answers": ["An inverted cross", "A sun halo", "A blood triangle"],
+    "release_year": 2018
+  },
+  {
+    "id": 240,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the 1962 classic 'Lawrence of Arabia'?",
+    "correct_answer": "David Lean",
+    "incorrect_answers": ["Richard Attenborough", "John Ford", "David Lynch"],
+    "release_year": 1962
+  },
+  {
+    "id": 241,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which film does a character shout, 'I am Jack's smirking revenge'?",
+    "correct_answer": "Fight Club",
+    "incorrect_answers": ["Se7en", "American Psycho", "Memento"],
+    "release_year": 1999
+  },
+  {
+    "id": 242,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a protagonist obsessed with recording sound effects?",
+    "correct_answer": "Blow Out",
+    "incorrect_answers": ["The Conversation", "Body Double", "The Insider"],
+    "release_year": 1981
+  },
+  {
+    "id": 243,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which classic sci-fi film introduced the iconic phrase 'Klaatu barada nikto'?",
+    "correct_answer": "The Day the Earth Stood Still",
+    "incorrect_answers": ["Forbidden Planet", "War of the Worlds", "Invasion of the Body Snatchers"],
+    "release_year": 1951
+  },
+  {
+    "id": 244,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Fountain', what tree is the source of eternal life?",
+    "correct_answer": "The Tree of Life",
+    "incorrect_answers": ["The Tree of Souls", "Yggdrasil", "The Eternal Oak"],
+    "release_year": 2006
+  },
+  {
+    "id": 245,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Christoph Waltz as a ruthless SS officer?",
+    "correct_answer": "Inglourious Basterds",
+    "incorrect_answers": ["Schindler's List", "Downfall", "The Pianist"],
+    "release_year": 2009
+  },
+  {
+    "id": 246,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Moon', what is the name of the artificial intelligence assisting Sam Bell?",
+    "correct_answer": "GERTY",
+    "incorrect_answers": ["HAL", "MOTHER", "AUTO"],
+    "release_year": 2009
+  },
+  {
+    "id": 247,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the virus in '12 Monkeys'?",
+    "correct_answer": "Kalavirus",
+    "incorrect_answers": ["Red Death", "Omega Strain", "Lazarus Virus"],
+    "release_year": 1995
+  },
+  {
+    "id": 248,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which movie features an AI called the Master Control Program?",
+    "correct_answer": "TRON",
+    "incorrect_answers": ["WarGames", "The Matrix", "Ex Machina"],
+    "release_year": 1982
+  },
+  {
+    "id": 249,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which silent film features the famous scene of a train arriving at a station?",
+    "correct_answer": "Arrival of a Train",
+    "incorrect_answers": ["The General", "Sherlock Jr.", "City Lights"],
+    "release_year": 1896
+  },
+  {
+    "id": 250,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which sci-fi film explores the idea of implanted memories in replicants?",
+    "correct_answer": "Blade Runner",
+    "incorrect_answers": ["Total Recall", "The Matrix", "Ghost in the Shell"],
+    "release_year": 1982
+  },
+  {
+    "id": 251,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which filmmaker directed 'Persona'?",
+    "correct_answer": "Ingmar Bergman",
+    "incorrect_answers": ["Andrei Tarkovsky", "Federico Fellini", "Michelangelo Antonioni"],
+    "release_year": 1966
+  },
+  {
+    "id": 252,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a space mission to investigate a mysterious monolith?",
+    "correct_answer": "2001: A Space Odyssey",
+    "incorrect_answers": ["Interstellar", "Solaris", "Ad Astra"],
+    "release_year": 1968
+  },
+  {
+    "id": 253,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional drug in 'A Clockwork Orange'?",
+    "correct_answer": "Moloko Plus",
+    "incorrect_answers": ["Nuke", "Substance D", "Bliss"],
+    "release_year": 1971
+  },
+  {
+    "id": 254,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director is known for the experimental film 'Holy Motors'?",
+    "correct_answer": "Leos Carax",
+    "incorrect_answers": ["Jean Cocteau", "Gaspar Noé", "Peter Greenaway"],
+    "release_year": 2012
+  },
+  {
+    "id": 255,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Witch', what creature does the family suspect is tormenting them?",
+    "correct_answer": "A witch",
+    "incorrect_answers": ["A demon", "A wolf", "A spirit"],
+    "release_year": 2015
+  },
+  {
+    "id": 256,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the final message typed by Jack Torrance in 'The Shining'?",
+    "correct_answer": "All work and no play makes Jack a dull boy",
+    "incorrect_answers": ["I'm losing my mind", "Redrum", "Help me"],
+    "release_year": 1980
+  },
+  {
+    "id": 257,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which filmmaker directed the philosophical sci-fi film 'Stalker'?",
+    "correct_answer": "Andrei Tarkovsky",
+    "incorrect_answers": ["Aleksandr Sokurov", "Sergei Parajanov", "Krzysztof Kieślowski"],
+    "release_year": 1979
+  },
+  {
+    "id": 258,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the mystical planet in 'Avatar'?",
+    "correct_answer": "Pandora",
+    "incorrect_answers": ["Arrakis", "LV-426", "Ego"],
+    "release_year": 2009
+  },
+  {
+    "id": 259,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Sam Rockwell as a man living in isolation on the moon?",
+    "correct_answer": "Moon",
+    "incorrect_answers": ["Solaris", "Ad Astra", "The Martian"],
+    "release_year": 2009
+  },
+  {
+    "id": 260,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the main theme of 'The Tree of Life'?",
+    "correct_answer": "The meaning of existence",
+    "incorrect_answers": ["Time travel", "Post-apocalyptic survival", "Identity theft"],
+    "release_year": 2011
+  },
+  {
+    "id": 261,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What unusual event plagues the characters in 'Coherence'?",
+    "correct_answer": "A multiverse overlap",
+    "incorrect_answers": ["Alien abduction", "Mass hallucination", "Time freeze"],
+    "release_year": 2013
+  },
+  {
+    "id": 262,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a haunted videotape that kills viewers in seven days?",
+    "correct_answer": "The Ring",
+    "incorrect_answers": ["Sinister", "The Grudge", "Insidious"],
+    "release_year": 2002
+  },
+  {
+    "id": 263,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which classic film uses pioneering montage techniques?",
+    "correct_answer": "Battleship Potemkin",
+    "incorrect_answers": ["Nosferatu", "Intolerance", "The Cabinet of Dr. Caligari"],
+    "release_year": 1925
+  },
+  {
+    "id": 264,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character delivers the 'tears in rain' monologue?",
+    "correct_answer": "Roy Batty",
+    "incorrect_answers": ["Rick Deckard", "Gaff", "Pris"],
+    "release_year": 1982
+  },
+  {
+    "id": 265,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Scarlett Johansson as an alien seductress?",
+    "correct_answer": "Under the Skin",
+    "incorrect_answers": ["Lucy", "Her", "Ghost in the Shell"],
+    "release_year": 2013
+  },
+  {
+    "id": 266,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the film 'Enemy', what animal represents the main character’s psyche?",
+    "correct_answer": "A giant spider",
+    "incorrect_answers": ["A wolf", "A snake", "A raven"],
+    "release_year": 2013
+  },
+  {
+    "id": 267,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film depicts a near-future society where memories can be erased?",
+    "correct_answer": "Eternal Sunshine of the Spotless Mind",
+    "incorrect_answers": ["Inception", "Her", "The Adjustment Bureau"],
+    "release_year": 2004
+  },
+  {
+    "id": 268,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a character searching for his wife's killer using Polaroid notes?",
+    "correct_answer": "Memento",
+    "incorrect_answers": ["Shutter Island", "Insomnia", "The Machinist"],
+    "release_year": 2000
+  },
+  {
+    "id": 269,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the animated sci-fi film 'Fantastic Planet'?",
+    "correct_answer": "René Laloux",
+    "incorrect_answers": ["Jean Giraud", "Jan Švankmajer", "Alejandro Jodorowsky"],
+    "release_year": 1973
+  },
+  {
+    "id": 270,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film examines the psychological decline of a former child actor?",
+    "correct_answer": "Sunset Boulevard",
+    "incorrect_answers": ["The Shining", "Black Swan", "The Aviator"],
+    "release_year": 1950
+  },
+  {
+    "id": 271,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who composed the iconic theme for 'The Good, the Bad and the Ugly'?",
+    "correct_answer": "Ennio Morricone",
+    "incorrect_answers": ["Hans Zimmer", "John Williams", "Bernard Herrmann"],
+    "release_year": 1966
+  },
+  {
+    "id": 272,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which film does a criminal mastermind use the alias 'Mr. Glass'?",
+    "correct_answer": "Unbreakable",
+    "incorrect_answers": ["Split", "The Sixth Sense", "Se7en"],
+    "release_year": 2000
+  },
+  {
+    "id": 273,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Jeff Bridges as 'The Dude'?",
+    "correct_answer": "The Big Lebowski",
+    "incorrect_answers": ["Fargo", "Burn After Reading", "O Brother, Where Art Thou?"],
+    "release_year": 1998
+  },
+  {
+    "id": 274,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which French film explores a tragic romance involving a time-travel paradox?",
+    "correct_answer": "La Jetée",
+    "incorrect_answers": ["Amélie", "Blue Velvet", "Breathless"],
+    "release_year": 1962
+  },
+  {
+    "id": 275,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which classic film was one of the first to use nonlinear narrative structure?",
+    "correct_answer": "Pulp Fiction",
+    "incorrect_answers": ["Citizen Kane", "Memento", "The Usual Suspects"],
+    "release_year": 1994
+  },
+  {
+    "id": 276,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director created the film 'Persona'?",
+    "correct_answer": "Ingmar Bergman",
+    "incorrect_answers": ["Stanley Kubrick", "David Lynch", "Akira Kurosawa"],
+    "release_year": 1966
+  },
+  {
+    "id": 277,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Lobster', what animal does David choose to become if he fails to find a partner?",
+    "correct_answer": "A lobster",
+    "incorrect_answers": ["A dog", "A horse", "A hawk"],
+    "release_year": 2015
+  },
+  {
+    "id": 278,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film depicts a ballerina spiraling into madness due to obsession and identity loss?",
+    "correct_answer": "Black Swan",
+    "incorrect_answers": ["Whiplash", "Hereditary", "The Machinist"],
+    "release_year": 2010
+  },
+  {
+    "id": 279,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Hitchcock film is known for the shower scene with rapid-cut editing?",
+    "correct_answer": "Psycho",
+    "incorrect_answers": ["Rear Window", "Vertigo", "The Birds"],
+    "release_year": 1960
+  },
+  {
+    "id": 280,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the main theme of the film 'Brazil'?",
+    "correct_answer": "Dystopian bureaucracy",
+    "incorrect_answers": ["Alien invasion", "Corporate espionage", "Global warming"],
+    "release_year": 1985
+  },
+  {
+    "id": 281,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Sam Neill exploring a haunted spaceship?",
+    "correct_answer": "Event Horizon",
+    "incorrect_answers": ["Sphere", "Sunshine", "Pandorum"],
+    "release_year": 1997
+  },
+  {
+    "id": 282,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film explores a future society where emotions are outlawed?",
+    "correct_answer": "Equilibrium",
+    "incorrect_answers": ["Gattaca", "Minority Report", "THX 1138"],
+    "release_year": 2002
+  },
+  {
+    "id": 283,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Killing of a Sacred Deer', what punishment must the family face?",
+    "correct_answer": "Choose a family member to sacrifice",
+    "incorrect_answers": ["Relive a past trauma", "Lose their memories", "Be exiled forever"],
+    "release_year": 2017
+  },
+  {
+    "id": 284,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which classic German Expressionist film features the character Cesare the somnambulist?",
+    "correct_answer": "The Cabinet of Dr. Caligari",
+    "incorrect_answers": ["Nosferatu", "Metropolis", "M"],
+    "release_year": 1920
+  },
+  {
+    "id": 285,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film explores the psychological consequences of entering dreams within dreams?",
+    "correct_answer": "Inception",
+    "incorrect_answers": ["Paprika", "The Cell", "Eternal Sunshine of the Spotless Mind"],
+    "release_year": 2010
+  },
+  {
+    "id": 286,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which silent film features the transformation of a man into a monster on film using practical effects?",
+    "correct_answer": "Dr. Jekyll and Mr. Hyde",
+    "incorrect_answers": ["Nosferatu", "The Phantom of the Opera", "Häxan"],
+    "release_year": 1920
+  },
+  {
+    "id": 287,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who directed the philosophical sci-fi classic 'Solaris'?",
+    "correct_answer": "Andrei Tarkovsky",
+    "incorrect_answers": ["Stanley Kubrick", "David Lynch", "Ridley Scott"],
+    "release_year": 1972
+  },
+  {
+    "id": 288,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the main weapon used by Anton Chigurh in 'No Country for Old Men'?",
+    "correct_answer": "A captive bolt gun",
+    "incorrect_answers": ["A revolver", "A shotgun", "A knife"],
+    "release_year": 2007
+  },
+  {
+    "id": 289,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Viggo Mortensen traveling across a barren post-apocalyptic landscape?",
+    "correct_answer": "The Road",
+    "incorrect_answers": ["Children of Men", "Mad Max: Fury Road", "I Am Legend"],
+    "release_year": 2009
+  },
+  {
+    "id": 290,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which movie features a mysterious videotape that forecasts death?",
+    "correct_answer": "Ringu",
+    "incorrect_answers": ["Ju-On", "Pulse", "Dark Water"],
+    "release_year": 1998
+  },
+  {
+    "id": 291,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Gary Oldman as a corrupt DEA agent?",
+    "correct_answer": "Léon: The Professional",
+    "incorrect_answers": ["Heat", "Layer Cake", "The Fifth Element"],
+    "release_year": 1994
+  },
+  {
+    "id": 292,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the central theme of 'Mulholland Drive'?",
+    "correct_answer": "Identity fragmentation",
+    "incorrect_answers": ["Time dilation", "Political corruption", "Artificial intelligence"],
+    "release_year": 2001
+  },
+  {
+    "id": 293,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which director is known for long takes and minimalistic style in 'Gerry'?",
+    "correct_answer": "Gus Van Sant",
+    "incorrect_answers": ["Richard Linklater", "Jim Jarmusch", "Terrence Malick"],
+    "release_year": 2002
+  },
+  {
+    "id": 294,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film features a character who constantly changes his identity to manipulate others?",
+    "correct_answer": "The Talented Mr. Ripley",
+    "incorrect_answers": ["Catch Me If You Can", "American Psycho", "Fight Club"],
+    "release_year": 1999
+  },
+  {
+    "id": 295,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the enigmatic hotel guest in 'Barton Fink'?",
+    "correct_answer": "Charlie Meadows",
+    "incorrect_answers": ["Ben Geisler", "Jack Lipnick", "W.P. Mayhew"],
+    "release_year": 1991
+  },
+  {
+    "id": 296,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the central mystery of 'The Double Life of Veronique'?",
+    "correct_answer": "Two identical women living parallel lives",
+    "incorrect_answers": ["A mistaken identity murder", "A shared dream world", "A secret twin"],
+    "release_year": 1991
+  },
+  {
+    "id": 297,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which anime film explores metaphysical questions about humanity and machines?",
+    "correct_answer": "Ghost in the Shell",
+    "incorrect_answers": ["Akira", "Paprika", "Perfect Blue"],
+    "release_year": 1995
+  },
+  {
+    "id": 298,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which film stars Ryan Gosling as a quiet stunt driver who becomes embroiled in crime?",
+    "correct_answer": "Drive",
+    "incorrect_answers": ["Nightcrawler", "Baby Driver", "The Place Beyond the Pines"],
+    "release_year": 2011
+  },
+  {
+    "id": 299,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Holy Mountain', what is the primary goal of the thieves and mystics?",
+    "correct_answer": "To reach the Holy Mountain and achieve enlightenment",
+    "incorrect_answers": ["To overthrow a tyrannical ruler", "To resurrect a god", "To escape a cursed city"],
+    "release_year": 1973
+  },
+  {
+    "id": 300,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which foreign film centers around a father and son who wander a desolate landscape with a shopping cart?",
+    "correct_answer": "The Road",
+    "incorrect_answers": ["Stalker", "A Time for Drunken Horses", "Beasts of the Southern Wild"],
+    "release_year": 2009
+  }
+]
+
   
-
-
-
