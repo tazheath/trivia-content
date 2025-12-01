@@ -917,6 +917,925 @@
     "correct_answer": "Peppermint",
     "incorrect_answers": ["Cherry", "Lemon", "Cinnamon"]
   },
+  {
+    "id": 101,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to the song, what did my true love give to me on the fifth day of Christmas?",
+    "correct_answer": "Five golden rings",
+    "incorrect_answers": ["Five silver bells", "Five candy canes", "Five doves"]
+  },
+  {
+    "id": 102,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'A Christmas Carol', how many ghosts visit Scrooge?",
+    "correct_answer": "Four",
+    "incorrect_answers": ["Three", "Two", "Five"]
+  },
+  {
+    "id": 103,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is credited with popularizing the modern image of Santa Claus as a jolly man in a red suit?",
+    "correct_answer": "United States",
+    "incorrect_answers": ["Germany", "England", "Finland"]
+  },
+  {
+    "id": 104,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Home Alone 2', which city does Kevin accidentally fly to?",
+    "correct_answer": "New York City",
+    "incorrect_answers": ["Chicago", "Miami", "Los Angeles"]
+  },
+  {
+    "id": 105,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas song contains the lyric 'Snow is falling all around me'?",
+    "correct_answer": "Merry Christmas Everyone",
+    "incorrect_answers": ["Last Christmas", "Jingle Bell Rock", "Winter Wonderland"]
+  },
+  {
+    "id": 106,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Christmas figure is known as 'Father Christmas' in the United Kingdom?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Saint Nicholas", "Kris Kringle", "Old Man Winter"]
+  },
+  {
+    "id": 107,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is traditionally hidden inside a Christmas pudding?",
+    "correct_answer": "A coin",
+    "incorrect_answers": ["A bell", "A button", "A charm"]
+  },
+  {
+    "id": 108,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Christmas decoration was originally made from strands of silver?",
+    "correct_answer": "Tinsel",
+    "incorrect_answers": ["Garland", "Ornaments", "Ribbon"]
+  },
+  {
+    "id": 109,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Polar Express', what is the train’s final destination?",
+    "correct_answer": "The North Pole",
+    "incorrect_answers": ["Chicago", "Santa’s Village", "The Christmas Mountains"]
+  },
+  {
+    "id": 110,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which famous Christmas story did Charles Dickens write?",
+    "correct_answer": "A Christmas Carol",
+    "incorrect_answers": ["The Gift of the Magi", "The Snow Queen", "Twas the Night Before Christmas"]
+  },
+
+  {
+    "id": 111,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which reindeer is known for being particularly fast and energetic?",
+    "correct_answer": "Dasher",
+    "incorrect_answers": ["Cupid", "Prancer", "Vixen"]
+  },
+  {
+    "id": 112,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Christmas plant is known for having white berries?",
+    "correct_answer": "Mistletoe",
+    "incorrect_answers": ["Holly", "Poinsettia", "Evergreen"]
+  },
+  {
+    "id": 113,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the town in 'How the Grinch Stole Christmas'?",
+    "correct_answer": "Whoville",
+    "incorrect_answers": ["Snowtown", "Evergreen Village", "Holiday Hollow"]
+  },
+  {
+    "id": 114,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Victorian England, what fruit was commonly found in Christmas stockings?",
+    "correct_answer": "An orange",
+    "incorrect_answers": ["A lemon", "A pear", "A plum"]
+  },
+  {
+    "id": 115,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which movie features a young boy who wants a Red Ryder BB gun for Christmas?",
+    "correct_answer": "A Christmas Story",
+    "incorrect_answers": ["Elf", "Home Alone", "Jingle All the Way"]
+  },
+
+  {
+    "id": 116,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who wrote the poem 'A Visit from St. Nicholas', more commonly known as 'Twas the Night Before Christmas'?",
+    "correct_answer": "Clement Clarke Moore",
+    "incorrect_answers": ["Charles Dickens", "Washington Irving", "Mark Twain"]
+  },
+  {
+    "id": 117,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the song 'Winter Wonderland', who do we pretend the snowman is?",
+    "correct_answer": "Parson Brown",
+    "incorrect_answers": ["Mr. Snow", "Father Time", "Jack Frost"]
+  },
+  {
+    "id": 118,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which saint is Santa Claus based on?",
+    "correct_answer": "Saint Nicholas",
+    "incorrect_answers": ["Saint Francis", "Saint Christopher", "Saint Patrick"]
+  },
+  {
+    "id": 119,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is the origin of the Yule log tradition?",
+    "correct_answer": "Norway",
+    "incorrect_answers": ["Germany", "England", "France"]
+  },
+  {
+    "id": 120,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the film 'Elf', what is the name of Santa’s sleigh?",
+    "correct_answer": "The Kringle 3000",
+    "incorrect_answers": ["The Claus Cruiser", "The Jolly Express", "The SleighMaster"]
+  },
+
+  {
+    "id": 121,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What holiday is celebrated the day after Christmas in the United Kingdom?",
+    "correct_answer": "Boxing Day",
+    "incorrect_answers": ["St. Stephen's Day", "New Year's Eve", "Town Day"]
+  },
+  {
+    "id": 122,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is Ebenezer Scrooge’s underpaid clerk?",
+    "correct_answer": "Bob Cratchit",
+    "incorrect_answers": ["Jacob Marley", "Tiny Tim", "Fred"]
+  },
+  {
+    "id": 123,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Nutcracker', what does Clara receive as a gift from her godfather?",
+    "correct_answer": "A nutcracker",
+    "incorrect_answers": ["A music box", "A toy soldier", "A porcelain doll"]
+  },
+  {
+    "id": 124,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in 'The Nightmare Before Christmas'?",
+    "correct_answer": "Oogie Boogie",
+    "incorrect_answers": ["Jack Skellington", "Dr. Finkelstein", "Zero"]
+  },
+  {
+    "id": 125,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country started the tradition of sending Christmas cards?",
+    "correct_answer": "England",
+    "incorrect_answers": ["Germany", "France", "United States"]
+  },
+
+  {
+    "id": 126,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Home Alone', what nickname do the burglars give themselves?",
+    "correct_answer": "The Wet Bandits",
+    "incorrect_answers": ["The Sticky Bandits", "The Holiday Thieves", "The Snowy Bandits"]
+  },
+  {
+    "id": 127,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is traditionally hidden inside a Christmas cake in the United Kingdom?",
+    "correct_answer": "A small charm",
+    "incorrect_answers": ["A coin", "A nut", "A button"]
+  },
+  {
+    "id": 128,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The modern Christmas tree tradition began in which century?",
+    "correct_answer": "16th century",
+    "incorrect_answers": ["14th century", "18th century", "12th century"]
+  },
+  {
+    "id": 129,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Grinch', what is the Grinch’s love interest’s name?",
+    "correct_answer": "Martha May Whovier",
+    "incorrect_answers": ["Betty Lou Who", "Cindy Lou Who", "Sara Whovington"]
+  },
+  {
+    "id": 130,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to tradition, what do you need to stand under to receive a kiss?",
+    "correct_answer": "Mistletoe",
+    "incorrect_answers": ["Holly", "Garland", "A wreath"]
+  },
+
+  {
+    "id": 131,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who brings gifts to children in Italy on Epiphany?",
+    "correct_answer": "La Befana",
+    "incorrect_answers": ["Babbo Natale", "Saint Nicholas", "Father Winter"]
+  },
+  {
+    "id": 132,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What color is Scrooge’s nightgown often depicted as in adaptations?",
+    "correct_answer": "White",
+    "incorrect_answers": ["Blue", "Green", "Red"]
+  },
+  {
+    "id": 133,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What food is traditionally left out for Santa in the United Kingdom?",
+    "correct_answer": "A mince pie",
+    "incorrect_answers": ["Cookies", "Candy canes", "Fruitcake"]
+  },
+  {
+    "id": 134,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which famous department store is associated with the Thanksgiving Day Parade that begins the Christmas season in the U.S.?",
+    "correct_answer": "Macy’s",
+    "incorrect_answers": ["Nordstrom", "JCPenney", "Sears"]
+  },
+  {
+    "id": 135,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas movie features the character Jack Skellington?",
+    "correct_answer": "The Nightmare Before Christmas",
+    "incorrect_answers": ["Elf", "A Christmas Story", "Jingle Jangle"]
+  },
+
+  {
+    "id": 136,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of Santa’s reindeer shares its name with a Roman god?",
+    "correct_answer": "Cupid",
+    "incorrect_answers": ["Blitzen", "Comet", "Vixen"]
+  },
+  {
+    "id": 137,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "St. Nicholas was born in which modern-day country?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Greece", "Italy", "Germany"]
+  },
+  {
+    "id": 138,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main ingredient of traditional gingerbread?",
+    "correct_answer": "Molasses",
+    "incorrect_answers": ["Honey", "Brown sugar", "Maple syrup"]
+  },
+  {
+    "id": 139,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The song 'Carol of the Bells' originated in which country?",
+    "correct_answer": "Ukraine",
+    "incorrect_answers": ["Russia", "Poland", "Germany"]
+  },
+  {
+    "id": 140,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘Jingle Bell Rock’ was first released in which decade?",
+    "correct_answer": "1950s",
+    "incorrect_answers": ["1940s", "1960s", "1970s"]
+  },
+
+  {
+    "id": 141,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country first created the Advent calendar?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "France", "Sweden"]
+  },
+  {
+    "id": 142,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Eggnog originated in which region?",
+    "correct_answer": "England",
+    "incorrect_answers": ["United States", "Germany", "Scotland"]
+  },
+  {
+    "id": 143,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the film 'Jingle All the Way', what is the name of the must-have toy?",
+    "correct_answer": "Turbo Man",
+    "incorrect_answers": ["Power Hero", "Super Jet", "Mega Soldier"]
+  },
+  {
+    "id": 144,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What dessert is traditionally lit on fire before serving?",
+    "correct_answer": "Christmas pudding",
+    "incorrect_answers": ["Fruitcake", "Yule log cake", "Mince pie"]
+  },
+  {
+    "id": 145,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. state was the last to declare Christmas a legal holiday?",
+    "correct_answer": "Oklahoma",
+    "incorrect_answers": ["Arizona", "New Mexico", "Utah"]
+  },
+
+  {
+    "id": 146,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas song was originally written for Thanksgiving?",
+    "correct_answer": "Jingle Bells",
+    "incorrect_answers": ["Joy to the World", "O Christmas Tree", "Deck the Halls"]
+  },
+  {
+    "id": 147,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What beverage company helped popularize the modern Santa Claus image in the 1930s?",
+    "correct_answer": "Coca-Cola",
+    "incorrect_answers": ["Pepsi", "Nestlé", "Canada Dry"]
+  },
+  {
+    "id": 148,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the TV special 'Rudolph the Red-Nosed Reindeer', what is the name of the prospector?",
+    "correct_answer": "Yukon Cornelius",
+    "incorrect_answers": ["Sam the Snowman", "Hermey", "Clarice"]
+  },
+  {
+    "id": 149,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘Feliz Navidad’ is sung in English and what other language?",
+    "correct_answer": "Spanish",
+    "incorrect_answers": ["Portuguese", "Italian", "French"]
+  },
+  {
+    "id": 150,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What spice is often used in holiday mulled wine?",
+    "correct_answer": "Cinnamon",
+    "incorrect_answers": ["Saffron", "Cumin", "Paprika"]
+  },
+
+  {
+    "id": 151,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the snowman in 'Frozen'?",
+    "correct_answer": "Olaf",
+    "incorrect_answers": ["Orin", "Ollie", "Oakley"]
+  },
+  {
+    "id": 152,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What traditional Christmas meat is commonly served in the UK?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Ham", "Goose", "Beef roast"]
+  },
+  {
+    "id": 153,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. city hosts the famous Rockefeller Center Christmas tree?",
+    "correct_answer": "New York City",
+    "incorrect_answers": ["Chicago", "Boston", "Philadelphia"]
+  },
+  {
+    "id": 154,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘The Christmas Song’ begins with what line?",
+    "correct_answer": "Chestnuts roasting on an open fire",
+    "incorrect_answers": ["It's beginning to look a lot like Christmas", "I'm dreaming of a white Christmas", "Let it snow, let it snow"]
+  },
+  {
+    "id": 155,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which holiday figure is also known as Kris Kringle?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Father Time", "Jack Frost", "Old Man Winter"]
+  },
+
+  {
+    "id": 156,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the angel Clarence helps in 'It’s a Wonderful Life'?",
+    "correct_answer": "George Bailey",
+    "incorrect_answers": ["Harry Bailey", "Sam Wainwright", "Nick Martini"]
+  },
+  {
+    "id": 157,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where did the tradition of kissing under the mistletoe originate?",
+    "correct_answer": "Ancient Norse mythology",
+    "incorrect_answers": ["Greek mythology", "Medieval England", "Victorian Scotland"]
+  },
+  {
+    "id": 158,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of tree is traditionally used as a Christmas tree?",
+    "correct_answer": "Fir",
+    "incorrect_answers": ["Maple", "Spruce", "Aspen"]
+  },
+  {
+    "id": 159,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘Last Christmas’ was originally performed by which musical act?",
+    "correct_answer": "Wham!",
+    "incorrect_answers": ["ABBA", "The Beatles", "The Carpenters"]
+  },
+  {
+    "id": 160,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many gifts are given in total in 'The Twelve Days of Christmas'?",
+    "correct_answer": "364",
+    "incorrect_answers": ["144", "78", "400"]
+  },
+
+  {
+    "id": 161,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is famous for the tradition of the Christmas pickle?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Sweden", "Poland", "Hungary"]
+  },
+  {
+    "id": 162,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Thorpe Park in England is famous for hosting what festive event each winter?",
+    "correct_answer": "Winter Wonderland",
+    "incorrect_answers": ["The Yule Festival", "Christmas Carnival", "Holiday Lights Fair"]
+  },
+  {
+    "id": 163,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the film 'Arthur Christmas', who takes over Santa’s duties?",
+    "correct_answer": "Arthur",
+    "incorrect_answers": ["Steve", "Grandsanta", "Mrs. Claus"]
+  },
+  {
+    "id": 164,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Dickens’s 'A Christmas Carol', what is the name of Scrooge’s deceased business partner?",
+    "correct_answer": "Jacob Marley",
+    "incorrect_answers": ["Bob Cratchit", "Fezziwig", "Fred"]
+  },
+  {
+    "id": 165,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Christmas plant is also known as the 'Flower of the Holy Night'?",
+    "correct_answer": "Poinsettia",
+    "incorrect_answers": ["Holly", "Ivy", "Mistletoe"]
+  },
+
+  {
+    "id": 166,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of pie is traditionally served during Christmas in the United Kingdom?",
+    "correct_answer": "Mince pie",
+    "incorrect_answers": ["Apple pie", "Pumpkin pie", "Cherry pie"]
+  },
+  {
+    "id": 167,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. president banned Christmas trees in the White House?",
+    "correct_answer": "Theodore Roosevelt",
+    "incorrect_answers": ["Abraham Lincoln", "John Adams", "Franklin Roosevelt"]
+  },
+  {
+    "id": 168,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many reindeer traditionally pull Santa’s sleigh before Rudolph?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Nine", "Six", "Ten"]
+  },
+  {
+    "id": 169,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas song holds the record for best-selling single of all time?",
+    "correct_answer": "White Christmas",
+    "incorrect_answers": ["Silent Night", "Last Christmas", "Jingle Bells"]
+  },
+  {
+    "id": 170,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which continent is closest to the North Pole?",
+    "correct_answer": "North America",
+    "incorrect_answers": ["Europe", "Asia", "Antarctica"]
+  },
+
+  {
+    "id": 171,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The character Kris Kringle appears in which classic Christmas movie?",
+    "correct_answer": "Miracle on 34th Street",
+    "incorrect_answers": ["Scrooged", "Elf", "A Christmas Carol"]
+  },
+  {
+    "id": 172,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Rockefeller Center Christmas tree is typically what type of tree?",
+    "correct_answer": "Norway spruce",
+    "incorrect_answers": ["Douglas fir", "White pine", "Blue spruce"]
+  },
+  {
+    "id": 173,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Candy canes were originally shaped to resemble what?",
+    "correct_answer": "Shepherd’s crook",
+    "incorrect_answers": ["A walking cane", "A musical note", "A hook"]
+  },
+  {
+    "id": 174,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Christmas season is also known by what name in many Christian traditions?",
+    "correct_answer": "Advent",
+    "incorrect_answers": ["Feast time", "Yule", "Decembertide"]
+  },
+  {
+    "id": 175,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The original Rudolph story was created for which company?",
+    "correct_answer": "Montgomery Ward",
+    "incorrect_answers": ["Sears", "Coca-Cola", "Macy’s"]
+  },
+
+  {
+    "id": 176,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The three wise men brought gold, frankincense, and what other gift?",
+    "correct_answer": "Myrrh",
+    "incorrect_answers": ["Silver", "Pearls", "Saffron"]
+  },
+  {
+    "id": 177,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘Grandma Got Run Over by a Reindeer’ was released in which decade?",
+    "correct_answer": "1970s",
+    "incorrect_answers": ["1960s", "1980s", "1950s"]
+  },
+  {
+    "id": 178,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What holiday was created to celebrate African heritage during the Christmas season?",
+    "correct_answer": "Kwanzaa",
+    "incorrect_answers": ["Festivus", "Boxing Day", "Yule"]
+  },
+  {
+    "id": 179,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does the word 'Noel' mean?",
+    "correct_answer": "Christmas",
+    "incorrect_answers": ["Snow", "Joy", "Holy night"]
+  },
+  {
+    "id": 180,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Christmas tradition, who is known for punishing naughty children in Alpine folklore?",
+    "correct_answer": "Krampus",
+    "incorrect_answers": ["Belsnickel", "Frau Perchta", "The Snow Witch"]
+  },
+
+  {
+    "id": 181,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What beverage is traditionally left out for Santa in Australia due to the warm climate?",
+    "correct_answer": "Cold beer",
+    "incorrect_answers": ["Milk", "Lemonade", "Hot cocoa"]
+  },
+  {
+    "id": 182,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What plant was once known as the 'Christmas rose'?",
+    "correct_answer": "Hellebore",
+    "incorrect_answers": ["Ivy", "Holly", "Mistletoe"]
+  },
+  {
+    "id": 183,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the icy setting of the animated film 'The Year Without a Santa Claus'?",
+    "correct_answer": "The North Pole",
+    "incorrect_answers": ["Snowtown", "Winter Village", "Santa’s Mountain"]
+  },
+  {
+    "id": 184,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "St. Nicholas is the patron saint of which group often tied to Christmas tradition?",
+    "correct_answer": "Children",
+    "incorrect_answers": ["Bakers", "Farmers", "Singers"]
+  },
+  {
+    "id": 185,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "‘Hark! The Herald Angels Sing’ was written by which composer?",
+    "correct_answer": "Felix Mendelssohn",
+    "incorrect_answers": ["Johann Bach", "Handel", "Beethoven"]
+  },
+
+  {
+    "id": 186,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The French Christmas celebration is called what?",
+    "correct_answer": "Noël",
+    "incorrect_answers": ["Fiesta", "Jul", "Navidad"]
+  },
+  {
+    "id": 187,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Christmas Island is a territory of which country?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["United Kingdom", "New Zealand", "Canada"]
+  },
+  {
+    "id": 188,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What part of the turkey is traditionally pulled apart for good luck at Christmas?",
+    "correct_answer": "Wishbone",
+    "incorrect_answers": ["Wing", "Thigh", "Drumstick"]
+  },
+  {
+    "id": 189,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. president installed the first electric Christmas lights in the White House?",
+    "correct_answer": "Benjamin Harrison",
+    "incorrect_answers": ["Grover Cleveland", "Theodore Roosevelt", "Woodrow Wilson"]
+  },
+  {
+    "id": 190,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many wise men are traditionally depicted in Nativity scenes?",
+    "correct_answer": "Three",
+    "incorrect_answers": ["Two", "Four", "Five"]
+  },
+
+  {
+    "id": 191,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European country decorates a giant Christmas goat called the 'Gävle Goat'?",
+    "correct_answer": "Sweden",
+    "incorrect_answers": ["Finland", "Norway", "Iceland"]
+  },
+  {
+    "id": 192,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Spanish tradition includes a Christmas lottery called what?",
+    "correct_answer": "El Gordo",
+    "incorrect_answers": ["La Fortuna", "El Navidad", "Los Premios"]
+  },
+  {
+    "id": 193,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which reindeer is known for being playful and loving to dance?",
+    "correct_answer": "Prancer",
+    "incorrect_answers": ["Dancer", "Vixen", "Comet"]
+  },
+  {
+    "id": 194,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Frankincense is obtained from which type of plant?",
+    "correct_answer": "Tree resin",
+    "incorrect_answers": ["Flower petals", "Dried herbs", "Root extract"]
+  },
+  {
+    "id": 195,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Scandinavian word refers to a Christmas-season toast or celebration?",
+    "correct_answer": "Jul",
+    "incorrect_answers": ["Noël", "Fiesta", "Natale"]
+  },
+
+  {
+    "id": 196,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas character narrates many Rankin/Bass animated specials?",
+    "correct_answer": "Sam the Snowman",
+    "incorrect_answers": ["Hermey", "Yukon Cornelius", "Frosty"]
+  },
+  {
+    "id": 197,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Holiday poinsettias originally came from which country?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": ["Brazil", "Spain", "Portugal"]
+  },
+  {
+    "id": 198,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The holiday character known as 'Belsnickel' originates from which culture?",
+    "correct_answer": "German",
+    "incorrect_answers": ["Irish", "Swedish", "French"]
+  },
+  {
+    "id": 199,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of nut is traditionally roasted during the Christmas season?",
+    "correct_answer": "Chestnuts",
+    "incorrect_answers": ["Walnuts", "Almonds", "Pecans"]
+  },
+  {
+    "id": 200,
+    "category": "Christmas",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Christmas figure is known as 'Père Noël' in France?",
+    "correct_answer": "Santa Claus",
+    "incorrect_answers": ["Father Time", "Jack Frost", "Saint Nicholas"]
+  },
+  
 
 
 
