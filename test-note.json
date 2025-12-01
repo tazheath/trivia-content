@@ -2035,5 +2035,1026 @@
     "incorrect_answers": ["Aang", "Zuko", "Suki"],
     "release_year": 2006
   },
+  {
+    "id": 201,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what chemical does Walt use to dissolve bodies in Season 1?",
+    "correct_answer": "Hydrofluoric acid",
+    "incorrect_answers": ["Sulfuric acid", "Nitric acid", "Hydrochloric acid"],
+    "release_year": 2008
+  },
+  {
+    "id": 202,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which group controls the Undercity of Ba Sing Se in 'Avatar: The Last Airbender'?",
+    "correct_answer": "The Dai Li",
+    "incorrect_answers": ["The Rough Rhinos", "The White Lotus", "The Yu Dao Militia"],
+    "release_year": 2006
+  },
+  {
+    "id": 203,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Rick Sanchez’s former band name in 'Rick and Morty'?",
+    "correct_answer": "The Flesh Curtains",
+    "incorrect_answers": ["Galactic Fusion", "Sanchez Jam", "Morty’s Angels"],
+    "release_year": 2017
+  },
+  {
+    "id": 204,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who commands the Unsullied before Daenerys?",
+    "correct_answer": "Kraznys mo Nakloz",
+    "incorrect_answers": ["Grey Worm", "Daario Naharis", "Missandei"],
+    "release_year": 2013
+  },
+  {
+    "id": 205,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which prison does Piper Chapman enter in 'Orange Is the New Black'?",
+    "correct_answer": "Litchfield Penitentiary",
+    "incorrect_answers": ["Hale Creek", "Danbury FCI", "Canaan Federal"],
+    "release_year": 2013
+  },
+
+  {
+    "id": 206,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the supernatural map Ford Pines creates in 'Gravity Falls'?",
+    "correct_answer": "The Shapeshifter Map",
+    "incorrect_answers": ["The Cipher Map", "Journal Index", "Pines Cartograph"],
+    "release_year": 2014
+  },
+  {
+    "id": 207,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', what is the name of the creature that attacks during the Mudhorn trial?",
+    "correct_answer": "Mudhorn",
+    "incorrect_answers": ["Rancor", "Blurrg", "Krayt Beast"],
+    "release_year": 2019
+  },
+  {
+    "id": 208,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which division of the TVA analyzes timelines for branching events?",
+    "correct_answer": "The Temporal Analysis Department",
+    "incorrect_answers": ["The Chronal Bureau", "The Variant Watch Unit", "Reality Integrity Division"],
+    "release_year": 2021
+  },
+  {
+    "id": 209,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who leads the clandestine freedom movement known as 'The Resistance' in 'The Handmaid’s Tale'?",
+    "correct_answer": "Mayday",
+    "incorrect_answers": ["Gilead Watch", "The Lanterns", "New Eden"],
+    "release_year": 2017
+  },
+  {
+    "id": 210,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', where is Gus Fring originally from?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Colombia", "Peru"],
+    "release_year": 2010
+  },
+
+  {
+    "id": 211,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the true identity of the ruler known as the 'Dark One' in 'Wheel of Time'?",
+    "correct_answer": "Shai'tan",
+    "incorrect_answers": ["Ishamael", "Lews Therin", "The Forsaken"],
+    "release_year": 2021
+  },
+  {
+    "id": 212,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which creature is responsible for the tunnel network in 'Stranger Things' Season 2?",
+    "correct_answer": "The Mind Flayer",
+    "incorrect_answers": ["The Demogorgon", "Vecna", "The Creeper"],
+    "release_year": 2017
+  },
+  {
+    "id": 213,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which city does the Fire Nation conquer that forces Aang into hiding in 'Avatar: The Last Airbender'?",
+    "correct_answer": "The Southern Air Temple",
+    "incorrect_answers": ["The Northern Air Temple", "Omashu", "Ba Sing Se"],
+    "release_year": 2005
+  },
+  {
+    "id": 214,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the original owner of the Darksaber in Star Wars lore?",
+    "correct_answer": "Tarre Vizsla",
+    "incorrect_answers": ["Pre Vizsla", "Bo-Katan Kryze", "Darth Maul"],
+    "release_year": 2010
+  },
+  {
+    "id": 215,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the material used to forge weapons in 'The Witcher'?",
+    "correct_answer": "Meteorite iron",
+    "incorrect_answers": ["Wyvern steel", "Deep ore", "Runestone alloy"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 216,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Better Call Saul', what type of law does Chuck believe Jimmy is unfit to practice?",
+    "correct_answer": "Elder law",
+    "incorrect_answers": ["Corporate law", "Criminal defense", "Civil litigation"],
+    "release_year": 2015
+  },
+  {
+    "id": 217,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the headquarters of Vought International located?",
+    "correct_answer": "New York City",
+    "incorrect_answers": ["Los Angeles", "Chicago", "Washington D.C."],
+    "release_year": 2019
+  },
+  {
+    "id": 218,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which demon does Crowley originally serve under in 'Supernatural'?",
+    "correct_answer": "Lilith",
+    "incorrect_answers": ["Azazel", "Lucifer", "Abaddon"],
+    "release_year": 2009
+  },
+  {
+    "id": 219,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who built the first portal gun in 'Rick and Morty'?",
+    "correct_answer": "Rick Sanchez",
+    "incorrect_answers": ["Morty Smith", "Evil Rick", "President Morty"],
+    "release_year": 2014
+  },
+  {
+    "id": 220,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Fire Nation general leads the drill attack on Ba Sing Se?",
+    "correct_answer": "General Sung",
+    "incorrect_answers": ["General Zhao", "General Iroh", "General P’eng"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 221,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', what metal is believed to kill White Walkers aside from Valyrian steel?",
+    "correct_answer": "Dragonglass",
+    "incorrect_answers": ["Duskmetal", "Cold iron", "Obsidian steel"],
+    "release_year": 2013
+  },
+  {
+    "id": 222,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ability does Eleven’s sister (Kali) have in 'Stranger Things'?",
+    "correct_answer": "Creating mental illusions",
+    "incorrect_answers": ["Telekinesis", "Mind control", "Electrokinesis"],
+    "release_year": 2017
+  },
+  {
+    "id": 223,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organization created the Clones in 'Star Wars: The Clone Wars'?",
+    "correct_answer": "Kaminoan cloners",
+    "incorrect_answers": ["The Republic", "The Jedi Council", "The CIS"],
+    "release_year": 2002
+  },
+  {
+    "id": 224,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the TVA, what term refers to a timeline that branches beyond repair?",
+    "correct_answer": "A Multiversal War Timeline",
+    "incorrect_answers": ["A Broken Thread", "A Terminal Branch", "A Lost Stream"],
+    "release_year": 2021
+  },
+  {
+    "id": 225,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Fire Nation prison is located in a volcanic crater?",
+    "correct_answer": "The Boiling Rock",
+    "incorrect_answers": ["The Frigid Tundra", "The Ashen Fortress", "The Ember Pit"],
+    "release_year": 2007
+  },
+
+  {
+    "id": 226,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What name is given to the extra-dimensional parasites in 'Rick and Morty'?",
+    "correct_answer": "Memory parasites",
+    "incorrect_answers": ["Thought leeches", "Mind clones", "Dream invaders"],
+    "release_year": 2015
+  },
+  {
+    "id": 227,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which elite Fire Nation unit wears blue, flame-resistant armor?",
+    "correct_answer": "The Yuyan Archers",
+    "incorrect_answers": ["The Rough Rhinos", "The Sun Warriors", "The Fire Elite"],
+    "release_year": 2005
+  },
+  {
+    "id": 228,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Boys', which substance can weaken Homelander?",
+    "correct_answer": "None confirmed",
+    "incorrect_answers": ["Temp V overdose", "Radiation", "Starlight energy"],
+    "release_year": 2020
+  },
+  {
+    "id": 229,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient creature slumbers beneath the Earth Kingdom in 'Avatar'?",
+    "correct_answer": "The Library’s Knowledge Spirit, Wan Shi Tong",
+    "incorrect_answers": ["The First Lion Turtle", "The Earth Dragon", "The Badgermole King"],
+    "release_year": 2006
+  },
+  {
+    "id": 230,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', who leads the mercenary company known as the Second Sons?",
+    "correct_answer": "Daario Naharis",
+    "incorrect_answers": ["Jorah Mormont", "Bronn", "The Titan’s Bastard"],
+    "release_year": 2013
+  },
+
+  {
+    "id": 231,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was Aang's predecessor as the Avatar?",
+    "correct_answer": "Avatar Roku",
+    "incorrect_answers": ["Avatar Kyoshi", "Avatar Yangchen", "Avatar Kuruk"],
+    "release_year": 2005
+  },
+  {
+    "id": 232,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What creature serves as the guardian of the Citadel at the End of Time in 'Loki'?",
+    "correct_answer": "Alioth",
+    "incorrect_answers": ["Chronos", "The Void Serpent", "Nexus Wolf"],
+    "release_year": 2021
+  },
+  {
+    "id": 233,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what alias does Walt use when dealing with Gus?",
+    "correct_answer": "Heisenberg",
+    "incorrect_answers": ["Mr. Lambert", "The Cook", "Blue Sky"],
+    "release_year": 2009
+  },
+  {
+    "id": 234,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Mandalorian symbol represents leadership over all clans?",
+    "correct_answer": "The Darksaber",
+    "incorrect_answers": ["The Mythosaur Skull", "The Beskar Crest", "The Horned Mandalore"],
+    "release_year": 2020
+  },
+  {
+    "id": 235,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Rick and Morty', what is the purpose of the Meeseeks?",
+    "correct_answer": "To help complete simple tasks",
+    "incorrect_answers": ["To fight for Rick", "To guard the Citadel", "To clean Morty's room"],
+    "release_year": 2014
+  },
+
+  {
+    "id": 236,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the ancient Firebender who teaches Zuko and Aang the true meaning of firebending?",
+    "correct_answer": "The Sun Warriors",
+    "incorrect_answers": ["The Dragon Council", "The Ember Sages", "The White Lotus"],
+    "release_year": 2007
+  },
+  {
+    "id": 237,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Heretic leads a family of witch-vampires in 'The Vampire Diaries'?",
+    "correct_answer": "Lily Salvatore",
+    "incorrect_answers": ["Esther Mikaelson", "Qetsiyah", "Amara"],
+    "release_year": 2015
+  },
+  {
+    "id": 238,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the mind-control fungus in 'The Last of Us' series?",
+    "correct_answer": "Cordyceps",
+    "incorrect_answers": ["Mycelium Prime", "Trackers", "Spore Weavers"],
+    "release_year": 2023
+  },
+  {
+    "id": 239,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which immortal entity leads the White Walkers?",
+    "correct_answer": "The Night King",
+    "incorrect_answers": ["The Ice Priest", "The Frost Father", "Winter’s Herald"],
+    "release_year": 2015
+  },
+  {
+    "id": 240,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what symbolic object does Max use during critical emotional moments?",
+    "correct_answer": "Her Walkman",
+    "incorrect_answers": ["Her journal", "Her skateboard", "Her necklace"],
+    "release_year": 2022
+  },
+
+  {
+    "id": 241,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which race created the Daleks in 'Doctor Who'?",
+    "correct_answer": "The Kaleds",
+    "incorrect_answers": ["The Time Lords", "The Thals", "The Cybermen"],
+    "release_year": 1963
+  },
+  {
+    "id": 242,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which corporation funds the Hawkins National Laboratory?",
+    "correct_answer": "The U.S. Department of Energy",
+    "incorrect_answers": ["CIA", "DARPA", "NASA"],
+    "release_year": 2016
+  },
+  {
+    "id": 243,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the official name of the magical glyphs used in 'The Owl House'?",
+    "correct_answer": "Wild magic glyphs",
+    "incorrect_answers": ["Hex scripts", "Elemental runes", "Coven glyphs"],
+    "release_year": 2020
+  },
+  {
+    "id": 244,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character founded the Red Lotus in 'The Legend of Korra'?",
+    "correct_answer": "Zaheer",
+    "incorrect_answers": ["Amon", "Unalaq", "Hiroshi Sato"],
+    "release_year": 2014
+  },
+  {
+    "id": 245,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What title is Daenerys given after freeing slaves in Slaver's Bay?",
+    "correct_answer": "Breaker of Chains",
+    "incorrect_answers": ["Queen of Ashes", "Mother of Fire", "Stormborn"],
+    "release_year": 2014
+  },
+
+  {
+    "id": 246,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which US state is the Byers family originally from?",
+    "correct_answer": "Indiana",
+    "incorrect_answers": ["Maine", "Ohio", "Illinois"],
+    "release_year": 2016
+  },
+  {
+    "id": 247,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the energy source used to power TVA equipment?",
+    "correct_answer": "Temporal aura signatures",
+    "incorrect_answers": ["Quantum cores", "Time crystals", "Nexus energy"],
+    "release_year": 2021
+  },
+  {
+    "id": 248,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which gang does Jax Teller lead in 'Sons of Anarchy'?",
+    "correct_answer": "SAMCRO",
+    "incorrect_answers": ["Mayans MC", "Irish Kings", "Reapers MC"],
+    "release_year": 2008
+  },
+  {
+    "id": 249,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Sherlock', what is the name of the covert British intelligence organization associated with Mycroft?",
+    "correct_answer": "MI6",
+    "incorrect_answers": ["The Shadow Bureau", "MI0", "The East Wind Unit"],
+    "release_year": 2012
+  },
+  {
+    "id": 250,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who wrote the forbidden text 'The Darkhold' in the MCU?",
+    "correct_answer": "Chthon",
+    "incorrect_answers": ["Dormammu", "Agatha Harkness", "The Ancient One"],
+    "release_year": 2021
+  },
+
+  {
+    "id": 251,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which monster resides in the spirit library during 'Avatar: The Last Airbender'?",
+    "correct_answer": "Wan Shi Tong",
+    "incorrect_answers": ["Hei Bai", "Ko the Face Stealer", "The Painted Lady"],
+    "release_year": 2006
+  },
+  {
+    "id": 252,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the primary export of Mandalore before its fall?",
+    "correct_answer": "Beskar",
+    "incorrect_answers": ["Spice", "Hyperfuel", "Starship parts"],
+    "release_year": 2019
+  },
+  {
+    "id": 253,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character survives the 'Button House' haunting in 'Ghosts'?",
+    "correct_answer": "Alison",
+    "incorrect_answers": ["Mike", "Mary", "Thomas"],
+    "release_year": 2019
+  },
+  {
+    "id": 254,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What powerful magical artifact does Eda steal in 'The Owl House'?",
+    "correct_answer": "The King's Crown",
+    "incorrect_answers": ["Titan's Heart", "The Emperor's Seal", "Glyph Codex"],
+    "release_year": 2020
+  },
+  {
+    "id": 255,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones', what is the ancestral Valyrian steel sword of House Mormont?",
+    "correct_answer": "Longclaw",
+    "incorrect_answers": ["Oathkeeper", "Heartsbane", "Ice"],
+    "release_year": 2011
+  },
+
+  {
+    "id": 256,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the mythical founder of the Firebender nation according to the Sun Warriors?",
+    "correct_answer": "The First People of the Sun",
+    "incorrect_answers": ["Roku’s Line", "The Dragon Elders", "The Golden Tribe"],
+    "release_year": 2007
+  },
+  {
+    "id": 257,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which alien race builds biological mechs known as Jaeger mimics in 'Pacific Rim: The Black'?",
+    "correct_answer": "The Precursors",
+    "incorrect_answers": ["Kaiju Lords", "Terraformers", "Neural Beasts"],
+    "release_year": 2021
+  },
+  {
+    "id": 258,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian', which creature nearly kills Mando on Maldo Kreis?",
+    "correct_answer": "Ravinek",
+    "incorrect_answers": ["Mudhorn", "Krayt Dragon", "Blurrg"],
+    "release_year": 2019
+  },
+  {
+    "id": 259,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What weapon does Azula use during her duel with Zuko in 'Avatar'?",
+    "correct_answer": "Blue fire",
+    "incorrect_answers": ["Dragon flame", "Lightning dagger", "Phoenix flame"],
+    "release_year": 2008
+  },
+  {
+    "id": 260,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which villain is responsible for Project MKUltra in 'Stranger Things'?",
+    "correct_answer": "Dr. Brenner",
+    "incorrect_answers": ["Dr. Owens", "Dr. Samuels", "Mr. Clarke"],
+    "release_year": 2016
+  },
+
+  {
+    "id": 261,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the parallel dimension explored in 'Fringe' commonly called?",
+    "correct_answer": "The Other Side",
+    "incorrect_answers": ["Echo World", "Reverse Earth", "The Dark Mirror"],
+    "release_year": 2010
+  },
+  {
+    "id": 262,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rare magical status does Luz possess in 'The Owl House'?",
+    "correct_answer": "Wild magic practitioner",
+    "incorrect_answers": ["Glyphborn", "Light mage", "Non-coven witch"],
+    "release_year": 2020
+  },
+  {
+    "id": 263,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which species created the Protoculture in 'Robotech'?",
+    "correct_answer": "The Invid",
+    "incorrect_answers": ["The Zentraedi", "The Masters", "The Robotech Elders"],
+    "release_year": 1985
+  },
+  {
+    "id": 264,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Lost', what number sequence appears repeatedly throughout the show?",
+    "correct_answer": "4, 8, 15, 16, 23, 42",
+    "incorrect_answers": ["3, 7, 12, 19, 24", "1, 2, 5, 11, 20", "6, 10, 14, 21, 29"],
+    "release_year": 2004
+  },
+  {
+    "id": 265,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the gang of child thieves in 'Avatar: The Last Airbender'?",
+    "correct_answer": "The Freedom Fighters",
+    "incorrect_answers": ["The Foggy Swamp Tribe", "The Rough Rhinos", "The Jetliners"],
+    "release_year": 2005
+  },
+
+  {
+    "id": 266,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which cult worships the Titan in 'The Owl House'?",
+    "correct_answer": "The Emperor’s Coven",
+    "incorrect_answers": ["The Titan’s Hand", "The Eternal Flame Cult", "The Wild Coven"],
+    "release_year": 2020
+  },
+  {
+    "id": 267,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What material can block bending in 'Avatar: The Last Airbender'?",
+    "correct_answer": "Platinum",
+    "incorrect_answers": ["Copper", "Obsidian", "Spirit Stone"],
+    "release_year": 2008
+  },
+  {
+    "id": 268,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'The Boys' infiltrates Vought as an analyst?",
+    "correct_answer": "Hughie Campbell",
+    "incorrect_answers": ["Mother’s Milk", "Frenchie", "Stan Edgar"],
+    "release_year": 2019
+  },
+  {
+    "id": 269,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Witcher', what is the name of Ciri’s Elder Blood lineage?",
+    "correct_answer": "Hen Ichaer",
+    "incorrect_answers": ["Elderon", "Ancestor’s Gift", "Silverline"],
+    "release_year": 2019
+  },
+  {
+    "id": 270,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What corrupted timeline region is known as 'The Void' in the TVA?",
+    "correct_answer": "The end of time where pruned matter accumulates",
+    "incorrect_answers": ["A broken timeline loop", "A nexus rupture zone", "A forbidden branch domain"],
+    "release_year": 2021
+  },
+
+  {
+    "id": 271,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character in 'Stranger Things' has the ability to open gates unintentionally?",
+    "correct_answer": "Eleven",
+    "incorrect_answers": ["Will Byers", "Max Mayfield", "Vecna"],
+    "release_year": 2016
+  },
+  {
+    "id": 272,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Avatar precedes Roku in the Avatar cycle?",
+    "correct_answer": "Avatar Kyoshi",
+    "incorrect_answers": ["Avatar Kuruk", "Avatar Yangchen", "Avatar Wan"],
+    "release_year": 2005
+  },
+  {
+    "id": 273,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the last surviving human host of the Fleetwood Program in 'The Expanse'?",
+    "correct_answer": "Julie Mao",
+    "incorrect_answers": ["Clarissa Mao", "Bobbie Draper", "Drummer"],
+    "release_year": 2015
+  },
+  {
+    "id": 274,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does Vecna feed on emotionally in 'Stranger Things'?",
+    "correct_answer": "Trauma",
+    "incorrect_answers": ["Fear", "Anger", "Loneliness"],
+    "release_year": 2022
+  },
+  {
+    "id": 275,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What mystical creature do the Sun Warriors train with?",
+    "correct_answer": "Dragons",
+    "incorrect_answers": ["Phoenixes", "Lion turtles", "Spirit wolves"],
+    "release_year": 2007
+  },
+
+  {
+    "id": 276,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is the Endless Library located in the spirit world of 'The Owl House'?",
+    "correct_answer": "Inside the Titan’s skull",
+    "incorrect_answers": ["The Boiling Isles’ heart", "Witch’s Hollow", "Glimmer Caverns"],
+    "release_year": 2021
+  },
+  {
+    "id": 277,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the Fire Nation’s secret police force called?",
+    "correct_answer": "The Kemurikage",
+    "incorrect_answers": ["The Red Guard", "The Ember Watch", "The Ash Division"],
+    "release_year": 2005
+  },
+  {
+    "id": 278,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'Better Call Saul', what syndrome does Chuck suffer from?",
+    "correct_answer": "Electromagnetic hypersensitivity",
+    "incorrect_answers": ["Acute paranoia", "Chronic anxiety", "Severe tinnitus"],
+    "release_year": 2016
+  },
+  {
+    "id": 279,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the robotic police force in 'Black Mirror: Metalhead'?",
+    "correct_answer": "Dog units",
+    "incorrect_answers": ["Tracker bots", "Stalker mechs", "Hunter drones"],
+    "release_year": 2017
+  },
+  {
+    "id": 280,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Mandalorian tribe maintains a strict helmet creed?",
+    "correct_answer": "The Children of the Watch",
+    "incorrect_answers": ["The Protectors", "Death Watch", "The Red Foot Clan"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 281,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the realm where Aang learns spirit projection?",
+    "correct_answer": "The Spirit World Oasis",
+    "incorrect_answers": ["The Energy Pool", "The Spirit Well", "The Lotus Lake"],
+    "release_year": 2006
+  },
+  {
+    "id": 282,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who built the Vault under Hawkins Lab?",
+    "correct_answer": "The Department of Energy",
+    "incorrect_answers": ["Nina Project", "MKUltra Division", "Argyle’s Delivery Co."],
+    "release_year": 2019
+  },
+  {
+    "id": 283,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Titan part forms the foundation of the Boiling Isles in 'The Owl House'?",
+    "correct_answer": "The Titan’s body",
+    "incorrect_answers": ["The Titan’s ribs", "The Titan’s skull", "The Titan’s heart"],
+    "release_year": 2020
+  },
+  {
+    "id": 284,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the true identity of the Witch Queen in 'The Wheel of Time'?",
+    "correct_answer": "Moiraine Sedai",
+    "incorrect_answers": ["Nynaeve", "Elaida", "Siuan Sanche"],
+    "release_year": 2021
+  },
+  {
+    "id": 285,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which material can contain the Power of the Dragon in 'The Last Airbender' universe?",
+    "correct_answer": "Sunstone",
+    "incorrect_answers": ["Obsidian Flame", "Spirit Ore", "Fire Ruby"],
+    "release_year": 2007
+  },
+
+  {
+    "id": 286,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the first known Avatar in the cycle?",
+    "correct_answer": "Avatar Wan",
+    "incorrect_answers": ["Avatar Kyoshi", "Avatar Yangchen", "Avatar Kuruk"],
+    "release_year": 2013
+  },
+  {
+    "id": 287,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What name is used for alternate Ricks united politically?",
+    "correct_answer": "The Council of Ricks",
+    "incorrect_answers": ["The Rick Union", "The Grand Citadel", "The Infinite Collective"],
+    "release_year": 2014
+  },
+  {
+    "id": 288,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What magical creature created the Demon Realm in 'The Owl House'?",
+    "correct_answer": "The Titan",
+    "incorrect_answers": ["The Emperor", "The Collector", "The Wild Witch"],
+    "release_year": 2021
+  },
+  {
+    "id": 289,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which character is known as 'The Deceiver' in 'The Witcher' series lore?",
+    "correct_answer": "Avallac'h",
+    "incorrect_answers": ["Eredin", "Vilgefortz", "Imlerith"],
+    "release_year": 2021
+  },
+  {
+    "id": 290,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What specialized bending form uses vibrations to detect movement?",
+    "correct_answer": "Seismic sense",
+    "incorrect_answers": ["Ground resonance", "Echo bending", "Stonewave"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 291,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which secret group protects magical artifacts in 'The Owl House'?",
+    "correct_answer": "The Bonesborough Keepers",
+    "incorrect_answers": ["Coven of Secrets", "Wild Mage Watch", "Hollow Sentinels"],
+    "release_year": 2022
+  },
+  {
+    "id": 292,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which command does the Mind Flayer use to influence hosts?",
+    "correct_answer": "To build",
+    "incorrect_answers": ["To hunt", "To listen", "To obey"],
+    "release_year": 2019
+  },
+  {
+    "id": 293,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rare bending ability allows users to resist the Avatar State?",
+    "correct_answer": "Energybending immunity",
+    "incorrect_answers": ["Spirit shielding", "Metal-resistance", "Fire-nullification"],
+    "release_year": 2010
+  },
+  {
+    "id": 294,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Rick variant is considered the most dangerous?",
+    "correct_answer": "Rick Prime",
+    "incorrect_answers": ["Evil Rick", "Doofus Rick", "Tall Rick"],
+    "release_year": 2022
+  },
+  {
+    "id": 295,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What ancient weapon can slay Titans in 'Attack on Titan'?",
+    "correct_answer": "The Thunder Spear",
+    "incorrect_answers": ["Hardened Blade", "Titan Breaker", "The Survey Hook"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 296,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rare power does Ciri possess that makes her essential to multiple factions?",
+    "correct_answer": "The Elder Blood gene",
+    "incorrect_answers": ["Dragon Dreaming", "Echo Sight", "Witcher Potential"],
+    "release_year": 2019
+  },
+  {
+    "id": 297,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which spirit steals faces in 'Avatar: The Last Airbender'?",
+    "correct_answer": "Ko the Face Stealer",
+    "incorrect_answers": ["The Painted Lady", "Hei Bai", "The Blue Spirit"],
+    "release_year": 2005
+  },
+  {
+    "id": 298,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In 'The Boys', what is the name of the facility experimenting on children with Compound V?",
+    "correct_answer": "The Sage Grove Center",
+    "incorrect_answers": ["Vought Academy", "The V-Lab", "Project Dawn"],
+    "release_year": 2020
+  },
+  {
+    "id": 299,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What rare bending feat allows a master to generate heat without flame?",
+    "correct_answer": "Combustionbending",
+    "incorrect_answers": ["Pressure bending", "Thermal bending", "Flame shaping"],
+    "release_year": 2008
+  },
+  {
+    "id": 300,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which ancient creature does Bo-Katan seek to validate her claim to rule Mandalore?",
+    "correct_answer": "The Mythosaur",
+    "incorrect_answers": ["The Krayt Dragon", "The Mudhorn", "The Great Beast"],
+    "release_year": 2023
+  }
+]
+
 
   
