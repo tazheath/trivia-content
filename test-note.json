@@ -499,5 +499,506 @@
     "incorrect_answers": ["Luca", "Shark Tale", "Up"],
     "release_year": 2003
   }
+    {
+    "id": 51,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Daniel Craig as the spy James Bond?",
+    "correct_answer": "Casino Royale",
+    "incorrect_answers": ["Skyfall", "Spectre", "Quantum of Solace"],
+    "release_year": 2006
+  },
+  {
+    "id": 52,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features the character Stitch?",
+    "correct_answer": "Lilo & Stitch",
+    "incorrect_answers": ["Moana", "Zootopia", "Bolt"],
+    "release_year": 2002
+  },
+  {
+    "id": 53,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie stars Jim Carrey as a man living in a fabricated reality show?",
+    "correct_answer": "The Truman Show",
+    "incorrect_answers": ["Bruce Almighty", "Eternal Sunshine of the Spotless Mind", "Liar Liar"],
+    "release_year": 1998
+  },
+  {
+    "id": 54,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated film stars a Scottish princess skilled with a bow?",
+    "correct_answer": "Brave",
+    "incorrect_answers": ["Frozen", "Moana", "Tangled"],
+    "release_year": 2012
+  },
+  {
+    "id": 55,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features the iconic DeLorean time machine?",
+    "correct_answer": "Back to the Future",
+    "incorrect_answers": ["The Time Machine", "Bill & Ted's Excellent Adventure", "Looper"],
+    "release_year": 1985
+  },
+  {
+    "id": 56,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film does a balloon house travel to South America?",
+    "correct_answer": "Up",
+    "incorrect_answers": ["Inside Out", "Coco", "The Good Dinosaur"],
+    "release_year": 2009
+  },
+  {
+    "id": 57,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Julie Andrews as a magical nanny?",
+    "correct_answer": "Mary Poppins",
+    "incorrect_answers": ["The Sound of Music", "Nanny McPhee", "Annie"],
+    "release_year": 1964
+  },
+  {
+    "id": 58,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie features a family who runs a hotel for monsters?",
+    "correct_answer": "Hotel Transylvania",
+    "incorrect_answers": ["Monster House", "The Addams Family", "Coraline"],
+    "release_year": 2012
+  },
+  {
+    "id": 59,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Pixar movie is about emotions inside a young girl's mind?",
+    "correct_answer": "Inside Out",
+    "incorrect_answers": ["Soul", "Coco", "Turning Red"],
+    "release_year": 2015
+  },
+  {
+    "id": 60,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars a grumpy ogre, a donkey, and a princess named Fiona?",
+    "correct_answer": "Shrek",
+    "incorrect_answers": ["Beauty and the Beast", "The Little Mermaid", "Tangled"],
+    "release_year": 2001
+  },
+  {
+    "id": 61,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features Simba’s villainous uncle Scar?",
+    "correct_answer": "The Lion King",
+    "incorrect_answers": ["Tarzan", "The Jungle Book", "Madagascar"],
+    "release_year": 1994
+  },
+  {
+    "id": 62,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a wooden puppet dream of becoming a real boy?",
+    "correct_answer": "Pinocchio",
+    "incorrect_answers": ["Peter Pan", "Dumbo", "Bambi"],
+    "release_year": 1940
+  },
+  {
+    "id": 63,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a group of toys who worry about being replaced?",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": ["Ratatouille", "Inside Out", "Zootopia"],
+    "release_year": 1995
+  },
+  {
+    "id": 64,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Anne Hathaway as an awkward teenager who becomes royalty?",
+    "correct_answer": "The Princess Diaries",
+    "incorrect_answers": ["Ella Enchanted", "The Princess Bride", "Enchanted"],
+    "release_year": 2001
+  },
+  {
+    "id": 65,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie follows a young clownfish captured by a diver?",
+    "correct_answer": "Finding Nemo",
+    "incorrect_answers": ["Shark Tale", "Luca", "The Good Dinosaur"],
+    "release_year": 2003
+  },
+  {
+    "id": 66,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which action film stars Tom Cruise as Ethan Hunt?",
+    "correct_answer": "Mission: Impossible",
+    "incorrect_answers": ["Top Gun", "Jack Reacher", "Edge of Tomorrow"],
+    "release_year": 1996
+  },
+  {
+    "id": 67,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a troubled clown villain descending into madness?",
+    "correct_answer": "Joker",
+    "incorrect_answers": ["The Dark Knight", "Birdman", "Nightcrawler"],
+    "release_year": 2019
+  },
+  {
+    "id": 68,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Matt Damon as an astronaut stranded on Mars?",
+    "correct_answer": "The Martian",
+    "incorrect_answers": ["Gravity", "Interstellar", "Ad Astra"],
+    "release_year": 2015
+  },
+  {
+    "id": 69,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film does a boy named Charlie visit a chocolate factory?",
+    "correct_answer": "Charlie and the Chocolate Factory",
+    "incorrect_answers": ["The Witches", "James and the Giant Peach", "Stuart Little"],
+    "release_year": 2005
+  },
+  {
+    "id": 70,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features Elsa creating an ice palace?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Moana", "Brave", "Encanto"],
+    "release_year": 2013
+  },
+  {
+    "id": 71,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which superhero movie features the character Bruce Wayne?",
+    "correct_answer": "Batman Begins",
+    "incorrect_answers": ["Iron Man", "Hulk", "Thor"],
+    "release_year": 2005
+  },
+  {
+    "id": 72,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Will Ferrell as Buddy the Elf?",
+    "correct_answer": "Elf",
+    "incorrect_answers": ["The Santa Clause", "Home Alone", "Jingle All the Way"],
+    "release_year": 2003
+  },
+  {
+    "id": 73,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie follows the Parr family of superheroes?",
+    "correct_answer": "The Incredibles",
+    "incorrect_answers": ["Fantastic Four", "Big Hero 6", "Sky High"],
+    "release_year": 2004
+  },
+  {
+    "id": 74,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Keanu Reeves as a retired hitman seeking revenge?",
+    "correct_answer": "John Wick",
+    "incorrect_answers": ["The Equalizer", "Taken", "Nobody"],
+    "release_year": 2014
+  },
+  {
+    "id": 75,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which movie does a young girl named Coraline discover a parallel world?",
+    "correct_answer": "Coraline",
+    "incorrect_answers": ["Monster House", "ParaNorman", "The Boxtrolls"],
+    "release_year": 2009
+  },
+  {
+    "id": 76,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features the droid characters R2-D2 and C-3PO?",
+    "correct_answer": "Star Wars",
+    "incorrect_answers": ["Star Trek", "Dune", "Guardians of the Galaxy"],
+    "release_year": 1977
+  },
+  {
+    "id": 77,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Sandra Bullock as an astronaut stranded in space?",
+    "correct_answer": "Gravity",
+    "incorrect_answers": ["Interstellar", "Passengers", "The Martian"],
+    "release_year": 2013
+  },
+  {
+    "id": 78,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated film follows two sisters named Anna and Elsa?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Brave", "Tangled", "Moana"],
+    "release_year": 2013
+  },
+  {
+    "id": 79,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Jack Nicholson and features the line 'Here's Johnny!'?",
+    "correct_answer": "The Shining",
+    "incorrect_answers": ["It", "Psycho", "The Exorcist"],
+    "release_year": 1980
+  },
+  {
+    "id": 80,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie centers around a lost fish named Dory?",
+    "correct_answer": "Finding Dory",
+    "incorrect_answers": ["Finding Nemo", "Shark Tale", "Luca"],
+    "release_year": 2016
+  },
+  {
+    "id": 81,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie stars Robin Williams as a man trapped inside a board game?",
+    "correct_answer": "Jumanji",
+    "incorrect_answers": ["Hook", "Zathura", "Night at the Museum"],
+    "release_year": 1995
+  },
+  {
+    "id": 82,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a princess named Moana?",
+    "correct_answer": "Moana",
+    "incorrect_answers": ["Brave", "Frozen", "Encanto"],
+    "release_year": 2016
+  },
+  {
+    "id": 83,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie stars Leonardo DiCaprio as a thief who steals secrets from dreams?",
+    "correct_answer": "Inception",
+    "incorrect_answers": ["Shutter Island", "The Prestige", "The Revenant"],
+    "release_year": 2010
+  },
+  {
+    "id": 84,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features the Marvel superhero Black Panther?",
+    "correct_answer": "Black Panther",
+    "incorrect_answers": ["Thor", "Doctor Strange", "Ant-Man"],
+    "release_year": 2018
+  },
+  {
+    "id": 85,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie features a cursed board game called Jumanji?",
+    "correct_answer": "Jumanji",
+    "incorrect_answers": ["Zathura", "The Jungle Book", "Bridge to Terabithia"],
+    "release_year": 1995
+  },
+  {
+    "id": 86,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Pixar film follows two monsters named Mike and Sulley?",
+    "correct_answer": "Monsters, Inc.",
+    "incorrect_answers": ["Monsters vs Aliens", "Despicable Me", "Hotel Transylvania"],
+    "release_year": 2001
+  },
+  {
+    "id": 87,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie stars Chris Evans as Captain America?",
+    "correct_answer": "Captain America: The First Avenger",
+    "incorrect_answers": ["The Avengers", "Iron Man 2", "Thor"],
+    "release_year": 2011
+  },
+  {
+    "id": 88,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated film features a snowman named Olaf?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Brave", "Moana", "Kung Fu Panda"],
+    "release_year": 2013
+  },
+  {
+    "id": 89,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which film do two sisters discover the magical world of Arendelle?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Brave", "Tangled", "Encanto"],
+    "release_year": 2013
+  },
+  {
+    "id": 90,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film features a girl named Riley and her emotions?",
+    "correct_answer": "Inside Out",
+    "incorrect_answers": ["Soul", "Coco", "Turning Red"],
+    "release_year": 2015
+  },
+  {
+    "id": 91,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie stars Tom Hanks as a widowed father who falls in love through radio messages?",
+    "correct_answer": "Sleepless in Seattle",
+    "incorrect_answers": ["You've Got Mail", "The Notebook", "La La Land"],
+    "release_year": 1993
+  },
+  {
+    "id": 92,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which musical features the song 'Do-Re-Mi'?",
+    "correct_answer": "The Sound of Music",
+    "incorrect_answers": ["Mary Poppins", "Annie", "Les Misérables"],
+    "release_year": 1965
+  },
+  {
+    "id": 93,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie features a babysitter named Maria?",
+    "correct_answer": "The Sound of Music",
+    "incorrect_answers": ["Mary Poppins", "Annie", "Matilda"],
+    "release_year": 1965
+  },
+  {
+    "id": 94,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film tells the story of Belle and a cursed prince?",
+    "correct_answer": "Beauty and the Beast",
+    "incorrect_answers": ["Cinderella", "Sleeping Beauty", "Snow White"],
+    "release_year": 1991
+  },
+  {
+    "id": 95,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie stars a girl named Merida?",
+    "correct_answer": "Brave",
+    "incorrect_answers": ["Moana", "Frozen", "The Little Mermaid"],
+    "release_year": 2012
+  },
+  {
+    "id": 96,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie begins with the line, 'A long time ago in a galaxy far, far away...'",
+    "correct_answer": "Star Wars",
+    "incorrect_answers": ["Star Trek", "Guardians of the Galaxy", "Dune"],
+    "release_year": 1977
+  },
+  {
+    "id": 97,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What movie follows a family who inherits a mysterious old hotel?",
+    "correct_answer": "Hotel Transylvania",
+    "incorrect_answers": ["Monster House", "The Addams Family", "Goosebumps"],
+    "release_year": 2012
+  },
+  {
+    "id": 98,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which film stars Benedict Cumberbatch as a brilliant detective in London?",
+    "correct_answer": "Sherlock Holmes",
+    "incorrect_answers": ["The Imitation Game", "Enola Holmes", "Tinker Tailor Soldier Spy"],
+    "release_year": 2014
+  },
+  {
+    "id": 99,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which movie features a magical nanny who uses a flying umbrella?",
+    "correct_answer": "Mary Poppins",
+    "incorrect_answers": ["Nanny McPhee", "Bedknobs and Broomsticks", "Mary Poppins Returns"],
+    "release_year": 1964
+  },
+  {
+    "id": 100,
+    "category": "Movies",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animated movie features a princess named Tiana?",
+    "correct_answer": "The Princess and the Frog",
+    "incorrect_answers": ["Moana", "The Little Mermaid", "Cinderella"],
+    "release_year": 2009
+  },
+
 
 
