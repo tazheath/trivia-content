@@ -1017,4 +1017,1023 @@
     "incorrect_answers": ["Dark", "The Boys", "The Umbrella Academy"],
     "release_year": 2016
   },
+  {
+    "id": 101,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what arcade game does Dustin love playing in Season 2?",
+    "correct_answer": "Dig Dug",
+    "incorrect_answers": ["Pac-Man", "Galaga", "Asteroids"],
+    "release_year": 2017
+  },
+  {
+    "id": 102,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Office', what is the name of Angela's favorite cat?",
+    "correct_answer": "Sprinkles",
+    "incorrect_answers": ["Bandit", "Garbage", "Princess Lady"],
+    "release_year": 2007
+  },
+  {
+    "id": 103,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad', what is the name of Jesse Pinkman's first partner-in-crime before Walt?",
+    "correct_answer": "Krazy-8",
+    "incorrect_answers": ["Tuco", "Combo", "Badger"],
+    "release_year": 2008
+  },
+  {
+    "id": 104,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'The Mandalorian' becomes Grogu’s official guardian?",
+    "correct_answer": "Din Djarin",
+    "incorrect_answers": ["Greef Karga", "Bo-Katan", "Luke Skywalker"],
+    "release_year": 2023
+  },
+  {
+    "id": 105,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', what is the name of Jon Snow’s direwolf?",
+    "correct_answer": "Ghost",
+    "incorrect_answers": ["Nymeria", "Grey Wind", "Shaggydog"],
+    "release_year": 2011
+  },
+  {
+    "id": 106,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', who leads the Kyoshi Warriors?",
+    "correct_answer": "Suki",
+    "incorrect_answers": ["Ty Lee", "Mai", "Penga"],
+    "release_year": 2005
+  },
+  {
+    "id": 107,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what transport does Hopper use in Season 1?",
+    "correct_answer": "A Chevy Blazer",
+    "incorrect_answers": ["A Ford Bronco", "A Jeep Wagoneer", "A Chevy Nova"],
+    "release_year": 2016
+  },
+  {
+    "id": 108,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character is known for creating illusions in Marvel's 'Loki'?",
+    "correct_answer": "Sylvie",
+    "incorrect_answers": ["Mobius", "Classic Loki", "Hunter B-15"],
+    "release_year": 2021
+  },
+  {
+    "id": 109,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Boys', what substance is used to create superheroes?",
+    "correct_answer": "Compound V",
+    "incorrect_answers": ["Serum X", "Meta Formula", "Gen V"],
+    "release_year": 2019
+  },
+  {
+    "id": 110,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character becomes the new manager at Dunder Mifflin after Michael leaves?",
+    "correct_answer": "Andy Bernard",
+    "incorrect_answers": ["Jim Halpert", "Dwight Schrute", "Robert California"],
+    "release_year": 2011
+  },
+
+  {
+    "id": 111,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Parks and Recreation', what is Tom Haverford’s entertainment company called?",
+    "correct_answer": "Entertainment 720",
+    "incorrect_answers": ["Tom’s Tunes", "Haverford Media", "Pawnee Productions"],
+    "release_year": 2011
+  },
+  {
+    "id": 112,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What nickname does Dustin give the creature he finds in 'Stranger Things' Season 2?",
+    "correct_answer": "Dart",
+    "incorrect_answers": ["Spot", "Sluggo", "Shadow"],
+    "release_year": 2017
+  },
+  {
+    "id": 113,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Mandalorian', what guild does Din belong to?",
+    "correct_answer": "The Bounty Hunters Guild",
+    "incorrect_answers": ["The Mercenary Guild", "The Outer Rim Guild", "The Mandalore Guild"],
+    "release_year": 2019
+  },
+  {
+    "id": 114,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', who first discovers Aang frozen in an iceberg?",
+    "correct_answer": "Katara and Sokka",
+    "incorrect_answers": ["Zuko and Iroh", "Suki and the Warriors", "Toph and Bumi"],
+    "release_year": 2005
+  },
+  {
+    "id": 115,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad', what is the fast-food chain Gus Fring owns?",
+    "correct_answer": "Los Pollos Hermanos",
+    "incorrect_answers": ["Pollos Grandes", "Chicken Bros", "Golden Rooster"],
+    "release_year": 2009
+  },
+
+  {
+    "id": 116,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', who trains Arya in the art of sword fighting?",
+    "correct_answer": "Syrio Forel",
+    "incorrect_answers": ["Jaqen H’ghar", "Brienne of Tarth", "Sandor Clegane"],
+    "release_year": 2011
+  },
+  {
+    "id": 117,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character becomes director of the TVA in 'Loki'?",
+    "correct_answer": "Mobius",
+    "incorrect_answers": ["Hunter B-15", "Sylvie", "Ravonna"],
+    "release_year": 2021
+  },
+  {
+    "id": 118,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the high school Walt Jr. attends in 'Breaking Bad'?",
+    "correct_answer": "J.P. Wynne High School",
+    "incorrect_answers": ["Sandia High", "Tyrone High", "Rio Rancho High"],
+    "release_year": 2008
+  },
+  {
+    "id": 119,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Office', what is the name of Creed’s blog?",
+    "correct_answer": "Creed Thoughts",
+    "incorrect_answers": ["Creed World", "The Creed Feed", "Scranton Speaks"],
+    "release_year": 2007
+  },
+  {
+    "id": 120,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Avatar: The Last Airbender', what animal hybrid pulls the Earth King's carriage?",
+    "correct_answer": "Bear",
+    "incorrect_answers": ["Platypus-bear", "Ostrich-horse", "Badgermole"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 121,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Stranger Things' loves ham radio equipment?",
+    "correct_answer": "Will Byers",
+    "incorrect_answers": ["Mike Wheeler", "Jonathan Byers", "Lucas Sinclair"],
+    "release_year": 2016
+  },
+  {
+    "id": 122,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the corporation controlling superheroes in 'The Boys'?",
+    "correct_answer": "Vought International",
+    "incorrect_answers": ["Global Justice", "HeroCorp", "Seven Systems"],
+    "release_year": 2019
+  },
+  {
+    "id": 123,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which 'The Office' character launches the Pyramid Scheme 'WUPHF.com'?",
+    "correct_answer": "Ryan Howard",
+    "incorrect_answers": ["Michael Scott", "Jim Halpert", "Dwight Schrute"],
+       "release_year": 2010
+  },
+  {
+    "id": 124,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Parks and Recreation', which animal constantly terrorizes Ron Swanson?",
+    "correct_answer": "The raccoon",
+    "incorrect_answers": ["A goose", "A squirrel", "A possum"],
+    "release_year": 2009
+  },
+  {
+    "id": 125,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Avatar: The Last Airbender' can see using seismic sense?",
+    "correct_answer": "Toph",
+    "incorrect_answers": ["Aang", "Sokka", "Ty Lee"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 126,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what does Steve work as in Season 2?",
+    "correct_answer": "Scoops Ahoy employee",
+    "incorrect_answers": ["Gas station worker", "Hardware clerk", "Record shop cashier"],
+    "release_year": 2017
+  },
+  {
+    "id": 127,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Witcher', what is Geralt’s signature sword material?",
+    "correct_answer": "Steel and silver",
+    "incorrect_answers": ["Bronze and gold", "Titanium", "Cold iron"],
+    "release_year": 2019
+  },
+  {
+    "id": 128,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the fictional town where 'Gravity Falls' takes place?",
+    "correct_answer": "Gravity Falls, Oregon",
+    "incorrect_answers": ["Pioneer Hills", "Crescent Cove", "Maple Woods"],
+    "release_year": 2012
+  },
+  {
+    "id": 129,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which group is dedicated to protecting Mandalorian traditions?",
+    "correct_answer": "The Children of the Watch",
+    "incorrect_answers": ["The Night Owls", "The Death Watch", "The Crimson Dawn"],
+    "release_year": 2020
+  },
+  {
+    "id": 130,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which 'The Office' character created the 'Serenity by Jan' candle line?",
+    "correct_answer": "Jan Levinson",
+    "incorrect_answers": ["Angela Martin", "Phyllis Vance", "Pam Beesly"],
+    "release_year": 2007
+  },
+
+  {
+    "id": 131,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Bo-Katan’s claim to leadership rooted in within 'The Mandalorian'?",
+    "correct_answer": "Mandalorian nobility",
+    "incorrect_answers": ["Clone Wars rank", "Darksaber ownership", "Jedi training"],
+    "release_year": 2020
+  },
+  {
+    "id": 132,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which group does Aang join to stop the Fire Nation?",
+    "correct_answer": "Team Avatar",
+    "incorrect_answers": ["The White Lotus", "The Freedom Fighters", "The Dai Li"],
+    "release_year": 2005
+  },
+  {
+    "id": 133,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which superhero name does Annie January go by in 'The Boys'?",
+    "correct_answer": "Starlight",
+    "incorrect_answers": ["Sunbeam", "Radiance", "Brightstar"],
+    "release_year": 2019
+  },
+  {
+    "id": 134,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who runs the pawn shop in 'Gravity Falls'?",
+    "correct_answer": "Grunkle Stan",
+    "incorrect_answers": ["Soos", "Gideon", "Wendy"],
+    "release_year": 2012
+  },
+  {
+    "id": 135,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which hero team does Homelander lead?",
+    "correct_answer": "The Seven",
+    "incorrect_answers": ["The Guardians", "The Elite", "Vanguard"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 136,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Rick and Morty', what store does Jerry work for in multiple timelines?",
+    "correct_answer": "The advertising agency",
+    "incorrect_answers": ["Best Buy", "Pewter City Ads", "Morningstar Marketing"],
+    "release_year": 2013
+  },
+  {
+    "id": 137,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Avatar' was once banished from the Fire Nation?",
+    "correct_answer": "Zuko",
+    "incorrect_answers": ["Iroh", "Ozai", "Jeong Jeong"],
+    "release_year": 2005
+  },
+  {
+    "id": 138,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Office', who does Michael hit with his car in the parking lot?",
+    "correct_answer": "Meredith",
+    "incorrect_answers": ["Kevin", "Phyllis", "Oscar"],
+    "release_year": 2007
+  },
+  {
+    "id": 139,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', what is the sigil of House Stark?",
+    "correct_answer": "A direwolf",
+    "incorrect_answers": ["A lion", "A dragon", "A stag"],
+    "release_year": 2011
+  },
+  {
+    "id": 140,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which TVA employee uses a jet ski metaphor for life?",
+    "correct_answer": "Mobius",
+    "incorrect_answers": ["Hunter B-15", "O.B.", "He Who Remains"],
+    "release_year": 2021
+  },
+
+  {
+    "id": 141,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things', what game do the boys play in Mike’s basement?",
+    "correct_answer": "Dungeons & Dragons",
+    "incorrect_answers": ["Warhammer", "Magic: The Gathering", "Risk"],
+    "release_year": 2016
+  },
+  {
+    "id": 142,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of Logan Roy’s company in 'Succession'?",
+    "correct_answer": "Waystar Royco",
+    "incorrect_answers": ["Royco Media", "Waystar Global", "Roy Holdings"],
+    "release_year": 2018
+  },
+  {
+    "id": 143,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animated show features a secret agent hamster named Perry?",
+    "correct_answer": "Phineas and Ferb",
+    "incorrect_answers": ["Kim Possible", "Adventure Time", "Gumball"],
+    "release_year": 2007
+  },
+  {
+    "id": 144,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What job does Walter White take at the car wash?",
+    "correct_answer": "Car wash cashier",
+    "incorrect_answers": ["Mechanic", "Assistant manager", "Detailer"],
+    "release_year": 2008
+  },
+  {
+    "id": 145,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which group leads Ba Sing Se’s secret police in 'Avatar'?",
+    "correct_answer": "The Dai Li",
+    "incorrect_answers": ["The White Lotus", "The Freedom Fighters", "Earth Guard"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 146,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', which city is known for its fighting pits?",
+    "correct_answer": "Meereen",
+    "incorrect_answers": ["Braavos", "Astapor", "King’s Landing"],
+    "release_year": 2015
+  },
+  {
+    "id": 147,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the host of 'The Midnight Gospel' series?",
+    "correct_answer": "Clancy",
+    "incorrect_answers": ["Duncan", "Barry", "Finn"],
+    "release_year": 2020
+  },
+  {
+    "id": 148,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which hero in 'The Boys' can run at super speed?",
+    "correct_answer": "A-Train",
+    "incorrect_answers": ["The Deep", "Translucent", "Black Noir"],
+    "release_year": 2019
+  },
+  {
+    "id": 149,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Stranger Things' is known for the phrase 'She's our friend and she's crazy!'?",
+    "correct_answer": "Dustin",
+    "incorrect_answers": ["Mike", "Lucas", "Steve"],
+    "release_year": 2016
+  },
+  {
+    "id": 150,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What organization secretly helps Aang during the war?",
+    "correct_answer": "The Order of the White Lotus",
+    "incorrect_answers": ["The Rough Rhinos", "The Sun Warriors", "The Sandbenders"],
+    "release_year": 2006
+  },
+
+  {
+    "id": 151,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'The Mandalorian', who runs the planet Nevarro after the fall of the Empire?",
+    "correct_answer": "Greef Karga",
+    "incorrect_answers": ["Moff Gideon", "Bo-Katan", "Cara Dune"],
+    "release_year": 2020
+  },
+  {
+    "id": 152,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show features the character Jesse Pinkman?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": ["Better Call Saul", "Fargo", "Ozark"],
+    "release_year": 2008
+  },
+  {
+    "id": 153,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sport does Troy Bolton excel in on 'High School Musical: The Series'?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Baseball", "Football", "Soccer"],
+    "release_year": 2019
+  },
+  {
+    "id": 154,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rescue group is featured in 'Paw Patrol'?",
+    "correct_answer": "Paw Patrol",
+    "incorrect_answers": ["Rescue Pups", "Adventure Crew", "Patrol Squad"],
+    "release_year": 2013
+  },
+  {
+    "id": 155,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character does NOT work at McKinley High in 'Glee'?",
+    "correct_answer": "Kurt Hummel",
+    "incorrect_answers": ["Will Schuester", "Sue Sylvester", "Emma Pillsbury"],
+    "release_year": 2009
+  },
+
+  {
+    "id": 156,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law firm appears in 'Better Call Saul'?",
+    "correct_answer": "Hamlin, Hamlin & McGill",
+    "incorrect_answers": ["Pearson Specter Litt", "Lockheart Gardner", "Crane, Poole & Schmidt"],
+    "release_year": 2015
+  },
+  {
+    "id": 157,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the ruler of the Upside Down in 'Stranger Things'?",
+    "correct_answer": "Vecna",
+    "incorrect_answers": ["The Mind Flayer", "The Demogorgon", "The Shadow Monster"],
+    "release_year": 2022
+  },
+  {
+    "id": 158,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show features the character Princess Bubblegum?",
+    "correct_answer": "Adventure Time",
+    "incorrect_answers": ["Steven Universe", "Star vs. the Forces of Evil", "Gravity Falls"],
+    "release_year": 2010
+  },
+  {
+    "id": 159,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which dark sci-fi show focuses on parallel worlds in Germany?",
+    "correct_answer": "Dark",
+    "incorrect_answers": ["1899", "Black Mirror", "The Rain"],
+    "release_year": 2017
+  },
+  {
+    "id": 160,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who trains Sokka and Katara in waterbending culture?",
+    "correct_answer": "Master Pakku",
+    "incorrect_answers": ["Hama", "Suki", "Jeong Jeong"],
+    "release_year": 2005
+  },
+
+  {
+    "id": 161,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'The Office' says 'I declare bankruptcy!'?",
+    "correct_answer": "Michael Scott",
+    "incorrect_answers": ["Andy Bernard", "Kevin Malone", "Dwight Schrute"],
+    "release_year": 2007
+  },
+  {
+    "id": 162,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', who is the Three-Eyed Raven before Bran?",
+    "correct_answer": "Brynden Rivers",
+    "incorrect_answers": ["Maester Luwin", "Jojen Reed", "Max von Sydow"],
+    "release_year": 2014
+  },
+  {
+    "id": 163,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Avatar' was raised by monks?",
+    "correct_answer": "Aang",
+    "incorrect_answers": ["Zuko", "Sokka", "Toph"],
+    "release_year": 2005
+  },
+  {
+    "id": 164,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What mysterious journal does Dipper find in 'Gravity Falls'?",
+    "correct_answer": "Journal 3",
+    "incorrect_answers": ["Journal 1", "Journal 2", "Secret Files"],
+    "release_year": 2012
+  },
+  {
+    "id": 165,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'The Boys' communicates using ASL?",
+    "correct_answer": "Black Noir",
+    "incorrect_answers": ["A-Train", "Kimiko", "Frenchie"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 166,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character is a TVA analyst in 'Loki'?",
+    "correct_answer": "Mobius M. Mobius",
+    "incorrect_answers": ["Hunter C-20", "He Who Remains", "Brad Wolfe"],
+    "release_year": 2021
+  },
+  {
+    "id": 167,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does Brenner call Eleven in 'Stranger Things'?",
+    "correct_answer": "008’s sister",
+    "incorrect_answers": ["The Lost One", "The Weapon", "My Child"],
+    "release_year": 2016
+  },
+  {
+    "id": 168,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city does Saul Goodman primarily operate in?",
+    "correct_answer": "Albuquerque",
+    "incorrect_answers": ["Phoenix", "San Diego", "Las Cruces"],
+    "release_year": 2015
+  },
+  {
+    "id": 169,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Mandalorian clan does the Armorer belong to?",
+    "correct_answer": "The Tribe",
+    "incorrect_answers": ["The Night Owls", "Death Watch", "The Protectors"],
+    "release_year": 2019
+  },
+  {
+    "id": 170,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does 'The Office' take place?",
+    "correct_answer": "Scranton, Pennsylvania",
+    "incorrect_answers": ["Buffalo, New York", "Stamford, Connecticut", "Akron, Ohio"],
+    "release_year": 2005
+  },
+
+  {
+    "id": 171,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Whose memories does Loki view when he visits the Time Theater?",
+    "correct_answer": "His own future",
+    "incorrect_answers": ["Thor's memories", "Mobius's memories", "He Who Remains' memories"],
+    "release_year": 2021
+  },
+  {
+    "id": 172,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is a district in Ba Sing Se?",
+    "correct_answer": "Lower Ring",
+    "incorrect_answers": ["South Gate", "Bamboo Row", "Ember Street"],
+    "release_year": 2006
+  },
+  {
+    "id": 173,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does Mando first meet Grogu?",
+    "correct_answer": "Arvala-7",
+    "incorrect_answers": ["Tatooine", "Nevarro", "Sorgan"],
+    "release_year": 2019
+  },
+  {
+    "id": 174,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which law firm hires Mike Ross in 'Suits'?",
+    "correct_answer": "Pearson Hardman",
+    "incorrect_answers": ["Specter Litt", "Lockhart Gardner", "Cahill & Associates"],
+    "release_year": 2011
+  },
+  {
+    "id": 175,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What color Lightning Bolt appears on The Flash’s suit?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": ["Red", "Blue", "White"],
+    "release_year": 2014
+  },
+
+  {
+    "id": 176,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does 'Stranger Things' Season 4 feature a major storyline?",
+    "correct_answer": "California",
+    "incorrect_answers": ["Texas", "Florida", "Oregon"],
+    "release_year": 2022
+  },
+  {
+    "id": 177,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What kind of store does Ruth Langmore work at in 'Ozark'?",
+    "correct_answer": "Strip club",
+    "incorrect_answers": ["Grocery store", "Hardware store", "Diner"],
+    "release_year": 2017
+  },
+  {
+    "id": 178,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Netflix series follows a chess prodigy?",
+    "correct_answer": "The Queen's Gambit",
+    "incorrect_answers": ["The Crown", "Mindhunter", "Unbelievable"],
+    "release_year": 2020
+  },
+  {
+    "id": 179,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'The Boys' communicates using sign language?",
+    "correct_answer": "Kimiko",
+    "incorrect_answers": ["Annie", "Maeve", "Stormfront"],
+    "release_year": 2019
+  },
+  {
+    "id": 180,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the boarding school in 'Wednesday'?",
+    "correct_answer": "Nevermore Academy",
+    "incorrect_answers": ["Ravenwood Academy", "Blackthorn School", "Moonshade Academy"],
+    "release_year": 2022
+  },
+
+  {
+    "id": 181,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show features a TVA variant known as Classic Loki?",
+    "correct_answer": "Loki",
+    "incorrect_answers": ["WandaVision", "Hawkeye", "Moon Knight"],
+    "release_year": 2021
+  },
+  {
+    "id": 182,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What competition reality show features hidden immunity idols?",
+    "correct_answer": "Survivor",
+    "incorrect_answers": ["The Amazing Race", "Big Brother", "The Challenge"],
+    "release_year": 2000
+  },
+  {
+    "id": 183,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which TV judge stars in 'Judge Judy'?",
+    "correct_answer": "Judy Sheindlin",
+    "incorrect_answers": ["Judy Carter", "Judy Smith", "Judy Harmon"],
+    "release_year": 1996
+  },
+  {
+    "id": 184,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sitcom focuses on an eccentric group of scientists?",
+    "correct_answer": "The Big Bang Theory",
+    "incorrect_answers": ["Community", "Scrubs", "The IT Crowd"],
+    "release_year": 2007
+  },
+  {
+    "id": 185,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the diner in 'Riverdale'?",
+    "correct_answer": "Pop's Chock'lit Shoppe",
+    "incorrect_answers": ["River's Grill", "Twin Pines Diner", "Sweet Leaf Café"],
+    "release_year": 2017
+  },
+
+  {
+    "id": 186,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Lost' is a spinal surgeon?",
+    "correct_answer": "Jack",
+    "incorrect_answers": ["Sawyer", "Locke", "Charlie"],
+    "release_year": 2004
+  },
+  {
+    "id": 187,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main setting of 'The 100'?",
+    "correct_answer": "Post-apocalyptic Earth",
+    "incorrect_answers": ["Mars Colony", "Deep Space Station", "Abandoned Island"],
+    "release_year": 2014
+  },
+  {
+    "id": 188,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show revolves around clones known as 'sestras'?",
+    "correct_answer": "Orphan Black",
+    "incorrect_answers": ["The 100", "Westworld", "Fringe"],
+    "release_year": 2013
+  },
+  {
+    "id": 189,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Vikings' is known as Ragnar’s youngest son?",
+    "correct_answer": "Ivar the Boneless",
+    "incorrect_answers": ["Bjorn Ironside", "Ubbe", "Sigurd"],
+    "release_year": 2016
+  },
+  {
+    "id": 190,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 'House', what instrument does Dr. House play?",
+    "correct_answer": "Piano",
+    "incorrect_answers": ["Guitar", "Violin", "Saxophone"],
+    "release_year": 2004
+  },
+
+  {
+    "id": 191,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show features robot hosts in a futuristic theme park?",
+    "correct_answer": "Westworld",
+    "incorrect_answers": ["The Expanse", "Altered Carbon", "Black Mirror"],
+    "release_year": 2016
+  },
+  {
+    "id": 192,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of Michael’s paper company in 'The Office'?",
+    "correct_answer": "The Michael Scott Paper Company",
+    "incorrect_answers": ["Scott’s Tots", "Regional Paper Supply", "Scranton Paper Co."],
+    "release_year": 2009
+  },
+  {
+    "id": 193,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Glee' dreams of Broadway fame?",
+    "correct_answer": "Rachel Berry",
+    "incorrect_answers": ["Mercedes", "Tina", "Brittany"],
+    "release_year": 2009
+  },
+  {
+    "id": 194,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show features a schoolteacher who becomes a criminal mastermind?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": ["Barry", "Ozark", "Narcos"],
+    "release_year": 2008
+  },
+  {
+    "id": 195,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What species is Grogu confirmed to be?",
+    "correct_answer": "Unknown",
+    "incorrect_answers": ["Yoda’s species", "Dwarf Jedi", "Elderling"],
+    "release_year": 2019
+  },
+
+  {
+    "id": 196,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does the TVA operate outside of?",
+    "correct_answer": "The Sacred Timeline",
+    "incorrect_answers": ["The Quantum Realm", "The Outer Void", "The Nexus Path"],
+    "release_year": 2021
+  },
+  {
+    "id": 197,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character narrates parts of 'How I Met Your Mother'?",
+    "correct_answer": "Future Ted",
+    "incorrect_answers": ["Barney", "Marshall", "Ted’s Kids"],
+    "release_year": 2005
+  },
+  {
+    "id": 198,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which show follows a group of kids solving mysteries in Oregon?",
+    "correct_answer": "Gravity Falls",
+    "incorrect_answers": ["Stranger Things", "The Owl House", "Hilda"],
+    "release_year": 2012
+  },
+  {
+    "id": 199,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character runs the Vought crime analytics division in 'The Boys'?",
+    "correct_answer": "Ashley Barrett",
+    "incorrect_answers": ["Hughie Campbell", "Frenchie", "Deep"],
+    "release_year": 2019
+  },
+  {
+    "id": 200,
+    "category": "TV Shows",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which character in 'Avatar' becomes a Kyoshi Warrior?",
+    "correct_answer": "Sokka",
+    "incorrect_answers": ["Aang", "Zuko", "Suki"],
+    "release_year": 2006
+  },
+
   
