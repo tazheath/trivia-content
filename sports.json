@@ -1,0 +1,1620 @@
+[
+  {
+    "id": 1,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In basketball, how many points is a free throw worth?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is Lionel Messi known for?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Basketball", "Golf"]
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the shape of a soccer ball?",
+    "correct_answer": "Spherical",
+    "incorrect_answers": ["Oval", "Cube", "Pyramid"]
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses a bat and a ball and includes home runs?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Golf", "Soccer", "Tennis"]
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many players are on the field for each soccer team during play?",
+    "correct_answer": "11",
+    "incorrect_answers": ["9", "10", "12"]
+  },
+  {
+    "id": 6,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport do players try to shoot the puck into the opponent’s goal?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Soccer", "Basketball", "Tennis"]
+  },
+  {
+    "id": 7,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main object hit in golf?",
+    "correct_answer": "Golf ball",
+    "incorrect_answers": ["Tennis ball", "Puck", "Baseball"]
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is known for winning the most FIFA World Cups?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Italy", "Germany", "France"]
+  },
+  {
+    "id": 9,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the line called where basketball players shoot free throws?",
+    "correct_answer": "Free-throw line",
+    "incorrect_answers": ["End line", "Three-point line", "Midcourt line"]
+  },
+  {
+    "id": 10,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is Serena Williams famous for?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Golf", "Basketball"]
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In American football, what is it called when a player carries the ball into the end zone?",
+    "correct_answer": "Touchdown",
+    "incorrect_answers": ["Field Goal", "Home Run", "Goal Kick"]
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport is known for the Super Bowl?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Basketball", "Baseball", "Soccer"]
+  },
+  {
+    "id": 13,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What color card means a player is being ejected in soccer?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["Yellow", "Green", "Blue"]
+  },
+  {
+    "id": 14,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport are slam dunks performed?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Golf", "Baseball"]
+  },
+  {
+    "id": 15,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the object that tennis players hit back and forth?",
+    "correct_answer": "Tennis ball",
+    "incorrect_answers": ["Shuttlecock", "Puck", "Baseball"]
+  },
+  {
+    "id": 16,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country hosts Wimbledon?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": ["United States", "Australia", "France"]
+  },
+  {
+    "id": 17,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In soccer, what is the term for the player who protects the goal?",
+    "correct_answer": "Goalkeeper",
+    "incorrect_answers": ["Striker", "Midfielder", "Defender"]
+  },
+  {
+    "id": 18,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport involves striking a shuttlecock?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Tennis", "Baseball", "Soccer"]
+  },
+  {
+    "id": 19,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport features the NBA Finals?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Hockey", "Baseball", "Soccer"]
+  },
+  {
+    "id": 20,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport do athletes compete in the Masters Tournament?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Tennis", "Baseball", "Soccer"]
+  },
+
+  {
+    "id": 21,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the primary surface used in ice hockey?",
+    "correct_answer": "Ice",
+    "incorrect_answers": ["Grass", "Hard court", "Field turf"]
+  },
+  {
+    "id": 22,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many points is a touchdown worth in American football?",
+    "correct_answer": "6",
+    "incorrect_answers": ["3", "7", "5"]
+  },
+  {
+    "id": 23,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the main piece of equipment used in bowling?",
+    "correct_answer": "Bowling ball",
+    "incorrect_answers": ["Baseball bat", "Golf club", "Tennis racket"]
+  },
+  {
+    "id": 24,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player is famous for wearing number 23 for the Chicago Bulls?",
+    "correct_answer": "Michael Jordan",
+    "incorrect_answers": ["Kobe Bryant", "LeBron James", "Shaquille O'Neal"]
+  },
+  {
+    "id": 25,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Baseball", "Soccer", "Basketball"]
+  },
+  {
+    "id": 26,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the term for kicking the ball through the uprights in American football?",
+    "correct_answer": "Field goal",
+    "incorrect_answers": ["Touchdown", "Punt", "Kickoff"]
+  },
+  {
+    "id": 27,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses a racket and a shuttlecock?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Tennis", "Pickleball", "Squash"]
+  },
+  {
+    "id": 28,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a score of one under par in golf?",
+    "correct_answer": "Birdie",
+    "incorrect_answers": ["Bogey", "Eagle", "Par"]
+  },
+  {
+    "id": 29,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport features penalty kicks?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Hockey", "Tennis", "Golf"]
+  },
+  {
+    "id": 30,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which athlete is known as 'The King' in basketball?",
+    "correct_answer": "LeBron James",
+    "incorrect_answers": ["Kevin Durant", "Stephen Curry", "James Harden"]
+  },
+
+  {
+    "id": 31, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the term 'home run'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 32, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many quarters are in a basketball game?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "3", "5"]
+  },
+  {
+    "id": 33, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In which sport is the FIFA World Cup the top tournament?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Basketball", "Tennis", "Golf"]
+  },
+  {
+    "id": 34, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the object that hockey players hit with their sticks?",
+    "correct_answer": "Puck",
+    "incorrect_answers": ["Ball", "Shuttlecock", "Disc"]
+  },
+  {
+    "id": 35, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport is known for the World Series?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Basketball", "Hockey"]
+  },
+  {
+    "id": 36, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In tennis, what is it called when the score is 40-40?",
+    "correct_answer": "Deuce",
+    "incorrect_answers": ["Advantage", "Match point", "Tie"]
+  },
+  {
+    "id": 37, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many holes are typically played in a full round of golf?",
+    "correct_answer": "18",
+    "incorrect_answers": ["9", "12", "24"]
+  },
+  {
+    "id": 38, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the term for hitting the ball out of the park in baseball?",
+    "correct_answer": "Home run",
+    "incorrect_answers": ["Strikeout", "Double", "Foul ball"]
+  },
+  {
+    "id": 39, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves dribbling a ball and shooting into a hoop?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Tennis", "Rugby"]
+  },
+  {
+    "id": 40, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'ace' for a serve that cannot be returned?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Basketball", "Soccer", "Golf"]
+  },
+
+  {
+    "id": 41, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the Stanley Cup Finals?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Baseball", "Basketball", "Soccer"]
+  },
+  {
+    "id": 42, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses the term 'slam dunk'?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Golf", "Soccer"]
+  },
+  {
+    "id": 43, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport is Tom Brady famous for?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Baseball", "Basketball", "Soccer"]
+  },
+  {
+    "id": 44, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses tees and clubs?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Baseball", "Soccer", "Hockey"]
+  },
+  {
+    "id": 45, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which international sports event happens every four years and includes many sports?",
+    "correct_answer": "The Olympics",
+    "incorrect_answers": ["World Series", "Super Bowl", "Wimbledon"]
+  },
+  {
+    "id": 46, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses the term 'goalkeeper'?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Baseball", "Golf"]
+  },
+  {
+    "id": 47, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves hitting a small white ball into a series of holes?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Baseball", "Soccer", "Tennis"]
+  },
+  {
+    "id": 48, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call it when a soccer player scores three goals in one game?",
+    "correct_answer": "Hat trick",
+    "incorrect_answers": ["Double", "Triple", "Goal run"]
+  },
+  {
+    "id": 49, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a net, a racket, and a small yellow ball?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Baseball", "Pickleball"]
+  },
+  {
+    "id": 50, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport awards the Vince Lombardi Trophy?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Basketball", "Tennis", "Hockey"]
+  },
+
+  {
+    "id": 51, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features a three-point line?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Baseball", "Hockey"]
+  },
+  {
+    "id": 52, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is the main piece of equipment used in tennis?",
+    "correct_answer": "Racket",
+    "incorrect_answers": ["Bat", "Club", "Stick"]
+  },
+  {
+    "id": 53, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is scored when a basketball goes through the hoop from behind the three-point line?",
+    "correct_answer": "Three points",
+    "incorrect_answers": ["Two points", "One point", "Four points"]
+  },
+  {
+    "id": 54, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How long is a standard soccer match?",
+    "correct_answer": "90 minutes",
+    "incorrect_answers": ["60 minutes", "45 minutes", "120 minutes"]
+  },
+  {
+    "id": 55, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a hoop attached to a backboard?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Soccer", "Hockey"]
+  },
+  {
+    "id": 56, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'strike'?",
+    "correct_answer": "Bowling",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 57, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call the area where baseball players stand to hit the ball?",
+    "correct_answer": "Batter's box",
+    "incorrect_answers": ["Goal box", "Service line", "Pitch zone"]
+  },
+  {
+    "id": 58, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Who is known as one of the greatest golfers of all time, famous for his comeback win at the 2019 Masters?",
+    "correct_answer": "Tiger Woods",
+    "incorrect_answers": ["Phil Mickelson", "Rory McIlroy", "Jordan Spieth"]
+  },
+  {
+    "id": 59, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses bases that players run to after hitting the ball?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Golf"]
+  },
+  {
+    "id": 60, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features a goalie, defenders, midfielders, and strikers?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Basketball", "Golf", "Baseball"]
+  },
+
+  {
+    "id": 61, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In American football, what is it called when the defense catches a pass intended for the offense?",
+    "correct_answer": "Interception",
+    "incorrect_answers": ["Touchdown", "Fumble", "Punt"]
+  },
+  {
+    "id": 62, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the terms 'love', 'deuce', and 'match point'?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Basketball", "Golf"]
+  },
+  {
+    "id": 63, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport’s championship event is called the World Cup?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Baseball", "Golf", "Basketball"]
+  },
+  {
+    "id": 64, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is dribbling in basketball?",
+    "correct_answer": "Bouncing the ball while moving",
+    "incorrect_answers": ["Passing the ball", "Shooting the ball", "Holding the ball"]
+  },
+  {
+    "id": 65, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses the term 'grand slam' besides baseball?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Hockey", "Basketball"]
+  },
+  {
+    "id": 66, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses a hoop and a net and is played on a court?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Tennis", "Hockey", "Golf"]
+  },
+  {
+    "id": 67, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport is Cristiano Ronaldo famous for?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Golf", "Tennis", "Baseball"]
+  },
+  {
+    "id": 68, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport involves knocking down pins at the end of a lane?",
+    "correct_answer": "Bowling",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 69, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport does the NBA belong to?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 70, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In soccer, what do you call it when the ball completely crosses the goal line?",
+    "correct_answer": "A goal",
+    "incorrect_answers": ["A foul", "A save", "A corner"]
+  },
+
+  {
+    "id": 71, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Where does a baseball pitcher throw from?",
+    "correct_answer": "The pitcher's mound",
+    "incorrect_answers": ["Home plate", "The batter's box", "The dugout"]
+  },
+  {
+    "id": 72, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses a wooden or aluminum bat?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Golf"]
+  },
+  {
+    "id": 73, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes layups and three-pointers?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 74, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a goalie who wears pads and a mask?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Soccer", "Tennis", "Basketball"]
+  },
+  {
+    "id": 75, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many points is a field goal worth in American football?",
+    "correct_answer": "3",
+    "incorrect_answers": ["6", "1", "2"]
+  },
+  {
+    "id": 76, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features matches played on clay, grass, and hard courts?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Baseball", "Soccer", "Hockey"]
+  },
+  {
+    "id": 77, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the NBA Draft?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Football", "Baseball", "Hockey"]
+  },
+  {
+    "id": 78, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What do you call it when a baseball batter swings and misses?",
+    "correct_answer": "Strike",
+    "incorrect_answers": ["Foul", "Ball", "Hit"]
+  },
+  {
+    "id": 79, "category": "Sports", "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sport uses helmets, shoulder pads, and a pigskin ball?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Hockey", "Rugby", "Baseball"]
+  },
+  {
+    "id": 80, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'par'?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Soccer", "Tennis", "Basketball"]
+  },
+
+  {
+    "id": 81, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport uses catcher’s gear?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Hockey", "Basketball"]
+  },
+  {
+    "id": 82, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What does NBA stand for?",
+    "correct_answer": "National Basketball Association",
+    "incorrect_answers": ["National Baseball Alliance", "North Ball Association", "National Boxing Association"]
+  },
+  {
+    "id": 83, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What is it called when a player scores in hockey?",
+    "correct_answer": "Goal",
+    "incorrect_answers": ["Touchdown", "Point", "Run"]
+  },
+  {
+    "id": 84, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport features a 'tip-off' at the start of the game?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 85, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport has positions like quarterback, wide receiver, and linebacker?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 86, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport did David Beckham play?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Golf", "Basketball"]
+  },
+  {
+    "id": 87, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport uses a bright yellow ball and rackets?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Baseball", "Hockey", "Soccer"]
+  },
+  {
+    "id": 88, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes a penalty box?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Golf", "Tennis", "Soccer"]
+  },
+  {
+    "id": 89, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "How many bases are there on a baseball field?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "5", "6"]
+  },
+  {
+    "id": 90, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport features the quarterback throwing a pass?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Baseball", "Soccer", "Basketball"]
+  },
+
+  {
+    "id": 91, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In tennis, what do players hit the ball over?",
+    "correct_answer": "A net",
+    "incorrect_answers": ["A wall", "A bar", "A rope"]
+  },
+  {
+    "id": 92, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport has a championship known as the Super Bowl?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Soccer", "Hockey", "Tennis"]
+  },
+  {
+    "id": 93, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes a 'no-hitter'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Soccer", "Tennis", "Golf"]
+  },
+  {
+    "id": 94, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What does NFL stand for?",
+    "correct_answer": "National Football League",
+    "incorrect_answers": ["National Frisbee League", "North Football League", "National Fighting League"]
+  },
+  {
+    "id": 95, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport is known for 'three strikes and you're out'?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Tennis", "Soccer", "Hockey"]
+  },
+  {
+    "id": 96, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What sport features the goalkeeper wearing gloves?",
+    "correct_answer": "Soccer",
+    "incorrect_answers": ["Tennis", "Basketball", "Golf"]
+  },
+  {
+    "id": 97, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "What piece of equipment do golfers use to hit long shots off the tee?",
+    "correct_answer": "Driver",
+    "incorrect_answers": ["Putter", "Wedge", "Iron"]
+  },
+  {
+    "id": 98, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport includes the term 'slap shot'?",
+    "correct_answer": "Hockey",
+    "incorrect_answers": ["Golf", "Basketball", "Tennis"]
+  },
+  {
+    "id": 99, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "In baseball, what is the term for hitting the ball and reaching first base safely?",
+    "correct_answer": "Single",
+    "incorrect_answers": ["Double", "Triple", "Home run"]
+  },
+  {
+    "id": 100, "category": "Sports", "type": "multiple", "difficulty": "easy",
+    "question": "Which sport’s major league is known by the abbreviation MLB?",
+    "correct_answer": "Baseball",
+    "incorrect_answers": ["Hockey", "Basketball", "Soccer"]
+  },
+  {
+    "id": 101,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer club did Cristiano Ronaldo join in 2009 for a then-world-record transfer fee?",
+    "correct_answer": "Real Madrid",
+    "incorrect_answers": ["Juventus", "Manchester United", "Barcelona"]
+  },
+  {
+    "id": 102,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA team won three consecutive championships from 2000 to 2002?",
+    "correct_answer": "Los Angeles Lakers",
+    "incorrect_answers": ["Chicago Bulls", "San Antonio Spurs", "Miami Heat"]
+  },
+  {
+    "id": 103,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In tennis, what surface is the French Open played on?",
+    "correct_answer": "Clay",
+    "incorrect_answers": ["Grass", "Hard court", "Carpet"]
+  },
+  {
+    "id": 104,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "correct_answer": "Spain",
+    "incorrect_answers": ["Netherlands", "Germany", "Brazil"]
+  },
+  {
+    "id": 105,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which golfer is known for winning 18 major championships, a record in men’s golf?",
+    "correct_answer": "Jack Nicklaus",
+    "incorrect_answers": ["Tiger Woods", "Arnold Palmer", "Phil Mickelson"]
+  },
+  {
+    "id": 106,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NHL team won the Stanley Cup in 2019?",
+    "correct_answer": "St. Louis Blues",
+    "incorrect_answers": ["Boston Bruins", "Chicago Blackhawks", "Pittsburgh Penguins"]
+  },
+  {
+    "id": 107,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What position does Lionel Messi primarily play?",
+    "correct_answer": "Forward",
+    "incorrect_answers": ["Midfielder", "Defender", "Goalkeeper"]
+  },
+  {
+    "id": 108,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player was known as 'The Answer'?",
+    "correct_answer": "Allen Iverson",
+    "incorrect_answers": ["Carmelo Anthony", "Dwyane Wade", "Paul Pierce"]
+  },
+  {
+    "id": 109,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which sport would you perform a 'double bogey'?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Tennis", "Bowling", "Baseball"]
+  },
+  {
+    "id": 110,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The term 'hat-trick' originated in which sport?",
+    "correct_answer": "Cricket",
+    "incorrect_answers": ["Soccer", "Hockey", "Rugby"]
+  },
+
+  {
+    "id": 111,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer player is known for the famous 'Hand of God' goal?",
+    "correct_answer": "Diego Maradona",
+    "incorrect_answers": ["Pelé", "Zinedine Zidane", "Luis Suárez"]
+  },
+  {
+    "id": 112,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NFL team went undefeated in the regular season and playoffs in 1972?",
+    "correct_answer": "Miami Dolphins",
+    "incorrect_answers": ["Chicago Bears", "New England Patriots", "Pittsburgh Steelers"]
+  },
+  {
+    "id": 113,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the first NBA Finals MVP award in 1969?",
+    "correct_answer": "Jerry West",
+    "incorrect_answers": ["Bill Russell", "Wilt Chamberlain", "Kareem Abdul-Jabbar"]
+  },
+  {
+    "id": 114,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Ryder Cup is a golf competition between Europe and which other region?",
+    "correct_answer": "United States",
+    "incorrect_answers": ["Australia", "Asia", "South America"]
+  },
+  {
+    "id": 115,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer club is known as 'The Red Devils'?",
+    "correct_answer": "Manchester United",
+    "incorrect_answers": ["Liverpool", "Arsenal", "Chelsea"]
+  },
+  {
+    "id": 116,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which team drafted Kobe Bryant in 1996 before trading him?",
+    "correct_answer": "Charlotte Hornets",
+    "incorrect_answers": ["Los Angeles Lakers", "Philadelphia 76ers", "Boston Celtics"]
+  },
+  {
+    "id": 117,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tennis player holds the record for the fastest serve ever recorded in a match at 157 mph?",
+    "correct_answer": "John Isner",
+    "incorrect_answers": ["Nick Kyrgios", "Andy Roddick", "Milos Raonic"]
+  },
+  {
+    "id": 118,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country won the most gold medals at the 2008 Beijing Olympics?",
+    "correct_answer": "China",
+    "incorrect_answers": ["United States", "Russia", "United Kingdom"]
+  },
+  {
+    "id": 119,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year did LeBron James win his first NBA championship?",
+    "correct_answer": "2012",
+    "incorrect_answers": ["2011", "2013", "2010"]
+  },
+  {
+    "id": 120,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NFL quarterback was nicknamed 'The Sheriff'?",
+    "correct_answer": "Peyton Manning",
+    "incorrect_answers": ["Tom Brady", "Drew Brees", "Brett Favre"]
+  },
+
+  {
+    "id": 121,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which sport do teams compete for the Larry O'Brien Trophy?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": ["Hockey", "Baseball", "Football"]
+  },
+  {
+    "id": 122,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In soccer, what is the maximum number of substitutions allowed in most major competitions during regular play?",
+    "correct_answer": "Five",
+    "incorrect_answers": ["Three", "Four", "Six"]
+  },
+  {
+    "id": 123,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the men’s singles title at Wimbledon in 2019?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": ["Roger Federer", "Rafael Nadal", "Andy Murray"]
+  },
+  {
+    "id": 124,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which MLB team is known as 'The Bronx Bombers'?",
+    "correct_answer": "New York Yankees",
+    "incorrect_answers": ["Boston Red Sox", "Los Angeles Dodgers", "Chicago Cubs"]
+  },
+  {
+    "id": 125,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which athlete won the men’s 100m and 200m gold at the 2012 Olympics?",
+    "correct_answer": "Usain Bolt",
+    "incorrect_answers": ["Yohan Blake", "Justin Gatlin", "Tyson Gay"]
+  },
+  {
+    "id": 126,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA team drafted Stephen Curry in 2009?",
+    "correct_answer": "Golden State Warriors",
+    "incorrect_answers": ["Phoenix Suns", "Minnesota Timberwolves", "Los Angeles Clippers"]
+  },
+  {
+    "id": 127,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who holds the record for the most career home runs in MLB?",
+    "correct_answer": "Barry Bonds",
+    "incorrect_answers": ["Babe Ruth", "Hank Aaron", "Alex Rodriguez"]
+  },
+  {
+    "id": 128,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Brazil", "Argentina", "Germany"]
+  },
+  {
+    "id": 129,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the NBA MVP award in 2016 with a unanimous vote?",
+    "correct_answer": "Stephen Curry",
+    "incorrect_answers": ["LeBron James", "Kevin Durant", "Russell Westbrook"]
+  },
+  {
+    "id": 130,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the standard length of a marathon?",
+    "correct_answer": "26.2 miles",
+    "incorrect_answers": ["24.2 miles", "23.6 miles", "27.5 miles"]
+  },
+
+  {
+    "id": 131,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NHL team has the most Stanley Cup championships?",
+    "correct_answer": "Montreal Canadiens",
+    "incorrect_answers": ["Toronto Maple Leafs", "Chicago Blackhawks", "Detroit Red Wings"]
+  },
+  {
+    "id": 132,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first woman to win 23 Grand Slam singles titles in tennis?",
+    "correct_answer": "Serena Williams",
+    "incorrect_answers": ["Martina Navratilova", "Steffi Graf", "Venus Williams"]
+  },
+  {
+    "id": 133,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer club is known for the famous anthem 'You'll Never Walk Alone'?",
+    "correct_answer": "Liverpool",
+    "incorrect_answers": ["Arsenal", "Chelsea", "Everton"]
+  },
+  {
+    "id": 134,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which MLB player earned the nickname 'The Kid'?",
+    "correct_answer": "Ken Griffey Jr.",
+    "incorrect_answers": ["Derek Jeter", "Barry Bonds", "Mike Trout"]
+  },
+  {
+    "id": 135,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many players are on the ice for each team in a standard hockey game?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Five", "Seven", "Eight"]
+  },
+  {
+    "id": 136,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the Heisman Trophy in 2020?",
+    "correct_answer": "DeVonta Smith",
+    "incorrect_answers": ["Trevor Lawrence", "Joe Burrow", "Kyler Murray"]
+  },
+  {
+    "id": 137,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tennis event is the only Grand Slam held in North America?",
+    "correct_answer": "US Open",
+    "incorrect_answers": ["Australian Open", "French Open", "Wimbledon"]
+  },
+  {
+    "id": 138,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the maximum number of sets in a men's Grand Slam tennis match?",
+    "correct_answer": "Five",
+    "incorrect_answers": ["Three", "Four", "Six"]
+  },
+  {
+    "id": 139,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["China", "United Kingdom", "Japan"]
+  },
+  {
+    "id": 140,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA franchise drafted Giannis Antetokounmpo?",
+    "correct_answer": "Milwaukee Bucks",
+    "incorrect_answers": ["Orlando Magic", "Detroit Pistons", "Atlanta Hawks"]
+  },
+
+  {
+    "id": 141,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer star was nicknamed 'The Pharaoh'?",
+    "correct_answer": "Mohamed Salah",
+    "incorrect_answers": ["Sadio Mané", "Karim Benzema", "Mesut Özil"]
+  },
+  {
+    "id": 142,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NFL team was originally located in St. Louis before relocating to Los Angeles in 2016?",
+    "correct_answer": "Rams",
+    "incorrect_answers": ["Raiders", "Chargers", "Cardinals"]
+  },
+  {
+    "id": 143,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many games must a tennis player win to win a standard set?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Four", "Seven", "Five"]
+  },
+  {
+    "id": 144,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which MLB team won the World Series in 2016, breaking a 108-year drought?",
+    "correct_answer": "Chicago Cubs",
+    "incorrect_answers": ["Cleveland Guardians", "Boston Red Sox", "San Francisco Giants"]
+  },
+  {
+    "id": 145,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer player won the Ballon d'Or in 2018?",
+    "correct_answer": "Luka Modrić",
+    "incorrect_answers": ["Lionel Messi", "Cristiano Ronaldo", "Kylian Mbappé"]
+  },
+  {
+    "id": 146,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the standard diameter of a basketball hoop?",
+    "correct_answer": "18 inches",
+    "incorrect_answers": ["20 inches", "16 inches", "22 inches"]
+  },
+  {
+    "id": 147,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2015 Super Bowl with a famous goal-line interception?",
+    "correct_answer": "New England Patriots",
+    "incorrect_answers": ["Seattle Seahawks", "Green Bay Packers", "Denver Broncos"]
+  },
+  {
+    "id": 148,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which sport is the World Snooker Championship held?",
+    "correct_answer": "Snooker",
+    "incorrect_answers": ["Darts", "Cricket", "Bowling"]
+  },
+  {
+    "id": 149,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country has won the most Rugby World Cups?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["England", "South Africa", "Australia"]
+  },
+  {
+    "id": 150,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sport includes events like the long jump and shot put?",
+    "correct_answer": "Track and field",
+    "incorrect_answers": ["Gymnastics", "Rowing", "Cycling"]
+  },
+
+  {
+    "id": 151,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which basketball player earned the nickname 'The Greek Freak'?",
+    "correct_answer": "Giannis Antetokounmpo",
+    "incorrect_answers": ["Luka Dončić", "Joel Embiid", "Nikola Jokić"]
+  },
+  {
+    "id": 152,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the regulation height of a basketball hoop?",
+    "correct_answer": "10 feet",
+    "incorrect_answers": ["9 feet", "11 feet", "12 feet"]
+  },
+  {
+    "id": 153,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which athlete won a record eight gold medals at the 2008 Olympics?",
+    "correct_answer": "Michael Phelps",
+    "incorrect_answers": ["Ryan Lochte", "Mark Spitz", "Ian Thorpe"]
+  },
+  {
+    "id": 154,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where is the Monaco Grand Prix held?",
+    "correct_answer": "Monte Carlo",
+    "incorrect_answers": ["Paris", "Milan", "Barcelona"]
+  },
+  {
+    "id": 155,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In soccer, what is the term for a goal scored from outside the penalty box?",
+    "correct_answer": "Long-range goal",
+    "incorrect_answers": ["Volley", "Tap-in", "Header"]
+  },
+  {
+    "id": 156,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many players are on a volleyball team on the court at one time?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Five", "Seven", "Eight"]
+  },
+  {
+    "id": 157,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NFL quarterback threw 55 touchdown passes in the 2013 season?",
+    "correct_answer": "Peyton Manning",
+    "incorrect_answers": ["Tom Brady", "Drew Brees", "Patrick Mahomes"]
+  },
+  {
+    "id": 158,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In baseball, how many strikes result in a strikeout?",
+    "correct_answer": "Three",
+    "incorrect_answers": ["Two", "Four", "Five"]
+  },
+  {
+    "id": 159,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tennis player finished 2015 ranked No. 1 in the world?",
+    "correct_answer": "Novak Djokovic",
+    "incorrect_answers": ["Andy Murray", "Roger Federer", "Rafael Nadal"]
+  },
+  {
+    "id": 160,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year did the Golden State Warriors break the NBA single-season win record?",
+    "correct_answer": "2016",
+    "incorrect_answers": ["2015", "2017", "2018"]
+  },
+
+  {
+    "id": 161,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country won the first FIFA Women's World Cup?",
+    "correct_answer": "United States",
+    "incorrect_answers": ["Norway", "Germany", "Japan"]
+  },
+  {
+    "id": 162,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2021 NBA MVP award?",
+    "correct_answer": "Nikola Jokić",
+    "incorrect_answers": ["Joel Embiid", "Stephen Curry", "Giannis Antetokounmpo"]
+  },
+  {
+    "id": 163,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Formula 1 driver has won the most world championships?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Michael Schumacher", "Sebastian Vettel", "Ayrton Senna"]
+  },
+  {
+    "id": 164,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer team did Neymar transfer to in 2017 for a record €222 million?",
+    "correct_answer": "Paris Saint-Germain",
+    "incorrect_answers": ["Barcelona", "Real Madrid", "Manchester City"]
+  },
+  {
+    "id": 165,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which baseball team is known as the 'Dodgers'?",
+    "correct_answer": "Los Angeles",
+    "incorrect_answers": ["San Diego", "San Francisco", "Oakland"]
+  },
+  {
+    "id": 166,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many major championships make up the Grand Slam in men’s golf each year?",
+    "correct_answer": "Four",
+    "incorrect_answers": ["Three", "Five", "Six"]
+  },
+  {
+    "id": 167,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2020 UEFA Champions League?",
+    "correct_answer": "Bayern Munich",
+    "incorrect_answers": ["Liverpool", "Paris Saint-Germain", "Real Madrid"]
+  },
+  {
+    "id": 168,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which WNBA star was the first to dunk in a regular season game?",
+    "correct_answer": "Lisa Leslie",
+    "incorrect_answers": ["Candace Parker", "Brittney Griner", "Diana Taurasi"]
+  },
+  {
+    "id": 169,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NFL team drafted Patrick Mahomes?",
+    "correct_answer": "Kansas City Chiefs",
+    "incorrect_answers": ["Houston Texans", "Chicago Bears", "Detroit Lions"]
+  },
+  {
+    "id": 170,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the men’s singles gold medal in tennis at the 2008 Beijing Olympics?",
+    "correct_answer": "Rafael Nadal",
+    "incorrect_answers": ["Roger Federer", "Novak Djokovic", "Andy Murray"]
+  },
+
+  {
+    "id": 171,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which MLB team did Derek Jeter play his entire career for?",
+    "correct_answer": "New York Yankees",
+    "incorrect_answers": ["Boston Red Sox", "Los Angeles Dodgers", "Chicago Cubs"]
+  },
+  {
+    "id": 172,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tennis player is known for the 'tweener' shot?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Novak Djokovic", "Rafael Nadal", "Andy Murray"]
+  },
+  {
+    "id": 173,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country hosts the Tour de France?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Italy", "Spain", "Germany"]
+  },
+  {
+    "id": 174,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who holds the NBA record for most career assists?",
+    "correct_answer": "John Stockton",
+    "incorrect_answers": ["Magic Johnson", "Steve Nash", "Jason Kidd"]
+  },
+  {
+    "id": 175,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many players make up a standard rugby union team on the field?",
+    "correct_answer": "15",
+    "incorrect_answers": ["13", "11", "17"]
+  },
+  {
+    "id": 176,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2019 FIFA Women’s World Cup?",
+    "correct_answer": "United States",
+    "incorrect_answers": ["Netherlands", "Germany", "Japan"]
+  },
+  {
+    "id": 177,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city hosted the 2010 Winter Olympics?",
+    "correct_answer": "Vancouver",
+    "incorrect_answers": ["Salt Lake City", "Turin", "Sochi"]
+  },
+  {
+    "id": 178,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which athlete won the men's U.S. Open golf tournament in 2014?",
+    "correct_answer": "Martin Kaymer",
+    "incorrect_answers": ["Rory McIlroy", "Jordan Spieth", "Dustin Johnson"]
+  },
+  {
+    "id": 179,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what sport is the Davis Cup contested?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": ["Soccer", "Rugby", "Hockey"]
+  },
+  {
+    "id": 180,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which team won the first Super Bowl in 1967?",
+    "correct_answer": "Green Bay Packers",
+    "incorrect_answers": ["Dallas Cowboys", "Kansas City Chiefs", "New York Jets"]
+  },
+
+  {
+    "id": 181,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which boxer was nicknamed 'Iron Mike'?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Evander Holyfield", "Muhammad Ali", "George Foreman"]
+  },
+  {
+    "id": 182,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many rings appear on the Olympic symbol?",
+    "correct_answer": "Five",
+    "incorrect_answers": ["Four", "Six", "Seven"]
+  },
+  {
+    "id": 183,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2014 FIFA World Cup?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Argentina", "Brazil", "Spain"]
+  },
+  {
+    "id": 184,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which basketball team was coached by Phil Jackson during their 1990s dynasty?",
+    "correct_answer": "Chicago Bulls",
+    "incorrect_answers": ["Los Angeles Lakers", "New York Knicks", "Detroit Pistons"]
+  },
+  {
+    "id": 185,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Formula 1 race is known as the 'jewel in the crown'?",
+    "correct_answer": "Monaco Grand Prix",
+    "incorrect_answers": ["Italian Grand Prix", "British Grand Prix", "Belgian Grand Prix"]
+  },
+  {
+    "id": 186,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many outs are in each half-inning of a baseball game?",
+    "correct_answer": "Three",
+    "incorrect_answers": ["Two", "Four", "Five"]
+  },
+  {
+    "id": 187,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In swimming, what stroke is known for being the fastest?",
+    "correct_answer": "Freestyle",
+    "incorrect_answers": ["Breaststroke", "Backstroke", "Butterfly"]
+  },
+  {
+    "id": 188,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What country is home to the soccer club Borussia Dortmund?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "Netherlands", "Belgium"]
+  },
+  {
+    "id": 189,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who did the Golden State Warriors defeat in the 2018 NBA Finals?",
+    "correct_answer": "Cleveland Cavaliers",
+    "incorrect_answers": ["Toronto Raptors", "Boston Celtics", "Houston Rockets"]
+  },
+  {
+    "id": 190,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer player scored the 'Goal of the Century' in 1986?",
+    "correct_answer": "Diego Maradona",
+    "incorrect_answers": ["Pelé", "Zico", "Marco van Basten"]
+  },
+
+  {
+    "id": 191,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which MLB team is known for the nickname 'The Big Red Machine'?",
+    "correct_answer": "Cincinnati Reds",
+    "incorrect_answers": ["St. Louis Cardinals", "Atlanta Braves", "San Francisco Giants"]
+  },
+  {
+    "id": 192,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the international governing body for soccer?",
+    "correct_answer": "FIFA",
+    "incorrect_answers": ["UEFA", "CONCACAF", "IOC"]
+  },
+  {
+    "id": 193,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What year did the Cleveland Cavaliers win their first NBA championship?",
+    "correct_answer": "2016",
+    "incorrect_answers": ["2015", "2017", "2018"]
+  },
+  {
+    "id": 194,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which football club is nicknamed 'The Gunners'?",
+    "correct_answer": "Arsenal",
+    "incorrect_answers": ["Manchester City", "Chelsea", "Tottenham Hotspur"]
+  },
+  {
+    "id": 195,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In rugby, how many points is a try worth?",
+    "correct_answer": "Five",
+    "incorrect_answers": ["Three", "Four", "Six"]
+  },
+  {
+    "id": 196,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who holds the record for the most career assists in the Premier League?",
+    "correct_answer": "Ryan Giggs",
+    "incorrect_answers": ["Cesc Fàbregas", "Frank Lampard", "Kevin De Bruyne"]
+  },
+  {
+    "id": 197,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which driver won the 2020 Formula 1 World Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Max Verstappen", "Valtteri Bottas", "Sebastian Vettel"]
+  },
+  {
+    "id": 198,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer nation is known as 'La Albiceleste'?",
+    "correct_answer": "Argentina",
+    "incorrect_answers": ["Spain", "Mexico", "Colombia"]
+  },
+  {
+    "id": 199,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What city is home to the NHL team known as the Golden Knights?",
+    "correct_answer": "Las Vegas",
+    "incorrect_answers": ["Phoenix", "Denver", "Dallas"]
+  },
+  {
+    "id": 200,
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which athlete won the 2019 NBA Rookie of the Year award?",
+    "correct_answer": "Luka Dončić",
+    "incorrect_answers": ["Trae Young", "Deandre Ayton", "Jaren Jackson Jr."]
+  },
+
+
+
+
+  
+
+
+
+
+
+  
