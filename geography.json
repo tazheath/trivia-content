@@ -1,1 +1,918 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest continent on Earth?",
+    "correct_answer": "Asia",
+    "incorrect_answers": ["Africa", "Europe", "South America"]
+  },
+  {
+    "id": 2,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the longest river in the world?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": ["Amazon River", "Yangtze River", "Mississippi River"]
+  },
+  {
+    "id": 3,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "South Korea", "Thailand"]
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What ocean lies on the east coast of the United States?",
+    "correct_answer": "Atlantic Ocean",
+    "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 5,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is famous for its many islands and volcanoes?",
+    "correct_answer": "Hawaii",
+    "incorrect_answers": ["Florida", "Alaska", "California"]
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["London", "Madrid", "Rome"]
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is also a country?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["Greenland", "South America", "Africa"]
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest ocean in the world?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Mount Everest lies on the border of Nepal and which country?",
+    "correct_answer": "China",
+    "incorrect_answers": ["India", "Bhutan", "Pakistan"]
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is the largest in the world by land area?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "United States", "China"]
+  },
+
+  {
+    "id": 11,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which country would you find the Great Pyramid of Giza?",
+    "correct_answer": "Egypt",
+    "incorrect_answers": ["Morocco", "Sudan", "Saudi Arabia"]
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital city of the United States?",
+    "correct_answer": "Washington, D.C.",
+    "incorrect_answers": ["New York City", "Boston", "Philadelphia"]
+  },
+  {
+    "id": 13,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known as the Sunshine State?",
+    "correct_answer": "Florida",
+    "incorrect_answers": ["California", "Texas", "Arizona"]
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest desert in the world?",
+    "correct_answer": "Sahara Desert",
+    "incorrect_answers": ["Gobi Desert", "Arabian Desert", "Kalahari Desert"]
+  },
+  {
+    "id": 15,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of the United Kingdom?",
+    "correct_answer": "London",
+    "incorrect_answers": ["Edinburgh", "Dublin", "Manchester"]
+  },
+  {
+    "id": 16,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is located entirely in the Southern Hemisphere?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["North America", "Europe", "Asia"]
+  },
+  {
+    "id": 17,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which river flows through the Grand Canyon?",
+    "correct_answer": "Colorado River",
+    "incorrect_answers": ["Mississippi River", "Rio Grande", "Missouri River"]
+  },
+  {
+    "id": 18,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": ["Kyoto", "Osaka", "Beijing"]
+  },
+  {
+    "id": 19,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What continent is home to the Amazon Rainforest?",
+    "correct_answer": "South America",
+    "incorrect_answers": ["Africa", "Asia", "Australia"]
+  },
+  {
+    "id": 20,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state has the Grand Canyon?",
+    "correct_answer": "Arizona",
+    "incorrect_answers": ["Utah", "Nevada", "Colorado"]
+  },
+
+  {
+    "id": 21,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ocean is the smallest?",
+    "correct_answer": "Arctic Ocean",
+    "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean"]
+  },
+  {
+    "id": 22,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Canada?",
+    "correct_answer": "Ottawa",
+    "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "id": 23,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is shaped like a boot?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["Greece", "Spain", "Portugal"]
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the tallest mountain in the world?",
+    "correct_answer": "Mount Everest",
+    "incorrect_answers": ["K2", "Kangchenjunga", "Mount Kilimanjaro"]
+  },
+  {
+    "id": 25,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is the Eiffel Tower located in?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Germany", "Belgium", "Italy"]
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent has the most countries?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Europe", "Asia", "South America"]
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Mexico?",
+    "correct_answer": "Mexico City",
+    "incorrect_answers": ["Guadalajara", "Cancún", "Monterrey"]
+  },
+  {
+    "id": 28,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is the largest by land area?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["Texas", "California", "Montana"]
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is home to the Great Barrier Reef?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["New Zealand", "Fiji", "Indonesia"]
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which river runs through Egypt?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": ["Tigris River", "Amazon River", "Euphrates River"]
+  },
+
+  {
+    "id": 31,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": ["Munich", "Frankfurt", "Hamburg"]
+  },
+  {
+    "id": 32,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is Egypt located on?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "Europe", "South America"]
+  },
+  {
+    "id": 33,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Earth's largest body of water?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 34,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known for Hollywood?",
+    "correct_answer": "California",
+    "incorrect_answers": ["New York", "Nevada", "Georgia"]
+  },
+  {
+    "id": 35,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Leaning Tower of Pisa located?",
+    "correct_answer": "Italy",
+    "incorrect_answers": ["France", "Spain", "Switzerland"]
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Spain?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": ["Barcelona", "Seville", "Valencia"]
+  },
+  {
+    "id": 37,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest island in the world?",
+    "correct_answer": "Greenland",
+    "incorrect_answers": ["Iceland", "Madagascar", "Borneo"]
+  },
+  {
+    "id": 38,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is home to the Andes Mountains?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Brazil", "Colombia", "Argentina"]
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which continent is Brazil located?",
+    "correct_answer": "South America",
+    "incorrect_answers": ["Africa", "Europe", "Asia"]
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which city is the capital of Italy?",
+    "correct_answer": "Rome",
+    "incorrect_answers": ["Venice", "Florence", "Milan"]
+  },
+
+  {
+    "id": 41,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which river runs through London?",
+    "correct_answer": "Thames River",
+    "incorrect_answers": ["Seine River", "Danube River", "Rhine River"]
+  },
+  {
+    "id": 42,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which country is the city of Toronto located?",
+    "correct_answer": "Canada",
+    "incorrect_answers": ["United States", "United Kingdom", "Australia"]
+  },
+  {
+    "id": 43,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state has New York City?",
+    "correct_answer": "New York",
+    "incorrect_answers": ["New Jersey", "Pennsylvania", "Connecticut"]
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is home to the Sahara Desert?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "Australia", "Europe"]
+  },
+  {
+    "id": 45,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Statue of Liberty located?",
+    "correct_answer": "New York",
+    "incorrect_answers": ["Washington, D.C.", "Boston", "Philadelphia"]
+  },
+  {
+    "id": 46,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of China?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": ["Shanghai", "Hong Kong", "Guangzhou"]
+  },
+  {
+    "id": 47,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Amazon Rainforest mainly located?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Peru", "Colombia", "Bolivia"]
+  },
+  {
+    "id": 48,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known for Las Vegas?",
+    "correct_answer": "Nevada",
+    "incorrect_answers": ["California", "Arizona", "Colorado"]
+  },
+  {
+    "id": 49,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is home to the Taj Mahal?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Pakistan", "Nepal", "Bangladesh"]
+  },
+  {
+    "id": 50,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Russia?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": ["Saint Petersburg", "Kazan", "Novosibirsk"]
+  },
+
+  {
+    "id": 51,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is the smallest by land area?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["Europe", "South America", "Antarctica"]
+  },
+  {
+    "id": 52,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is south of the United States?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": ["Canada", "Cuba", "Brazil"]
+  },
+  {
+    "id": 53,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is India located on?",
+    "correct_answer": "Asia",
+    "incorrect_answers": ["Europe", "Africa", "Australia"]
+  },
+  {
+    "id": 54,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is Mount Kilimanjaro located?",
+    "correct_answer": "Tanzania",
+    "incorrect_answers": ["Kenya", "Uganda", "Ethiopia"]
+  },
+  {
+    "id": 55,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is the largest in South America?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["Argentina", "Colombia", "Peru"]
+  },
+  {
+    "id": 56,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known as the Lone Star State?",
+    "correct_answer": "Texas",
+    "incorrect_answers": ["Arizona", "New Mexico", "Oklahoma"]
+  },
+  {
+    "id": 57,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where would you find the city of Sydney?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["United Kingdom", "United States", "New Zealand"]
+  },
+  {
+    "id": 58,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is famous for its tulips and windmills?",
+    "correct_answer": "Netherlands",
+    "incorrect_answers": ["Belgium", "Germany", "Switzerland"]
+  },
+  {
+    "id": 59,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is the coldest?",
+    "correct_answer": "Antarctica",
+    "incorrect_answers": ["Europe", "Asia", "North America"]
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Brazil?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Salvador"]
+  },
+
+  {
+    "id": 61,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known for its Rocky Mountains?",
+    "correct_answer": "Colorado",
+    "incorrect_answers": ["Montana", "Wyoming", "Idaho"]
+  },
+  {
+    "id": 62,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the city of Cairo located?",
+    "correct_answer": "Egypt",
+    "incorrect_answers": ["Morocco", "Turkey", "Saudi Arabia"]
+  },
+  {
+    "id": 63,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of South Korea?",
+    "correct_answer": "Seoul",
+    "incorrect_answers": ["Busan", "Tokyo", "Beijing"]
+  },
+  {
+    "id": 64,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country shares a border with the United States to the north?",
+    "correct_answer": "Canada",
+    "incorrect_answers": ["Mexico", "Greenland", "Iceland"]
+  },
+  {
+    "id": 65,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Dead Sea located?",
+    "correct_answer": "Between Israel and Jordan",
+    "incorrect_answers": ["Between Egypt and Sudan", "Between Turkey and Syria", "Between Iran and Iraq"]
+  },
+  {
+    "id": 66,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has the city of Dubai?",
+    "correct_answer": "United Arab Emirates",
+    "incorrect_answers": ["Saudi Arabia", "Qatar", "Oman"]
+  },
+  {
+    "id": 67,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is the smallest by land area?",
+    "correct_answer": "Rhode Island",
+    "incorrect_answers": ["Delaware", "Connecticut", "New Jersey"]
+  },
+  {
+    "id": 68,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which mountain range runs along the west coast of South America?",
+    "correct_answer": "The Andes",
+    "incorrect_answers": ["The Rockies", "The Alps", "The Himalayas"]
+  },
+  {
+    "id": 69,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What country is the city of Nairobi located in?",
+    "correct_answer": "Kenya",
+    "incorrect_answers": ["South Africa", "Tanzania", "Uganda"]
+  },
+  {
+    "id": 70,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest lake in the United States?",
+    "correct_answer": "Lake Superior",
+    "incorrect_answers": ["Lake Michigan", "Lake Tahoe", "Lake Erie"]
+  },
+
+  {
+    "id": 71,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is known for Mount Rushmore?",
+    "correct_answer": "South Dakota",
+    "incorrect_answers": ["North Dakota", "Wyoming", "Montana"]
+  },
+  {
+    "id": 72,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is home to the country of Argentina?",
+    "correct_answer": "South America",
+    "incorrect_answers": ["Africa", "Europe", "Asia"]
+  },
+  {
+    "id": 73,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Greece?",
+    "correct_answer": "Athens",
+    "incorrect_answers": ["Thessaloniki", "Rome", "Istanbul"]
+  },
+  {
+    "id": 74,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where would you find the city of Auckland?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["Australia", "South Africa", "Canada"]
+  },
+  {
+    "id": 75,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ocean touches the west coast of the United States?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 76,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the Great Wall located?",
+    "correct_answer": "China",
+    "incorrect_answers": ["Japan", "Mongolia", "India"]
+  },
+  {
+    "id": 77,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is famous for Yellowstone National Park?",
+    "correct_answer": "Wyoming",
+    "incorrect_answers": ["Colorado", "Idaho", "Montana"]
+  },
+  {
+    "id": 78,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which continent is Spain located?",
+    "correct_answer": "Europe",
+    "incorrect_answers": ["Asia", "Africa", "South America"]
+  },
+  {
+    "id": 79,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the island nation of Madagascar located?",
+    "correct_answer": "Off the coast of Africa",
+    "incorrect_answers": ["Off the coast of Asia", "Off the coast of Europe", "Off the coast of Australia"]
+  },
+  {
+    "id": 80,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is known for the city of Barcelona?",
+    "correct_answer": "Spain",
+    "incorrect_answers": ["Portugal", "France", "Italy"]
+  },
+
+  {
+    "id": 81,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where would you find the city of Berlin?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "Poland", "Switzerland"]
+  },
+  {
+    "id": 82,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is home to the Alamo?",
+    "correct_answer": "Texas",
+    "incorrect_answers": ["New Mexico", "Arizona", "Louisiana"]
+  },
+  {
+    "id": 83,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What country has the capital city of Bangkok?",
+    "correct_answer": "Thailand",
+    "incorrect_answers": ["Vietnam", "Cambodia", "Malaysia"]
+  },
+  {
+    "id": 84,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On which continent is France located?",
+    "correct_answer": "Europe",
+    "incorrect_answers": ["Asia", "Africa", "South America"]
+  },
+  {
+    "id": 85,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the country of Sweden located?",
+    "correct_answer": "Europe",
+    "incorrect_answers": ["Asia", "Africa", "South America"]
+  },
+  {
+    "id": 86,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What U.S. state is Honolulu located in?",
+    "correct_answer": "Hawaii",
+    "incorrect_answers": ["California", "Florida", "Texas"]
+  },
+  {
+    "id": 87,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is the country of Nigeria located on?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "Europe", "South America"]
+  },
+  {
+    "id": 88,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Portugal?",
+    "correct_answer": "Lisbon",
+    "incorrect_answers": ["Madrid", "Porto", "Seville"]
+  },
+  {
+    "id": 89,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the city of Chicago located?",
+    "correct_answer": "Illinois",
+    "incorrect_answers": ["Michigan", "Ohio", "Indiana"]
+  },
+  {
+    "id": 90,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent is home to the country of Chile?",
+    "correct_answer": "South America",
+    "incorrect_answers": ["Europe", "Asia", "Africa"]
+  },
+
+  {
+    "id": 91,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the city of Lima located?",
+    "correct_answer": "Peru",
+    "incorrect_answers": ["Chile", "Brazil", "Argentina"]
+  },
+  {
+    "id": 92,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state has the city of Seattle?",
+    "correct_answer": "Washington",
+    "incorrect_answers": ["Oregon", "California", "Idaho"]
+  },
+  {
+    "id": 93,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What country has the city of Seoul?",
+    "correct_answer": "South Korea",
+    "incorrect_answers": ["Japan", "China", "Thailand"]
+  },
+  {
+    "id": 94,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On which continent is the United States located?",
+    "correct_answer": "North America",
+    "incorrect_answers": ["South America", "Europe", "Asia"]
+  },
+  {
+    "id": 95,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the city of Dublin located?",
+    "correct_answer": "Ireland",
+    "incorrect_answers": ["Scotland", "Canada", "England"]
+  },
+  {
+    "id": 96,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which continent has the fewest people?",
+    "correct_answer": "Antarctica",
+    "incorrect_answers": ["North America", "Australia", "Africa"]
+  },
+  {
+    "id": 97,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Norway?",
+    "correct_answer": "Oslo",
+    "incorrect_answers": ["Bergen", "Stockholm", "Copenhagen"]
+  },
+  {
+    "id": 98,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Where is the city of Johannesburg located?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Kenya", "Ghana", "Nigeria"]
+  },
+  {
+    "id": 99,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which U.S. state is home to the city of Miami?",
+    "correct_answer": "Florida",
+    "incorrect_answers": ["Georgia", "South Carolina", "Texas"]
+  },
+  {
+    "id": 100,
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country is known for the city of Munich?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["Austria", "Switzerland", "Belgium"]
+  },
+
+
+
+
+
+
+  
 
