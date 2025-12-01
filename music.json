@@ -908,6 +908,916 @@
     "correct_answer": "Harry Styles",
     "incorrect_answers": ["Shawn Mendes", "Justin Bieber", "Zayn"]
   },
+  {
+    "id": 101,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the influential 1997 album 'OK Computer'?",
+    "correct_answer": "Radiohead",
+    "incorrect_answers": ["Oasis", "Blur", "The Verve"]
+  },
+  {
+    "id": 102,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which hip-hop group released the 1993 album 'Enter the Wu-Tang (36 Chambers)'?",
+    "correct_answer": "Wu-Tang Clan",
+    "incorrect_answers": ["Public Enemy", "A Tribe Called Quest", "N.W.A"]
+  },
+  {
+    "id": 103,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country singer appeared on the remix of Lil Nas X’s hit 'Old Town Road'?",
+    "correct_answer": "Billy Ray Cyrus",
+    "incorrect_answers": ["Keith Urban", "Blake Shelton", "Luke Bryan"]
+  },
+  {
+    "id": 104,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the visual album 'Lemonade'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": ["Rihanna", "Janelle Monáe", "Solange"]
+  },
+  {
+    "id": 105,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the stage name of Abel Tesfaye?",
+    "correct_answer": "The Weeknd",
+    "incorrect_answers": ["Nav", "PartyNextDoor", "Drake"]
+  },
+  {
+    "id": 106,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which grunge band released the 1991 album 'Nevermind'?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": ["Pearl Jam", "Soundgarden", "Alice in Chains"]
+  },
+  {
+    "id": 107,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit song 'Bad Guy'?",
+    "correct_answer": "Billie Eilish",
+    "incorrect_answers": ["Halsey", "Camila Cabello", "Lorde"]
+  },
+  {
+    "id": 108,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rock band released the 1999 album 'Californication'?",
+    "correct_answer": "Red Hot Chili Peppers",
+    "incorrect_answers": ["Foo Fighters", "Green Day", "Weezer"]
+  },
+  {
+    "id": 109,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which DJ released the 2013 instrumental hit 'Animals'?",
+    "correct_answer": "Martin Garrix",
+    "incorrect_answers": ["Tiësto", "Avicii", "Hardwell"]
+  },
+  {
+    "id": 110,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2006 album 'Back to Black'?",
+    "correct_answer": "Amy Winehouse",
+    "incorrect_answers": ["Adele", "Lily Allen", "Duffy"]
+  },
+
+  {
+    "id": 111,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the 1991 album 'Ten'?",
+    "correct_answer": "Pearl Jam",
+    "incorrect_answers": ["Soundgarden", "Nirvana", "Stone Temple Pilots"]
+  },
+  {
+    "id": 112,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who performed the 2003 hit 'Hey Ya!'?",
+    "correct_answer": "OutKast",
+    "incorrect_answers": ["The Black Eyed Peas", "UGK", "Run-D.M.C."]
+  },
+  {
+    "id": 113,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist released the debut album '+' (Plus)?",
+    "correct_answer": "Ed Sheeran",
+    "incorrect_answers": ["George Ezra", "James Blunt", "Sam Smith"]
+  },
+  {
+    "id": 114,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which R&B group is known for the 1994 hit 'Waterfalls'?",
+    "correct_answer": "TLC",
+    "incorrect_answers": ["SWV", "En Vogue", "Boyz II Men"]
+  },
+  {
+    "id": 115,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2011 album 'Born This Way'?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": ["Katy Perry", "Pink", "Demi Lovato"]
+  },
+  {
+    "id": 116,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the hit song 'Mr. Brightside'?",
+    "correct_answer": "The Killers",
+    "incorrect_answers": ["Kings of Leon", "Arctic Monkeys", "Franz Ferdinand"]
+  },
+  {
+    "id": 117,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the album 'Good Girl Gone Bad'?",
+    "correct_answer": "Rihanna",
+    "incorrect_answers": ["Beyoncé", "Ashanti", "Ciara"]
+  },
+  {
+    "id": 118,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the 1994 album 'Dookie'?",
+    "correct_answer": "Green Day",
+    "incorrect_answers": ["Blink-182", "The Offspring", "Rancid"]
+  },
+  {
+    "id": 119,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2008 album 'The Fame'?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": ["Britney Spears", "Kesha", "Katy Perry"]
+  },
+  {
+    "id": 120,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rock band performed 'Sweet Child o' Mine'?",
+    "correct_answer": "Guns N' Roses",
+    "incorrect_answers": ["Bon Jovi", "Poison", "Motley Crue"]
+  },
+
+  {
+    "id": 121,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which electronic group released the 1997 album 'The Fat of the Land'?",
+    "correct_answer": "The Prodigy",
+    "incorrect_answers": ["The Chemical Brothers", "Underworld", "Massive Attack"]
+  },
+  {
+    "id": 122,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2015 album 'Purpose'?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": ["Shawn Mendes", "Charlie Puth", "Zayn"]
+  },
+  {
+    "id": 123,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper is known for the 2014 song 'Anaconda'?",
+    "correct_answer": "Nicki Minaj",
+    "incorrect_answers": ["Cardi B", "Missy Elliott", "Lil' Kim"]
+  },
+  {
+    "id": 124,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rock band released the 2000 album 'Hybrid Theory'?",
+    "correct_answer": "Linkin Park",
+    "incorrect_answers": ["Breaking Benjamin", "Papa Roach", "Evanescence"]
+  },
+  {
+    "id": 125,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2013 song 'Royals'?",
+    "correct_answer": "Lorde",
+    "incorrect_answers": ["Ellie Goulding", "Lana Del Rey", "Halsey"]
+  },
+  {
+    "id": 126,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the album 'The College Dropout' in 2004?",
+    "correct_answer": "Kanye West",
+    "incorrect_answers": ["Jay-Z", "Common", "Lupe Fiasco"]
+  },
+  {
+    "id": 127,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the hit 'Take On Me'?",
+    "correct_answer": "a-ha",
+    "incorrect_answers": ["Duran Duran", "Tears for Fears", "A Flock of Seagulls"]
+  },
+  {
+    "id": 128,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the album '21' in 2011?",
+    "correct_answer": "Adele",
+    "incorrect_answers": ["Kelly Clarkson", "Taylor Swift", "Florence Welch"]
+  },
+  {
+    "id": 129,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rock band released 'Seven Nation Army'?",
+    "correct_answer": "The White Stripes",
+    "incorrect_answers": ["The Black Keys", "Queens of the Stone Age", "Arctic Monkeys"]
+  },
+  {
+    "id": 130,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who created the hit single 'Clocks'?",
+    "correct_answer": "Coldplay",
+    "incorrect_answers": ["Keane", "The Killers", "Snow Patrol"]
+  },
+
+  {
+    "id": 131,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper released the 2012 album 'good kid, m.A.A.d city'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["J. Cole", "Drake", "Big Sean"]
+  },
+  {
+    "id": 132,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which producer is behind the hit 'Wake Me Up'?",
+    "correct_answer": "Avicii",
+    "incorrect_answers": ["Calvin Harris", "Zedd", "Kygo"]
+  },
+  {
+    "id": 133,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit 'Rehab'?",
+    "correct_answer": "Amy Winehouse",
+    "incorrect_answers": ["Adele", "Lily Allen", "Jessie J"]
+  },
+  {
+    "id": 134,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who sang the hit song 'Sorry Not Sorry'?",
+    "correct_answer": "Demi Lovato",
+    "incorrect_answers": ["Ariana Grande", "Selena Gomez", "Halsey"]
+  },
+  {
+    "id": 135,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rock band released 'Boulevard of Broken Dreams'?",
+    "correct_answer": "Green Day",
+    "incorrect_answers": ["Blink-182", "My Chemical Romance", "Fall Out Boy"]
+  },
+  {
+    "id": 136,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which duo released the hit 'Closer'?",
+    "correct_answer": "The Chainsmokers",
+    "incorrect_answers": ["Zedd & Alessia Cara", "Calvin Harris & Rihanna", "Kygo & Selena Gomez"]
+  },
+  {
+    "id": 137,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper released the 2018 album 'Astroworld'?",
+    "correct_answer": "Travis Scott",
+    "incorrect_answers": ["Drake", "Juice WRLD", "Future"]
+  },
+  {
+    "id": 138,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit single 'Happier Than Ever'?",
+    "correct_answer": "Billie Eilish",
+    "incorrect_answers": ["Lorde", "Olivia Rodrigo", "Halsey"]
+  },
+  {
+    "id": 139,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which electro-pop band released 'Midnight City'?",
+    "correct_answer": "M83",
+    "incorrect_answers": ["CHVRCHES", "Empire of the Sun", "The Naked and Famous"]
+  },
+  {
+    "id": 140,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is known for the song 'Summertime Sadness'?",
+    "correct_answer": "Lana Del Rey",
+    "incorrect_answers": ["Halsey", "Lorde", "Florence Welch"]
+  },
+
+  {
+    "id": 141,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit single 'DNA.'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["J. Cole", "Drake", "Future"]
+  },
+  {
+    "id": 142,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who produced the 2017 hit 'Something Just Like This' with Coldplay?",
+    "correct_answer": "The Chainsmokers",
+    "incorrect_answers": ["Zedd", "Calvin Harris", "Kygo"]
+  },
+  {
+    "id": 143,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist released 'Love on the Brain'?",
+    "correct_answer": "Rihanna",
+    "incorrect_answers": ["Beyoncé", "SZA", "Ariana Grande"]
+  },
+  {
+    "id": 144,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2014 single 'Habits (Stay High)'?",
+    "correct_answer": "Tove Lo",
+    "incorrect_answers": ["Lorde", "Halsey", "Sia"]
+  },
+  {
+    "id": 145,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the 2012 album 'Night Visions'?",
+    "correct_answer": "Imagine Dragons",
+    "incorrect_answers": ["The Killers", "Coldplay", "Bastille"]
+  },
+  {
+    "id": 146,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which singer released 'Toxic'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": ["Christina Aguilera", "Pink", "Jessica Simpson"]
+  },
+  {
+    "id": 147,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the song 'Stressed Out'?",
+    "correct_answer": "Twenty One Pilots",
+    "incorrect_answers": ["Imagine Dragons", "Fall Out Boy", "Panic! at the Disco"]
+  },
+  {
+    "id": 148,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist released 'Lose Yourself to Dance' with Daft Punk?",
+    "correct_answer": "Pharrell Williams",
+    "incorrect_answers": ["Bruno Mars", "The Weeknd", "Justin Timberlake"]
+  },
+  {
+    "id": 149,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who sang the 2009 hit 'Fireflies'?",
+    "correct_answer": "Owl City",
+    "incorrect_answers": ["The Postal Service", "MGMT", "Passion Pit"]
+  },
+  {
+    "id": 150,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which R&B artist released the 2016 album 'Anti'?",
+    "correct_answer": "Rihanna",
+    "incorrect_answers": ["Beyoncé", "SZA", "Ariana Grande"]
+  },
+
+  {
+    "id": 151,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2019 song 'Talk'?",
+    "correct_answer": "Khalid",
+    "incorrect_answers": ["The Weeknd", "Frank Ocean", "Miguel"]
+  },
+  {
+    "id": 152,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the lead vocalist of Paramore?",
+    "correct_answer": "Hayley Williams",
+    "incorrect_answers": ["Amy Lee", "Avril Lavigne", "Lzzy Hale"]
+  },
+  {
+    "id": 153,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which DJ released the hit track 'Levels'?",
+    "correct_answer": "Avicii",
+    "incorrect_answers": ["Zedd", "Calvin Harris", "David Guetta"]
+  },
+  {
+    "id": 154,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is known for the 2011 song 'Someone Like You'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": ["Lana Del Rey", "Kelly Clarkson", "Florence Welch"]
+  },
+  {
+    "id": 155,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What duo created the hit 'Black Beatles'?",
+    "correct_answer": "Rae Sremmurd",
+    "incorrect_answers": ["Migos", "The Chainsmokers", "OutKast"]
+  },
+  {
+    "id": 156,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper released the critically acclaimed album '2014 Forest Hills Drive'?",
+    "correct_answer": "J. Cole",
+    "incorrect_answers": ["Kanye West", "Kid Cudi", "Logic"]
+  },
+  {
+    "id": 157,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which group released the hit 'Pompeii'?",
+    "correct_answer": "Bastille",
+    "incorrect_answers": ["Imagine Dragons", "The Script", "Coldplay"]
+  },
+  {
+    "id": 158,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist released 'Stay With Me'?",
+    "correct_answer": "Sam Smith",
+    "incorrect_answers": ["Adele", "Lewis Capaldi", "Ed Sheeran"]
+  },
+  {
+    "id": 159,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released 'Love Me Now'?",
+    "correct_answer": "John Legend",
+    "incorrect_answers": ["Miguel", "Bruno Mars", "The Weeknd"]
+  },
+  {
+    "id": 160,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2018 hit 'Eastside' with Halsey and Khalid?",
+    "correct_answer": "Benny Blanco",
+    "incorrect_answers": ["Zedd", "Calvin Harris", "Major Lazer"]
+  },
+
+  {
+    "id": 161,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What rock band released the 2003 album 'Elephant'?",
+    "correct_answer": "The White Stripes",
+    "incorrect_answers": ["The Black Keys", "Arcade Fire", "Interpol"]
+  },
+  {
+    "id": 162,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the jazz-influenced pop song 'Put Your Records On'?",
+    "correct_answer": "Corinne Bailey Rae",
+    "incorrect_answers": ["Adele", "Amy Winehouse", "Norah Jones"]
+  },
+  {
+    "id": 163,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who produced 'We Found Love'?",
+    "correct_answer": "Calvin Harris",
+    "incorrect_answers": ["Zedd", "David Guetta", "Diplo"]
+  },
+  {
+    "id": 164,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What band released the 2005 album 'X&Y'?",
+    "correct_answer": "Coldplay",
+    "incorrect_answers": ["Keane", "Muse", "U2"]
+  },
+  {
+    "id": 165,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What artist released the 2015 hit 'The Hills'?",
+    "correct_answer": "The Weeknd",
+    "incorrect_answers": ["Drake", "Post Malone", "Tory Lanez"]
+  },
+  {
+    "id": 166,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the indie hit 'Electric Feel'?",
+    "correct_answer": "MGMT",
+    "incorrect_answers": ["Vampire Weekend", "Passion Pit", "Phoenix"]
+  },
+  {
+    "id": 167,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released 'Bad Liar' in 2017?",
+    "correct_answer": "Selena Gomez",
+    "incorrect_answers": ["Halsey", "Dua Lipa", "Ariana Grande"]
+  },
+  {
+    "id": 168,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2020 hit 'Savage Love' with Jason Derulo?",
+    "correct_answer": "Jawsh 685",
+    "incorrect_answers": ["Zedd", "Marshmello", "Major Lazer"]
+  },
+  {
+    "id": 169,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the critically acclaimed 2015 album 'Emotion'?",
+    "correct_answer": "Carly Rae Jepsen",
+    "incorrect_answers": ["Ariana Grande", "Charli XCX", "Tove Lo"]
+  },
+  {
+    "id": 170,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released the 2011 hit 'Born to Die'?",
+    "correct_answer": "Lana Del Rey",
+    "incorrect_answers": ["Florence Welch", "Adele", "Halsey"]
+  },
+
+  {
+    "id": 171,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which R&B singer released the album 'Ctrl'?",
+    "correct_answer": "SZA",
+    "incorrect_answers": ["H.E.R.", "Jhené Aiko", "Kehlani"]
+  },
+  {
+    "id": 172,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What group released the 2013 song 'Safe and Sound'?",
+    "correct_answer": "Capital Cities",
+    "incorrect_answers": ["Foster the People", "Passion Pit", "Empire of the Sun"]
+  },
+  {
+    "id": 173,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper released the 2019 hit 'Suge'?",
+    "correct_answer": "DaBaby",
+    "incorrect_answers": ["Roddy Ricch", "Lil Baby", "Travis Scott"]
+  },
+  {
+    "id": 174,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the song 'Sweater Weather'?",
+    "correct_answer": "The Neighbourhood",
+    "incorrect_answers": ["The 1975", "Arctic Monkeys", "Cage the Elephant"]
+  },
+  {
+    "id": 175,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released 'Team' in 2013?",
+    "correct_answer": "Lorde",
+    "incorrect_answers": ["Halsey", "Lana Del Rey", "Ellie Goulding"]
+  },
+  {
+    "id": 176,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which DJ collaborated with Rihanna on 'This Is What You Came For'?",
+    "correct_answer": "Calvin Harris",
+    "incorrect_answers": ["Zedd", "David Guetta", "Kygo"]
+  },
+  {
+    "id": 177,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the indie pop hit 'Dog Days Are Over'?",
+    "correct_answer": "Florence + The Machine",
+    "incorrect_answers": ["Lorde", "Haim", "Marina"]
+  },
+  {
+    "id": 178,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What band released the 2005 hit 'Feel Good Inc.'?",
+    "correct_answer": "Gorillaz",
+    "incorrect_answers": ["Daft Punk", "The Killers", "Phoenix"]
+  },
+  {
+    "id": 179,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which artist wrote and recorded 'Weight of the World'?",
+    "correct_answer": "Earth, Wind & Fire",
+    "incorrect_answers": ["Kool & The Gang", "The Isley Brothers", "Sly & The Family Stone"]
+  },
+  {
+    "id": 180,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released the 2014 pop hit 'Problem'?",
+    "correct_answer": "Ariana Grande",
+    "incorrect_answers": ["Demi Lovato", "Selena Gomez", "Camila Cabello"]
+  },
+
+  {
+    "id": 181,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released 'Lights'?",
+    "correct_answer": "Ellie Goulding",
+    "incorrect_answers": ["Lorde", "Halsey", "Dua Lipa"]
+  },
+  {
+    "id": 182,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which rapper released 'HUMBLE.' in 2017?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": ["J. Cole", "Drake", "Kanye West"]
+  },
+  {
+    "id": 183,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released 'I Like Me Better'?",
+    "correct_answer": "Lauv",
+    "incorrect_answers": ["Troye Sivan", "Shawn Mendes", "Lewis Capaldi"]
+  },
+  {
+    "id": 184,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released the 2016 song 'Treat You Better'?",
+    "correct_answer": "Shawn Mendes",
+    "incorrect_answers": ["Charlie Puth", "Ed Sheeran", "Niall Horan"]
+  },
+  {
+    "id": 185,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What band released the hit 'Shut Up and Dance'?",
+    "correct_answer": "Walk the Moon",
+    "incorrect_answers": ["Imagine Dragons", "The Script", "Fun."]
+  },
+  {
+    "id": 186,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the 2017 album 'Melodrama'?",
+    "correct_answer": "Lorde",
+    "incorrect_answers": ["Billie Eilish", "Halsey", "Dua Lipa"]
+  },
+  {
+    "id": 187,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What rapper performed 'XO Tour Llif3'?",
+    "correct_answer": "Lil Uzi Vert",
+    "incorrect_answers": ["Juice WRLD", "Lil Yachty", "Future"]
+  },
+  {
+    "id": 188,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What band released the hit 'The Middle' with Zedd?",
+    "correct_answer": "Maren Morris & Grey",
+    "incorrect_answers": ["Halsey", "Florida Georgia Line", "Julia Michaels"]
+  },
+  {
+    "id": 189,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which singer performed 'Attention'?",
+    "correct_answer": "Charlie Puth",
+    "incorrect_answers": ["Shawn Mendes", "Jason Derulo", "Zayn"]
+  },
+  {
+    "id": 190,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit 'Paris'?",
+    "correct_answer": "The Chainsmokers",
+    "incorrect_answers": ["Kygo", "Marshmello", "Zedd"]
+  },
+
+  {
+    "id": 191,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What singer released 'Lights Down Low'?",
+    "correct_answer": "MAX",
+    "incorrect_answers": ["Charlie Puth", "Shawn Mendes", "Troye Sivan"]
+  },
+  {
+    "id": 192,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which band released the song 'Radioactive'?",
+    "correct_answer": "Imagine Dragons",
+    "incorrect_answers": ["The Killers", "Coldplay", "Fall Out Boy"]
+  },
+  {
+    "id": 193,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What rapper released 'Rockstar' with 21 Savage?",
+    "correct_answer": "Post Malone",
+    "incorrect_answers": ["Drake", "Lil Baby", "Kodak Black"]
+  },
+  {
+    "id": 194,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What group released the pop hit 'Cool Kids'?",
+    "correct_answer": "Echosmith",
+    "incorrect_answers": ["Foster the People", "Paramore", "Chvrches"]
+  },
+  {
+    "id": 195,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the hit 'Love Yourself'?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": ["Shawn Mendes", "Ed Sheeran", "Charlie Puth"]
+  },
+  {
+    "id": 196,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who performed the hit 'Habibi'?",
+    "correct_answer": "Ricky Rich",
+    "incorrect_answers": ["Maluma", "J Balvin", "Bad Bunny"]
+  },
+  {
+    "id": 197,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which singer released 'Before You Go'?",
+    "correct_answer": "Lewis Capaldi",
+    "incorrect_answers": ["Sam Smith", "Charlie Puth", "Ed Sheeran"]
+  },
+  {
+    "id": 198,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is known for the hit single 'Ride'? ",
+    "correct_answer": "Twenty One Pilots",
+    "incorrect_answers": ["The Neighbourhood", "AJR", "Imagine Dragons"]
+  },
+  {
+    "id": 199,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who released the pop anthem 'Teenage Dream'?",
+    "correct_answer": "Katy Perry",
+    "incorrect_answers": ["Demi Lovato", "Ariana Grande", "Taylor Swift"]
+  },
+  {
+    "id": 200,
+    "category": "Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which singer released 'IDGAF'?",
+    "correct_answer": "Dua Lipa",
+    "incorrect_answers": ["Rita Ora", "Ariana Grande", "Halsey"]
+  },
+  
 
 
 
