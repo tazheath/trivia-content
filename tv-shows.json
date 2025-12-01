@@ -249,9 +249,6 @@
     "incorrect_answers": ["A-Train", "Black Noir", "Butcher"],
     "release_year": 2019
   },
-
-  /* ---- MEDIUM DIFFICULTY STARTS HERE ---- */
-
   {
     "id": 26,
     "category": "TV Shows",
@@ -432,9 +429,6 @@
     "incorrect_answers": ["Mai", "Ty Lee", "Ursa"],
     "release_year": 2005
   },
-
-  /* ---- HARD DIFFICULTY STARTS HERE ---- */
-
   {
     "id": 44,
     "category": "TV Shows",
