@@ -324,7 +324,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "What movie features a magical chocolatier named Willy Wonka?",
+    "question": "What movie features a magical chocolatier?",
     "correct_answer": "Willy Wonka & the Chocolate Factory",
     "incorrect_answers": ["James and the Giant Peach", "The BFG", "Matilda"],
     "release_year": 1971
