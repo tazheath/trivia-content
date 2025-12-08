@@ -4,7 +4,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which 1997 film features a romance aboard a doomed ocean liner and stars Leonardo DiCaprio and Kate Winslet?",
+    "question": "Which 1997 romance film features stars Leonardo DiCaprio and Kate Winslet?",
     "correct_answer": "Titanic",
     "incorrect_answers": ["The Notebook", "Romeo + Juliet", "Pearl Harbor"],
     "release_year": 1997
@@ -134,7 +134,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which film features Simba, Timon, and Pumbaa?",
+    "question": "Which animated film features a warthog and a meerkat as sidekicks?",
     "correct_answer": "The Lion King",
     "incorrect_answers": ["Madagascar", "Zootopia", "Ice Age"],
     "release_year": 1994
@@ -214,7 +214,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which animated film features a clown named Pennywise?",
+    "question": "Which horror film features a clown named Pennywise?",
     "correct_answer": "It",
     "incorrect_answers": ["Coraline", "Monster House", "ParaNorman"],
     "release_year": 2017
