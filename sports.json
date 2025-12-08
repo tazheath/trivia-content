@@ -1267,9 +1267,9 @@
     "category": "Sports",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which Formula 1 driver has won the most world championships?",
-    "correct_answer": "Lewis Hamilton",
-    "incorrect_answers": ["Michael Schumacher", "Sebastian Vettel", "Ayrton Senna"]
+    "question": "Which Formula 1 driver is tied with Lewis Hamilton for the most world championships?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": ["Alain Prost", "Sebastian Vettel", "Ayrton Senna"]
   },
   {
     "id": 164,
