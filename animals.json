@@ -1,1 +1,2703 @@
-
+[
+  {
+    "id": 1,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest land animal on Earth?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": ["Giraffe", "Hippopotamus", "Rhinoceros"]
+  },
+  {
+    "id": 2,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a baby dog?",
+    "correct_answer": "Puppy",
+    "incorrect_answers": ["Kitten", "Cub", "Foal"]
+  },
+  {
+    "id": 3,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is known as man's best friend?",
+    "correct_answer": "Dog",
+    "incorrect_answers": ["Cat", "Horse", "Rabbit"]
+  },
+  {
+    "id": 4,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a shark?",
+    "correct_answer": "Fish",
+    "incorrect_answers": ["Mammal", "Reptile", "Amphibian"]
+  },
+  {
+    "id": 5,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many legs does a spider have?",
+    "correct_answer": "8",
+    "incorrect_answers": ["6", "10", "4"]
+  },
+  {
+    "id": 6,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is known for its black and white stripes?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": ["Tiger", "Panda", "Skunk"]
+  },
+  {
+    "id": 7,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "correct_answer": "Parrot",
+    "incorrect_answers": ["Eagle", "Owl", "Penguin"]
+  },
+  {
+    "id": 8,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do caterpillars turn into?",
+    "correct_answer": "Butterflies",
+    "incorrect_answers": ["Beetles", "Dragonflies", "Grasshoppers"]
+  },
+  {
+    "id": 9,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal carries its home on its back?",
+    "correct_answer": "Turtle",
+    "incorrect_answers": ["Crab", "Lobster", "Armadillo"]
+  },
+  {
+    "id": 10,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a group of lions called?",
+    "correct_answer": "Pride",
+    "incorrect_answers": ["Pack", "Herd", "Flock"]
+  },
+  {
+    "id": 11,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is the fastest on land?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": ["Lion", "Horse", "Greyhound"]
+  },
+  {
+    "id": 12,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What sound does a cow make?",
+    "correct_answer": "Moo",
+    "incorrect_answers": ["Baa", "Oink", "Neigh"]
+  },
+  {
+    "id": 13,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal has a long trunk?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": ["Anteater", "Tapir", "Walrus"]
+  },
+  {
+    "id": 14,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do bees produce?",
+    "correct_answer": "Honey",
+    "incorrect_answers": ["Milk", "Silk", "Maple syrup"]
+  },
+  {
+    "id": 15,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is known for hopping and has a pouch?",
+    "correct_answer": "Kangaroo",
+    "incorrect_answers": ["Rabbit", "Frog", "Deer"]
+  },
+  {
+    "id": 16,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby cat called?",
+    "correct_answer": "Kitten",
+    "incorrect_answers": ["Cub", "Puppy", "Calf"]
+  },
+  {
+    "id": 17,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird cannot fly?",
+    "correct_answer": "Penguin",
+    "incorrect_answers": ["Seagull", "Pelican", "Flamingo"]
+  },
+  {
+    "id": 18,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is known as the King of the Jungle?",
+    "correct_answer": "Lion",
+    "incorrect_answers": ["Tiger", "Elephant", "Gorilla"]
+  },
+  {
+    "id": 19,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many legs does an insect have?",
+    "correct_answer": "6",
+    "incorrect_answers": ["8", "4", "10"]
+  },
+  {
+    "id": 20,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal produces wool?",
+    "correct_answer": "Sheep",
+    "incorrect_answers": ["Goat", "Cow", "Pig"]
+  },
+  {
+    "id": 21,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the tallest animal in the world?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": ["Elephant", "Camel", "Ostrich"]
+  },
+  {
+    "id": 22,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which ocean animal has eight arms?",
+    "correct_answer": "Octopus",
+    "incorrect_answers": ["Squid", "Starfish", "Jellyfish"]
+  },
+  {
+    "id": 23,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal says oink?",
+    "correct_answer": "Pig",
+    "incorrect_answers": ["Dog", "Cow", "Sheep"]
+  },
+  {
+    "id": 24,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which reptile has a shell?",
+    "correct_answer": "Turtle",
+    "incorrect_answers": ["Snake", "Lizard", "Crocodile"]
+  },
+  {
+    "id": 25,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do pandas mainly eat?",
+    "correct_answer": "Bamboo",
+    "incorrect_answers": ["Fish", "Berries", "Insects"]
+  },
+  {
+    "id": 26,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is known for building dams?",
+    "correct_answer": "Beaver",
+    "incorrect_answers": ["Otter", "Muskrat", "Raccoon"]
+  },
+  {
+    "id": 27,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby horse called?",
+    "correct_answer": "Foal",
+    "incorrect_answers": ["Calf", "Lamb", "Kid"]
+  },
+  {
+    "id": 28,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Australian animal eats eucalyptus leaves?",
+    "correct_answer": "Koala",
+    "incorrect_answers": ["Kangaroo", "Wombat", "Platypus"]
+  },
+  {
+    "id": 29,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a frog?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": ["Reptile", "Mammal", "Fish"]
+  },
+  {
+    "id": 30,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which farm animal gives us eggs?",
+    "correct_answer": "Chicken",
+    "incorrect_answers": ["Cow", "Pig", "Horse"]
+  },
+  {
+    "id": 31,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a group of fish called?",
+    "correct_answer": "School",
+    "incorrect_answers": ["Herd", "Pack", "Flock"]
+  },
+  {
+    "id": 32,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is known for its very long neck?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": ["Swan", "Ostrich", "Camel"]
+  },
+  {
+    "id": 33,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do herbivores eat?",
+    "correct_answer": "Plants",
+    "incorrect_answers": ["Meat", "Both plants and meat", "Insects"]
+  },
+  {
+    "id": 34,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal has a hump on its back and lives in deserts?",
+    "correct_answer": "Camel",
+    "incorrect_answers": ["Buffalo", "Bison", "Yak"]
+  },
+  {
+    "id": 35,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest animal in the ocean?",
+    "correct_answer": "Blue whale",
+    "incorrect_answers": ["Great white shark", "Giant squid", "Orca"]
+  },
+  {
+    "id": 36,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal sleeps hanging upside down?",
+    "correct_answer": "Bat",
+    "incorrect_answers": ["Sloth", "Monkey", "Koala"]
+  },
+  {
+    "id": 37,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby sheep called?",
+    "correct_answer": "Lamb",
+    "incorrect_answers": ["Kid", "Calf", "Foal"]
+  },
+  {
+    "id": 38,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which lizard is famous for changing colors?",
+    "correct_answer": "Chameleon",
+    "incorrect_answers": ["Gecko", "Iguana", "Komodo dragon"]
+  },
+  {
+    "id": 39,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do carnivores eat?",
+    "correct_answer": "Meat",
+    "incorrect_answers": ["Plants", "Both plants and meat", "Fruit"]
+  },
+  {
+    "id": 40,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal has a very long tongue to catch ants?",
+    "correct_answer": "Anteater",
+    "incorrect_answers": ["Bear", "Badger", "Raccoon"]
+  },
+  {
+    "id": 41,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby cow called?",
+    "correct_answer": "Calf",
+    "incorrect_answers": ["Foal", "Lamb", "Kid"]
+  },
+  {
+    "id": 42,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bear has black and white fur and lives in China?",
+    "correct_answer": "Giant panda",
+    "incorrect_answers": ["Polar bear", "Grizzly bear", "Sun bear"]
+  },
+  {
+    "id": 43,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many wings does a butterfly have?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "6", "8"]
+  },
+  {
+    "id": 44,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird is the national symbol of the United States?",
+    "correct_answer": "Bald eagle",
+    "incorrect_answers": ["Turkey", "Hawk", "Owl"]
+  },
+  {
+    "id": 45,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a group of wolves?",
+    "correct_answer": "Pack",
+    "incorrect_answers": ["Herd", "Pride", "Flock"]
+  },
+  {
+    "id": 46,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal sprays a smelly liquid when scared?",
+    "correct_answer": "Skunk",
+    "incorrect_answers": ["Porcupine", "Badger", "Weasel"]
+  },
+  {
+    "id": 47,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby goat called?",
+    "correct_answer": "Kid",
+    "incorrect_answers": ["Lamb", "Calf", "Foal"]
+  },
+  {
+    "id": 48,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal has sharp quills for protection?",
+    "correct_answer": "Porcupine",
+    "incorrect_answers": ["Hedgehog", "Armadillo", "Beaver"]
+  },
+  {
+    "id": 49,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the only mammal that can truly fly?",
+    "correct_answer": "Bat",
+    "incorrect_answers": ["Flying squirrel", "Sugar glider", "Flying fish"]
+  },
+  {
+    "id": 50,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird has colorful tail feathers that look like eyes?",
+    "correct_answer": "Peacock",
+    "incorrect_answers": ["Parrot", "Flamingo", "Toucan"]
+  },
+  {
+    "id": 51,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a dolphin?",
+    "correct_answer": "Mammal",
+    "incorrect_answers": ["Fish", "Reptile", "Amphibian"]
+  },
+  {
+    "id": 52,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which small pet stores food in its cheeks?",
+    "correct_answer": "Hamster",
+    "incorrect_answers": ["Rabbit", "Guinea pig", "Gerbil"]
+  },
+  {
+    "id": 53,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest species of bear?",
+    "correct_answer": "Polar bear",
+    "incorrect_answers": ["Grizzly bear", "Black bear", "Brown bear"]
+  },
+  {
+    "id": 54,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which insect makes a chirping sound at night?",
+    "correct_answer": "Cricket",
+    "incorrect_answers": ["Ant", "Beetle", "Fly"]
+  },
+  {
+    "id": 55,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a female horse called?",
+    "correct_answer": "Mare",
+    "incorrect_answers": ["Stallion", "Filly", "Colt"]
+  },
+  {
+    "id": 56,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal curls into a ball when threatened?",
+    "correct_answer": "Armadillo",
+    "incorrect_answers": ["Porcupine", "Turtle", "Skunk"]
+  },
+  {
+    "id": 57,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal is Bambi in the Disney movie?",
+    "correct_answer": "Deer",
+    "incorrect_answers": ["Rabbit", "Moose", "Horse"]
+  },
+  {
+    "id": 58,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sea creature has five arms?",
+    "correct_answer": "Starfish",
+    "incorrect_answers": ["Octopus", "Jellyfish", "Crab"]
+  },
+  {
+    "id": 59,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a male chicken called?",
+    "correct_answer": "Rooster",
+    "incorrect_answers": ["Hen", "Chick", "Turkey"]
+  },
+  {
+    "id": 60,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal can live for over 100 years?",
+    "correct_answer": "Tortoise",
+    "incorrect_answers": ["Dog", "Cat", "Rabbit"]
+  },
+  {
+    "id": 61,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do owls hunt?",
+    "correct_answer": "Mice and small animals",
+    "incorrect_answers": ["Seeds and berries", "Grass", "Flowers"]
+  },
+  {
+    "id": 62,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal pretends to be dead when scared?",
+    "correct_answer": "Opossum",
+    "incorrect_answers": ["Raccoon", "Skunk", "Fox"]
+  },
+  {
+    "id": 63,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a group of crows called?",
+    "correct_answer": "Murder",
+    "incorrect_answers": ["Flock", "Gaggle", "Herd"]
+  },
+  {
+    "id": 64,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is called the ship of the desert?",
+    "correct_answer": "Camel",
+    "incorrect_answers": ["Donkey", "Horse", "Elephant"]
+  },
+  {
+    "id": 65,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a whale?",
+    "correct_answer": "Mammal",
+    "incorrect_answers": ["Fish", "Reptile", "Amphibian"]
+  },
+  {
+    "id": 66,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal is said to never forget?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": ["Dog", "Dolphin", "Chimpanzee"]
+  },
+  {
+    "id": 67,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby frog called?",
+    "correct_answer": "Tadpole",
+    "incorrect_answers": ["Froglet", "Spawn", "Larva"]
+  },
+  {
+    "id": 68,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird is pink and stands on one leg?",
+    "correct_answer": "Flamingo",
+    "incorrect_answers": ["Pelican", "Crane", "Stork"]
+  },
+  {
+    "id": 69,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What covers a turtle's body for protection?",
+    "correct_answer": "Shell",
+    "incorrect_answers": ["Scales", "Fur", "Feathers"]
+  },
+  {
+    "id": 70,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which flying animal uses sound waves to navigate in the dark?",
+    "correct_answer": "Bat",
+    "incorrect_answers": ["Owl", "Eagle", "Hawk"]
+  },
+  {
+    "id": 71,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a group of geese called?",
+    "correct_answer": "Gaggle",
+    "incorrect_answers": ["Flock", "Herd", "Pack"]
+  },
+  {
+    "id": 72,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which marine animal floats on its back while eating?",
+    "correct_answer": "Sea otter",
+    "incorrect_answers": ["Seal", "Walrus", "Dolphin"]
+  },
+  {
+    "id": 73,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby deer called?",
+    "correct_answer": "Fawn",
+    "incorrect_answers": ["Calf", "Foal", "Kid"]
+  },
+  {
+    "id": 74,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal starts life in water and later lives on land?",
+    "correct_answer": "Frog",
+    "incorrect_answers": ["Fish", "Crab", "Snake"]
+  },
+  {
+    "id": 75,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby swan called?",
+    "correct_answer": "Cygnet",
+    "incorrect_answers": ["Chick", "Duckling", "Gosling"]
+  },
+  {
+    "id": 76,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal digs for ants and termites to eat?",
+    "correct_answer": "Anteater",
+    "incorrect_answers": ["Armadillo", "Mole", "Groundhog"]
+  },
+  {
+    "id": 77,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What color is a polar bear's skin?",
+    "correct_answer": "Black",
+    "incorrect_answers": ["White", "Pink", "Gray"]
+  },
+  {
+    "id": 78,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby kangaroo called?",
+    "correct_answer": "Joey",
+    "incorrect_answers": ["Cub", "Pup", "Kit"]
+  },
+  {
+    "id": 79,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby bear called?",
+    "correct_answer": "Cub",
+    "incorrect_answers": ["Pup", "Kit", "Calf"]
+  },
+  {
+    "id": 80,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal grows and sheds antlers every year?",
+    "correct_answer": "Deer",
+    "incorrect_answers": ["Goat", "Buffalo", "Cow"]
+  },
+  {
+    "id": 81,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is one of the slowest animals in the world?",
+    "correct_answer": "Sloth",
+    "incorrect_answers": ["Koala", "Panda", "Turtle"]
+  },
+  {
+    "id": 82,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which large bird can spread its wings over 10 feet wide?",
+    "correct_answer": "Albatross",
+    "incorrect_answers": ["Eagle", "Hawk", "Pelican"]
+  },
+  {
+    "id": 83,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a female deer called?",
+    "correct_answer": "Doe",
+    "incorrect_answers": ["Fawn", "Buck", "Stag"]
+  },
+  {
+    "id": 84,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal can regrow its tail if it breaks off?",
+    "correct_answer": "Lizard",
+    "incorrect_answers": ["Snake", "Frog", "Turtle"]
+  },
+  {
+    "id": 85,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What do you call a group of elephants?",
+    "correct_answer": "Herd",
+    "incorrect_answers": ["Pack", "Pride", "Flock"]
+  },
+  {
+    "id": 86,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which large animal has one or two horns on its nose?",
+    "correct_answer": "Rhinoceros",
+    "incorrect_answers": ["Buffalo", "Elephant", "Hippo"]
+  },
+  {
+    "id": 87,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby rabbit called?",
+    "correct_answer": "Kit",
+    "incorrect_answers": ["Bunny", "Pup", "Cub"]
+  },
+  {
+    "id": 88,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sea creature has tentacles that can sting?",
+    "correct_answer": "Jellyfish",
+    "incorrect_answers": ["Octopus", "Squid", "Starfish"]
+  },
+  {
+    "id": 89,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest species of cat in the world?",
+    "correct_answer": "Tiger",
+    "incorrect_answers": ["Lion", "Leopard", "Jaguar"]
+  },
+  {
+    "id": 90,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which bird travels from the Arctic to Antarctica each year?",
+    "correct_answer": "Arctic tern",
+    "incorrect_answers": ["Penguin", "Seagull", "Puffin"]
+  },
+  {
+    "id": 91,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a male deer called?",
+    "correct_answer": "Buck",
+    "incorrect_answers": ["Doe", "Fawn", "Ram"]
+  },
+  {
+    "id": 92,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which animal catches flies with its long sticky tongue?",
+    "correct_answer": "Frog",
+    "incorrect_answers": ["Snake", "Turtle", "Fish"]
+  },
+  {
+    "id": 93,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is a baby duck called?",
+    "correct_answer": "Duckling",
+    "incorrect_answers": ["Chick", "Gosling", "Cygnet"]
+  },
+  {
+    "id": 94,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which orange and white striped fish lives in sea anemones?",
+    "correct_answer": "Clownfish",
+    "incorrect_answers": ["Goldfish", "Angelfish", "Betta"]
+  },
+  {
+    "id": 95,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What type of animal is a cobra?",
+    "correct_answer": "Snake",
+    "incorrect_answers": ["Lizard", "Worm", "Eel"]
+  },
+  {
+    "id": 96,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which African animal makes a sound like laughter?",
+    "correct_answer": "Hyena",
+    "incorrect_answers": ["Monkey", "Parrot", "Lion"]
+  },
+  {
+    "id": 97,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What sweet liquid do butterflies drink from flowers?",
+    "correct_answer": "Nectar",
+    "incorrect_answers": ["Water", "Honey", "Sap"]
+  },
+  {
+    "id": 98,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which reptile is known for carrying its babies in its mouth?",
+    "correct_answer": "Crocodile",
+    "incorrect_answers": ["Snake", "Turtle", "Lizard"]
+  },
+  {
+    "id": 99,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the largest rodent in the world?",
+    "correct_answer": "Capybara",
+    "incorrect_answers": ["Beaver", "Porcupine", "Rat"]
+  },
+  {
+    "id": 100,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which caterpillar produces silk thread?",
+    "correct_answer": "Silkworm",
+    "incorrect_answers": ["Monarch caterpillar", "Woolly bear", "Hornworm"]
+  },
+  {
+    "id": 101,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the only continent where giraffes live in the wild?",
+    "correct_answer": "Africa",
+    "incorrect_answers": ["Asia", "South America", "Australia"]
+  },
+  {
+    "id": 102,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which mammal lays eggs?",
+    "correct_answer": "Platypus",
+    "incorrect_answers": ["Koala", "Kangaroo", "Wombat"]
+  },
+  {
+    "id": 103,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the collective noun for a group of owls?",
+    "correct_answer": "Parliament",
+    "incorrect_answers": ["Murder", "Flock", "Congress"]
+  },
+  {
+    "id": 104,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal requires extremely high blood pressure to pump blood to its brain?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": ["Elephant", "Blue whale", "Horse"]
+  },
+  {
+    "id": 105,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the process called when a snake sheds its skin?",
+    "correct_answer": "Molting",
+    "incorrect_answers": ["Shedding", "Peeling", "Scaling"]
+  },
+  {
+    "id": 106,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which great ape shares about 98% of its DNA with humans?",
+    "correct_answer": "Chimpanzee",
+    "incorrect_answers": ["Gorilla", "Orangutan", "Gibbon"]
+  },
+  {
+    "id": 107,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of ravens called?",
+    "correct_answer": "Unkindness",
+    "incorrect_answers": ["Murder", "Parliament", "Conspiracy"]
+  },
+  {
+    "id": 108,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Australian marsupial can sleep up to 22 hours a day?",
+    "correct_answer": "Koala",
+    "incorrect_answers": ["Wombat", "Kangaroo", "Tasmanian devil"]
+  },
+  {
+    "id": 109,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest species of penguin?",
+    "correct_answer": "Emperor penguin",
+    "incorrect_answers": ["King penguin", "Gentoo penguin", "Adelie penguin"]
+  },
+  {
+    "id": 110,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many hearts does an octopus have?",
+    "correct_answer": "3",
+    "incorrect_answers": ["1", "2", "4"]
+  },
+  {
+    "id": 111,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes animals that are most active at dawn and dusk?",
+    "correct_answer": "Crepuscular",
+    "incorrect_answers": ["Nocturnal", "Diurnal", "Cathemeral"]
+  },
+  {
+    "id": 112,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which marine mammal has the densest fur of any animal?",
+    "correct_answer": "Sea otter",
+    "incorrect_answers": ["Seal", "Polar bear", "Walrus"]
+  },
+  {
+    "id": 113,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a baby kangaroo called?",
+    "correct_answer": "Joey",
+    "incorrect_answers": ["Kit", "Pup", "Cub"]
+  },
+  {
+    "id": 114,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which is the only bird that can fly backwards?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": ["Swift", "Kingfisher", "Sparrow"]
+  },
+  {
+    "id": 115,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest living reptile?",
+    "correct_answer": "Saltwater crocodile",
+    "incorrect_answers": ["Komodo dragon", "Green anaconda", "Leatherback sea turtle"]
+  },
+  {
+    "id": 116,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal has the longest pregnancy at nearly 22 months?",
+    "correct_answer": "African elephant",
+    "incorrect_answers": ["Blue whale", "Giraffe", "Rhinoceros"]
+  },
+  {
+    "id": 117,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of animal is a Komodo dragon?",
+    "correct_answer": "Lizard",
+    "incorrect_answers": ["Dinosaur", "Crocodile", "Snake"]
+  },
+  {
+    "id": 118,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which South American fish can deliver an electric shock?",
+    "correct_answer": "Electric eel",
+    "incorrect_answers": ["Piranha", "Arapaima", "Catfish"]
+  },
+  {
+    "id": 119,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for animals that eat both plants and meat?",
+    "correct_answer": "Omnivore",
+    "incorrect_answers": ["Herbivore", "Carnivore", "Insectivore"]
+  },
+  {
+    "id": 120,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which ancient sea creature has blue blood?",
+    "correct_answer": "Horseshoe crab",
+    "incorrect_answers": ["Lobster", "Sea urchin", "Starfish"]
+  },
+  {
+    "id": 121,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the smallest mammal in the world by weight?",
+    "correct_answer": "Etruscan shrew",
+    "incorrect_answers": ["Bumblebee bat", "Pygmy mouse", "Least weasel"]
+  },
+  {
+    "id": 122,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How far can an owl rotate its head?",
+    "correct_answer": "270 degrees",
+    "incorrect_answers": ["180 degrees", "360 degrees", "90 degrees"]
+  },
+  {
+    "id": 123,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the only venomous primate?",
+    "correct_answer": "Slow loris",
+    "incorrect_answers": ["Tarsier", "Lemur", "Aye-aye"]
+  },
+  {
+    "id": 124,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which North American frog can survive being partially frozen?",
+    "correct_answer": "Wood frog",
+    "incorrect_answers": ["Bullfrog", "Tree frog", "Leopard frog"]
+  },
+  {
+    "id": 125,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of flamingos called?",
+    "correct_answer": "Flamboyance",
+    "incorrect_answers": ["Flock", "Colony", "Stand"]
+  },
+  {
+    "id": 126,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which African mammal has one of the strongest bite forces of any land animal?",
+    "correct_answer": "Hippopotamus",
+    "incorrect_answers": ["Lion", "Gorilla", "Hyena"]
+  },
+  {
+    "id": 127,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific study of birds called?",
+    "correct_answer": "Ornithology",
+    "incorrect_answers": ["Entomology", "Herpetology", "Ichthyology"]
+  },
+  {
+    "id": 128,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tiny primate has eyes almost as large as its brain?",
+    "correct_answer": "Tarsier",
+    "incorrect_answers": ["Bushbaby", "Mouse lemur", "Pygmy marmoset"]
+  },
+  {
+    "id": 129,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main visible difference between alligators and crocodiles?",
+    "correct_answer": "Snout shape",
+    "incorrect_answers": ["Size", "Color", "Number of teeth"]
+  },
+  {
+    "id": 130,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which seabird makes the longest annual migration?",
+    "correct_answer": "Arctic tern",
+    "incorrect_answers": ["Albatross", "Puffin", "Gannet"]
+  },
+  {
+    "id": 131,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of jellyfish called?",
+    "correct_answer": "Smack",
+    "incorrect_answers": ["Bloom", "Swarm", "School"]
+  },
+  {
+    "id": 132,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which whale can hold its breath for over two hours?",
+    "correct_answer": "Cuvier's beaked whale",
+    "incorrect_answers": ["Sperm whale", "Blue whale", "Humpback whale"]
+  },
+  {
+    "id": 133,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the fastest fish in the ocean?",
+    "correct_answer": "Sailfish",
+    "incorrect_answers": ["Marlin", "Swordfish", "Tuna"]
+  },
+  {
+    "id": 134,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which insect has a brain that takes up a large portion of its body?",
+    "correct_answer": "Ant",
+    "incorrect_answers": ["Bee", "Beetle", "Fly"]
+  },
+  {
+    "id": 135,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the term for an animal that feeds on dead animals?",
+    "correct_answer": "Scavenger",
+    "incorrect_answers": ["Predator", "Herbivore", "Parasite"]
+  },
+  {
+    "id": 136,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Australian lizard displays a large frill when threatened?",
+    "correct_answer": "Frilled lizard",
+    "incorrect_answers": ["Bearded dragon", "Blue-tongued skink", "Thorny devil"]
+  },
+  {
+    "id": 137,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What percentage of DNA do humans share with bananas?",
+    "correct_answer": "About 60%",
+    "incorrect_answers": ["About 25%", "About 85%", "About 10%"]
+  },
+  {
+    "id": 138,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which marine mammal sleeps with half its brain at a time?",
+    "correct_answer": "Dolphin",
+    "incorrect_answers": ["Seal", "Sea lion", "Manatee"]
+  },
+  {
+    "id": 139,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of ferrets called?",
+    "correct_answer": "Business",
+    "incorrect_answers": ["Cluster", "Gang", "Colony"]
+  },
+  {
+    "id": 140,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which flightless bird lays eggs that are 20% of its body weight?",
+    "correct_answer": "Kiwi",
+    "incorrect_answers": ["Emu", "Ostrich", "Cassowary"]
+  },
+  {
+    "id": 141,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How long does an adult mayfly typically live?",
+    "correct_answer": "24 hours or less",
+    "incorrect_answers": ["1 week", "1 month", "3 days"]
+  },
+  {
+    "id": 142,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which whale produces the loudest sound of any animal?",
+    "correct_answer": "Sperm whale",
+    "incorrect_answers": ["Blue whale", "Humpback whale", "Orca"]
+  },
+  {
+    "id": 143,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a female fox called?",
+    "correct_answer": "Vixen",
+    "incorrect_answers": ["Doe", "Dam", "Sow"]
+  },
+  {
+    "id": 144,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which snake is the longest in the world?",
+    "correct_answer": "Reticulated python",
+    "incorrect_answers": ["Green anaconda", "King cobra", "Burmese python"]
+  },
+  {
+    "id": 145,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many compartments does a cow's stomach have?",
+    "correct_answer": "4",
+    "incorrect_answers": ["2", "3", "5"]
+  },
+  {
+    "id": 146,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which insect can lift 50 times its own body weight?",
+    "correct_answer": "Ant",
+    "incorrect_answers": ["Beetle", "Grasshopper", "Bee"]
+  },
+  {
+    "id": 147,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of rhinoceroses called?",
+    "correct_answer": "Crash",
+    "incorrect_answers": ["Herd", "Pod", "Gang"]
+  },
+  {
+    "id": 148,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which marsupial has a pregnancy of only about 12 days?",
+    "correct_answer": "Opossum",
+    "incorrect_answers": ["Kangaroo", "Koala", "Wombat"]
+  },
+  {
+    "id": 149,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which bird has nostrils at the tip of its beak?",
+    "correct_answer": "Kiwi",
+    "incorrect_answers": ["Penguin", "Ostrich", "Emu"]
+  },
+  {
+    "id": 150,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which microscopic animal can survive extreme heat, cold, and radiation?",
+    "correct_answer": "Tardigrade",
+    "incorrect_answers": ["Amoeba", "Rotifer", "Nematode"]
+  },
+  {
+    "id": 151,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is an animal that primarily eats insects called?",
+    "correct_answer": "Insectivore",
+    "incorrect_answers": ["Carnivore", "Omnivore", "Herbivore"]
+  },
+  {
+    "id": 152,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which bird must eat almost constantly due to its high metabolism?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": ["Sparrow", "Wren", "Swallow"]
+  },
+  {
+    "id": 153,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of kangaroos called?",
+    "correct_answer": "Mob",
+    "incorrect_answers": ["Herd", "Pack", "Troop"]
+  },
+  {
+    "id": 154,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which fish can breathe air and walk on land using its fins?",
+    "correct_answer": "Mudskipper",
+    "incorrect_answers": ["Catfish", "Lungfish", "Carp"]
+  },
+  {
+    "id": 155,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest species of shark?",
+    "correct_answer": "Whale shark",
+    "incorrect_answers": ["Great white shark", "Basking shark", "Tiger shark"]
+  },
+  {
+    "id": 156,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which tropical bird is famous for elaborate courtship dances?",
+    "correct_answer": "Bird of paradise",
+    "incorrect_answers": ["Peacock", "Toucan", "Macaw"]
+  },
+  {
+    "id": 157,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What term describes animals that are most active during the day?",
+    "correct_answer": "Diurnal",
+    "incorrect_answers": ["Nocturnal", "Crepuscular", "Cathemeral"]
+  },
+  {
+    "id": 158,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which marsupial has fingerprints nearly identical to humans?",
+    "correct_answer": "Koala",
+    "incorrect_answers": ["Kangaroo", "Wombat", "Opossum"]
+  },
+  {
+    "id": 159,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of crows called?",
+    "correct_answer": "Murder",
+    "incorrect_answers": ["Flock", "Parliament", "Colony"]
+  },
+  {
+    "id": 160,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which flatworm can regenerate its entire body from a small piece?",
+    "correct_answer": "Planarian",
+    "incorrect_answers": ["Tapeworm", "Fluke", "Leech"]
+  },
+  {
+    "id": 161,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest invertebrate on Earth?",
+    "correct_answer": "Colossal squid",
+    "incorrect_answers": ["Giant squid", "Japanese spider crab", "Giant Pacific octopus"]
+  },
+  {
+    "id": 162,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal has the most genes dedicated to smell?",
+    "correct_answer": "African elephant",
+    "incorrect_answers": ["Bloodhound", "Bear", "Shark"]
+  },
+  {
+    "id": 163,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a male swan called?",
+    "correct_answer": "Cob",
+    "incorrect_answers": ["Drake", "Gander", "Tom"]
+  },
+  {
+    "id": 164,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which North American bird builds the largest tree nests?",
+    "correct_answer": "Bald eagle",
+    "incorrect_answers": ["Osprey", "Great blue heron", "Red-tailed hawk"]
+  },
+  {
+    "id": 165,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific study of reptiles and amphibians called?",
+    "correct_answer": "Herpetology",
+    "incorrect_answers": ["Ichthyology", "Ornithology", "Mammalogy"]
+  },
+  {
+    "id": 166,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal uses rocks as tools to crack open shellfish?",
+    "correct_answer": "Sea otter",
+    "incorrect_answers": ["Seal", "Walrus", "Sea lion"]
+  },
+  {
+    "id": 167,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the only marsupial native to North America?",
+    "correct_answer": "Virginia opossum",
+    "incorrect_answers": ["Raccoon", "Armadillo", "Groundhog"]
+  },
+  {
+    "id": 168,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which fish has skin up to 10 centimeters thick?",
+    "correct_answer": "Whale shark",
+    "incorrect_answers": ["Great white shark", "Manta ray", "Ocean sunfish"]
+  },
+  {
+    "id": 169,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of butterflies called?",
+    "correct_answer": "Kaleidoscope",
+    "incorrect_answers": ["Flutter", "Swarm", "Cloud"]
+  },
+  {
+    "id": 170,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which large mammal sleeps only about 30 minutes per day?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": ["Horse", "Elephant", "Deer"]
+  },
+  {
+    "id": 171,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest species of lizard?",
+    "correct_answer": "Komodo dragon",
+    "incorrect_answers": ["Monitor lizard", "Green iguana", "Gila monster"]
+  },
+  {
+    "id": 172,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which bird lays the largest eggs of any living species?",
+    "correct_answer": "Ostrich",
+    "incorrect_answers": ["Emu", "Cassowary", "Rhea"]
+  },
+  {
+    "id": 173,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What type of animal is a Portuguese man o' war?",
+    "correct_answer": "Colonial organism (siphonophore)",
+    "incorrect_answers": ["Jellyfish", "Octopus", "Sea anemone"]
+  },
+  {
+    "id": 174,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which mammal can delay its pregnancy for several months?",
+    "correct_answer": "Armadillo",
+    "incorrect_answers": ["Opossum", "Beaver", "Raccoon"]
+  },
+  {
+    "id": 175,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of porcupines called?",
+    "correct_answer": "Prickle",
+    "incorrect_answers": ["Herd", "Colony", "Pack"]
+  },
+  {
+    "id": 176,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal has a tongue that can weigh as much as an elephant?",
+    "correct_answer": "Blue whale",
+    "incorrect_answers": ["Giraffe", "Hippo", "Walrus"]
+  },
+  {
+    "id": 177,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which venomous snake is the fastest on land?",
+    "correct_answer": "Black mamba",
+    "incorrect_answers": ["King cobra", "Eastern diamondback", "Inland taipan"]
+  },
+  {
+    "id": 178,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which insect can see ultraviolet light?",
+    "correct_answer": "Bee",
+    "incorrect_answers": ["Ant", "Beetle", "Grasshopper"]
+  },
+  {
+    "id": 179,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a male donkey called?",
+    "correct_answer": "Jack",
+    "incorrect_answers": ["Burro", "Mule", "Stallion"]
+  },
+  {
+    "id": 180,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal typically has the most legs?",
+    "correct_answer": "Millipede",
+    "incorrect_answers": ["Centipede", "Caterpillar", "Crab"]
+  },
+  {
+    "id": 181,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which land mammal is unable to jump?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": ["Hippopotamus", "Rhinoceros", "Sloth"]
+  },
+  {
+    "id": 182,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which hummingbird has a beak longer than its body?",
+    "correct_answer": "Sword-billed hummingbird",
+    "incorrect_answers": ["Bee hummingbird", "Ruby-throated hummingbird", "Giant hummingbird"]
+  },
+  {
+    "id": 183,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific study of fish called?",
+    "correct_answer": "Ichthyology",
+    "incorrect_answers": ["Marine biology", "Aquaculture", "Oceanography"]
+  },
+  {
+    "id": 184,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which reptile has the strongest recorded bite force?",
+    "correct_answer": "Saltwater crocodile",
+    "incorrect_answers": ["Alligator", "Komodo dragon", "Snapping turtle"]
+  },
+  {
+    "id": 185,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of hippopotamuses called?",
+    "correct_answer": "Bloat",
+    "incorrect_answers": ["Herd", "Pod", "Crash"]
+  },
+  {
+    "id": 186,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which fish can change from female to male?",
+    "correct_answer": "Clownfish",
+    "incorrect_answers": ["Seahorse", "Goldfish", "Betta"]
+  },
+  {
+    "id": 187,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which continent has no native land snakes?",
+    "correct_answer": "Antarctica",
+    "incorrect_answers": ["Australia", "Europe", "South America"]
+  },
+  {
+    "id": 188,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which mammal holds the record for the deepest dive?",
+    "correct_answer": "Cuvier's beaked whale",
+    "incorrect_answers": ["Sperm whale", "Elephant seal", "Narwhal"]
+  },
+  {
+    "id": 189,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a young eel called?",
+    "correct_answer": "Elver",
+    "incorrect_answers": ["Fry", "Fingerling", "Grilse"]
+  },
+  {
+    "id": 190,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal secretes a red oily substance that acts as sunscreen?",
+    "correct_answer": "Hippopotamus",
+    "incorrect_answers": ["Elephant", "Rhinoceros", "Warthog"]
+  },
+  {
+    "id": 191,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest rodent in North America?",
+    "correct_answer": "Beaver",
+    "incorrect_answers": ["Porcupine", "Muskrat", "Groundhog"]
+  },
+  {
+    "id": 192,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal has thousands of tiny teeth on its tongue?",
+    "correct_answer": "Snail",
+    "incorrect_answers": ["Shark", "Crocodile", "Dolphin"]
+  },
+  {
+    "id": 193,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of parrots called?",
+    "correct_answer": "Pandemonium",
+    "incorrect_answers": ["Flock", "Company", "Parliament"]
+  },
+  {
+    "id": 194,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which mammal gives birth to babies weighing up to 3 tons?",
+    "correct_answer": "Blue whale",
+    "incorrect_answers": ["African elephant", "Giraffe", "Hippopotamus"]
+  },
+  {
+    "id": 195,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What adaptation allows camels to survive in deserts?",
+    "correct_answer": "Fat storage in humps",
+    "incorrect_answers": ["Water storage in humps", "Extra kidneys", "Thick fur"]
+  },
+  {
+    "id": 196,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which bird is known for crafting and using tools?",
+    "correct_answer": "New Caledonian crow",
+    "incorrect_answers": ["Raven", "Magpie", "Blue jay"]
+  },
+  {
+    "id": 197,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a female donkey called?",
+    "correct_answer": "Jenny",
+    "incorrect_answers": ["Jill", "Mare", "Doe"]
+  },
+  {
+    "id": 198,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which insect can survive for weeks without its head?",
+    "correct_answer": "Cockroach",
+    "incorrect_answers": ["Ant", "Beetle", "Grasshopper"]
+  },
+  {
+    "id": 199,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is a group of vultures in flight called?",
+    "correct_answer": "Kettle",
+    "incorrect_answers": ["Wake", "Committee", "Venue"]
+  },
+  {
+    "id": 200,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which snake is the heaviest in the world?",
+    "correct_answer": "Green anaconda",
+    "incorrect_answers": ["Reticulated python", "King cobra", "Burmese python"]
+  },
+  {
+    "id": 201,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the electroreceptive organs in sharks?",
+    "correct_answer": "Ampullae of Lorenzini",
+    "incorrect_answers": ["Lateral line system", "Spiracles", "Denticle receptors"]
+  },
+  {
+    "id": 202,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which extinct flying reptile had a wingspan estimated over 10 meters?",
+    "correct_answer": "Quetzalcoatlus",
+    "incorrect_answers": ["Pteranodon", "Rhamphorhynchus", "Dimorphodon"]
+  },
+  {
+    "id": 203,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for organisms that produce light through chemical reactions?",
+    "correct_answer": "Bioluminescence",
+    "incorrect_answers": ["Phosphorescence", "Fluorescence", "Chemiluminescence"]
+  },
+  {
+    "id": 204,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which hormone primarily triggers metamorphosis in amphibians?",
+    "correct_answer": "Thyroxine",
+    "incorrect_answers": ["Prolactin", "Cortisol", "Growth hormone"]
+  },
+  {
+    "id": 205,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes animals that maintain a constant internal body temperature?",
+    "correct_answer": "Homeothermic",
+    "incorrect_answers": ["Ectothermic", "Poikilothermic", "Heterothermic"]
+  },
+  {
+    "id": 206,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many aortic arches function as hearts in an earthworm?",
+    "correct_answer": "5",
+    "incorrect_answers": ["3", "7", "10"]
+  },
+  {
+    "id": 207,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the light-producing compound in fireflies called?",
+    "correct_answer": "Luciferin",
+    "incorrect_answers": ["Luciferase", "Photophore", "Adenosine"]
+  },
+  {
+    "id": 208,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes fish that can tolerate a wide range of salinity levels?",
+    "correct_answer": "Euryhaline",
+    "incorrect_answers": ["Stenohaline", "Anadromous", "Catadromous"]
+  },
+  {
+    "id": 209,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the vomeronasal organ in snakes also known as?",
+    "correct_answer": "Jacobson's organ",
+    "incorrect_answers": ["Olfactory pit", "Nasal concha", "Chemoreceptor bulb"]
+  },
+  {
+    "id": 210,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes animals that retain eggs inside the body until hatching?",
+    "correct_answer": "Ovoviviparous",
+    "incorrect_answers": ["Viviparous", "Oviparous", "Ovuliparous"]
+  },
+  {
+    "id": 211,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which protein gives spider silk its remarkable strength?",
+    "correct_answer": "Spidroin",
+    "incorrect_answers": ["Fibroin", "Keratin", "Collagen"]
+  },
+  {
+    "id": 212,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of animal behavior?",
+    "correct_answer": "Ethology",
+    "incorrect_answers": ["Zoology", "Ecology", "Psychology"]
+  },
+  {
+    "id": 213,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which marine invertebrate has giant axons used in early nerve research?",
+    "correct_answer": "Squid",
+    "incorrect_answers": ["Octopus", "Lobster", "Crab"]
+  },
+  {
+    "id": 214,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What neurotoxin is found in pufferfish?",
+    "correct_answer": "Tetrodotoxin",
+    "incorrect_answers": ["Saxitoxin", "Batrachotoxin", "Conotoxin"]
+  },
+  {
+    "id": 215,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for a symbiotic relationship where one benefits and the other is unaffected?",
+    "correct_answer": "Commensalism",
+    "incorrect_answers": ["Mutualism", "Parasitism", "Amensalism"]
+  },
+  {
+    "id": 216,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which carotenoid pigment gives flamingos their pink color?",
+    "correct_answer": "Canthaxanthin",
+    "incorrect_answers": ["Beta-carotene", "Lycopene", "Zeaxanthin"]
+  },
+  {
+    "id": 217,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the general term for organisms that thrive in extreme environments?",
+    "correct_answer": "Extremophile",
+    "incorrect_answers": ["Thermophile", "Halophile", "Psychrophile"]
+  },
+  {
+    "id": 218,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which diving mammal has the highest concentration of myoglobin in its muscles?",
+    "correct_answer": "Sperm whale",
+    "incorrect_answers": ["Weddell seal", "Bottlenose dolphin", "Sea otter"]
+  },
+  {
+    "id": 219,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes animals that eat feces as part of their diet?",
+    "correct_answer": "Coprophagous",
+    "incorrect_answers": ["Saprophagous", "Detritivorous", "Necrophagous"]
+  },
+  {
+    "id": 220,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which crustacean creates a cavitation bubble that produces sounds over 200 decibels?",
+    "correct_answer": "Pistol shrimp",
+    "incorrect_answers": ["Mantis shrimp", "Lobster", "Crab"]
+  },
+  {
+    "id": 221,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the technical term for rapid color change in cephalopods?",
+    "correct_answer": "Metachrosis",
+    "incorrect_answers": ["Cryptosis", "Chromatic shift", "Pigmentation"]
+  },
+  {
+    "id": 222,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What molecule is responsible for oxygen transport in arthropod blood?",
+    "correct_answer": "Hemocyanin",
+    "incorrect_answers": ["Hemoglobin", "Myoglobin", "Chlorocruorin"]
+  },
+  {
+    "id": 223,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that can survive without oxygen for extended periods?",
+    "correct_answer": "Facultative anaerobe",
+    "incorrect_answers": ["Obligate aerobe", "Microaerophile", "Aerotolerant"]
+  },
+  {
+    "id": 224,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure in bird feathers creates iridescent colors?",
+    "correct_answer": "Melanosomes",
+    "incorrect_answers": ["Pigment cells", "Keratin layers", "Chromatophores"]
+  },
+  {
+    "id": 225,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the resting metabolic state in reptiles during winter?",
+    "correct_answer": "Brumation",
+    "incorrect_answers": ["Hibernation", "Aestivation", "Torpor"]
+  },
+  {
+    "id": 226,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which deep-sea fish has the largest teeth relative to body size?",
+    "correct_answer": "Sloane's viperfish",
+    "incorrect_answers": ["Anglerfish", "Dragonfish", "Hatchetfish"]
+  },
+  {
+    "id": 227,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that primarily eat seeds?",
+    "correct_answer": "Granivore",
+    "incorrect_answers": ["Frugivore", "Folivore", "Nectarivore"]
+  },
+  {
+    "id": 228,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which protein allows Arctic fish to survive freezing temperatures?",
+    "correct_answer": "Antifreeze glycoproteins",
+    "incorrect_answers": ["Cryoprotein", "Ice nucleating protein", "Heat shock protein"]
+  },
+  {
+    "id": 229,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the ability to enter a state of suspended animation?",
+    "correct_answer": "Cryptobiosis",
+    "incorrect_answers": ["Anhydrobiosis", "Diapause", "Quiescence"]
+  },
+  {
+    "id": 230,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which animal has the most complex eyes with 16 types of color receptors?",
+    "correct_answer": "Mantis shrimp",
+    "incorrect_answers": ["Eagle", "Dragonfly", "Jumping spider"]
+  },
+  {
+    "id": 231,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for defensive behavior of appearing larger when threatened?",
+    "correct_answer": "Deimatic behavior",
+    "incorrect_answers": ["Aposematism", "Startle display", "Thanatosis"]
+  },
+  {
+    "id": 232,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure in the ear allows animals to detect acceleration and gravity?",
+    "correct_answer": "Otolith organs",
+    "incorrect_answers": ["Cochlea", "Semicircular canals", "Tympanic membrane"]
+  },
+  {
+    "id": 233,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the chemical that triggers alarm responses in fish called?",
+    "correct_answer": "Schreckstoff",
+    "incorrect_answers": ["Alarm pheromone", "Distress hormone", "Fear factor"]
+  },
+  {
+    "id": 234,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which animal has the fastest strike in the animal kingdom?",
+    "correct_answer": "Mantis shrimp",
+    "incorrect_answers": ["Trap-jaw ant", "Chameleon", "Rattlesnake"]
+  },
+  {
+    "id": 235,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What molecule acts as the primary energy currency in animal cells?",
+    "correct_answer": "ATP",
+    "incorrect_answers": ["GTP", "NADH", "Glucose"]
+  },
+  {
+    "id": 236,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the phenomenon where a harmless species mimics a harmful one called?",
+    "correct_answer": "Batesian mimicry",
+    "incorrect_answers": ["Mullerian mimicry", "Aggressive mimicry", "Automimicry"]
+  },
+  {
+    "id": 237,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure in arthropods functions similarly to the liver?",
+    "correct_answer": "Hepatopancreas",
+    "incorrect_answers": ["Malpighian tubules", "Green gland", "Fat body"]
+  },
+  {
+    "id": 238,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that can detect polarized light?",
+    "correct_answer": "Polarization sensitivity",
+    "incorrect_answers": ["Photosensitivity", "UV vision", "Infrared detection"]
+  },
+  {
+    "id": 239,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which insect has the most acute hearing in the animal kingdom?",
+    "correct_answer": "Greater wax moth",
+    "incorrect_answers": ["Bat", "Dolphin", "Owl"]
+  },
+  {
+    "id": 240,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for vestigial hind limb structures found in some snakes?",
+    "correct_answer": "Pelvic spurs",
+    "incorrect_answers": ["Vestigial legs", "Rudimentary limbs", "Cloacal appendages"]
+  },
+  {
+    "id": 241,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which cells in electric eels produce electricity?",
+    "correct_answer": "Electrocytes",
+    "incorrect_answers": ["Neurons", "Myocytes", "Electroplaques"]
+  },
+  {
+    "id": 242,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the behavior of caring for offspring of the same species?",
+    "correct_answer": "Alloparenting",
+    "incorrect_answers": ["Parental investment", "Brood care", "Cooperative breeding"]
+  },
+  {
+    "id": 243,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which marine animal produces the most potent venom by LD50 value?",
+    "correct_answer": "Box jellyfish",
+    "incorrect_answers": ["Blue-ringed octopus", "Cone snail", "Stonefish"]
+  },
+  {
+    "id": 244,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that eat only one type of food?",
+    "correct_answer": "Monophagous",
+    "incorrect_answers": ["Stenophagous", "Oligophagous", "Euryphagous"]
+  },
+  {
+    "id": 245,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure allows cephalopods to change skin texture?",
+    "correct_answer": "Papillae",
+    "incorrect_answers": ["Chromatophores", "Iridophores", "Leucophores"]
+  },
+  {
+    "id": 246,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the co-evolution of two interdependent species?",
+    "correct_answer": "Coevolution",
+    "incorrect_answers": ["Sympatric speciation", "Parallel evolution", "Convergent evolution"]
+  },
+  {
+    "id": 247,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which organ in weakly electric fish detects electrical fields?",
+    "correct_answer": "Electroreceptors",
+    "incorrect_answers": ["Ampullary organs", "Tuberous organs", "Lateral line"]
+  },
+  {
+    "id": 248,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the phenomenon where females choose mates based on elaborate traits?",
+    "correct_answer": "Sexual selection",
+    "incorrect_answers": ["Natural selection", "Assortative mating", "Kin selection"]
+  },
+  {
+    "id": 249,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure in nocturnal animals' eyes enhances night vision?",
+    "correct_answer": "Tapetum lucidum",
+    "incorrect_answers": ["Rod cells", "Retinal pigment", "Choroid layer"]
+  },
+  {
+    "id": 250,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the maximum population an environment can sustain?",
+    "correct_answer": "Carrying capacity",
+    "incorrect_answers": ["Population ceiling", "Ecological limit", "Biotic potential"]
+  },
+  {
+    "id": 251,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which proteins allow hagfish to produce their defensive slime?",
+    "correct_answer": "Mucins and thread cells",
+    "incorrect_answers": ["Collagen fibers", "Elastin proteins", "Keratin strands"]
+  },
+  {
+    "id": 252,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of animal distribution patterns?",
+    "correct_answer": "Zoogeography",
+    "incorrect_answers": ["Biogeography", "Ecology", "Chorology"]
+  },
+  {
+    "id": 253,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure in the inner ear converts sound to electrical signals?",
+    "correct_answer": "Organ of Corti",
+    "incorrect_answers": ["Cochlea", "Basilar membrane", "Tectorial membrane"]
+  },
+  {
+    "id": 254,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes animals that can only survive within a narrow temperature range?",
+    "correct_answer": "Stenothermal",
+    "incorrect_answers": ["Eurythermal", "Heterothermal", "Poikilothermal"]
+  },
+  {
+    "id": 255,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the phenomenon where animals synchronize biological clocks?",
+    "correct_answer": "Entrainment",
+    "incorrect_answers": ["Synchronization", "Phase locking", "Circadian rhythm"]
+  },
+  {
+    "id": 256,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure allows dolphins to echolocate?",
+    "correct_answer": "Melon",
+    "incorrect_answers": ["Blowhole", "Rostrum", "Dorsal fin"]
+  },
+  {
+    "id": 257,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the process by which cells self-destruct?",
+    "correct_answer": "Apoptosis",
+    "incorrect_answers": ["Necrosis", "Autophagy", "Lysis"]
+  },
+  {
+    "id": 258,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which enzyme breaks down cellulose in herbivore digestive systems?",
+    "correct_answer": "Cellulase",
+    "incorrect_answers": ["Amylase", "Lipase", "Protease"]
+  },
+  {
+    "id": 259,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the resting stage in insect development?",
+    "correct_answer": "Diapause",
+    "incorrect_answers": ["Pupation", "Dormancy", "Metamorphosis"]
+  },
+  {
+    "id": 260,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which social insect colony structure is found in naked mole rats?",
+    "correct_answer": "Eusociality",
+    "incorrect_answers": ["Hierarchy", "Matriarchy", "Colony structure"]
+  },
+  {
+    "id": 261,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the iron-containing molecule that gives blood its red color?",
+    "correct_answer": "Heme",
+    "incorrect_answers": ["Iron oxide", "Hemoglobin", "Ferritin"]
+  },
+  {
+    "id": 262,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals producing viable offspring with different species?",
+    "correct_answer": "Hybridization",
+    "incorrect_answers": ["Cross-breeding", "Outbreeding", "Interspecific mating"]
+  },
+  {
+    "id": 263,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which bacterium can survive the highest levels of radiation?",
+    "correct_answer": "Deinococcus radiodurans",
+    "incorrect_answers": ["Escherichia coli", "Bacillus subtilis", "Thermus aquaticus"]
+  },
+  {
+    "id": 264,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of parasites?",
+    "correct_answer": "Parasitology",
+    "incorrect_answers": ["Helminthology", "Entomology", "Protozoology"]
+  },
+  {
+    "id": 265,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which brain structure controls circadian rhythms in mammals?",
+    "correct_answer": "Suprachiasmatic nucleus",
+    "incorrect_answers": ["Pineal gland", "Hypothalamus", "Pituitary gland"]
+  },
+  {
+    "id": 266,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that eat bones?",
+    "correct_answer": "Osteophagy",
+    "incorrect_answers": ["Osteovore", "Calcivore", "Bone consumption"]
+  },
+  {
+    "id": 267,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which marine animal has the most energy-efficient swimming mechanism?",
+    "correct_answer": "Jellyfish",
+    "incorrect_answers": ["Dolphin", "Tuna", "Manta ray"]
+  },
+  {
+    "id": 268,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific term for animal classification?",
+    "correct_answer": "Taxonomy",
+    "incorrect_answers": ["Systematics", "Cladistics", "Phylogenetics"]
+  },
+  {
+    "id": 269,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which structure allows birds to breathe efficiently during flight?",
+    "correct_answer": "Air sacs",
+    "incorrect_answers": ["Large lungs", "Tracheal rings", "Bronchial tubes"]
+  },
+  {
+    "id": 270,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for an organism that can produce both eggs and sperm?",
+    "correct_answer": "Hermaphrodite",
+    "incorrect_answers": ["Monoecious", "Dioecious", "Protandrous"]
+  },
+  {
+    "id": 271,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that eat coral?",
+    "correct_answer": "Corallivore",
+    "incorrect_answers": ["Polypivore", "Cnidivore", "Reef feeder"]
+  },
+  {
+    "id": 272,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which bird has the fastest recorded wingbeat?",
+    "correct_answer": "Horned sungem",
+    "incorrect_answers": ["Ruby-throated hummingbird", "Bee hummingbird", "Amethyst woodstar"]
+  },
+  {
+    "id": 273,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the external skeleton of arthropods made primarily of?",
+    "correct_answer": "Chitin",
+    "incorrect_answers": ["Keratin", "Calcium carbonate", "Collagen"]
+  },
+  {
+    "id": 274,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for a group of genes inherited together on a chromosome?",
+    "correct_answer": "Linkage group",
+    "incorrect_answers": ["Gene cluster", "Haplotype", "Operon"]
+  },
+  {
+    "id": 275,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which deep-sea organism can withstand pressures exceeding 1,000 atmospheres?",
+    "correct_answer": "Hadal snailfish",
+    "incorrect_answers": ["Giant squid", "Anglerfish", "Vampire squid"]
+  },
+  {
+    "id": 276,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the navigation system birds use during migration called?",
+    "correct_answer": "Magnetoreception",
+    "incorrect_answers": ["Celestial navigation", "Landmark recognition", "Solar compass"]
+  },
+  {
+    "id": 277,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for chemical signals used between different species?",
+    "correct_answer": "Allelochemicals",
+    "incorrect_answers": ["Pheromones", "Hormones", "Neurotransmitters"]
+  },
+  {
+    "id": 278,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for animals that can survive extreme pH levels?",
+    "correct_answer": "Acidophile or Alkaliphile",
+    "incorrect_answers": ["Extremophile", "Halophile", "Barophile"]
+  },
+  {
+    "id": 279,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which proteins are responsible for muscle contraction?",
+    "correct_answer": "Actin and Myosin",
+    "incorrect_answers": ["Collagen and Elastin", "Keratin and Fibrin", "Albumin and Globulin"]
+  },
+  {
+    "id": 280,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What term describes animals that can tolerate wide temperature ranges?",
+    "correct_answer": "Eurythermal",
+    "incorrect_answers": ["Stenothermal", "Heterothermal", "Poikilothermal"]
+  },
+  {
+    "id": 281,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the process called when insects shed their exoskeleton?",
+    "correct_answer": "Ecdysis",
+    "incorrect_answers": ["Molting", "Metamorphosis", "Pupation"]
+  },
+  {
+    "id": 282,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which hormone controls the molting process in insects?",
+    "correct_answer": "Ecdysone",
+    "incorrect_answers": ["Juvenile hormone", "Molting hormone", "Growth hormone"]
+  },
+  {
+    "id": 283,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for warning coloration in animals?",
+    "correct_answer": "Aposematism",
+    "incorrect_answers": ["Camouflage", "Mimicry", "Crypsis"]
+  },
+  {
+    "id": 284,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of learning involves forming associations between stimuli?",
+    "correct_answer": "Classical conditioning",
+    "incorrect_answers": ["Operant conditioning", "Habituation", "Imprinting"]
+  },
+  {
+    "id": 285,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of animal tissue structure?",
+    "correct_answer": "Histology",
+    "incorrect_answers": ["Cytology", "Anatomy", "Morphology"]
+  },
+  {
+    "id": 286,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which receptor type detects changes in body position?",
+    "correct_answer": "Proprioceptors",
+    "incorrect_answers": ["Mechanoreceptors", "Chemoreceptors", "Nociceptors"]
+  },
+  {
+    "id": 287,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the complete set of genes in an organism?",
+    "correct_answer": "Genome",
+    "incorrect_answers": ["Genotype", "Phenotype", "Proteome"]
+  },
+  {
+    "id": 288,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which type of cell division produces gametes?",
+    "correct_answer": "Meiosis",
+    "incorrect_answers": ["Mitosis", "Binary fission", "Cytokinesis"]
+  },
+  {
+    "id": 289,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for organisms that generate their own body heat?",
+    "correct_answer": "Endothermic",
+    "incorrect_answers": ["Ectothermic", "Homeothermic", "Heterothermic"]
+  },
+  {
+    "id": 290,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which substance forms the hard parts of coral skeletons?",
+    "correct_answer": "Calcium carbonate",
+    "incorrect_answers": ["Calcium phosphate", "Silica", "Chitin"]
+  },
+  {
+    "id": 291,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the death of cells due to injury?",
+    "correct_answer": "Necrosis",
+    "incorrect_answers": ["Apoptosis", "Autophagy", "Senescence"]
+  },
+  {
+    "id": 292,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which gas do most fish extract from water for respiration?",
+    "correct_answer": "Dissolved oxygen",
+    "incorrect_answers": ["Carbon dioxide", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "id": 293,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for mating between closely related individuals?",
+    "correct_answer": "Inbreeding",
+    "incorrect_answers": ["Outbreeding", "Crossbreeding", "Hybridization"]
+  },
+  {
+    "id": 294,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which system regulates hormone production in vertebrates?",
+    "correct_answer": "Endocrine system",
+    "incorrect_answers": ["Nervous system", "Lymphatic system", "Circulatory system"]
+  },
+  {
+    "id": 295,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for an animal's home range that it defends?",
+    "correct_answer": "Territory",
+    "incorrect_answers": ["Habitat", "Niche", "Range"]
+  },
+  {
+    "id": 296,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which layer of skin contains blood vessels and nerve endings?",
+    "correct_answer": "Dermis",
+    "incorrect_answers": ["Epidermis", "Hypodermis", "Stratum corneum"]
+  },
+  {
+    "id": 297,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for the study of animal development from embryo to adult?",
+    "correct_answer": "Developmental biology",
+    "incorrect_answers": ["Embryology", "Ontogeny", "Morphogenesis"]
+  },
+  {
+    "id": 298,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which blood cells are responsible for immune response?",
+    "correct_answer": "Leukocytes",
+    "incorrect_answers": ["Erythrocytes", "Thrombocytes", "Platelets"]
+  },
+  {
+    "id": 299,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the term for organisms that can live with or without oxygen?",
+    "correct_answer": "Facultative anaerobe",
+    "incorrect_answers": ["Obligate aerobe", "Obligate anaerobe", "Microaerophile"]
+  },
+  {
+    "id": 300,
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which protein complex is responsible for ATP synthesis in mitochondria?",
+    "correct_answer": "ATP synthase",
+    "incorrect_answers": ["Cytochrome c", "NADH dehydrogenase", "Succinate dehydrogenase"]
+  }
+]
+  
