@@ -84,7 +84,7 @@
     "category": "TV Shows",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "In 'The Office', who starts the band 'Here Comes Treble'?",
+    "question": "In 'The Office', who is in the band 'Here Comes Treble'?",
     "correct_answer": "Andy Bernard",
     "incorrect_answers": ["Darryl Philbin", "Kevin Malone", "Ryan Howard"],
     "release_year": 2012
@@ -1276,7 +1276,7 @@
     "category": "TV Shows",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In 'Stranger Things', what does Steve work as in Season 2?",
+    "question": "In 'Stranger Things', what does Steve work as in Season 3?",
     "correct_answer": "Scoops Ahoy employee",
     "incorrect_answers": ["Gas station worker", "Hardware clerk", "Record shop cashier"],
     "release_year": 2017
@@ -1673,9 +1673,9 @@
     "category": "TV Shows",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which character in 'The Boys' communicates using ASL?",
+    "question": "Which character in The Boys is known for being a silent, masked member of The Seven?",
     "correct_answer": "Black Noir",
-    "incorrect_answers": ["A-Train", "Kimiko", "Frenchie"],
+    "incorrect_answers": ["A-Train", "Homelander", "The Deep"],
     "release_year": 2019
   },
 
@@ -1695,8 +1695,8 @@
     "type": "multiple",
     "difficulty": "medium",
     "question": "What does Brenner call Eleven in 'Stranger Things'?",
-    "correct_answer": "008’s sister",
-    "incorrect_answers": ["The Lost One", "The Weapon", "My Child"],
+    "correct_answer": "My Child",
+    "incorrect_answers": ["The Lost One", "The Weapon", "008’s sister"],
     "release_year": 2016
   },
   {
@@ -1816,9 +1816,9 @@
     "category": "TV Shows",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which character in 'The Boys' communicates using sign language?",
+    "question": "Which character in The Boys possesses superhuman strength and healing despite never speaking?",
     "correct_answer": "Kimiko",
-    "incorrect_answers": ["Annie", "Maeve", "Stormfront"],
+    "incorrect_answers": ["Starlight", "Queen Maeve", "Stormfront"],
     "release_year": 2019
   },
   {
