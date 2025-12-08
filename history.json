@@ -285,7 +285,7 @@
     "category": "History",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which country built the Great Wall?",
+    "question": "Which country built the longest wall in the world?",
     "correct_answer": "China",
     "incorrect_answers": ["Japan", "India", "Korea"]
   },
@@ -1632,7 +1632,7 @@
     "difficulty": "medium",
     "question": "The Berlin Airlift was a response to a blockade imposed by which nation?",
     "correct_answer": "The Soviet Union",
-    "incorrect_answers": ["East Germany", "China", "Poland"]
+    "incorrect_answers": ["East Germany", "", "Poland"]
   },
 
   {
@@ -1858,7 +1858,7 @@
     "type": "multiple",
     "difficulty": "hard",
     "question": "The Tang Dynasty is considered a golden age of culture and innovation in which country?",
-    "correct_answer": "China",
+    "correct_answer": "",
     "incorrect_answers": ["Japan", "Korea", "Vietnam"]
   },
   {
@@ -1958,7 +1958,7 @@
     "type": "multiple",
     "difficulty": "hard",
     "question": "The Taiping Rebellion was a massive civil war in which country?",
-    "correct_answer": "China",
+    "correct_answer": "",
     "incorrect_answers": ["Japan", "Vietnam", "Korea"]
   },
   {
