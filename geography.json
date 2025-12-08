@@ -123,8 +123,8 @@
     "type": "multiple",
     "difficulty": "easy",
     "question": "What is the largest desert in the world?",
-    "correct_answer": "Sahara Desert",
-    "incorrect_answers": ["Gobi Desert", "Arabian Desert", "Kalahari Desert"]
+    "correct_answer": "Antarctic Desert",
+    "incorrect_answers": ["Gobi Desert", "Arabian Desert", "Sahara Desert"]
   },
   {
     "id": 15,
@@ -1114,7 +1114,7 @@
     "type": "multiple",
     "difficulty": "medium",
     "question": "Which country does NOT share a border with Germany?",
-    "correct_answer": "Netherlands",
+    "correct_answer": "Italy",
     "incorrect_answers": ["Poland", "Austria", "Switzerland"]
   },
   {
