@@ -14,7 +14,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which animated film features the song 'Let It Go' and the sisters Elsa and Anna?",
+    "question": "Which animated film features the song 'Let It Go'?",
     "correct_answer": "Frozen",
     "incorrect_answers": ["Moana", "Tangled", "Brave"],
     "release_year": 2013
@@ -514,7 +514,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which animated movie features the character Stitch?",
+    "question": "Which animated movie features a little blue alien?",
     "correct_answer": "Lilo & Stitch",
     "incorrect_answers": ["Moana", "Zootopia", "Bolt"],
     "release_year": 2002
@@ -534,7 +534,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which animated film stars a Scottish princess skilled with a bow?",
+    "question": "Which animated film stars a princess skilled with a bow?",
     "correct_answer": "Brave",
     "incorrect_answers": ["Frozen", "Moana", "Tangled"],
     "release_year": 2012
@@ -694,7 +694,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which movie features Elsa creating an ice palace?",
+    "question": "Which movie features an ice palace?",
     "correct_answer": "Frozen",
     "incorrect_answers": ["Moana", "Brave", "Encanto"],
     "release_year": 2013
@@ -814,7 +814,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "Which animated movie features a princess named Moana?",
+    "question": "Which animated movie features a princess with a pig and chicken as a sidekick?",
     "correct_answer": "Moana",
     "incorrect_answers": ["Brave", "Frozen", "Encanto"],
     "release_year": 2016
