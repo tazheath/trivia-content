@@ -780,7 +780,7 @@
     "difficulty": "easy",
     "question": "Which character is SpongeBob’s neighbor?",
     "correct_answer": "Squidward",
-    "incorrect_answers": ["Patrick", "Plankton", "Larry"],
+    "incorrect_answers": ["Sandy", "Plankton", "Larry"],
     "release_year": 1999
   },
   {
