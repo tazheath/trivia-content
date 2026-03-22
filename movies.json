@@ -844,9 +844,9 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "What movie features a cursed board game called Jumanji?",
+    "question": "What movie features a cursed board game?",
     "correct_answer": "Jumanji",
-    "incorrect_answers": ["Zathura", "The Jungle Book", "Bridge to Terabithia"],
+    "incorrect_answers": ["Holes", "The Jungle Book", "Bridge to Terabithia"],
     "release_year": 1995
   },
   {
@@ -1164,7 +1164,7 @@
     "category": "Movies",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which film stars Joaquin Phoenix as a troubled man who becomes the Joker?",
+    "question": "Which film stars Joaquin Phoenix as a troubled man who becomes a villain?",
     "correct_answer": "Joker",
     "incorrect_answers": ["Her", "The Master", "You Were Never Really Here"],
     "release_year": 2019
